@@ -16,16 +16,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Linux+Server+Administrator;Docker+%26+Kubernetes+Enthusiast;Vehicle+Assessment+Specialist;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 🔧 Technologies & Tools
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
 🚀 Skills
 <div align="center">
 Linux Server Administration
