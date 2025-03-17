@@ -64,7 +64,7 @@ mermaidCopygraph TD;
 <!-- GITHUB_ACTIVITY:END -->
 <!-- Spotify Now Playing -->
 <div align="center">
-  <a href="https://open.spotify.com/user/yourusername">
+  <a href="https://open.spotify.com/user/wilkinsirr">
     <img src="https://novatorem-git-master-yourusername.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
   </a>
 </div>
