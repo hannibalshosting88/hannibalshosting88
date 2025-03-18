@@ -34,35 +34,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ## 🚀 Skills
 
 <div align="center">
+  
+![Linux Server Administration](https://img.shields.io/badge/Linux_Server_Administration-95%25-brightgreen?style=for-the-badge&logo=linux&logoColor=black)
 
-### Linux Server Administration
-```
-█████████████████████████   95%
-```
+![Docker & Containerization](https://img.shields.io/badge/Docker_&_Containerization-90%25-blue?style=for-the-badge&logo=docker&logoColor=white)
 
-### Docker & Containerization
-```
-████████████████████████    90%
-```
+![Network Configuration](https://img.shields.io/badge/Network_Configuration-85%25-yellow?style=for-the-badge&logo=cisco&logoColor=white)
 
-### Network Configuration
-```
-███████████████████████     85%
-```
+![Cloud Solutions](https://img.shields.io/badge/Cloud_Solutions-80%25-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Cloud Solutions
-```
-█████████████████████       80%
-```
-
-### Vehicle Assessment & Diagnostics
-```
-██████████████████████████  98%
-```
+![Vehicle Assessment & Diagnostics](https://img.shields.io/badge/Vehicle_Assessment_&_Diagnostics-98%25-red?style=for-the-badge&logo=tesla&logoColor=white)
 
 </div>
 
