@@ -66,18 +66,11 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 </div>
 
-<svg width="400" height="20">
-  <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" style="stop-color:#3498db;" />
-    <stop offset="100%" style="stop-color:#2980b9;" />
-  </linearGradient>
-  <rect width="95%" height="20" fill="url(#gradient)" rx="5" ry="5"/>
-  <text x="50%" y="15" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Linux Server Administration 95%</text>
-</svg>
 
 
 
-</div>
+
+
 
 ## 📊 GitHub Stats
 
