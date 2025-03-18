@@ -133,7 +133,7 @@ If you find my projects helpful or just want to support my work, consider buying
 
 <div align="center">
   <a href="https://github.com/hannibalshosting88">
-    <img src="https://wttr.in/Charlotte_NC.png?m](https://cdn.creazilla.com/cliparts/63069/weather-icon-clipart-xl.png" width="600" alt="Weather in Charlotte" />
+    <img src="https://wttr.in/Charlotte_NC.png?u&m" width="600" alt="Weather in Charlotte" />
   </a>
 </div>
 
