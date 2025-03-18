@@ -144,26 +144,13 @@ If you find my projects helpful or just want to support my work, consider buying
   </a>
 </div>
 
-## 🌤️ Weather in Charlotte
-
-<div align="center">
-  <a href="https://github.com/hannibalshosting88">
-    <img src="https://weather-icon.journeyad.repl.co/@charlotte?v=1" alt="Charlotte Weather" />
-  </a>
-</div>
-
-<!-- This uses a custom weather API widget. Alternatively, you can use: -->
-<div align="center">
-  <a href="https://github.com/hannibalshosting88">
-    <img src="https://wttr.in/Charlotte_NC.png?m" width="600" alt="Weather in Charlotte" />
-  </a>
-</div>
 
 
+## 
 
 <div align="center">
   
-  ## 👋 Thanks for Visiting!
+  ### 👋 Thanks for Visiting!
   ### You are visitor number
   <img src="https://profile-counter.glitch.me/hannibalshosting88/count.svg" alt="Visitor Count" />
   ### to my profile!
