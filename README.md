@@ -132,8 +132,10 @@ If you find my projects helpful or just want to support my work, consider buying
 ## 🌤️ Weather in Charlotte
 
 <div align="center">
-  <a href="https://github.com/hannibalshosting88">
-    <img src="https://wttr.in/Charlotte_NC.png?u&m" width="600" alt="Weather in Charlotte" />
+  <a href="https://openweathermap.org/city/4460243">
+    <img src="https://openweathermap.org/img/wn/10d@2x.png" width="50" height="50"/>
+    <br>
+    <img src="https://readme-weather.hannibalshosting88.vercel.app/api?city=Charlotte&format=png&temp_unit=f&wind_unit=mph&theme=colorful" alt="Weather in Charlotte"/>
   </a>
 </div>
 
