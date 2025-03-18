@@ -137,13 +137,6 @@ If you find my projects helpful or just want to support my work, consider buying
   </a>
 </div>
 
-<!-- This uses a custom weather API widget. Alternatively, you can use: -->
-<div align="center">
-  <a href="https://github.com/hannibalshosting88">
-    <img src="https://wttr.in/Charlotte_NC.png?m" width="600" alt="Weather in Charlotte" />
-  </a>
-</div>
-
 
 
 ## 
