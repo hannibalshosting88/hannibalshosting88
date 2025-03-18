@@ -9,10 +9,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hannibalshosting88&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
 ## 💫 About Me
 
 I'm a versatile technical professional with expertise in vehicle assessment and IT infrastructure. I combine automotive knowledge with IT skills to deliver innovative solutions. I'm passionate about figuring things out - whether it's a complex server setup or a vehicle diagnostic puzzle!
@@ -166,10 +162,16 @@ If you find my projects helpful or just want to support my work, consider buying
 ## 👋 Thanks for Visiting!
 
 <div align="center">
+  
+  ### You are visitor number
+  
   <img src="https://profile-counter.glitch.me/hannibalshosting88/count.svg" alt="Visitor Count" />
   
-  ### You are visitor number [count] to my profile!
+   to my profile!
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hannibalshosting88&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
