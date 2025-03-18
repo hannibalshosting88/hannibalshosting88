@@ -7,20 +7,18 @@ const readmePath = path.join(process.cwd(), 'README.md');
 
 async function getWeather() {
   try {
-    // Using OpenWeatherMap API
-    const apiKey = process.env.WEATHER_API_KEY;
-    // Charlotte, NC coordinates (more reliable than city name)
+    // Charlotte, NC coordinates
     const lat = 35.2271;
     const lon = -80.8431;
     
-    console.log('Attempting to fetch weather data...');
-    console.log(`Using API key: ${apiKey ? 'Key exists (not showing for security)' : 'No API key found!'}`);
+    console.log('Fetching weather data from Open-Meteo...');
     
+    // Using Open-Meteo API (no API key required)
     const response = await axios.get(
-      `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apiKey}&units=imperial`
+      `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,relative_humidity_2m,apparent_temperature,is_day,precipitation,rain,weather_code,cloud_cover,wind_speed_10m&temperature_unit=fahrenheit&wind_speed_unit=mph&precipitation_unit=inch`
     );
     
-    const data = response.data;
+    const current = response.data.current;
     
     // Format date and time
     const now = new Date();
@@ -34,35 +32,45 @@ async function getWeather() {
       minute: 'numeric'
     });
     
-    // Get weather emoji based on condition
-    const weatherCondition = data.weather[0].main;
-    let conditionEmoji = '☁️';
-    
-    // Map weather conditions to appropriate emojis
-    const weatherEmojis = {
-      'Clear': '☀️',
-      'Clouds': '☁️',
-      'Rain': '🌧️',
-      'Drizzle': '🌦️',
-      'Thunderstorm': '⛈️',
-      'Snow': '❄️',
-      'Mist': '🌫️',
-      'Fog': '🌫️',
-      'Haze': '🌫️',
-      'Smoke': '🌫️',
-      'Dust': '🌫️',
-      'Sand': '🌫️',
-      'Ash': '🌫️',
-      'Squall': '💨',
-      'Tornado': '🌪️'
+    // Map WMO weather codes to conditions and emojis
+    // Based on https://open-meteo.com/en/docs (WMO Weather interpretation codes)
+    const weatherConditions = {
+      0: { description: 'Clear sky', emoji: '☀️' },
+      1: { description: 'Mainly clear', emoji: '🌤️' },
+      2: { description: 'Partly cloudy', emoji: '⛅' },
+      3: { description: 'Overcast', emoji: '☁️' },
+      45: { description: 'Fog', emoji: '🌫️' },
+      48: { description: 'Depositing rime fog', emoji: '🌫️' },
+      51: { description: 'Light drizzle', emoji: '🌦️' },
+      53: { description: 'Moderate drizzle', emoji: '🌦️' },
+      55: { description: 'Dense drizzle', emoji: '🌧️' },
+      56: { description: 'Light freezing drizzle', emoji: '🌨️' },
+      57: { description: 'Dense freezing drizzle', emoji: '🌨️' },
+      61: { description: 'Slight rain', emoji: '🌦️' },
+      63: { description: 'Moderate rain', emoji: '🌧️' },
+      65: { description: 'Heavy rain', emoji: '🌧️' },
+      66: { description: 'Light freezing rain', emoji: '🌨️' },
+      67: { description: 'Heavy freezing rain', emoji: '🌨️' },
+      71: { description: 'Slight snow fall', emoji: '❄️' },
+      73: { description: 'Moderate snow fall', emoji: '❄️' },
+      75: { description: 'Heavy snow fall', emoji: '❄️' },
+      77: { description: 'Snow grains', emoji: '❄️' },
+      80: { description: 'Slight rain showers', emoji: '🌦️' },
+      81: { description: 'Moderate rain showers', emoji: '🌧️' },
+      82: { description: 'Violent rain showers', emoji: '🌧️' },
+      85: { description: 'Slight snow showers', emoji: '🌨️' },
+      86: { description: 'Heavy snow showers', emoji: '🌨️' },
+      95: { description: 'Thunderstorm', emoji: '⛈️' },
+      96: { description: 'Thunderstorm with slight hail', emoji: '⛈️' },
+      99: { description: 'Thunderstorm with heavy hail', emoji: '⛈️' }
     };
     
-    if (weatherEmojis[weatherCondition]) {
-      conditionEmoji = weatherEmojis[weatherCondition];
-    }
+    // Get weather description and emoji from the code
+    const weatherCode = current.weather_code;
+    const weather = weatherConditions[weatherCode] || { description: 'Unknown', emoji: '❓' };
     
     // Create weather string
-    const weatherString = `🌡️ Temperature: ${Math.round(data.main.temp)}°F 💨 Wind: ${Math.round(data.wind.speed)} mph ${conditionEmoji} Conditions: ${data.weather[0].description} 🌅 Updated: ${formattedDate} at ${formattedTime}`;
+    const weatherString = `🌡️ Temperature: ${Math.round(current.temperature_2m)}°F 💨 Wind: ${Math.round(current.wind_speed_10m)} mph ${weather.emoji} Conditions: ${weather.description} 🌅 Updated: ${formattedDate} at ${formattedTime}`;
     
     return weatherString;
   } catch (error) {
