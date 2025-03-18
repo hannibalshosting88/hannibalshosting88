@@ -9,15 +9,21 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hannibalshosting88&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
+
 💫 About Me
+
 I'm a versatile technical professional with expertise in vehicle assessment and IT infrastructure. I combine automotive knowledge with IT skills to deliver innovative solutions. I'm passionate about figuring things out - whether it's a complex server setup or a vehicle diagnostic puzzle!
+
 <!-- Animated Terminal -->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Linux+Server+Administrator;Docker+%26+Kubernetes+Enthusiast;Vehicle+Assessment+Specialist;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
+
 🔧 Technologies & Tools
 
 🚀 Skills
+
 <div align="center">
 Linux Server Administration
 Copy█████████████████████████   95%
@@ -52,12 +58,14 @@ Linux-based IOT home solutions
 
 🗺️ Learning Roadmap
 mermaidCopygraph TD;
+
     A[Current: Linux & Docker] --> B[Kubernetes Advanced];
     A --> C[Infrastructure as Code];
     B --> D[Cloud-Native Security];
     C --> E[GitOps workflows];
     D --> F[Zero-Trust Security Models];
     E --> G[MLOps & AI Infrastructure];
+    
 🔄 Latest Activity
 <!-- GITHUB_ACTIVITY:START -->
 <!-- This section will be automatically updated by a GitHub Action -->
