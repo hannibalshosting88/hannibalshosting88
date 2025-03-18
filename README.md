@@ -137,6 +137,30 @@ If you find my projects helpful or just want to support my work, consider buying
   </a>
 </div>
 
+## 🖥️ My Tech Lab & Workspace
+
+<div align="center">
+  
+### Main Workstation
+![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CPU](https://img.shields.io/badge/AMD_Ryzen_9-Custom_Build-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA_RTX-Custom_Build-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Editor](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminator-47A248?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Server Farm
+![NUC Servers](https://img.shields.io/badge/Intel_NUC-Cluster-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![High-Performance](https://img.shields.io/badge/Custom_Server-32_Core_Xeon-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Storage](https://img.shields.io/badge/NAS-24TB_RAID-4479A1?style=for-the-badge&logo=synology&logoColor=white)
+![Virtualization](https://img.shields.io/badge/VM_Host-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
+### Cloud Infrastructure
+![Cloud VPS](https://img.shields.io/badge/Cloud_Servers-Self_Managed-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Container Host](https://img.shields.io/badge/Docker_Swarm-Production-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Load Balancer](https://img.shields.io/badge/Load_Balancing-HAProxy-00AF9C?style=for-the-badge&logo=hetzner&logoColor=white)
+
+</div>
+
 
 
 ## 
