@@ -130,7 +130,7 @@ If you find my projects helpful or just want to support my work, consider buying
 </div>
 
 ## 🌤️ Current Weather in Charlotte, NC 
-<!-- WEATHER:START --> ⚠️ Weather data temporarily unavailable <!-- WEATHER:END -->
+<!-- WEATHER:START --> ⚠️ Weather data temporarily unavailable (Error: Request failed with status code 401) <!-- WEATHER:END -->
 
 ## 🖥️ My Tech Lab & Workspace
 
