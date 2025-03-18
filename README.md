@@ -129,13 +129,8 @@ If you find my projects helpful or just want to support my work, consider buying
 
 </div>
 
-## 🌤️ Weather in Charlotte, NC
-
-<div align="center">
-  
-[![Weather in Charlotte](https://badgen.net/badge/Currently%20in%20Charlotte/Click%20for%20weather/blue?icon=git)](https://weather.com/weather/today/l/Charlotte+NC+USNC0121:1:US)
-
-</div>
+## 🌤️ Current Weather in Charlotte, NC 
+<!-- WEATHER:START --> <!-- WEATHER:END -->
 
 ## 🖥️ My Tech Lab & Workspace
 
