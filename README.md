@@ -108,3 +108,29 @@ graph TD;
     <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
   </a>
 </div>
+
+## ☕ Support My Work
+
+If you find my projects helpful or just want to support my work, consider buying me a coffee!
+
+<div align="center">
+  <a href="https://ko-fi.com/hannibalshosting" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=ko-fi&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://www.buymeacoffee.com/hannibalshosting" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+## 🏆 Certifications
+
+<div align="center">
+  
+![TestOut PC Pro](https://img.shields.io/badge/TestOut_PC_Pro-National_Top_10%25-blue?style=for-the-badge&logo=windows&logoColor=white)
+![TestOut Network Pro](https://img.shields.io/badge/TestOut_Network_Pro-National_Top_10%25-blue?style=for-the-badge&logo=cisco&logoColor=white)
+![TestOut Security Pro](https://img.shields.io/badge/TestOut_Security_Pro-National_Top_10%25-blue?style=for-the-badge&logo=shield&logoColor=white)
+![CPR & First Aid](https://img.shields.io/badge/CPR_&_First_Aid-Certified-red?style=for-the-badge&logo=redcross&logoColor=white)
+
+</div>
+
+
