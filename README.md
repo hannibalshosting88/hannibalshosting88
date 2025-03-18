@@ -153,6 +153,7 @@ If you find my projects helpful or just want to support my work, consider buying
   ### 👋 Thanks for Visiting!
   ### You are visitor number
   <img src="https://profile-counter.glitch.me/hannibalshosting88/count.svg" alt="Visitor Count" />
+  
   ### to my profile!
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
