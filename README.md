@@ -162,6 +162,7 @@ If you find my projects helpful or just want to support my work, consider buying
 
 
 <div align="center">
+  
   ## 👋 Thanks for Visiting!
   ### You are visitor number
   <img src="https://profile-counter.glitch.me/hannibalshosting88/count.svg" alt="Visitor Count" />
