@@ -158,7 +158,5 @@ If you find my projects helpful or just want to support my work, consider buying
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hannibalshosting88&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+
 
