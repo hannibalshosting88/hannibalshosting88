@@ -133,4 +133,43 @@ If you find my projects helpful or just want to support my work, consider buying
 
 </div>
 
+## 🌤️ Weather in Charlotte
+
+<div align="center">
+  <a href="https://github.com/hannibalshosting88">
+    <img src="https://weather-icon.journeyad.repl.co/@charlotte?v=1" alt="Charlotte Weather" />
+  </a>
+</div>
+
+<!-- This uses a custom weather API widget. Alternatively, you can use: -->
+<div align="center">
+  <a href="https://github.com/hannibalshosting88">
+    <img src="https://wttr.in/Charlotte_NC.png?m" width="600" alt="Weather in Charlotte" />
+  </a>
+</div>
+
+## 🌤️ Weather in Charlotte
+
+<div align="center">
+  <a href="https://github.com/hannibalshosting88">
+    <img src="https://weather-icon.journeyad.repl.co/@charlotte?v=1" alt="Charlotte Weather" />
+  </a>
+</div>
+
+<!-- This uses a custom weather API widget. Alternatively, you can use: -->
+<div align="center">
+  <a href="https://github.com/hannibalshosting88">
+    <img src="https://wttr.in/Charlotte_NC.png?m" width="600" alt="Weather in Charlotte" />
+  </a>
+</div>
+
+## 👋 Thanks for Visiting!
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hannibalshosting88/count.svg" alt="Visitor Count" />
+  
+  ### You are visitor number [count] to my profile!
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
 
