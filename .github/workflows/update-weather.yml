@@ -28,9 +28,14 @@ jobs:
         run: node .github/scripts/update-weather.js
         
       - name: Commit and push if changed
+        env:
+          PAT: ${{ secrets.PAT }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update weather information"
+          git push "https://${PAT}@github.com/${GITHUB_REPOSITORY}.git"
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Update weather information"
           git push https://${{ secrets.PAT }}@github.com/${{ github.repository }}.git
