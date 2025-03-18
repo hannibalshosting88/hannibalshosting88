@@ -130,7 +130,7 @@ If you find my projects helpful or just want to support my work, consider buying
 </div>
 
 ## 🌤️ Current Weather in Charlotte, NC 
-<!-- WEATHER:START --> ⚠️ Weather data temporarily unavailable (Error: Request failed with status code 401) <!-- WEATHER:END -->
+<!-- WEATHER:START --> 🌡️ Temperature: 48°F 💨 Wind: 7 mph ☀️ Conditions: Clear sky 🌅 Updated: March 18, 2025 at 2:51 AM <!-- WEATHER:END -->
 
 ## 🖥️ My Tech Lab & Workspace
 
