@@ -9,9 +9,15 @@ async function getWeather() {
   try {
     // Using OpenWeatherMap API
     const apiKey = process.env.WEATHER_API_KEY;
-    const city = 'Charlotte';
+    // Charlotte, NC coordinates (more reliable than city name)
+    const lat = 35.2271;
+    const lon = -80.8431;
+    
+    console.log('Attempting to fetch weather data...');
+    console.log(`Using API key: ${apiKey ? 'Key exists (not showing for security)' : 'No API key found!'}`);
+    
     const response = await axios.get(
-      `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=imperial`
+      `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apiKey}&units=imperial`
     );
     
     const data = response.data;
@@ -60,8 +66,12 @@ async function getWeather() {
     
     return weatherString;
   } catch (error) {
-    console.error('Error fetching weather data:', error);
-    return '⚠️ Weather data temporarily unavailable';
+    console.error('Error fetching weather data:', error.message);
+    if (error.response) {
+      console.error('API response status:', error.response.status);
+      console.error('API response data:', JSON.stringify(error.response.data));
+    }
+    return `⚠️ Weather data temporarily unavailable (Error: ${error.message})`;
   }
 }
 
