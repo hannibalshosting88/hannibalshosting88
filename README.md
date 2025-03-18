@@ -64,6 +64,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 ██████████████████████████  98%
 ```
 
+</div>
 
 <svg width="400" height="20">
   <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -80,7 +81,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <div style="background-color: #2196F3; height: 20px; border-radius: 10px; width: 95%;">
       <span style="padding-left: 10px; color: white;">95%</span>
     </div>
-  </div>
+ 
   
   <!-- Repeat for other skills -->
 </div>
