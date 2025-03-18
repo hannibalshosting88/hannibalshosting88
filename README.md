@@ -67,7 +67,16 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </div>
 
 
-
+<div align="center">
+  <h3>Linux Server Administration</h3>
+  <div style="background-color: #f1f1f1; border-radius: 10px; width: 80%; margin: 0 auto;">
+    <div style="background-color: #2196F3; height: 20px; border-radius: 10px; width: 95%;">
+      <span style="padding-left: 10px; color: white;">95%</span>
+    </div>
+  </div>
+  
+  <!-- Repeat for other skills -->
+</div>
 
 
 
