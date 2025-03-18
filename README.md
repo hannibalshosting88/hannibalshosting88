@@ -129,14 +129,12 @@ If you find my projects helpful or just want to support my work, consider buying
 
 </div>
 
-## 🌤️ Weather in Charlotte
+## 🌤️ Weather in Charlotte, NC
 
 <div align="center">
-  <a href="https://openweathermap.org/city/4460243">
-    <img src="https://openweathermap.org/img/wn/10d@2x.png" width="50" height="50"/>
-    <br>
-    <img src="https://readme-weather.hannibalshosting88.vercel.app/api?city=Charlotte&format=png&temp_unit=f&wind_unit=mph&theme=colorful" alt="Weather in Charlotte"/>
-  </a>
+  
+[![Weather in Charlotte](https://badgen.net/badge/Currently%20in%20Charlotte/Click%20for%20weather/blue?icon=git)](https://weather.com/weather/today/l/Charlotte+NC+USNC0121:1:US)
+
 </div>
 
 ## 🖥️ My Tech Lab & Workspace
