@@ -19,7 +19,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <!-- Animated Terminal -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Linux+Server+Administrator;Docker+%26+Kubernetes+Enthusiast;Vehicle+Assessment+Specialist;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Linux+Server+Administrator;Docker+%26+Kubernetes+Enthusiast;Vehicle+Assessment+Specialist;Problem+Solver;Continuous+Learner;Modern+Problems...;" alt="Typing SVG" />
 </div>
 
 ## 🔧 Technologies & Tools
@@ -63,6 +63,27 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 ```
 ██████████████████████████  98%
 ```
+
+
+<svg width="400" height="20">
+  <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" style="stop-color:#3498db;" />
+    <stop offset="100%" style="stop-color:#2980b9;" />
+  </linearGradient>
+  <rect width="95%" height="20" fill="url(#gradient)" rx="5" ry="5"/>
+  <text x="50%" y="15" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Linux Server Administration 95%</text>
+</svg>
+
+<div align="center">
+  <h3>Linux Server Administration</h3>
+  <div style="background-color: #f1f1f1; border-radius: 10px; width: 80%; margin: 0 auto;">
+    <div style="background-color: #2196F3; height: 20px; border-radius: 10px; width: 95%;">
+      <span style="padding-left: 10px; color: white;">95%</span>
+    </div>
+  </div>
+  
+  <!-- Repeat for other skills -->
+</div>
 
 </div>
 
