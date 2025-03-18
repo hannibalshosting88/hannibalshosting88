@@ -66,8 +66,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 </div>
 
-![Linux Server Administration](https://progress-bar.dev/95/?width=800&title=Linux%20Server%20Administration)
-![Docker & Containerization](https://progress-bar.dev/90/?width=800&title=Docker%20&%20Containerization)
+![Vehicle Assessment](https://img.shields.io/badge/Vehicle_Assessment-98%25-brightgreen?style=plastic&logo=tesla)
 
 ![Linux Server Administration](https://img.shields.io/badge/Linux%20Server%20Administration-95%25-blue?style=for-the-badge&logo=linux)
 ![Docker & Containerization](https://img.shields.io/badge/Docker%20%26%20Containerization-90%25-blue?style=for-the-badge&logo=docker)
