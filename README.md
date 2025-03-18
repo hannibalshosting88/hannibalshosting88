@@ -1,13 +1,13 @@
 <!-- Dark/Light Mode Banner -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/randywilkinson/randywilkinson/raw/main/assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/randywilkinson/randywilkinson/raw/main/assets/header-light.svg">
-    <img alt="Randy Wilkinson - Vehicle Assessment Specialist & Tech Professional" src="https://github.com/randywilkinson/randywilkinson/raw/main/assets/header-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hannibalshosting88/hannibalshosting88/raw/main/assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/hannibalshosting88/hannibalshosting88/raw/main/assets/header-light.svg">
+    <img alt="Randy Wilkinson - Vehicle Assessment Specialist & Tech Professional" src="https://github.com/hannibalshosting88/hannibalshosting88/raw/main/assets/header-light.svg">
   </picture>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=randywilkinson&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=hannibalshosting88&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 💫 About Me
 I'm a versatile technical professional with expertise in vehicle assessment and IT infrastructure. I combine automotive knowledge with IT skills to deliver innovative solutions. I'm passionate about figuring things out - whether it's a complex server setup or a vehicle diagnostic puzzle!
@@ -32,9 +32,9 @@ Copy█████████████████████████�
 </div>
 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=randywilkinson&show_icons=true&theme=radical" alt="Randy's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randywilkinson&theme=radical" alt="Randy's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randywilkinson&layout=compact&theme=radical" alt="Randy's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hannibalshosting88&show_icons=true&theme=radical" alt="hannibal's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hannibalshosting88&theme=radical" alt="hannibal's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannibalshosting88&layout=compact&theme=radical" alt="Randy's top languages" />
 </div>
 🌱 Currently Learning
 
