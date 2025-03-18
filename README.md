@@ -66,19 +66,11 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 </div>
 
+![Linux Server Administration](https://progress-bar.dev/95/?width=800&title=Linux%20Server%20Administration)
+![Docker & Containerization](https://progress-bar.dev/90/?width=800&title=Docker%20&%20Containerization)
 
-<div align="center">
-  <h3>Linux Server Administration</h3>
-  <div style="background-color: #f1f1f1; border-radius: 10px; width: 80%; margin: 0 auto;">
-    <div style="background-color: #2196F3; height: 20px; border-radius: 10px; width: 95%;">
-      <span style="padding-left: 10px; color: white;">95%</span>
-    </div>
-  </div>
-  
-  <!-- Repeat for other skills -->
-</div>
-
-
+![Linux Server Administration](https://img.shields.io/badge/Linux%20Server%20Administration-95%25-blue?style=for-the-badge&logo=linux)
+![Docker & Containerization](https://img.shields.io/badge/Docker%20%26%20Containerization-90%25-blue?style=for-the-badge&logo=docker)
 
 
 ## 📊 GitHub Stats
