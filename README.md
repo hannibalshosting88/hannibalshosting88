@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hannibalshosting88/hannibalshosting88/raw/main/assets/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/hannibalshosting88/hannibalshosting88/raw/main/assets/header-light.svg">
-    <img alt="Randy Wilkinson - Vehicle Assessment Specialist & Tech Professional" src="https://github.com/hannibalshosting88/hannibalshosting88/raw/main/assets/header-light.svg">
+    <img alt="Vehicle Assessment Specialist & Tech Professional" src="https://github.com/hannibalshosting88/hannibalshosting88/raw/main/assets/header-light.svg">
   </picture>
 </div>
 <div align="center">
