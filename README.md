@@ -158,7 +158,7 @@ If you find my projects helpful or just want to support my work, consider buying
 ![Disks](https://img.shields.io/badge/HDDs-14TB_WD_x_4-ED1C24?style=for-the-badge&logo=westerndigital&logoColor=white)
 ![Uptime](https://img.shields.io/badge/Longest_Uptime-11_Months-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
 
-## 🚀 Proxmox Low-Power Mini Server
+## 🚀 Highly Available Low-Power Mini Server's
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-8.3.1-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![CPU](https://img.shields.io/badge/Intel-N95_CPU-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -168,6 +168,8 @@ If you find my projects helpful or just want to support my work, consider buying
 ![VMs](https://img.shields.io/badge/Virtual_Machines-10-00AEFF?style=for-the-badge&logo=vmware&logoColor=white)
 ![Network](https://img.shields.io/badge/Network-Dual_Ethernet-FD3E85?style=for-the-badge&logo=tailscale&logoColor=white)
 ![Uptime](https://img.shields.io/badge/Longest_Uptime-3_Months-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
+
+
 
 ### Cloud Infrastructure
 ![Cloud VPS](https://img.shields.io/badge/Cloud_Servers-Self_Managed-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
