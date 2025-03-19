@@ -137,17 +137,27 @@ If you find my projects helpful or just want to support my work, consider buying
 <div align="center">
   
 ### Main Workstation
-![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CPU](https://img.shields.io/badge/AMD_Ryzen_9-Custom_Build-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![GPU](https://img.shields.io/badge/NVIDIA_RTX-Custom_Build-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Editor](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminator-47A248?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![OS](https://img.shields.io/badge/Ubuntu_24.04.2_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CPU](https://img.shields.io/badge/AMD_Ryzen_5_3400G-Custom_Build-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA_GTX_1060_3GB-Custom_Build-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![RAM](https://img.shields.io/badge/31GB_RAM-5E5E5E?style=for-the-badge&logo=memory&logoColor=white)
+![DE](https://img.shields.io/badge/KDE_Plasma_5.27.12-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+![Motherboard](https://img.shields.io/badge/Gigabyte_A320M--S2H-5E5E5E?style=for-the-badge&logo=gigabyte&logoColor=white)
+![Network](https://img.shields.io/badge/Dual_Ethernet-4285F4?style=for-the-badge&logo=ethernet&logoColor=white)
+![Storage](https://img.shields.io/badge/932GB_SSD-43%25_Used-2E7D32?style=for-the-badge&logo=samsung&logoColor=white)
 
-### Server Farm
-![NUC Servers](https://img.shields.io/badge/Intel_NUC-Cluster-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![High-Performance](https://img.shields.io/badge/Custom_Server-32_Core_Xeon-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Storage](https://img.shields.io/badge/NAS-24TB_RAID-4479A1?style=for-the-badge&logo=synology&logoColor=white)
-![Virtualization](https://img.shields.io/badge/VM_Host-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
+
+## 🖥️ Homelab Server & NAS Farm 🗄️
+
+![Unraid](https://img.shields.io/badge/Unraid-7.0.0-F15A29?style=for-the-badge&logo=unraid&logoColor=white)
+![CPU](https://img.shields.io/badge/Intel-i5_10400-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Memory](https://img.shields.io/badge/RAM-86GB-76B900?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAnUlEQVQokY2S0Q2DMAxEDyqdsAMrMEJGYFVGYCRGYAVGYIRswAhskN8UiENxkvOpOj3blyYMIWB9lpl5cveXu79SSjMza5o55xGYQwBHYAEeNfsDGICpYAKOdWlImXMew3JRzazMzw/gmt/NWqu7e1tVR+32yMzqPVbVsd5jRNz+VTuXiLiZ2b38h12P0/M8l/uUUi1/Wvq/6/kCqnGyx/9qA08AAAAASUVORK5CYII=)
+![Storage](https://img.shields.io/badge/Array-51TB_Total-4479A1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAmElEQVQokY3SvQ3CQAyG4cdILABlBmCLSKyQETICIzACIzACG0RiBEZgAGgQSPxIvOvFxCHcSZbP9vuJ7SDJA3sYG03tK9niiq7imNABxxDDLN7REVXExBTnwtvxc8YiYhWFmGFVF5p+Q6Ot/sK2ENvhUBIOyYv9pxD/Yo0nsv6m+GL9JYgCEy7J/m30QNZoP3DYlGLXJE5v3n8D1Tmd5isAAAAASUVORK5CYII=)
+![Docker](https://img.shields.io/badge/Docker-70+_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NVMe](https://img.shields.io/badge/NVMe-4.5TB_Cache-FF9E0F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAhklEQVQokd2SwQ3CMAxFn1EHYIseoWcm6BGYpDfYAjboCOzACnQDtDcUUqCIHPiWFX/7JzeQJAf0QAG2ifMBDMBrZhvRzWzJbX1lTutz5jbmzC5n7gDsl4yb2Zpzh59zr98Cd3dJhaSrpJuk28TSRdIwDXgEHpI+ZvYHXIBl2mNt5GBmo6Qv/4YXwPQ8HccAAAAASUVORK5CYII=)
+![Disks](https://img.shields.io/badge/HDDs-14TB_WD_x_4-ED1C24?style=for-the-badge&logo=westerndigital&logoColor=white)
+![Longest+Uptime](https://img.shields.io/badge/Uptime-11_Months-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
 
 ### Cloud Infrastructure
 ![Cloud VPS](https://img.shields.io/badge/Cloud_Servers-Self_Managed-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
