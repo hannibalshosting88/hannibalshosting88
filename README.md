@@ -167,7 +167,7 @@ If you find my projects helpful or just want to support my work, consider buying
 ![Containers](https://img.shields.io/badge/LXC_Containers-20+-2496ED?style=for-the-badge&logo=lxc&logoColor=white)
 ![VMs](https://img.shields.io/badge/Virtual_Machines-10-00AEFF?style=for-the-badge&logo=vmware&logoColor=white)
 ![Network](https://img.shields.io/badge/Network-Dual_Ethernet-FD3E85?style=for-the-badge&logo=tailscale&logoColor=white)
-![Uptime](https://img.shields.io/badge/Longest_Uptime-17_Days-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
+![Uptime](https://img.shields.io/badge/Longest_Uptime-3_Months-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
 
 ### Cloud Infrastructure
 ![Cloud VPS](https://img.shields.io/badge/Cloud_Servers-Self_Managed-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
