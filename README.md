@@ -144,7 +144,7 @@ If you find my projects helpful or just want to support my work, consider buying
 ![DE](https://img.shields.io/badge/KDE_Plasma_5.27.12-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 ![Motherboard](https://img.shields.io/badge/Gigabyte_A320M--S2H-5E5E5E?style=for-the-badge&logo=gigabyte&logoColor=white)
 ![Network](https://img.shields.io/badge/Dual_Ethernet-4285F4?style=for-the-badge&logo=ethernet&logoColor=white)
-![Storage](https://img.shields.io/badge/932GB_SSD-43%25_Used-2E7D32?style=for-the-badge&logo=samsung&logoColor=white)
+![Storage](https://img.shields.io/badge/932GB_NVME-500GB_SSD_4TB_HDD-2E7D32?style=for-the-badge&logo=samsung&logoColor=white)
 
 
 
