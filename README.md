@@ -151,10 +151,10 @@ If you find my projects helpful or just want to support my work, consider buying
 
 ![Unraid](https://img.shields.io/badge/Unraid-7.0.0-F15A29?style=for-the-badge&logo=unraid&logoColor=white)
 ![CPU](https://img.shields.io/badge/Intel-i5_10400-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Memory](https://img.shields.io/badge/RAM-86GB-76B900?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAnUlEQVQokY2S0Q2DMAxEDyqdsAMrMEJGYFVGYCRGYAVGYIRswAhskN8UiENxkvOpOj3blyYMIWB9lpl5cveXu79SSjMza5o55xGYQwBHYAEeNfsDGICpYAKOdWlImXMew3JRzazMzw/gmt/NWqu7e1tVR+32yMzqPVbVsd5jRNz+VTuXiLiZ2b38h12P0/M8l/uUUi1/Wvq/6/kCqnGyx/9qA08AAAAASUVORK5CYII=)
-![Storage](https://img.shields.io/badge/Array-51TB_Total-4479A1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAmElEQVQokY3SvQ3CQAyG4cdILABlBmCLSKyQETICIzACIzACG0RiBEZgAGgQSPxIvOvFxCHcSZbP9vuJ7SDJA3sYG03tK9niiq7imNABxxDDLN7REVXExBTnwtvxc8YiYhWFmGFVF5p+Q6Ot/sK2ENvhUBIOyYv9pxD/Yo0nsv6m+GL9JYgCEy7J/m30QNZoP3DYlGLXJE5v3n8D1Tmd5isAAAAASUVORK5CYII=)
+![Memory](https://img.shields.io/badge/RAM-86GB-76B900?style=for-the-badge&logo=memory&logoColor=white)
+![Storage](https://img.shields.io/badge/Array-51TB_Total-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-70+_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NVMe](https://img.shields.io/badge/NVMe-4.5TB_Cache-FF9E0F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAhklEQVQokd2SwQ3CMAxFn1EHYIseoWcm6BGYpDfYAjboCOzACnQDtDcUUqCIHPiWFX/7JzeQJAf0QAG2ifMBDMBrZhvRzWzJbX1lTutz5jbmzC5n7gDsl4yb2Zpzh59zr98Cd3dJhaSrpJuk28TSRdIwDXgEHpI+ZvYHXIBl2mNt5GBmo6Qv/4YXwPQ8HccAAAAASUVORK5CYII=)
+![NVMe](https://img.shields.io/badge/NVMe-4.5TB_Cache-FF9E0F?style=for-the-badge&logo=samsung&logoColor=white)
 ![Disks](https://img.shields.io/badge/HDDs-14TB_WD_x_4-ED1C24?style=for-the-badge&logo=westerndigital&logoColor=white)
 ![Uptime](https://img.shields.io/badge/Longest_Uptime-11_Months-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
 
@@ -162,14 +162,12 @@ If you find my projects helpful or just want to support my work, consider buying
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-8.3.1-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![CPU](https://img.shields.io/badge/Intel-N95_CPU-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Memory](https://img.shields.io/badge/RAM-16GB-76B900?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAnUlEQVQokY2S0Q2DMAxEDyqdsAMrMEJGYFVGYCRGYAVGYIRswAhskN8UiENxkvOpOj3blyYMIWB9lpl5cveXu79SSjMza5o55xGYQwBHYAEeNfsDGICpYAKOdWlImXMew3JRzazMzw/gmt/NWqu7e1tVR+32yMzqPVbVsd5jRNz+VTuXiLiZ2b38h12P0/M8l/uUUi1/Wvq/6/kCqnGyx/9qA08AAAAASUVORK5CYII=)
+![Memory](https://img.shields.io/badge/RAM-16GB-76B900?style=for-the-badge&logo=memory&logoColor=white)
 ![Storage](https://img.shields.io/badge/ZFS_Pool-396GB-4479A1?style=for-the-badge&logo=zfs&logoColor=white)
 ![Containers](https://img.shields.io/badge/LXC_Containers-20+-2496ED?style=for-the-badge&logo=lxc&logoColor=white)
 ![VMs](https://img.shields.io/badge/Virtual_Machines-10-00AEFF?style=for-the-badge&logo=vmware&logoColor=white)
 ![Network](https://img.shields.io/badge/Network-Dual_Ethernet-FD3E85?style=for-the-badge&logo=tailscale&logoColor=white)
 ![Uptime](https://img.shields.io/badge/Longest_Uptime-3_Months-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
-
-
 
 ### Cloud Infrastructure
 ![Cloud VPS](https://img.shields.io/badge/Cloud_Servers-Self_Managed-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
