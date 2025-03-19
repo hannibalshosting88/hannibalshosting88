@@ -158,6 +158,17 @@ If you find my projects helpful or just want to support my work, consider buying
 ![Disks](https://img.shields.io/badge/HDDs-14TB_WD_x_4-ED1C24?style=for-the-badge&logo=westerndigital&logoColor=white)
 ![Uptime](https://img.shields.io/badge/Longest_Uptime-11_Months-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
 
+## 🚀 DSmx Proxmox Mini Server
+
+![Proxmox](https://img.shields.io/badge/Proxmox-8.3.1-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![CPU](https://img.shields.io/badge/Intel-N95_CPU-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Memory](https://img.shields.io/badge/RAM-16GB-76B900?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAnUlEQVQokY2S0Q2DMAxEDyqdsAMrMEJGYFVGYCRGYAVGYIRswAhskN8UiENxkvOpOj3blyYMIWB9lpl5cveXu79SSjMza5o55xGYQwBHYAEeNfsDGICpYAKOdWlImXMew3JRzazMzw/gmt/NWqu7e1tVR+32yMzqPVbVsd5jRNz+VTuXiLiZ2b38h12P0/M8l/uUUi1/Wvq/6/kCqnGyx/9qA08AAAAASUVORK5CYII=)
+![Storage](https://img.shields.io/badge/ZFS_Pool-396GB-4479A1?style=for-the-badge&logo=zfs&logoColor=white)
+![Containers](https://img.shields.io/badge/LXC_Containers-20+-2496ED?style=for-the-badge&logo=lxc&logoColor=white)
+![VMs](https://img.shields.io/badge/Virtual_Machines-10-00AEFF?style=for-the-badge&logo=vmware&logoColor=white)
+![Network](https://img.shields.io/badge/Network-Tailscale-FD3E85?style=for-the-badge&logo=tailscale&logoColor=white)
+![Uptime](https://img.shields.io/badge/Uptime-17_Days-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
+
 ### Cloud Infrastructure
 ![Cloud VPS](https://img.shields.io/badge/Cloud_Servers-Self_Managed-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Container Host](https://img.shields.io/badge/Docker_Swarm-Production-2496ED?style=for-the-badge&logo=docker&logoColor=white)
