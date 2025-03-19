@@ -106,17 +106,16 @@ graph TD;
 </div>
 
 ## ☕ Support My Work
-
 If you find my projects helpful or just want to support my work, consider buying me a coffee!
 
 <div align="center">
   <a href="https://ko-fi.com/hannibalshosting" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=ko-fi&logoColor=black" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
-  <a href="https://www.buymeacoffee.com/hannibalshosting" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  <a href="https://www.paypal.me/hannibalshosting" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
-</div>
+  </div>
 
 ## 🏆 Certifications
 
@@ -157,7 +156,7 @@ If you find my projects helpful or just want to support my work, consider buying
 ![Docker](https://img.shields.io/badge/Docker-70+_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NVMe](https://img.shields.io/badge/NVMe-4.5TB_Cache-FF9E0F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAhklEQVQokd2SwQ3CMAxFn1EHYIseoWcm6BGYpDfYAjboCOzACnQDtDcUUqCIHPiWFX/7JzeQJAf0QAG2ifMBDMBrZhvRzWzJbX1lTutz5jbmzC5n7gDsl4yb2Zpzh59zr98Cd3dJhaSrpJuk28TSRdIwDXgEHpI+ZvYHXIBl2mNt5GBmo6Qv/4YXwPQ8HccAAAAASUVORK5CYII=)
 ![Disks](https://img.shields.io/badge/HDDs-14TB_WD_x_4-ED1C24?style=for-the-badge&logo=westerndigital&logoColor=white)
-![Uptime](https://img.shields.io/badge/Longest+Uptime-11_Months-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
+![Uptime](https://img.shields.io/badge/Longest_Uptime-11_Months-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
 
 ### Cloud Infrastructure
 ![Cloud VPS](https://img.shields.io/badge/Cloud_Servers-Self_Managed-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
