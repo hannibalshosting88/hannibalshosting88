@@ -138,8 +138,8 @@ If you find my projects helpful or just want to support my work, consider buying
   
 ### Main Workstation
 ![OS](https://img.shields.io/badge/Ubuntu_24.04.2_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CPU](https://img.shields.io/badge/AMD_Ryzen_5_3400G-Custom_Build-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![GPU](https://img.shields.io/badge/NVIDIA_GTX_1060_3GB-Custom_Build-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CPU](https://img.shields.io/badge/AMD_Ryzen_5_3400G-8_threads_3.7GHZ-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA_GTX_1060_3GB-4_Screens-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![RAM](https://img.shields.io/badge/31GB_RAM-5E5E5E?style=for-the-badge&logo=memory&logoColor=white)
 ![DE](https://img.shields.io/badge/KDE_Plasma_5.27.12-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 ![Motherboard](https://img.shields.io/badge/Gigabyte_A320M--S2H-5E5E5E?style=for-the-badge&logo=gigabyte&logoColor=white)
@@ -157,7 +157,7 @@ If you find my projects helpful or just want to support my work, consider buying
 ![Docker](https://img.shields.io/badge/Docker-70+_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NVMe](https://img.shields.io/badge/NVMe-4.5TB_Cache-FF9E0F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAhklEQVQokd2SwQ3CMAxFn1EHYIseoWcm6BGYpDfYAjboCOzACnQDtDcUUqCIHPiWFX/7JzeQJAf0QAG2ifMBDMBrZhvRzWzJbX1lTutz5jbmzC5n7gDsl4yb2Zpzh59zr98Cd3dJhaSrpJuk28TSRdIwDXgEHpI+ZvYHXIBl2mNt5GBmo6Qv/4YXwPQ8HccAAAAASUVORK5CYII=)
 ![Disks](https://img.shields.io/badge/HDDs-14TB_WD_x_4-ED1C24?style=for-the-badge&logo=westerndigital&logoColor=white)
-![Longest+Uptime](https://img.shields.io/badge/Uptime-11_Months-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
+![Uptime](https://img.shields.io/badge/Longest+Uptime-11_Months-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
 
 ### Cloud Infrastructure
 ![Cloud VPS](https://img.shields.io/badge/Cloud_Servers-Self_Managed-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
