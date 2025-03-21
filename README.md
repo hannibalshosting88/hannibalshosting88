@@ -3,9 +3,9 @@
 <!-- Dark/Light Mode Banner -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hannibalshosting88/hannibalshosting88/raw/main/assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/hannibalshosting88/hannibalshosting88/raw/main/assets/header-light.svg">
-    <img alt="Technical Professional & Diagnostic Specialist" src="https://github.com/hannibalshosting88/hannibalshosting88/raw/main/assets/header-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hannibalshosting88/hannibalshosting88/blob/edcb4ceaa76b9f7c5f66c28d2a69abd685d7273d/.github/images/tauri.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/hannibalshosting88/hannibalshosting88/blob/edcb4ceaa76b9f7c5f66c28d2a69abd685d7273d/.github/images/tauri.jpg">
+    <img alt="Technical Professional & Diagnostic Specialist" src="https://github.com/hannibalshosting88/hannibalshosting88/blob/edcb4ceaa76b9f7c5f66c28d2a69abd685d7273d/.github/images/tauri.jpg">
   </picture>
 </div>
 
