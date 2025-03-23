@@ -2,11 +2,7 @@
 
 <!-- Dark/Light Mode Banner -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hannibalshosting88/hannibalshosting88/blob/edcb4ceaa76b9f7c5f66c28d2a69abd685d7273d/.github/images/tauri.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/hannibalshosting88/hannibalshosting88/blob/edcb4ceaa76b9f7c5f66c28d2a69abd685d7273d/.github/images/tauri.jpg">
-    <img alt="Technical Professional & Diagnostic Specialist" src="https://github.com/hannibalshosting88/hannibalshosting88/blob/edcb4ceaa76b9f7c5f66c28d2a69abd685d7273d/.github/images/tauri.jpg">
-  </picture>
+  <img width="30%" alt="Tauri Logo" src="https://github.com/hannibalshosting88/hannibalshosting88/blob/edcb4ceaa76b9f7c5f66c28d2a69abd685d7273d/.github/images/tauri.jpg">
 </div>
 
 ## 💫 About Me
