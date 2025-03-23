@@ -14,6 +14,19 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Linux+Server+Administrator;Docker+%26+Kubernetes+Enthusiast;Vehicle+Assessment+Specialist;Problem+Solver;Continuous+Learner;Modern+Problems...;" alt="Typing SVG" />
 </div>
 
+## 🔄 Latest Activity
+
+<!-- GITHUB_ACTIVITY:START -->
+<!-- This section will be automatically updated by a GitHub Action -->
+<!-- GITHUB_ACTIVITY:END -->
+
+<!-- Spotify Now Playing -->
+<div align="center">
+  <a href="https://open.spotify.com/user/wilkinsirr">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+  </a>
+</div>
+
 ## 🔧 Technologies & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -68,18 +81,6 @@ graph TD;
     E --> G[MLOps & AI Infrastructure];
 ```
 
-## 🔄 Latest Activity
-
-<!-- GITHUB_ACTIVITY:START -->
-<!-- This section will be automatically updated by a GitHub Action -->
-<!-- GITHUB_ACTIVITY:END -->
-
-<!-- Spotify Now Playing -->
-<div align="center">
-  <a href="https://open.spotify.com/user/wilkinsirr">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-  </a>
-</div>
 
 ## ☕ Support My Work
 If you find my projects helpful or just want to support my work, consider buying me a coffee!
