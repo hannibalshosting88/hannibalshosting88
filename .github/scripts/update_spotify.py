@@ -12,11 +12,11 @@ SPOTIFY_CLIENT_ID = os.environ.get('SPOTIFY_CLIENT_ID')
 SPOTIFY_CLIENT_SECRET = os.environ.get('SPOTIFY_CLIENT_SECRET')
 SPOTIFY_REFRESH_TOKEN = os.environ.get('SPOTIFY_REFRESH_TOKEN')
 
-# Initialize Spotify client
+# Initialize Spotify client - Updated with 127.0.0.1 instead of localhost
 sp = spotipy.Spotify(auth_manager=spotipy.oauth2.SpotifyOAuth(
     client_id=SPOTIFY_CLIENT_ID,
     client_secret=SPOTIFY_CLIENT_SECRET,
-    redirect_uri='http://localhost:8000',
+    redirect_uri='http://127.0.0.1:8000',  # Changed from localhost to 127.0.0.1
     scope='user-read-recently-played',
 ))
 
