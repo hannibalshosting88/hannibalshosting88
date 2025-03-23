@@ -14,18 +14,10 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Linux+Server+Administrator;Docker+%26+Kubernetes+Enthusiast;Vehicle+Assessment+Specialist;Problem+Solver;Continuous+Learner;Modern+Problems...;" alt="Typing SVG" />
 </div>
 
-## 🔄 Latest Activity
+## 🔄 Latest Jammin' Session
 
-<!-- GITHUB_ACTIVITY:START -->
-<!-- This section will be automatically updated by a GitHub Action -->
-<!-- GITHUB_ACTIVITY:END -->
-
-<!-- Spotify Now Playing -->
-<div align="center">
-  <a href="https://open.spotify.com/user/wilkinsirr">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-  </a>
-</div>
+<!-- SPOTIFY_RECENTLY_PLAYED:START -->
+<!-- SPOTIFY_RECENTLY_PLAYED:END -->
 
 ## 🔧 Technologies & Tools
 
