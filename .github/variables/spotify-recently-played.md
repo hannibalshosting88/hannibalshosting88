@@ -5,13 +5,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4xi5Cz4KJGaWz0hRvz9mll"><img src="https://i.scdn.co/image/ab67616d0000b273df58a881c20d1aba831164c3" width="150" height="150" alt="All You Can Do" /></a>
+<a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd"><img src="https://i.scdn.co/image/ab67616d0000b2734bc377c41ab14f2ffa219ea1" width="150" height="150" alt="The Irish Volunteer" /></a>
 
-<b><a href="https://open.spotify.com/track/4xi5Cz4KJGaWz0hRvz9mll">Whoa Whoa Whoa</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd">The Irish Volunteer</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Watsky (2014)</span>
+<span style="color: #666;">David Kincaid (1998)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4xi5Cz4KJGaWz0hRvz9mll"><img src="https://i.scdn.co/image/ab67616d0000b273df58a881c20d1aba831164c3" width="60" height="60" alt="All You Can Do" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4xi5Cz4KJGaWz0hRvz9mll">Whoa Whoa Whoa</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"><img src="https://i.scdn.co/image/ab67616d0000b273774080a4ac27b3c5c86af35f" width="60" height="60" alt="Hats Off to the Bull" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF">Face to the Floor</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chevelle (2011)</span></td>
@@ -47,10 +51,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"><img src="https://i.scdn.co/image/ab67616d0000b273bce034d651da4d21e43c8a19" width="60" height="60" alt="Come Together" /></a></td>
 <td><b><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU">Come Together</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Gary Clark Jr., Junkie XL (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"><img src="https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96" width="60" height="60" alt="÷ (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3">Shape of You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Ed Sheeran (2017)</span></td>
 </tr>
 </table>
 <sub><i>Updated via N8N workflow</i></sub>
