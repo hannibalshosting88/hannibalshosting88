@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3"><img src="https://i.scdn.co/image/ab67616d0000b273f68df0d2e33a7c96a30a7847" width="150" height="150" alt="Dead Air" /></a>
+<a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="150" height="150" alt="The Rising Tied (Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3">Dead Air</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh">Kenji</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Psygnals (2023)</span>
+<span style="color: #666;">Fort Minor (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3"><img src="https://i.scdn.co/image/ab67616d0000b273f68df0d2e33a7c96a30a7847" width="60" height="60" alt="Dead Air" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3">Dead Air</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2kE4qkaDNvNhXGLoArQDct"><img src="https://i.scdn.co/image/ab67616d0000b27303ca6a733d655fe982326c6b" width="60" height="60" alt="Four Wheel Drive" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2kE4qkaDNvNhXGLoArQDct">Hey You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bachman-Turner Overdrive (1975)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8"><img src="https://i.scdn.co/image/ab67616d0000b273eece10ee539479b08711a839" width="60" height="60" alt="Ghostrunner (Original Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8">The Orb</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Daniel Deluxe (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC"><img src="https://i.scdn.co/image/ab67616d0000b27374be78bd14d095c8d76943a0" width="60" height="60" alt="The Click (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC">Burn The House Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2018)</span></td>
 </tr>
 </table>
 </div>
