@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="150" height="150" alt="Hypnotize" /></a>
+<a href="https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh"><img src="https://i.scdn.co/image/ab67616d0000b273148e78020adb43391ac529e9" width="150" height="150" alt="Am I A Girl?" /></a>
 
-<b><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh">Girls In Bikinis</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">System Of A Down (2005)</span>
+<span style="color: #666;">Poppy (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l">My Generation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="60" height="60" alt="Hypnotize" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"><img src="https://i.scdn.co/image/ab67616d0000b2731b172ee4058bc492d0ce562d" width="60" height="60" alt="Nightfall" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl">Wine, Beer, Whiskey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Little Big Town (2020)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk"><img src="https://i.scdn.co/image/ab67616d0000b273e73b1b6b3c3c25398303334f" width="60" height="60" alt="Fashion Nugget" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk">I Will Survive</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (1996)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"><img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" width="60" height="60" alt="Hozier (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP">Take Me to Church</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Hozier (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"><img src="https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730" width="60" height="60" alt="Cage The Elephant (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">Ain't No Rest for the Wicked</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cage The Elephant (2009)</span></td>
 </tr>
 </table>
 </div>
