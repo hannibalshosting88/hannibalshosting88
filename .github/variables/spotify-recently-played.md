@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5ekIQRUzOO1ht8GCvbY9hQ"><img src="https://i.scdn.co/image/ab67616d0000b273ea584a7bd29940c6d7c5b32a" width="150" height="150" alt="The Only Thing They Fear Is Vader" /></a>
+<a href="https://open.spotify.com/track/2uiEqPjMmIJXOKplzsEASP"><img src="https://i.scdn.co/image/ab67616d0000b273c3cc3ebad3a4e8ab2a30795d" width="150" height="150" alt="All Or Nothing" /></a>
 
-<b><a href="https://open.spotify.com/track/5ekIQRUzOO1ht8GCvbY9hQ">The Only Thing They Fear Is Vader</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/2uiEqPjMmIJXOKplzsEASP">Lean Back (feat. Lil Jon, Eminem, Mase & Remy Martin) - Remix</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Psygnals (2024)</span>
+<span style="color: #666;">Fat Joe, Eminem, Lil Jon, Mase, Remy Ma (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5ekIQRUzOO1ht8GCvbY9hQ"><img src="https://i.scdn.co/image/ab67616d0000b273ea584a7bd29940c6d7c5b32a" width="60" height="60" alt="The Only Thing They Fear Is Vader" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5ekIQRUzOO1ht8GCvbY9hQ">The Only Thing They Fear Is Vader</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk"><img src="https://i.scdn.co/image/ab67616d0000b273e73b1b6b3c3c25398303334f" width="60" height="60" alt="Fashion Nugget" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk">I Will Survive</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (1996)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="60" height="60" alt="From Under The Cork Tree" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">Sugar, We're Goin Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/67tgIGwcQvhungN7013EoM"><img src="https://i.scdn.co/image/ab67616d0000b27326f401c31ac9944252d66fab" width="60" height="60" alt="Carry On" /></a></td>
-<td><b><a href="https://open.spotify.com/track/67tgIGwcQvhungN7013EoM">Glory</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Score (2020)</span></td>
 </tr>
 </table>
 </div>
