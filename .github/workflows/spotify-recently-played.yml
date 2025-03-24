@@ -1,4 +1,4 @@
-name: Update README with Spotify data
+name: variable-2-README-workflow
 
 on:
   workflow_dispatch:  # Manual trigger
