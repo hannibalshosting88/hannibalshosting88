@@ -23,11 +23,8 @@ jobs:
           awk -v spotify="$SPOTIFY_CONTENT" '
           BEGIN { p=1 }
           /<!-- SPOTIFY-RECENTLY-PLAYED:START -->/ { print; print spotify; p=0 }
-          /<!-- SPOTIFY-RECENTLY-PLAYED:END -->/ { p=1 }
+          /<!-- SPOTIFY-RECENTLY-PLAYED:END -->/ { p=1; print; next }
           p' README.md > README.tmp
-          
-          # Restore the end marker
-          echo "<!-- SPOTIFY-RECENTLY-PLAYED:END -->" >> README.tmp
           
           # Replace the original file
           mv README.tmp README.md
