@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2uiEqPjMmIJXOKplzsEASP"><img src="https://i.scdn.co/image/ab67616d0000b273c3cc3ebad3a4e8ab2a30795d" width="150" height="150" alt="All Or Nothing" /></a>
+<a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8"><img src="https://i.scdn.co/image/ab67616d0000b273eece10ee539479b08711a839" width="150" height="150" alt="Ghostrunner (Original Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/2uiEqPjMmIJXOKplzsEASP">Lean Back (feat. Lil Jon, Eminem, Mase & Remy Martin) - Remix</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8">The Orb</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Fat Joe, Eminem, Lil Jon, Mase, Remy Ma (2005)</span>
+<span style="color: #666;">Daniel Deluxe (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC"><img src="https://i.scdn.co/image/ab67616d0000b27374be78bd14d095c8d76943a0" width="60" height="60" alt="The Click (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC">Burn The House Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2uiEqPjMmIJXOKplzsEASP"><img src="https://i.scdn.co/image/ab67616d0000b273c3cc3ebad3a4e8ab2a30795d" width="60" height="60" alt="All Or Nothing" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2uiEqPjMmIJXOKplzsEASP">Lean Back (feat. Lil Jon, Eminem, Mase & Remy Martin) - Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fat Joe, Eminem, Lil Jon, Mase, Remy Ma (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5ekIQRUzOO1ht8GCvbY9hQ"><img src="https://i.scdn.co/image/ab67616d0000b273ea584a7bd29940c6d7c5b32a" width="60" height="60" alt="The Only Thing They Fear Is Vader" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5ekIQRUzOO1ht8GCvbY9hQ">The Only Thing They Fear Is Vader</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2024)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"><img src="https://i.scdn.co/image/ab67616d0000b27343f5bd543a2a1ab37fb40a8b" width="60" height="60" alt="Brothers" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8">Tighten Up</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Black Keys (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7hdw5gAGMyyn9z0XgfTv1j"><img src="https://i.scdn.co/image/ab67616d0000b273cbf39ee02c78c920e2a456eb" width="60" height="60" alt="NO NAME" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7hdw5gAGMyyn9z0XgfTv1j">NO NAME</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="60" height="60" alt="From Under The Cork Tree" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">Sugar, We're Goin Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2005)</span></td>
 </tr>
 </table>
 </div>
