@@ -22,13 +22,29 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W"><img src="https://i.scdn.co/image/ab67616d0000b2733d2dc1ad7bc94f4f431a2e14" width="150" height="150" alt="Pacific Rim (Original Motion Picture Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"><img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" width="150" height="150" alt="Voices" /></a>
 
-<b><a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W">Pacific Rim (feat. Tom Morello)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk">You Make My Dreams (Come True)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Ramin Djawadi, Tom Morello (2013)</span>
+<span style="color: #666;">Daryl Hall & John Oates (1980)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx">Therapy Session</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">When It Comes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W"><img src="https://i.scdn.co/image/ab67616d0000b2733d2dc1ad7bc94f4f431a2e14" width="60" height="60" alt="Pacific Rim (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W">Pacific Rim (feat. Tom Morello)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ramin Djawadi, Tom Morello (2013)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0vtJ9Dq53hfXE3KyP1yPni"><img src="https://i.scdn.co/image/ab67616d0000b273d77299e3d29f44495cd7fbcb" width="60" height="60" alt="40oz. To Freedom" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0vtJ9Dq53hfXE3KyP1yPni">40oz. To Freedom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1992)</span></td>
@@ -52,22 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"><img src="https://i.scdn.co/image/ab67616d0000b27321fe7a86d0e0803b99b893ba" width="60" height="60" alt="Blackout" /></a></td>
 <td><b><a href="https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi">Black Velvet Band</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dropkick Murphys (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/14daOroAa2CmxeT1prZnOE"><img src="https://i.scdn.co/image/ab67616d0000b2736fede82146181a73665793d8" width="60" height="60" alt="The Devil You Know" /></a></td>
-<td><b><a href="https://open.spotify.com/track/14daOroAa2CmxeT1prZnOE">The Highland Street Incident</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Todd Snider (2006)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"><img src="https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96" width="60" height="60" alt="÷ (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3">Shape of You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Ed Sheeran (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"><img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" width="60" height="60" alt="My Beautiful Dark Twisted Fantasy" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds">Runaway</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West, Pusha T (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6OpfVzM7bX74yBugaeL2x3"><img src="https://i.scdn.co/image/ab67616d0000b273b7ab0807d7b2787c8755ef07" width="60" height="60" alt="Ahgainst the Grain" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6OpfVzM7bX74yBugaeL2x3">Gunther Mackett (Addiction)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">The Stixxx (2012)</span></td>
 </tr>
 </table>
 </div>
