@@ -108,32 +108,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannibalshosting88&layout=compact&theme=radical" alt="Hannibal's top languages" />
 </div>
 
-## 🌱 Currently Learning
-
-- Advanced Kubernetes Orchestration
-- Microservices Architecture
-- Infrastructure as Code (IaC)
-- Advanced Python for Automation
-
-## 🛠️ Projects in Progress
-
-- Custom vehicle diagnostics reporting system
-- Self-hosted cloud infrastructure for small businesses
-- Automated server deployment scripts
-- Linux-based IOT home solutions
-
-## 🗺️ Learning Roadmap
-
-```mermaid
-graph TD;
-    A[Current: Linux & Docker] --> B[Kubernetes Advanced];
-    A --> C[Infrastructure as Code];
-    B --> D[Cloud-Native Security];
-    C --> E[GitOps workflows];
-    D --> F[Zero-Trust Security Models];
-    E --> G[MLOps & AI Infrastructure];
-```
-
 
 ## ☕ Support My Work
 If you find my projects helpful or just want to support my work, consider buying me a coffee!
@@ -220,13 +194,35 @@ If you find my projects helpful or just want to support my work, consider buying
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
-<!-- SPOTIFY-RECENTLY-PLAYED:END -->
-<!-- SPOTIFY-RECENTLY-PLAYED:END -->
-<!-- SPOTIFY-RECENTLY-PLAYED:END -->
-<!-- SPOTIFY-RECENTLY-PLAYED:END -->
-<!-- SPOTIFY-RECENTLY-PLAYED:END -->
-<!-- SPOTIFY-RECENTLY-PLAYED:END -->
-<!-- SPOTIFY-RECENTLY-PLAYED:END -->
-<!-- SPOTIFY-RECENTLY-PLAYED:END -->
-<!-- SPOTIFY-RECENTLY-PLAYED:END -->
-<!-- SPOTIFY-RECENTLY-PLAYED:END -->
+
+
+## 🚀 Tech Journey
+
+<div align="center">
+
+### 🔍 Current Focus
+![K8s](https://img.shields.io/badge/K8s_Beyond_Basics-Stateful_Applications_&_Custom_Controllers-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![IaC](https://img.shields.io/badge/Infrastructure_as_Code-Terraform_+_Ansible_Automation-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-Cloudflare_Access_&_Identity_Aware_Proxies-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### 🛠️ Project Workshop
+![VehiDiag](https://img.shields.io/badge/VehiDiag-Automotive_Diagnostics_Dashboard-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![HomeCloud](https://img.shields.io/badge/HomeCloud-Fault--Tolerant_SMB_Infrastructure-1572B6?style=flat-square&logo=digitalocean&logoColor=white)
+![AutoDeploy](https://img.shields.io/badge/AutoDeploy-Git--Triggered_Container_Pipeline-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SmartHaven](https://img.shields.io/badge/SmartHaven-ESP32_+_MQTT_Home_Automation-3DDC84?style=flat-square&logo=mqtt&logoColor=white)
+### 🗺️ Skill Trajectory
+
+<div align="center">
+
+**ADVANCING**
+|   |   |   |
+|:-:|:-:|:-:|
+| 📊 Data Systems | 🔄 Observability | 🔐 Security |
+| ⬆️ | ⬆️ | ⬆️ |
+| 🐳 Containers | 🔄 CI/CD | 🔑 Zero Trust |
+| ⬆️ | ⬆️ | ⬆️ |
+| 🐧 Linux Admin | 🌐 Networks | 💾 Storage |
+
+**FOUNDATION EXPERTISE**
+
+</div>
