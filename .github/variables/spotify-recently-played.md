@@ -5,13 +5,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2HIslp2i7gk4DwtwOEKJPA"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="150" height="150" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/6OpfVzM7bX74yBugaeL2x3"><img src="https://i.scdn.co/image/ab67616d0000b273b7ab0807d7b2787c8755ef07" width="150" height="150" alt="Ahgainst the Grain" /></a>
 
-<b><a href="https://open.spotify.com/track/2HIslp2i7gk4DwtwOEKJPA">Dance of the Decorous</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/6OpfVzM7bX74yBugaeL2x3">Gunther Mackett (Addiction)</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Danny Baranowsky (2015)</span>
+<span style="color: #666;">The Stixxx (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2HIslp2i7gk4DwtwOEKJPA"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2HIslp2i7gk4DwtwOEKJPA">Dance of the Decorous</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"><img src="https://i.scdn.co/image/ab67616d0000b273bce034d651da4d21e43c8a19" width="60" height="60" alt="Come Together" /></a></td>
 <td><b><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU">Come Together</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Gary Clark Jr., Junkie XL (2017)</span></td>
@@ -47,10 +51,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm">Are You In?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7"><img src="https://i.scdn.co/image/ab67616d0000b27331dc2b6da1570a9c8929e0f6" width="60" height="60" alt="Comfort Eagle" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7">Short Skirt / Long Jacket</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2001)</span></td>
 </tr>
 </table>
 <sub><i>Updated via N8N workflow</i></sub>
