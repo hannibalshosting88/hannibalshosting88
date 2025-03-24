@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"><img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" width="150" height="150" alt="Ten" /></a>
+<a href="https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z"><img src="https://i.scdn.co/image/ab67616d0000b273e074af9f5663eda06c5341ac" width="150" height="150" alt="And You Are Me" /></a>
 
-<b><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z">Keep The Wolves Away</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Pearl Jam (1991)</span>
+<span style="color: #666;">Uncle Lucius (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"><img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" width="60" height="60" alt="Ten" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pearl Jam (1991)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8"><img src="https://i.scdn.co/image/ab67616d0000b273eece10ee539479b08711a839" width="60" height="60" alt="Ghostrunner (Original Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8">The Orb</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Daniel Deluxe (2020)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA"><img src="https://i.scdn.co/image/ab67616d0000b2738b660b58d947c1d666d635c0" width="60" height="60" alt="The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA">Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Teriyaki Boyz (2006)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">Scott Mescudi Vs. The World</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, CeeLo Green (2010)</span></td>
 </tr>
 </table>
 </div>
