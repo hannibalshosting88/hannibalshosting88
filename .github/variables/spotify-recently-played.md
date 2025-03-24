@@ -5,13 +5,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"><img src="https://i.scdn.co/image/ab67616d0000b273bce034d651da4d21e43c8a19" width="150" height="150" alt="Come Together" /></a>
+<a href="https://open.spotify.com/track/2HIslp2i7gk4DwtwOEKJPA"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="150" height="150" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU">Come Together</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2HIslp2i7gk4DwtwOEKJPA">Dance of the Decorous</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Gary Clark Jr., Junkie XL (2017)</span>
+<span style="color: #666;">Danny Baranowsky (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"><img src="https://i.scdn.co/image/ab67616d0000b273bce034d651da4d21e43c8a19" width="60" height="60" alt="Come Together" /></a></td>
+<td><b><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU">Come Together</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Gary Clark Jr., Junkie XL (2017)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"><img src="https://i.scdn.co/image/ab67616d0000b273bce034d651da4d21e43c8a19" width="60" height="60" alt="Come Together" /></a></td>
+<td><b><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU">Come Together</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Gary Clark Jr., Junkie XL (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"><img src="https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96" width="60" height="60" alt="÷ (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3">Shape of You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Ed Sheeran (2017)</span></td>
@@ -43,14 +51,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7"><img src="https://i.scdn.co/image/ab67616d0000b27331dc2b6da1570a9c8929e0f6" width="60" height="60" alt="Comfort Eagle" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7">Short Skirt / Long Jacket</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"><img src="https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c" width="60" height="60" alt="In Utero (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa">Heart-Shaped Box</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nirvana (1993)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd"><img src="https://i.scdn.co/image/ab67616d0000b2734bc377c41ab14f2ffa219ea1" width="60" height="60" alt="The Irish Volunteer" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd">The Irish Volunteer</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">David Kincaid (1998)</span></td>
 </tr>
 </table>
 <sub><i>Updated via N8N workflow</i></sub>
