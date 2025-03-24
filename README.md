@@ -1,3 +1,5 @@
+<div align='center'>
+
 # Hi there 👋 I'm Hannibal
 
 <!-- Dark/Light Mode Banner -->
