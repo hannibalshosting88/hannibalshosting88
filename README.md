@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ"><img src="https://i.scdn.co/image/ab67616d0000b2738ed6845745db21e6c956ab1d" width="150" height="150" alt="One Thing Right" /></a>
+<a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"><img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" width="150" height="150" alt="The Lady Killer" /></a>
 
-<b><a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">One Thing Right</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG">Fuck You</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Marshmello, Kane Brown (2019)</span>
+<span style="color: #666;">CeeLo Green (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/110xRTiNE1koUrWiMCYnKJ"><img src="https://i.scdn.co/image/ab67616d0000b2735128fe6af0b5227bd6a6b84e" width="60" height="60" alt="The Devil (Remixes) [Deluxe Edition]" /></a></td>
+<td><b><a href="https://open.spotify.com/track/110xRTiNE1koUrWiMCYnKJ">Armageddon (Entropy Zero Remix) - Instrumental</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Blue Stahli, Entropy Zero (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG"><img src="https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94" width="60" height="60" alt="One of These Nights (2013 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">Journey of the Sorcerer - 2013 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Eagles (1975)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ"><img src="https://i.scdn.co/image/ab67616d0000b2738ed6845745db21e6c956ab1d" width="60" height="60" alt="One Thing Right" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">One Thing Right</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0KlLzi19JtjLQsZg9nWN4i"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" height="60" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0KlLzi19JtjLQsZg9nWN4i">Deathshead</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0wmNV2ooIKpmB6lKA5djEK"><img src="https://i.scdn.co/image/ab67616d0000b27367836301e250d5164808b780" width="60" height="60" alt="Let Yourself Go" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0wmNV2ooIKpmB6lKA5djEK">Best Thing</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Haley Blais (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh"><img src="https://i.scdn.co/image/ab67616d0000b273148e78020adb43391ac529e9" width="60" height="60" alt="Am I A Girl?" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh">Girls In Bikinis</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Poppy (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l">My Generation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="60" height="60" alt="Hypnotize" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
 </tr>
 </table>
 </div>
