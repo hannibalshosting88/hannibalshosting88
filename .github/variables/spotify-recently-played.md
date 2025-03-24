@@ -1,5 +1,3 @@
-
-
 <!-- SPOTIFY_RECENTLY_PLAYED:START -->
 <div align='center'>
 
