@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"><img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" width="150" height="150" alt="Voices" /></a>
+<a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"><img src="https://i.scdn.co/image/ab67616d0000b27390a788beadaad34ff684d3ec" width="150" height="150" alt="Human (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk">You Make My Dreams (Come True)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O">Human</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Daryl Hall & John Oates (1980)</span>
+<span style="color: #666;">Rag'n'Bone Man (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"><img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" width="60" height="60" alt="Voices" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk">You Make My Dreams (Come True)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Daryl Hall & John Oates (1980)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx">Therapy Session</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"><img src="https://i.scdn.co/image/ab67616d0000b273774080a4ac27b3c5c86af35f" width="60" height="60" alt="Hats Off to the Bull" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF">Face to the Floor</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chevelle (2011)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"><img src="https://i.scdn.co/image/ab67616d0000b27321fe7a86d0e0803b99b893ba" width="60" height="60" alt="Blackout" /></a></td>
-<td><b><a href="https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi">Black Velvet Band</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dropkick Murphys (2003)</span></td>
 </tr>
 </table>
 </div>
