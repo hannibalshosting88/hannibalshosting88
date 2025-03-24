@@ -242,3 +242,4 @@ If you find my projects helpful or just want to support my work, consider buying
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
+<!-- SPOTIFY-RECENTLY-PLAYED:END -->
