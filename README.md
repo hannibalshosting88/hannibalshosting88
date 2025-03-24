@@ -226,3 +226,4 @@ If you find my projects helpful or just want to support my work, consider buying
 **FOUNDATION EXPERTISE**
 
 </div>
+<!-- SPOTIFY-RECENTLY-PLAYED:END -->
