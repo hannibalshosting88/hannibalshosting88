@@ -3,7 +3,7 @@ name: Update README with Spotify data
 on:
   workflow_dispatch:  # Manual trigger
   schedule:
-    - cron: '0 * * * *'  # Run every hour
+    - cron: '*/15 * * * *'  # Run every 15 minutes
     
 jobs:
   update-readme:
