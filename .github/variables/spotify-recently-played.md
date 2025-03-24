@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"><img src="https://i.scdn.co/image/ab67616d0000b27390a788beadaad34ff684d3ec" width="150" height="150" alt="Human (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/3X9tJw6z5LowFx339fhTvu"><img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" width="150" height="150" alt="I Walk the Line (Stereo Version)" /></a>
 
-<b><a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O">Human</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3X9tJw6z5LowFx339fhTvu">I Walk the Line - Stereo Version</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Rag'n'Bone Man (2017)</span>
+<span style="color: #666;">Johnny Cash (1964)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5ZyHuqtLLIif57bwJVk6Ov"><img src="https://i.scdn.co/image/ab67616d0000b27361866cb72b9652f3f2ce73d3" width="60" height="60" alt="Greatest Hits" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5ZyHuqtLLIif57bwJVk6Ov">Date Rape</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1999)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"><img src="https://i.scdn.co/image/ab67616d0000b27390a788beadaad34ff684d3ec" width="60" height="60" alt="Human (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O">Human</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rag'n'Bone Man (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"><img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" width="60" height="60" alt="Voices" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk">You Make My Dreams (Come True)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Daryl Hall & John Oates (1980)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd"><img src="https://i.scdn.co/image/ab67616d0000b2734bc377c41ab14f2ffa219ea1" width="60" height="60" alt="The Irish Volunteer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd">The Irish Volunteer</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">David Kincaid (1998)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4xi5Cz4KJGaWz0hRvz9mll"><img src="https://i.scdn.co/image/ab67616d0000b273df58a881c20d1aba831164c3" width="60" height="60" alt="All You Can Do" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4xi5Cz4KJGaWz0hRvz9mll">Whoa Whoa Whoa</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"><img src="https://i.scdn.co/image/ab67616d0000b273774080a4ac27b3c5c86af35f" width="60" height="60" alt="Hats Off to the Bull" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF">Face to the Floor</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chevelle (2011)</span></td>
 </tr>
 </table>
 </div>
