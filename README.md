@@ -16,8 +16,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </div>
 
 <!-- SPOTIFY-RECENTLY-PLAYED:START -->
-
-
 <!-- SPOTIFY_RECENTLY_PLAYED:START -->
 <div align='center'>
 
@@ -226,6 +224,7 @@ If you find my projects helpful or just want to support my work, consider buying
 **FOUNDATION EXPERTISE**
 
 </div>
+<!-- SPOTIFY-RECENTLY-PLAYED:END -->
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
