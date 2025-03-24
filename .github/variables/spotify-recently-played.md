@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"><img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" width="150" height="150" alt="In Your Honor" /></a>
+<a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="150" height="150" alt="Get Rich Or Die Tryin'" /></a>
 
-<b><a href="https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp">Best of You</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Foo Fighters (2005)</span>
+<span style="color: #666;">50 Cent (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"><img src="https://i.scdn.co/image/ab67616d0000b273781369aabc39c792cc55604f" width="60" height="60" alt="10,000 Days" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3">The Pot</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">TOOL (2006)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"><img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" width="60" height="60" alt="In Your Honor" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp">Best of You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"><img src="https://i.scdn.co/image/ab67616d0000b273946301359b8ad60772671b8f" width="60" height="60" alt="Three Dollar Bill, Y'all $" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah">Counterfeit</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (1997)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"><img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" width="60" height="60" alt="Voices" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk">You Make My Dreams (Come True)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Daryl Hall & John Oates (1980)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx">Therapy Session</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">When It Comes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
 </tr>
 </table>
 </div>
