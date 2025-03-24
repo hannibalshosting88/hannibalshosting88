@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"><img src="https://i.scdn.co/image/ab67616d0000b27300693a6a40d04ca03bf155cc" width="150" height="150" alt="Better Place (From TROLLS Band Together)" /></a>
+<a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"><img src="https://i.scdn.co/image/ab67616d0000b2735f192d3bcd5fed10b0884af9" width="150" height="150" alt="Eyelid Movies" /></a>
 
-<b><a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK">Better Place (From TROLLS Band Together)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">When I'm Small</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">*NSYNC, Justin Timberlake (2023)</span>
+<span style="color: #666;">Phantogram (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"><img src="https://i.scdn.co/image/ab67616d0000b27300693a6a40d04ca03bf155cc" width="60" height="60" alt="Better Place (From TROLLS Band Together)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK">Better Place (From TROLLS Band Together)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">*NSYNC, Justin Timberlake (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">Make Yourself</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd">Pts.Of.Athrty - Jay Gordon Reanimation</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"><img src="https://i.scdn.co/image/ab67616d0000b27387e51905aaafd4b2e46e9121" width="60" height="60" alt="Falco 3" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU">Rock Me Amadeus</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Falco (1985)</span></td>
 </tr>
 </table>
 </div>
