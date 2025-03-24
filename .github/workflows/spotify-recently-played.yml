@@ -16,18 +16,23 @@ jobs:
       
       - name: variable-2-README-workflow
         run: |
-          # Read the Spotify data file and remove the "*Updated via N8N workflow" text
-          SPOTIFY_CONTENT=$(cat .github/variables/spotify-recently-played.md | sed 's/\*Updated via N8N workflow//g')
+          # Read the Spotify data file and remove the "Updated via N8N workflow" text
+          SPOTIFY_CONTENT=$(cat .github/variables/spotify-recently-played.md | sed 's/<sub><i>Updated via N8N workflow<\/i><\/sub>//g')
           
-          # Use awk to replace content between markers in README.md
+          # First, clean up the README.md to remove duplicate tags
+          # Create a temporary file with just one set of markers
+          grep -v "<!-- SPOTIFY_RECENTLY_PLAYED:START -->" README.md | grep -v "<!-- SPOTIFY_RECENTLY_PLAYED:END -->" > README.cleaned.md
+          
+          # Now use awk to replace content between the markers
           awk -v spotify="$SPOTIFY_CONTENT" '
           BEGIN { p=1 }
           /<!-- SPOTIFY-RECENTLY-PLAYED:START -->/ { print; print spotify; p=0 }
           /<!-- SPOTIFY-RECENTLY-PLAYED:END -->/ { p=1; print; next }
-          p' README.md > README.tmp
+          p' README.cleaned.md > README.tmp
           
-          # Replace the original file
+          # Replace the original file and clean up
           mv README.tmp README.md
+          rm README.cleaned.md
           
       - name: Commit and push if changed
         run: |
