@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"><img src="https://i.scdn.co/image/ab67616d0000b27383c39b0d32eb4a2064e1e228" width="150" height="150" alt="Away From The Sun" /></a>
+<a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn"><img src="https://i.scdn.co/image/ab67616d0000b273a9f4b8706c2bae056b19ca78" width="150" height="150" alt="Alley: The Return of the Ying Yang Twins" /></a>
 
-<b><a href="https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4">Here Without You</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn">Say I Yi Yi</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">3 Doors Down (2002)</span>
+<span style="color: #666;">Ying Yang Twins (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"><img src="https://i.scdn.co/image/ab67616d0000b27383c39b0d32eb4a2064e1e228" width="60" height="60" alt="Away From The Sun" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4">Here Without You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">3 Doors Down (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi">Zero - From the Original Motion Picture "Ralph Breaks The Internet"</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"><img src="https://i.scdn.co/image/ab67616d0000b273946301359b8ad60772671b8f" width="60" height="60" alt="Three Dollar Bill, Y'all $" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah">Counterfeit</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
 </tr>
 </table>
 </div>
