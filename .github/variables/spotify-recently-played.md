@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7hdw5gAGMyyn9z0XgfTv1j"><img src="https://i.scdn.co/image/ab67616d0000b273cbf39ee02c78c920e2a456eb" width="150" height="150" alt="NO NAME" /></a>
+<a href="https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"><img src="https://i.scdn.co/image/ab67616d0000b27343f5bd543a2a1ab37fb40a8b" width="150" height="150" alt="Brothers" /></a>
 
-<b><a href="https://open.spotify.com/track/7hdw5gAGMyyn9z0XgfTv1j">NO NAME</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8">Tighten Up</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">NF (2018)</span>
+<span style="color: #666;">The Black Keys (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7hdw5gAGMyyn9z0XgfTv1j"><img src="https://i.scdn.co/image/ab67616d0000b273cbf39ee02c78c920e2a456eb" width="60" height="60" alt="NO NAME" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7hdw5gAGMyyn9z0XgfTv1j">NO NAME</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="60" height="60" alt="From Under The Cork Tree" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">Sugar, We're Goin Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2005)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"><img src="https://i.scdn.co/image/ab67616d0000b27355e734bb400d8c827700541b" width="60" height="60" alt="S.C.I.E.N.C.E." /></a></td>
 <td><b><a href="https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa">Vitamin</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn"><img src="https://i.scdn.co/image/ab67616d0000b273a9f4b8706c2bae056b19ca78" width="60" height="60" alt="Alley: The Return of the Ying Yang Twins" /></a></td>
-<td><b><a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn">Say I Yi Yi</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins (2002)</span></td>
 </tr>
 </table>
 </div>
