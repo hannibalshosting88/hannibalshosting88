@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn"><img src="https://i.scdn.co/image/ab67616d0000b27338515ef670537d024a158646" width="150" height="150" alt="Hotline Miami: The Takedown EP" /></a>
+<a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P"><img src="https://i.scdn.co/image/ab67616d0000b273d77299e3d29f44495cd7fbcb" width="150" height="150" alt="40oz. To Freedom" /></a>
 
-<b><a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn">Knock Knock</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P">Waiting For My Ruca</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Scattle (2012)</span>
+<span style="color: #666;">Sublime (1992)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn"><img src="https://i.scdn.co/image/ab67616d0000b27338515ef670537d024a158646" width="60" height="60" alt="Hotline Miami: The Takedown EP" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn">Knock Knock</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Scattle (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"><img src="https://i.scdn.co/image/ab67616d0000b273fe3a12c23f04549cef0fbe84" width="60" height="60" alt="A 20 Something Fuck" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1">I Feel Like I'm Drowning</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp"><img src="https://i.scdn.co/image/ab67616d0000b2733c2bba46b66a3c8a83a53015" width="60" height="60" alt="Come Clean" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp">Blurry</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95"><img src="https://i.scdn.co/image/ab67616d0000b27363bd80f6f88dd62da7ef193c" width="60" height="60" alt="OK Go" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95">Get Over It</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">OK Go (2002)</span></td>
 </tr>
 </table>
 </div>
