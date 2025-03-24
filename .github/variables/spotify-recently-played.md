@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"><img src="https://i.scdn.co/image/ab67616d0000b2735f192d3bcd5fed10b0884af9" width="150" height="150" alt="Eyelid Movies" /></a>
+<a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="150" height="150" alt="The Rising Tied" /></a>
 
-<b><a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">When I'm Small</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA">High Road (feat. John Legend)</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Phantogram (2010)</span>
+<span style="color: #666;">Fort Minor, John Legend (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"><img src="https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53" width="60" height="60" alt="The Anthology" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">Electric Relaxation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">A Tribe Called Quest (1999)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"><img src="https://i.scdn.co/image/ab67616d0000b2735f192d3bcd5fed10b0884af9" width="60" height="60" alt="Eyelid Movies" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">When I'm Small</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Phantogram (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"><img src="https://i.scdn.co/image/ab67616d0000b27300693a6a40d04ca03bf155cc" width="60" height="60" alt="Better Place (From TROLLS Band Together)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK">Better Place (From TROLLS Band Together)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">*NSYNC, Justin Timberlake (2023)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ"><img src="https://i.scdn.co/image/ab67616d0000b2738ed6845745db21e6c956ab1d" width="60" height="60" alt="One Thing Right" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">One Thing Right</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0KlLzi19JtjLQsZg9nWN4i"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" height="60" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0KlLzi19JtjLQsZg9nWN4i">Deathshead</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd">Pts.Of.Athrty - Jay Gordon Reanimation</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2002)</span></td>
 </tr>
 </table>
 </div>
