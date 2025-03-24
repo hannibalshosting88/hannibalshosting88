@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"><img src="https://i.scdn.co/image/ab67616d0000b273946301359b8ad60772671b8f" width="150" height="150" alt="Three Dollar Bill, Y'all $" /></a>
+<a href="https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"><img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" width="150" height="150" alt="In Your Honor" /></a>
 
-<b><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah">Counterfeit</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp">Best of You</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Limp Bizkit (1997)</span>
+<span style="color: #666;">Foo Fighters (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"><img src="https://i.scdn.co/image/ab67616d0000b273946301359b8ad60772671b8f" width="60" height="60" alt="Three Dollar Bill, Y'all $" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah">Counterfeit</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (1997)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">When It Comes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
 </tr>
 </table>
 </div>
