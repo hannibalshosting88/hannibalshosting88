@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="150" height="150" alt="The Rising Tied (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"><img src="https://i.scdn.co/image/ab67616d0000b27387e51905aaafd4b2e46e9121" width="150" height="150" alt="Falco 3" /></a>
 
-<b><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh">Kenji</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU">Rock Me Amadeus</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Fort Minor (2005)</span>
+<span style="color: #666;">Falco (1985)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh">Kenji</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3"><img src="https://i.scdn.co/image/ab67616d0000b273f68df0d2e33a7c96a30a7847" width="60" height="60" alt="Dead Air" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3">Dead Air</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"><img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" width="60" height="60" alt="Ten" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pearl Jam (1991)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8"><img src="https://i.scdn.co/image/ab67616d0000b273eece10ee539479b08711a839" width="60" height="60" alt="Ghostrunner (Original Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8">The Orb</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Daniel Deluxe (2020)</span></td>
 </tr>
 </table>
 </div>
