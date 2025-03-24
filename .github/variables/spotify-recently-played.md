@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"><img src="https://i.scdn.co/image/ab67616d0000b2731b172ee4058bc492d0ce562d" width="150" height="150" alt="Nightfall" /></a>
+<a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="150" height="150" alt="Hypnotize" /></a>
 
-<b><a href="https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl">Wine, Beer, Whiskey</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Little Big Town (2020)</span>
+<span style="color: #666;">System Of A Down (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"><img src="https://i.scdn.co/image/ab67616d0000b2731b172ee4058bc492d0ce562d" width="60" height="60" alt="Nightfall" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl">Wine, Beer, Whiskey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Little Big Town (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z"><img src="https://i.scdn.co/image/ab67616d0000b273e074af9f5663eda06c5341ac" width="60" height="60" alt="And You Are Me" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z">Keep The Wolves Away</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Uncle Lucius (2012)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"><img src="https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730" width="60" height="60" alt="Cage The Elephant (Expanded Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">Ain't No Rest for the Wicked</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cage The Elephant (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE"><img src="https://i.scdn.co/image/ab67616d0000b273b898edb5cd07a99820a33050" width="60" height="60" alt="Cyberpunk EP" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE">FCKD</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper, Mark Arn (2019)</span></td>
 </tr>
 </table>
 </div>
