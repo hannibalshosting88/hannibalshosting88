@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"><img src="https://i.scdn.co/image/ab67616d0000b27365a9e11c89449998ac3da930" width="150" height="150" alt="So Much For The Afterglow" /></a>
+<a href="https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"><img src="https://i.scdn.co/image/ab67616d0000b273ded3790fc374ac8c641c27df" width="150" height="150" alt="Light Me Up" /></a>
 
-<b><a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN">Father Of Mine</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN">Make Me Wanna Die</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Everclear (1997)</span>
+<span style="color: #666;">The Pretty Reckless (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"><img src="https://i.scdn.co/image/ab67616d0000b27365a9e11c89449998ac3da930" width="60" height="60" alt="So Much For The Afterglow" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN">Father Of Mine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Everclear (1997)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"><img src="https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2" width="60" height="60" alt="A Bar Song (Tipsy)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">A Bar Song (Tipsy)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Shaboozey (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3X9tJw6z5LowFx339fhTvu"><img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" width="60" height="60" alt="I Walk the Line (Stereo Version)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3X9tJw6z5LowFx339fhTvu">I Walk the Line - Stereo Version</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (1964)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5ZyHuqtLLIif57bwJVk6Ov"><img src="https://i.scdn.co/image/ab67616d0000b27361866cb72b9652f3f2ce73d3" width="60" height="60" alt="Greatest Hits" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5ZyHuqtLLIif57bwJVk6Ov">Date Rape</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1999)</span></td>
 </tr>
 </table>
 </div>
