@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/03GeqQTzKXeOH6wXYTkfdI"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="150" height="150" alt="One Long Dream" /></a>
+<a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="150" height="150" alt="In Keeping Secrets Of Silent Earth: 3" /></a>
 
-<b><a href="https://open.spotify.com/track/03GeqQTzKXeOH6wXYTkfdI">Go Play</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">SonReal (2016)</span>
+<span style="color: #666;">Coheed and Cambria (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/03GeqQTzKXeOH6wXYTkfdI"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
+<td><b><a href="https://open.spotify.com/track/03GeqQTzKXeOH6wXYTkfdI">Go Play</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3X9tJw6z5LowFx339fhTvu"><img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" width="60" height="60" alt="I Walk the Line (Stereo Version)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3X9tJw6z5LowFx339fhTvu">I Walk the Line - Stereo Version</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (1964)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0vtJ9Dq53hfXE3KyP1yPni"><img src="https://i.scdn.co/image/ab67616d0000b273d77299e3d29f44495cd7fbcb" width="60" height="60" alt="40oz. To Freedom" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0vtJ9Dq53hfXE3KyP1yPni">40oz. To Freedom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1992)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/48ebD1GIO56qH8nYBLWQna"><img src="https://i.scdn.co/image/ab67616d0000b273aaecbc943b8593a1233b98c5" width="60" height="60" alt="XXL" /></a></td>
-<td><b><a href="https://open.spotify.com/track/48ebD1GIO56qH8nYBLWQna">The Jazz Police</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Gordon Goodwin's Big Phat Band (2003)</span></td>
 </tr>
 </table>
 </div>
