@@ -228,3 +228,4 @@ If you find my projects helpful or just want to support my work, consider buying
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
+<!-- SPOTIFY-RECENTLY-PLAYED:END -->
