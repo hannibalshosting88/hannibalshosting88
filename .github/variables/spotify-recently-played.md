@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"><img src="https://i.scdn.co/image/ab67616d0000b273fe3a12c23f04549cef0fbe84" width="150" height="150" alt="A 20 Something Fuck" /></a>
+<a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn"><img src="https://i.scdn.co/image/ab67616d0000b27338515ef670537d024a158646" width="150" height="150" alt="Hotline Miami: The Takedown EP" /></a>
 
-<b><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1">I Feel Like I'm Drowning</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn">Knock Knock</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Two Feet (2018)</span>
+<span style="color: #666;">Scattle (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"><img src="https://i.scdn.co/image/ab67616d0000b273fe3a12c23f04549cef0fbe84" width="60" height="60" alt="A 20 Something Fuck" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1">I Feel Like I'm Drowning</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"><img src="https://i.scdn.co/image/ab67616d0000b273f7b69bb1db06fec7f326d6f7" width="60" height="60" alt="Run" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">Run</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION (2015)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95"><img src="https://i.scdn.co/image/ab67616d0000b27363bd80f6f88dd62da7ef193c" width="60" height="60" alt="OK Go" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95">Get Over It</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">OK Go (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"><img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" width="60" height="60" alt="The Lady Killer" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG">Fuck You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CeeLo Green (2010)</span></td>
 </tr>
 </table>
 </div>
