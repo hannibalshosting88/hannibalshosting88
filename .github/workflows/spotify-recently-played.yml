@@ -16,8 +16,8 @@ jobs:
       
       - name: variable-2-README-workflow
         run: |
-          # Read the Spotify data file
-          SPOTIFY_CONTENT=$(cat .github/variables/spotify-recently-played.md)
+          # Read the Spotify data file and remove the "*Updated via N8N workflow" text
+          SPOTIFY_CONTENT=$(cat .github/variables/spotify-recently-played.md | sed 's/\*Updated via N8N workflow//g')
           
           # Use awk to replace content between markers in README.md
           awk -v spotify="$SPOTIFY_CONTENT" '
