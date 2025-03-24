@@ -5,13 +5,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"><img src="https://i.scdn.co/image/ab67616d0000b27321fe7a86d0e0803b99b893ba" width="150" height="150" alt="Blackout" /></a>
+<a href="https://open.spotify.com/track/4xi5Cz4KJGaWz0hRvz9mll"><img src="https://i.scdn.co/image/ab67616d0000b273df58a881c20d1aba831164c3" width="150" height="150" alt="All You Can Do" /></a>
 
-<b><a href="https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi">Black Velvet Band</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/4xi5Cz4KJGaWz0hRvz9mll">Whoa Whoa Whoa</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Dropkick Murphys (2003)</span>
+<span style="color: #666;">Watsky (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"><img src="https://i.scdn.co/image/ab67616d0000b273774080a4ac27b3c5c86af35f" width="60" height="60" alt="Hats Off to the Bull" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF">Face to the Floor</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chevelle (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"><img src="https://i.scdn.co/image/ab67616d0000b27321fe7a86d0e0803b99b893ba" width="60" height="60" alt="Blackout" /></a></td>
+<td><b><a href="https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi">Black Velvet Band</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dropkick Murphys (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/14daOroAa2CmxeT1prZnOE"><img src="https://i.scdn.co/image/ab67616d0000b2736fede82146181a73665793d8" width="60" height="60" alt="The Devil You Know" /></a></td>
 <td><b><a href="https://open.spotify.com/track/14daOroAa2CmxeT1prZnOE">The Highland Street Incident</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Todd Snider (2006)</span></td>
@@ -43,14 +51,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"><img src="https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96" width="60" height="60" alt="÷ (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3">Shape of You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Ed Sheeran (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG"><img src="https://i.scdn.co/image/ab67616d0000b273d9c7516258eb58d793d49e2e" width="60" height="60" alt="I Wanna Get Better" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG">I Wanna Get Better</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bleachers (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh"><img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" width="60" height="60" alt="The Muppets (Original Motion Picture Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">Mah Na Mah Na</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mahna Mahna and The Two Snowths (2011)</span></td>
 </tr>
 </table>
 <sub><i>Updated via N8N workflow</i></sub>
