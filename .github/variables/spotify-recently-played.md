@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="150" height="150" alt="In Keeping Secrets Of Silent Earth: 3" /></a>
+<a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="150" height="150" alt="One By One (Expanded Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Coheed and Cambria (2003)</span>
+<span style="color: #666;">Foo Fighters (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/03GeqQTzKXeOH6wXYTkfdI"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
 <td><b><a href="https://open.spotify.com/track/03GeqQTzKXeOH6wXYTkfdI">Go Play</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W"><img src="https://i.scdn.co/image/ab67616d0000b2733d2dc1ad7bc94f4f431a2e14" width="60" height="60" alt="Pacific Rim (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W">Pacific Rim (feat. Tom Morello)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ramin Djawadi, Tom Morello (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0vtJ9Dq53hfXE3KyP1yPni"><img src="https://i.scdn.co/image/ab67616d0000b273d77299e3d29f44495cd7fbcb" width="60" height="60" alt="40oz. To Freedom" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0vtJ9Dq53hfXE3KyP1yPni">40oz. To Freedom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1992)</span></td>
 </tr>
 </table>
 </div>
