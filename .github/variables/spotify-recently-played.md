@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"><img src="https://i.scdn.co/image/ab67616d0000b273ded3790fc374ac8c641c27df" width="150" height="150" alt="Light Me Up" /></a>
+<a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI"><img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="150" height="150" alt="JoJo's Theme (Doom Version)" /></a>
 
-<b><a href="https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN">Make Me Wanna Die</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo's Theme (Doom Version)</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">The Pretty Reckless (2010)</span>
+<span style="color: #666;">Aahiden, Aaron F. Bianchi Jupiter (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"><img src="https://i.scdn.co/image/ab67616d0000b273ded3790fc374ac8c641c27df" width="60" height="60" alt="Light Me Up" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN">Make Me Wanna Die</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Pretty Reckless (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"><img src="https://i.scdn.co/image/ab67616d0000b27365a9e11c89449998ac3da930" width="60" height="60" alt="So Much For The Afterglow" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN">Father Of Mine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Everclear (1997)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/03GeqQTzKXeOH6wXYTkfdI"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
 <td><b><a href="https://open.spotify.com/track/03GeqQTzKXeOH6wXYTkfdI">Go Play</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3X9tJw6z5LowFx339fhTvu"><img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" width="60" height="60" alt="I Walk the Line (Stereo Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3X9tJw6z5LowFx339fhTvu">I Walk the Line - Stereo Version</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (1964)</span></td>
 </tr>
 </table>
 </div>
