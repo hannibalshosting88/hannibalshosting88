@@ -5,7 +5,7 @@
 
 # 🎧 Recent Jam Session 🎧
 
-<h3>🎵 Currently Playing</h3>
+<h3>🎵 Currently Playing 🎵</h3>
 
 <a href="https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG"><img src="https://i.scdn.co/image/ab67616d0000b273d9c7516258eb58d793d49e2e" width="150" height="150" alt="I Wanna Get Better" /></a>
 
