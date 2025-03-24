@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="150" height="150" alt="Hybrid Theory (Bonus Edition)" /></a>
+<a href="https://open.spotify.com/track/24z528iI9kZu5LbkLainjI"><img src="https://i.scdn.co/image/ab67616d0000b273985bf5ede2fe4a048ee85f28" width="150" height="150" alt="Infest" /></a>
 
-<b><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr">Crawling</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/24z528iI9kZu5LbkLainjI">Between Angels And Insects</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Linkin Park (2000)</span>
+<span style="color: #666;">Papa Roach (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"><img src="https://i.scdn.co/image/ab67616d0000b27346ed4ae9343359e5965baf7b" width="60" height="60" alt="Love For The Streets" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV">Jerk It Out</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Caesars (2002)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr">Crawling</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="60" height="60" alt="Pray for the Wicked" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2018)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"><img src="https://i.scdn.co/image/ab67616d0000b27365a9e11c89449998ac3da930" width="60" height="60" alt="So Much For The Afterglow" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN">Father Of Mine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Everclear (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"><img src="https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2" width="60" height="60" alt="A Bar Song (Tipsy)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">A Bar Song (Tipsy)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Shaboozey (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="60" height="60" alt="Get Rich Or Die Tryin'" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">50 Cent (2003)</span></td>
 </tr>
 </table>
 </div>
