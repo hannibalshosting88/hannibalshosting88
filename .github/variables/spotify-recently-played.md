@@ -7,7 +7,7 @@
 
 <h3>🎵 Now Playing</h3>
 
-<a href="https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG"><img src="https://i.scdn.co/image/ab67616d0000b273d9c7516258eb58d793d49e2e" width="100" style="height: auto; aspect-ratio: 1/1;" alt="I Wanna Get Better" /></a>
+<a href="https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG"><img src="https://i.scdn.co/image/ab67616d0000b273d9c7516258eb58d793d49e2e" style="width: 150px; height: 150px; object-fit: cover;" alt="I Wanna Get Better" /></a>
 
 <b><a href="https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG">I Wanna Get Better</a></b><span style="color: gold;"> ★★★</span>
 
@@ -15,43 +15,43 @@
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="40" align="right"><a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh"><img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" width="40" style="height: auto; aspect-ratio: 1/1;" alt="The Muppets (Original Motion Picture Soundtrack)" style="margin-right:10px;" /></a></td>
+<td width="60" align="right"><a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh"><img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" style="width: 60px; height: 60px; object-fit: cover; margin-right:10px;" alt="The Muppets (Original Motion Picture Soundtrack)" /></a></td>
 <td align="left"><b><a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">Mah Na Mah Na</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mahna Mahna and The Two Snowths (2011)</span></td>
 </tr>
 <tr>
-<td width="40" align="right"><a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"><img src="https://i.scdn.co/image/ab67616d0000b273429d8ec28f865acf2a927c2d" width="40" style="height: auto; aspect-ratio: 1/1;" alt="What You See Is What You Get" style="margin-right:10px;" /></a></td>
+<td width="60" align="right"><a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"><img src="https://i.scdn.co/image/ab67616d0000b273429d8ec28f865acf2a927c2d" style="width: 60px; height: 60px; object-fit: cover; margin-right:10px;" alt="What You See Is What You Get" /></a></td>
 <td align="left"><b><a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">Beer Never Broke My Heart</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Luke Combs (2019)</span></td>
 </tr>
 <tr>
-<td width="40" align="right"><a href="https://open.spotify.com/track/3nOEWcVEwqH6bPecKSYaHQ"><img src="https://i.scdn.co/image/ab67616d0000b2731f81dec4c6e5a290f0bca4e8" width="40" style="height: auto; aspect-ratio: 1/1;" alt="Cardboard Castles" style="margin-right:10px;" /></a></td>
+<td width="60" align="right"><a href="https://open.spotify.com/track/3nOEWcVEwqH6bPecKSYaHQ"><img src="https://i.scdn.co/image/ab67616d0000b2731f81dec4c6e5a290f0bca4e8" style="width: 60px; height: 60px; object-fit: cover; margin-right:10px;" alt="Cardboard Castles" /></a></td>
 <td align="left"><b><a href="https://open.spotify.com/track/3nOEWcVEwqH6bPecKSYaHQ">Strong As an Oak</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2013)</span></td>
 </tr>
 <tr>
-<td width="40" align="right"><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8"><img src="https://i.scdn.co/image/ab67616d0000b273eece10ee539479b08711a839" width="40" style="height: auto; aspect-ratio: 1/1;" alt="Ghostrunner (Original Soundtrack)" style="margin-right:10px;" /></a></td>
+<td width="60" align="right"><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8"><img src="https://i.scdn.co/image/ab67616d0000b273eece10ee539479b08711a839" style="width: 60px; height: 60px; object-fit: cover; margin-right:10px;" alt="Ghostrunner (Original Soundtrack)" /></a></td>
 <td align="left"><b><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8">The Orb</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Daniel Deluxe (2020)</span></td>
 </tr>
 <tr>
-<td width="40" align="right"><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="40" style="height: auto; aspect-ratio: 1/1;" alt="Morning View" style="margin-right:10px;" /></a></td>
+<td width="60" align="right"><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" style="width: 60px; height: 60px; object-fit: cover; margin-right:10px;" alt="Morning View" /></a></td>
 <td align="left"><b><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm">Are You In?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
 </tr>
 <tr>
-<td width="40" align="right"><a href="https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7"><img src="https://i.scdn.co/image/ab67616d0000b27331dc2b6da1570a9c8929e0f6" width="40" style="height: auto; aspect-ratio: 1/1;" alt="Comfort Eagle" style="margin-right:10px;" /></a></td>
+<td width="60" align="right"><a href="https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7"><img src="https://i.scdn.co/image/ab67616d0000b27331dc2b6da1570a9c8929e0f6" style="width: 60px; height: 60px; object-fit: cover; margin-right:10px;" alt="Comfort Eagle" /></a></td>
 <td align="left"><b><a href="https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7">Short Skirt / Long Jacket</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2001)</span></td>
 </tr>
 <tr>
-<td width="40" align="right"><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"><img src="https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c" width="40" style="height: auto; aspect-ratio: 1/1;" alt="In Utero (Deluxe Edition)" style="margin-right:10px;" /></a></td>
+<td width="60" align="right"><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"><img src="https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c" style="width: 60px; height: 60px; object-fit: cover; margin-right:10px;" alt="In Utero (Deluxe Edition)" /></a></td>
 <td align="left"><b><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa">Heart-Shaped Box</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nirvana (1993)</span></td>
 </tr>
 <tr>
-<td width="40" align="right"><a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd"><img src="https://i.scdn.co/image/ab67616d0000b2734bc377c41ab14f2ffa219ea1" width="40" style="height: auto; aspect-ratio: 1/1;" alt="The Irish Volunteer" style="margin-right:10px;" /></a></td>
+<td width="60" align="right"><a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd"><img src="https://i.scdn.co/image/ab67616d0000b2734bc377c41ab14f2ffa219ea1" style="width: 60px; height: 60px; object-fit: cover; margin-right:10px;" alt="The Irish Volunteer" /></a></td>
 <td align="left"><b><a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd">The Irish Volunteer</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">David Kincaid (1998)</span></td>
 </tr>
 <tr>
-<td width="40" align="right"><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"><img src="https://i.scdn.co/image/ab67616d0000b2730ea1ecb2d5271c2db402b0c2" width="40" style="height: auto; aspect-ratio: 1/1;" alt="Hail to the King" style="margin-right:10px;" /></a></td>
+<td width="60" align="right"><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"><img src="https://i.scdn.co/image/ab67616d0000b2730ea1ecb2d5271c2db402b0c2" style="width: 60px; height: 60px; object-fit: cover; margin-right:10px;" alt="Hail to the King" /></a></td>
 <td align="left"><b><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo">Hail to the King</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2013)</span></td>
 </tr>
 <tr>
-<td width="40" align="right"><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="40" style="height: auto; aspect-ratio: 1/1;" alt="In Keeping Secrets Of Silent Earth: 3" style="margin-right:10px;" /></a></td>
+<td width="60" align="right"><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" style="width: 60px; height: 60px; object-fit: cover; margin-right:10px;" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
 <td align="left"><b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
 </tr>
 </table>
