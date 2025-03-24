@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI"><img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="150" height="150" alt="JoJo's Theme (Doom Version)" /></a>
+<a href="https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="150" height="150" alt="Origins (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo's Theme (Doom Version)</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi">Zero - From the Original Motion Picture "Ralph Breaks The Internet"</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Aahiden, Aaron F. Bianchi Jupiter (2022)</span>
+<span style="color: #666;">Imagine Dragons (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI"><img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="60" height="60" alt="JoJo's Theme (Doom Version)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo's Theme (Doom Version)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Aahiden, Aaron F. Bianchi Jupiter (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"><img src="https://i.scdn.co/image/ab67616d0000b273ded3790fc374ac8c641c27df" width="60" height="60" alt="Light Me Up" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN">Make Me Wanna Die</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Pretty Reckless (2010)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/03GeqQTzKXeOH6wXYTkfdI"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
-<td><b><a href="https://open.spotify.com/track/03GeqQTzKXeOH6wXYTkfdI">Go Play</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
 </tr>
 </table>
 </div>
