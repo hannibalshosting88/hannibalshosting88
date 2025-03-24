@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="150" height="150" alt="One By One (Expanded Edition)" /></a>
+<a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"><img src="https://i.scdn.co/image/ab67616d0000b273946301359b8ad60772671b8f" width="150" height="150" alt="Three Dollar Bill, Y'all $" /></a>
 
-<b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah">Counterfeit</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Foo Fighters (2002)</span>
+<span style="color: #666;">Limp Bizkit (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W"><img src="https://i.scdn.co/image/ab67616d0000b2733d2dc1ad7bc94f4f431a2e14" width="60" height="60" alt="Pacific Rim (Original Motion Picture Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W">Pacific Rim (feat. Tom Morello)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ramin Djawadi, Tom Morello (2013)</span></td>
 </tr>
 </table>
 </div>
