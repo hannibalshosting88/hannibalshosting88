@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp"><img src="https://i.scdn.co/image/ab67616d0000b2733c2bba46b66a3c8a83a53015" width="150" height="150" alt="Come Clean" /></a>
+<a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"><img src="https://i.scdn.co/image/ab67616d0000b27300693a6a40d04ca03bf155cc" width="150" height="150" alt="Better Place (From TROLLS Band Together)" /></a>
 
-<b><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp">Blurry</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK">Better Place (From TROLLS Band Together)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Puddle Of Mudd (2001)</span>
+<span style="color: #666;">*NSYNC, Justin Timberlake (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">Make Yourself</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp"><img src="https://i.scdn.co/image/ab67616d0000b2733c2bba46b66a3c8a83a53015" width="60" height="60" alt="Come Clean" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp">Blurry</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95"><img src="https://i.scdn.co/image/ab67616d0000b27363bd80f6f88dd62da7ef193c" width="60" height="60" alt="OK Go" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95">Get Over It</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">OK Go (2002)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"><img src="https://i.scdn.co/image/ab67616d0000b27387e51905aaafd4b2e46e9121" width="60" height="60" alt="Falco 3" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU">Rock Me Amadeus</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Falco (1985)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh">Kenji</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3"><img src="https://i.scdn.co/image/ab67616d0000b273f68df0d2e33a7c96a30a7847" width="60" height="60" alt="Dead Air" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3">Dead Air</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
 </tr>
 </table>
 </div>
