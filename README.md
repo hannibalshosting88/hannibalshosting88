@@ -15,7 +15,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </div>
 
 ## 🔄 Latest Jammin' Session
-
 <!-- SPOTIFY_RECENTLY_PLAYED:START -->
 <!-- SPOTIFY_RECENTLY_PLAYED:END -->
 
