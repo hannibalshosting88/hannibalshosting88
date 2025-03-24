@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh"><img src="https://i.scdn.co/image/ab67616d0000b273148e78020adb43391ac529e9" width="150" height="150" alt="Am I A Girl?" /></a>
+<a href="https://open.spotify.com/track/0wmNV2ooIKpmB6lKA5djEK"><img src="https://i.scdn.co/image/ab67616d0000b27367836301e250d5164808b780" width="150" height="150" alt="Let Yourself Go" /></a>
 
-<b><a href="https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh">Girls In Bikinis</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0wmNV2ooIKpmB6lKA5djEK">Best Thing</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Poppy (2018)</span>
+<span style="color: #666;">Haley Blais (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh"><img src="https://i.scdn.co/image/ab67616d0000b273148e78020adb43391ac529e9" width="60" height="60" alt="Am I A Girl?" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh">Girls In Bikinis</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Poppy (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l">My Generation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5ekIQRUzOO1ht8GCvbY9hQ"><img src="https://i.scdn.co/image/ab67616d0000b273ea584a7bd29940c6d7c5b32a" width="60" height="60" alt="The Only Thing They Fear Is Vader" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5ekIQRUzOO1ht8GCvbY9hQ">The Only Thing They Fear Is Vader</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk"><img src="https://i.scdn.co/image/ab67616d0000b273e73b1b6b3c3c25398303334f" width="60" height="60" alt="Fashion Nugget" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk">I Will Survive</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (1996)</span></td>
 </tr>
 </table>
 </div>
