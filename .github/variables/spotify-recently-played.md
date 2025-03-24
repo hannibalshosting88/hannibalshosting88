@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z"><img src="https://i.scdn.co/image/ab67616d0000b273e074af9f5663eda06c5341ac" width="150" height="150" alt="And You Are Me" /></a>
+<a href="https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"><img src="https://i.scdn.co/image/ab67616d0000b2731b172ee4058bc492d0ce562d" width="150" height="150" alt="Nightfall" /></a>
 
-<b><a href="https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z">Keep The Wolves Away</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl">Wine, Beer, Whiskey</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Uncle Lucius (2012)</span>
+<span style="color: #666;">Little Big Town (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z"><img src="https://i.scdn.co/image/ab67616d0000b273e074af9f5663eda06c5341ac" width="60" height="60" alt="And You Are Me" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z">Keep The Wolves Away</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Uncle Lucius (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"><img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" width="60" height="60" alt="Ten" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pearl Jam (1991)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE"><img src="https://i.scdn.co/image/ab67616d0000b273b898edb5cd07a99820a33050" width="60" height="60" alt="Cyberpunk EP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE">FCKD</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper, Mark Arn (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA"><img src="https://i.scdn.co/image/ab67616d0000b2738b660b58d947c1d666d635c0" width="60" height="60" alt="The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA">Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Teriyaki Boyz (2006)</span></td>
 </tr>
 </table>
 </div>
