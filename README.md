@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2kE4qkaDNvNhXGLoArQDct"><img src="https://i.scdn.co/image/ab67616d0000b27303ca6a733d655fe982326c6b" width="150" height="150" alt="Four Wheel Drive" /></a>
+<a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3"><img src="https://i.scdn.co/image/ab67616d0000b273f68df0d2e33a7c96a30a7847" width="150" height="150" alt="Dead Air" /></a>
 
-<b><a href="https://open.spotify.com/track/2kE4qkaDNvNhXGLoArQDct">Hey You</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3">Dead Air</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Bachman-Turner Overdrive (1975)</span>
+<span style="color: #666;">Psygnals (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2kE4qkaDNvNhXGLoArQDct"><img src="https://i.scdn.co/image/ab67616d0000b27303ca6a733d655fe982326c6b" width="60" height="60" alt="Four Wheel Drive" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2kE4qkaDNvNhXGLoArQDct">Hey You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bachman-Turner Overdrive (1975)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0wmNV2ooIKpmB6lKA5djEK"><img src="https://i.scdn.co/image/ab67616d0000b27367836301e250d5164808b780" width="60" height="60" alt="Let Yourself Go" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0wmNV2ooIKpmB6lKA5djEK">Best Thing</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Haley Blais (2018)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC"><img src="https://i.scdn.co/image/ab67616d0000b27374be78bd14d095c8d76943a0" width="60" height="60" alt="The Click (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC">Burn The House Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2uiEqPjMmIJXOKplzsEASP"><img src="https://i.scdn.co/image/ab67616d0000b273c3cc3ebad3a4e8ab2a30795d" width="60" height="60" alt="All Or Nothing" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2uiEqPjMmIJXOKplzsEASP">Lean Back (feat. Lil Jon, Eminem, Mase & Remy Martin) - Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fat Joe, Eminem, Lil Jon, Mase, Remy Ma (2005)</span></td>
 </tr>
 </table>
 </div>
