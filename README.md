@@ -21,9 +21,9 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <!-- SPOTIFY_RECENTLY_PLAYED:START -->
 <div align='center'>
 
-# 🎧 My Recent Tracks
+# 🎧 Recent Jam Session 🎧
 
-<h3>🎵 Now Playing</h3>
+<h3>🎵 Currently Playing</h3>
 
 <a href="https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG"><img src="https://i.scdn.co/image/ab67616d0000b273d9c7516258eb58d793d49e2e" width="150" height="150" alt="I Wanna Get Better" /></a>
 
@@ -220,6 +220,7 @@ If you find my projects helpful or just want to support my work, consider buying
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
+<!-- SPOTIFY-RECENTLY-PLAYED:END -->
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
