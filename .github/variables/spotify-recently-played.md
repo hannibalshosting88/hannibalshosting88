@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"><img src="https://i.scdn.co/image/ab67616d0000b273c66ad69a4c9fec63e6f49a3a" width="150" height="150" alt="Karma and Effect" /></a>
+<a href="https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo"><img src="https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95" width="150" height="150" alt="SremmLife 2 (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc">Remedy</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo">Black Beatles</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Seether (2005)</span>
+<span style="color: #666;">Rae Sremmurd, Gucci Mane (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"><img src="https://i.scdn.co/image/ab67616d0000b273c66ad69a4c9fec63e6f49a3a" width="60" height="60" alt="Karma and Effect" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc">Remedy</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seether (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="60" height="60" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">ZAYN, Taylor Swift (2017)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd"><img src="https://i.scdn.co/image/ab67616d0000b2732b08b69dddd1cb3976a9fa40" width="60" height="60" alt="Disclaimer II" /></a></td>
 <td><b><a href="https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd">Broken</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seether, Amy Lee (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"><img src="https://i.scdn.co/image/ab67616d0000b27392b32435efed601fc8f1045d" width="60" height="60" alt="The Fray" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi">You Found Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Fray (2009)</span></td>
 </tr>
 </table>
 </div>
