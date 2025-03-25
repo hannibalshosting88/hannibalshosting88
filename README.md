@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo"><img src="https://i.scdn.co/image/ab67616d0000b27308b19a033829c0bec97be61a" width="150" height="150" alt="Monkey Business" /></a>
+<a href="https://open.spotify.com/track/0CbZGS7GBavUKpPehJm1AJ"><img src="https://i.scdn.co/image/ab67616d0000b2739143684005848c5ec4a6e397" width="150" height="150" alt="Pardon Me for Smiling" /></a>
 
-<b><a href="https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo">Pump It</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0CbZGS7GBavUKpPehJm1AJ">Kinky Boots</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Black Eyed Peas (2005)</span>
+<span style="color: #666;">The Irish Brigade (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4nhNJBCqmDtvFGnjZuWf4R"><img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="60" height="60" alt="Thundersmack" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4nhNJBCqmDtvFGnjZuWf4R">Bad Molly</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo"><img src="https://i.scdn.co/image/ab67616d0000b27308b19a033829c0bec97be61a" width="60" height="60" alt="Monkey Business" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo">Pump It</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu"><img src="https://i.scdn.co/image/ab67616d0000b273b7879980ef2ea7ac1cc29316" width="60" height="60" alt="Ghost In The Machine (Remastered 2003)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu">Spirits In The Material World</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Police (1981)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID"><img src="https://i.scdn.co/image/ab67616d0000b273f31382d7bd220e2c6b3f7f14" width="60" height="60" alt="Had Some Drinks" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID">Had Some Drinks</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"><img src="https://i.scdn.co/image/ab67616d0000b273e122d21b6026da241cd33997" width="60" height="60" alt="Bobby Darin" /></a></td>
-<td><b><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG">Splish Splash</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bobby Darin (1958)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"><img src="https://i.scdn.co/image/ab67616d0000b273f489b4582e496de8f71e88da" width="60" height="60" alt="With Teeth" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7">The Hand That Feeds</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nine Inch Nails (2005)</span></td>
 </tr>
 </table>
 </div>
