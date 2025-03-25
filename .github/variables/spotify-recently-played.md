@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID"><img src="https://i.scdn.co/image/ab67616d0000b273f31382d7bd220e2c6b3f7f14" width="150" height="150" alt="Had Some Drinks" /></a>
+<a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"><img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" width="150" height="150" alt="Doo-Wops & Hooligans" /></a>
 
-<b><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID">Had Some Drinks</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ">Just the Way You Are</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Two Feet (2017)</span>
+<span style="color: #666;">Bruno Mars (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID"><img src="https://i.scdn.co/image/ab67616d0000b273f31382d7bd220e2c6b3f7f14" width="60" height="60" alt="Had Some Drinks" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID">Had Some Drinks</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"><img src="https://i.scdn.co/image/ab67616d0000b273e122d21b6026da241cd33997" width="60" height="60" alt="Bobby Darin" /></a></td>
 <td><b><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG">Splish Splash</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bobby Darin (1958)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn"><img src="https://i.scdn.co/image/ab67616d0000b27338515ef670537d024a158646" width="60" height="60" alt="Hotline Miami: The Takedown EP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn">Knock Knock</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Scattle (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"><img src="https://i.scdn.co/image/ab67616d0000b273fe3a12c23f04549cef0fbe84" width="60" height="60" alt="A 20 Something Fuck" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1">I Feel Like I'm Drowning</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2018)</span></td>
 </tr>
 </table>
 </div>
