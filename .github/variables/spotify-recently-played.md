@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="150" height="150" alt="From Under The Cork Tree" /></a>
+<a href="https://open.spotify.com/track/6IY2y3kjjLaNbxW4GLiYQR"><img src="https://i.scdn.co/image/ab67616d0000b273b37587783bd6919a3d78b4a7" width="150" height="150" alt="Ill Mind of Hopsin 8" /></a>
 
-<b><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">Sugar, We're Goin Down</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6IY2y3kjjLaNbxW4GLiYQR">Ill Mind of Hopsin 8</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Fall Out Boy (2005)</span>
+<span style="color: #666;">Hopsin (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="60" height="60" alt="From Under The Cork Tree" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">Sugar, We're Goin Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo"><img src="https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95" width="60" height="60" alt="SremmLife 2 (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo">Black Beatles</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rae Sremmurd, Gucci Mane (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB"><img src="https://i.scdn.co/image/ab67616d0000b273a9bae94ddb20a71f573931c0" width="60" height="60" alt="The Young and The Hopeless" /></a></td>
 <td><b><a href="https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB">Girls & Boys</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"><img src="https://i.scdn.co/image/ab67616d0000b273c418220159462cdd7cfeb9a1" width="60" height="60" alt="Finding Beauty In Negative Spaces (Bonus Track Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0">Fake It</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seether (2007)</span></td>
 </tr>
 </table>
 </div>
