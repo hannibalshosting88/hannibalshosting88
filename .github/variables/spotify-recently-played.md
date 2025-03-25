@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"><img src="https://i.scdn.co/image/ab67616d0000b273382514f0114ba8f4a16d5db4" width="150" height="150" alt="THE E.N.D. (THE ENERGY NEVER DIES)" /></a>
+<a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"><img src="https://i.scdn.co/image/ab67616d0000b273f489b4582e496de8f71e88da" width="150" height="150" alt="With Teeth" /></a>
 
-<b><a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG">I Gotta Feeling</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7">The Hand That Feeds</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Black Eyed Peas (2009)</span>
+<span style="color: #666;">Nine Inch Nails (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"><img src="https://i.scdn.co/image/ab67616d0000b273382514f0114ba8f4a16d5db4" width="60" height="60" alt="THE E.N.D. (THE ENERGY NEVER DIES)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG">I Gotta Feeling</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1BTwCVyJtCBVMzv2uIDRgw"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1BTwCVyJtCBVMzv2uIDRgw">Red to Black (feat. Kenna, Jonah Matranga & Styles of Beyond)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Kenna, Jonah Matranga, Styles Of Beyond (2005)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5wfllwdjglyQislkskYLBv"><img src="https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74" width="60" height="60" alt="Man On The Moon: The End Of Day (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5wfllwdjglyQislkskYLBv">Day 'N' Nite (nightmare)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA">High Road (feat. John Legend)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, John Legend (2005)</span></td>
 </tr>
 </table>
 </div>
