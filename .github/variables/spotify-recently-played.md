@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"><img src="https://i.scdn.co/image/ab67616d0000b273c16d23f23fbb8145368515f9" width="150" height="150" alt="Beautiful Soul" /></a>
+<a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="150" height="150" alt="Evolve" /></a>
 
-<b><a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS">Beautiful Soul</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">Believer</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Jesse McCartney (2004)</span>
+<span style="color: #666;">Imagine Dragons (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"><img src="https://i.scdn.co/image/ab67616d0000b273c16d23f23fbb8145368515f9" width="60" height="60" alt="Beautiful Soul" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS">Beautiful Soul</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jesse McCartney (2004)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3cSuhzV7wKX5diQ8hos78P"><img src="https://i.scdn.co/image/ab67616d0000b273cad1e37b4b31b5484325acd3" width="60" height="60" alt="We Are Young Money" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3cSuhzV7wKX5diQ8hos78P">Steady Mobbin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Young Money, Gucci Mane (2009)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"><img src="https://i.scdn.co/image/ab67616d0000b2735f192d3bcd5fed10b0884af9" width="60" height="60" alt="Eyelid Movies" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">When I'm Small</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Phantogram (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"><img src="https://i.scdn.co/image/ab67616d0000b27300693a6a40d04ca03bf155cc" width="60" height="60" alt="Better Place (From TROLLS Band Together)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK">Better Place (From TROLLS Band Together)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">*NSYNC, Justin Timberlake (2023)</span></td>
 </tr>
 </table>
 </div>
