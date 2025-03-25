@@ -104,9 +104,9 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </div>
 
 
-## ☕ Support My Work
-If you find my projects helpful or just want to support my work, consider buying me a coffee!
-
+<div style="background-color: #2a2a2a; border-left: 5px solid #ff6b6b; padding: 15px; margin: 20px 0;">
+  <h2>☕ Fuel My Code!</h2>
+  <p>If you find my projects helpful or just want to support my work, consider buying me a coffee!</p>
 <div align="center">
   <a href="https://ko-fi.com/hannibalshosting" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
