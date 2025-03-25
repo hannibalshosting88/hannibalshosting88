@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7CBD8biut3IwSJDfhKHLoH"><img src="https://i.scdn.co/image/ab67616d0000b273608b7c67166e304b14c85c5c" width="150" height="150" alt="If Not Now, When?" /></a>
+<a href="https://open.spotify.com/track/4YkAIAV4z5VJSOKYOAsS9U"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="150" height="150" alt="Doom (Original Game Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/7CBD8biut3IwSJDfhKHLoH">Adolescents</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4YkAIAV4z5VJSOKYOAsS9U">Vega Core</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Incubus (2011)</span>
+<span style="color: #666;">Mick Gordon (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7CBD8biut3IwSJDfhKHLoH"><img src="https://i.scdn.co/image/ab67616d0000b273608b7c67166e304b14c85c5c" width="60" height="60" alt="If Not Now, When?" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7CBD8biut3IwSJDfhKHLoH">Adolescents</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2011)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"><img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" width="60" height="60" alt="Ten" /></a></td>
 <td><b><a href="https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o">Jeremy</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pearl Jam (1991)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"><img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="60" height="60" alt="Mezmerize" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md">B.Y.O.B.</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"><img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="60" height="60" alt="Hang-Ups" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Goldfinger (1998)</span></td>
 </tr>
 </table>
 </div>
