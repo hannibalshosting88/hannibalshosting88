@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="150" height="150" alt="Evolve" /></a>
+<a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"><img src="https://i.scdn.co/image/ab67616d0000b273382514f0114ba8f4a16d5db4" width="150" height="150" alt="THE E.N.D. (THE ENERGY NEVER DIES)" /></a>
 
-<b><a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">Believer</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG">I Gotta Feeling</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Imagine Dragons (2017)</span>
+<span style="color: #666;">Black Eyed Peas (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1BTwCVyJtCBVMzv2uIDRgw"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1BTwCVyJtCBVMzv2uIDRgw">Red to Black (feat. Kenna, Jonah Matranga & Styles of Beyond)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Kenna, Jonah Matranga, Styles Of Beyond (2005)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="60" height="60" alt="Evolve" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">Believer</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"><img src="https://i.scdn.co/image/ab67616d0000b273c16d23f23fbb8145368515f9" width="60" height="60" alt="Beautiful Soul" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS">Beautiful Soul</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jesse McCartney (2004)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA">High Road (feat. John Legend)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, John Legend (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"><img src="https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53" width="60" height="60" alt="The Anthology" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">Electric Relaxation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">A Tribe Called Quest (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"><img src="https://i.scdn.co/image/ab67616d0000b2735f192d3bcd5fed10b0884af9" width="60" height="60" alt="Eyelid Movies" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">When I'm Small</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Phantogram (2010)</span></td>
 </tr>
 </table>
 </div>
