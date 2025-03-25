@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="150" height="150" alt="One Long Dream" /></a>
+<a href="https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"><img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" width="150" height="150" alt="Ten" /></a>
 
-<b><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">No Warm Up</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o">Jeremy</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">SonReal (2016)</span>
+<span style="color: #666;">Pearl Jam (1991)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">No Warm Up</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB"><img src="https://i.scdn.co/image/ab67616d0000b273a9bae94ddb20a71f573931c0" width="60" height="60" alt="The Young and The Hopeless" /></a></td>
 <td><b><a href="https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB">Girls & Boys</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2002)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0CbZGS7GBavUKpPehJm1AJ"><img src="https://i.scdn.co/image/ab67616d0000b2739143684005848c5ec4a6e397" width="60" height="60" alt="Pardon Me for Smiling" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0CbZGS7GBavUKpPehJm1AJ">Kinky Boots</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Irish Brigade (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4nhNJBCqmDtvFGnjZuWf4R"><img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="60" height="60" alt="Thundersmack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4nhNJBCqmDtvFGnjZuWf4R">Bad Molly</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
 </tr>
 </table>
 </div>
