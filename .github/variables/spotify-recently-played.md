@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P"><img src="https://i.scdn.co/image/ab67616d0000b273d77299e3d29f44495cd7fbcb" width="150" height="150" alt="40oz. To Freedom" /></a>
+<a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"><img src="https://i.scdn.co/image/ab67616d0000b273c16d23f23fbb8145368515f9" width="150" height="150" alt="Beautiful Soul" /></a>
 
-<b><a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P">Waiting For My Ruca</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS">Beautiful Soul</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Sublime (1992)</span>
+<span style="color: #666;">Jesse McCartney (2004)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3cSuhzV7wKX5diQ8hos78P"><img src="https://i.scdn.co/image/ab67616d0000b273cad1e37b4b31b5484325acd3" width="60" height="60" alt="We Are Young Money" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3cSuhzV7wKX5diQ8hos78P">Steady Mobbin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Young Money, Gucci Mane (2009)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P"><img src="https://i.scdn.co/image/ab67616d0000b273d77299e3d29f44495cd7fbcb" width="60" height="60" alt="40oz. To Freedom" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P">Waiting For My Ruca</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1992)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn"><img src="https://i.scdn.co/image/ab67616d0000b27338515ef670537d024a158646" width="60" height="60" alt="Hotline Miami: The Takedown EP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn">Knock Knock</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Scattle (2012)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"><img src="https://i.scdn.co/image/ab67616d0000b27300693a6a40d04ca03bf155cc" width="60" height="60" alt="Better Place (From TROLLS Band Together)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK">Better Place (From TROLLS Band Together)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">*NSYNC, Justin Timberlake (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">Make Yourself</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp"><img src="https://i.scdn.co/image/ab67616d0000b2733c2bba46b66a3c8a83a53015" width="60" height="60" alt="Come Clean" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp">Blurry</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
 </tr>
 </table>
 </div>
