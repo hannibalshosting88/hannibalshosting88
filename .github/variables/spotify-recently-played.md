@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"><img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" width="150" height="150" alt="Doo-Wops & Hooligans" /></a>
+<a href="https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"><img src="https://i.scdn.co/image/ab67616d0000b2732d4c593f0f35672767d881a9" width="150" height="150" alt="Conspiracy Of One" /></a>
 
-<b><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ">Just the Way You Are</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv">Original Prankster</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Bruno Mars (2010)</span>
+<span style="color: #666;">The Offspring, Redman (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="60" height="60" alt="Graduation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2007)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"><img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" width="60" height="60" alt="Doo-Wops & Hooligans" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ">Just the Way You Are</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID"><img src="https://i.scdn.co/image/ab67616d0000b273f31382d7bd220e2c6b3f7f14" width="60" height="60" alt="Had Some Drinks" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID">Had Some Drinks</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3cSuhzV7wKX5diQ8hos78P"><img src="https://i.scdn.co/image/ab67616d0000b273cad1e37b4b31b5484325acd3" width="60" height="60" alt="We Are Young Money" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3cSuhzV7wKX5diQ8hos78P">Steady Mobbin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Young Money, Gucci Mane (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P"><img src="https://i.scdn.co/image/ab67616d0000b273d77299e3d29f44495cd7fbcb" width="60" height="60" alt="40oz. To Freedom" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P">Waiting For My Ruca</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1992)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn"><img src="https://i.scdn.co/image/ab67616d0000b27338515ef670537d024a158646" width="60" height="60" alt="Hotline Miami: The Takedown EP" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn">Knock Knock</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Scattle (2012)</span></td>
 </tr>
 </table>
 </div>
