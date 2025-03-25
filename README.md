@@ -11,8 +11,30 @@
 
 I'm a versatile technical professional with expertise in vehicle assessment and IT infrastructure. I combine automotive knowledge with IT skills to deliver innovative solutions. I'm passionate about figuring things out - whether it's a complex server setup or a vehicle diagnostic puzzle!
 
- <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Linux+Server+Administrator;Docker+%26+Kubernetes+Enthusiast;Vehicle+Assessment+Specialist;Problem+Solver;Continuous+Learner;Modern+Problems...;" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=70&lines=Linux+System+Administrator;Docker+%26+Container+Expert;Network+Security+Focused;Advanced+Self-Hosting+Specialist;Modern+Problems+Require+Modern+Solutions;Where+There's+a+Shell%2C+There's+a+Way" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=4BA3F7&center=true&vCenter=true&width=600&height=70&lines=Web+Developer;Tech+Stack+Optimizer;Digital+Forensics+Professional;Zero-Trust+Specialist;Turning+Coffee+into+Code+Since+2015;Fluent+in+YAML" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=600&size=24&duration=2500&pause=900&color=47D147&center=true&vCenter=true&width=600&height=70&lines=Container+Deployment+Specialist;Multi-System+Diagnostician;Solution+Architect;Technical+Documentation+Writer;chmod+777+Life+--restrict-access=none;Automotive+Diagnostic+Specialist" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=600&size=24&duration=2800&pause=750&color=E5A823&center=true&vCenter=true&width=600&height=70&lines=System+Automation+Engineer;Infrastructure+as+Code+Explorer;Data+Recovery+Specialist;JavaScript+Developer;Residential+Electronics+Troubleshooter;Hardware+Build+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=24&duration=2200&pause=850&color=9370DB&center=true&vCenter=true&width=600&height=70&lines=Hybrid+Cloud+Specialist;DevOps+Enthusiast;4.0+GPA+IT+Student;Automotive+Electronics+Expert;Continuous+Integration+Curious;Technical+Problem+Solver" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- SPOTIFY-RECENTLY-PLAYED:START -->
