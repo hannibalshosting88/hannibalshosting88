@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6IY2y3kjjLaNbxW4GLiYQR"><img src="https://i.scdn.co/image/ab67616d0000b273b37587783bd6919a3d78b4a7" width="150" height="150" alt="Ill Mind of Hopsin 8" /></a>
+<a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"><img src="https://i.scdn.co/image/ab67616d0000b27321a706c06719ec096876afec" width="150" height="150" alt="BRELAND & Friends: Vol. 1 (Live)" /></a>
 
-<b><a href="https://open.spotify.com/track/6IY2y3kjjLaNbxW4GLiYQR">Ill Mind of Hopsin 8</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">Praise the Lord (feat. Thomas Rhett) - Live</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Hopsin (2016)</span>
+<span style="color: #666;">BRELAND, Thomas Rhett (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6IY2y3kjjLaNbxW4GLiYQR"><img src="https://i.scdn.co/image/ab67616d0000b273b37587783bd6919a3d78b4a7" width="60" height="60" alt="Ill Mind of Hopsin 8" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6IY2y3kjjLaNbxW4GLiYQR">Ill Mind of Hopsin 8</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hopsin (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="60" height="60" alt="From Under The Cork Tree" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">Sugar, We're Goin Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2005)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">No Warm Up</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB"><img src="https://i.scdn.co/image/ab67616d0000b273a9bae94ddb20a71f573931c0" width="60" height="60" alt="The Young and The Hopeless" /></a></td>
-<td><b><a href="https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB">Girls & Boys</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2002)</span></td>
 </tr>
 </table>
 </div>
