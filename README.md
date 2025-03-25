@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="150" height="150" alt="The Essential Incubus" /></a>
+<a href="https://open.spotify.com/track/5N9d1MhLj7eO0gFXlusyji"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="150" height="150" alt="The Essential Incubus" /></a>
 
-<b><a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf">Warning</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/5N9d1MhLj7eO0gFXlusyji">Wish You Were Here</a></b><span style="color: gold;"> ★★</span>
 
 <span style="color: #666;">Incubus (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ"><img src="https://i.scdn.co/image/ab67616d0000b27354585a427218bf9bddbd6a3f" width="60" height="60" alt="Smells Like Children" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ">Sweet Dreams (Are Made Of This)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marilyn Manson (1995)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
+<td><b><a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf">Warning</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL"><img src="https://i.scdn.co/image/ab67616d0000b27324edb22d068eb245a924b7f2" width="60" height="60" alt="UNDERTALE Soundtrack" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL">MEGALOVANIA</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Toby Fox (2015)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo"><img src="https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95" width="60" height="60" alt="SremmLife 2 (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo">Black Beatles</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rae Sremmurd, Gucci Mane (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"><img src="https://i.scdn.co/image/ab67616d0000b273c66ad69a4c9fec63e6f49a3a" width="60" height="60" alt="Karma and Effect" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc">Remedy</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seether (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="60" height="60" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">ZAYN, Taylor Swift (2017)</span></td>
 </tr>
 </table>
 </div>
