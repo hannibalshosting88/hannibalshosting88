@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0CbZGS7GBavUKpPehJm1AJ"><img src="https://i.scdn.co/image/ab67616d0000b2739143684005848c5ec4a6e397" width="150" height="150" alt="Pardon Me for Smiling" /></a>
+<a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"><img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="150" height="150" alt="Mezmerize" /></a>
 
-<b><a href="https://open.spotify.com/track/0CbZGS7GBavUKpPehJm1AJ">Kinky Boots</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md">B.Y.O.B.</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">The Irish Brigade (2017)</span>
+<span style="color: #666;">System Of A Down (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"><img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="60" height="60" alt="Hang-Ups" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Goldfinger (1998)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0CbZGS7GBavUKpPehJm1AJ"><img src="https://i.scdn.co/image/ab67616d0000b2739143684005848c5ec4a6e397" width="60" height="60" alt="Pardon Me for Smiling" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0CbZGS7GBavUKpPehJm1AJ">Kinky Boots</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Irish Brigade (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4nhNJBCqmDtvFGnjZuWf4R"><img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="60" height="60" alt="Thundersmack" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4nhNJBCqmDtvFGnjZuWf4R">Bad Molly</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="60" height="60" alt="Graduation" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"><img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" width="60" height="60" alt="Doo-Wops & Hooligans" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ">Just the Way You Are</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID"><img src="https://i.scdn.co/image/ab67616d0000b273f31382d7bd220e2c6b3f7f14" width="60" height="60" alt="Had Some Drinks" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID">Had Some Drinks</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
 </tr>
 </table>
 </div>
