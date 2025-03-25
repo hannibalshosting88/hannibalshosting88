@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="150" height="150" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"><img src="https://i.scdn.co/image/ab67616d0000b273c66ad69a4c9fec63e6f49a3a" width="150" height="150" alt="Karma and Effect" /></a>
 
-<b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc">Remedy</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">ZAYN, Taylor Swift (2017)</span>
+<span style="color: #666;">Seether (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="60" height="60" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">ZAYN, Taylor Swift (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0w1uGsI3cjP7xSX97XrvQo"><img src="https://i.scdn.co/image/ab67616d0000b2738f6740557f1fd6d34679ae7e" width="60" height="60" alt="No Shame" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0w1uGsI3cjP7xSX97XrvQo">Ill Mind of Hopsin 9</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hopsin (2017)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"><img src="https://i.scdn.co/image/ab67616d0000b27392b32435efed601fc8f1045d" width="60" height="60" alt="The Fray" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi">You Found Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Fray (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"><img src="https://i.scdn.co/image/ab67616d0000b273bd01ceabd584855b2edd838d" width="60" height="60" alt="HUMBLE. (SKRILLEX REMIX)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ">HUMBLE. - SKRILLEX REMIX</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Skrillex, Kendrick Lamar (2017)</span></td>
 </tr>
 </table>
 </div>
