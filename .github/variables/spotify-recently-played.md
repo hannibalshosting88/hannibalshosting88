@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5tFpkuwgFZQm3jv4PTX4VB"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="150" height="150" alt="Sublime" /></a>
+<a href="https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"><img src="https://i.scdn.co/image/ab67616d0000b27372833c1ae3343cbfb4617073" width="150" height="150" alt="Moving Pictures (2011 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/5tFpkuwgFZQm3jv4PTX4VB">Garden Grove</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D">Tom Sawyer</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Sublime (1996)</span>
+<span style="color: #666;">Rush (1981)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5tFpkuwgFZQm3jv4PTX4VB"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5tFpkuwgFZQm3jv4PTX4VB">Garden Grove</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8"><img src="https://i.scdn.co/image/ab67616d0000b2733c2579a4f8cacd5b95b8fa68" width="60" height="60" alt="The Battle Of Los Angeles" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8">Guerrilla Radio</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rage Against The Machine (1999)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB"><img src="https://i.scdn.co/image/ab67616d0000b273fd47f4e731d91210018d62ea" width="60" height="60" alt="The Rise of Hobo Johnson" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB">Romeo & Juliet</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hobo Johnson (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
-<td><b><a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy">Nice to Know You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
 </tr>
 </table>
 </div>
