@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr"><img src="https://i.scdn.co/image/ab67616d0000b27395741aa186187b05e0653245" width="150" height="150" alt="Satellite (U.S. Version)" /></a>
+<a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"><img src="https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70" width="150" height="150" alt="Blood Sugar Sex Magik (Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr">Alive - Chris Lord-Alge Mix</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0">Under the Bridge</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">P.O.D. (2001)</span>
+<span style="color: #666;">Red Hot Chili Peppers (1991)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr"><img src="https://i.scdn.co/image/ab67616d0000b27395741aa186187b05e0653245" width="60" height="60" alt="Satellite (U.S. Version)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr">Alive - Chris Lord-Alge Mix</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">P.O.D. (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="60" height="60" alt="Graduation" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2007)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"><img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" width="60" height="60" alt="Doo-Wops & Hooligans" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ">Just the Way You Are</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"><img src="https://i.scdn.co/image/ab67616d0000b273f34b698931828b54bceb52f9" width="60" height="60" alt="Dysfunction" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD">Mudshovel</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Staind (1999)</span></td>
 </tr>
 </table>
 </div>
