@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2CWuk0mpTlifRhTFDX3jS1"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="150" height="150" alt="Doom (Original Game Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="150" height="150" alt="Galactic Empire" /></a>
 
-<b><a href="https://open.spotify.com/track/2CWuk0mpTlifRhTFDX3jS1">II. Demigod</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190">The Force Theme</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Mick Gordon (2016)</span>
+<span style="color: #666;">Galactic Empire (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl">Anna Molly</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2CWuk0mpTlifRhTFDX3jS1"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2CWuk0mpTlifRhTFDX3jS1">II. Demigod</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/19Ww94Uzf6DTXzRkRUQ3XA"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/19Ww94Uzf6DTXzRkRUQ3XA">Rust, Dust & Guts</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"><img src="https://i.scdn.co/image/ab67616d0000b273f1dfae21eaac0d24fb3dcf5a" width="60" height="60" alt="The Cookbook" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI">Lose Control (feat. Ciara & Fat Man Scoop)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Missy Elliott, Ciara, Fatman Scoop (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="60" height="60" alt="INSANO (NITRO MEGA)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By">WIN OR LOSE (feat. Chip Tha Ripper)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, Chip Tha Ripper (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5U1lQBg8zLFZCv9UzU6Noh"><img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="60" height="60" alt="U.S.A. (United State of Atlanta)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5U1lQBg8zLFZCv9UzU6Noh">Shake</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins, Pitbull (2005)</span></td>
 </tr>
 </table>
 </div>
