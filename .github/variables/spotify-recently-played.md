@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="150" height="150" alt="Power Rangers Redux" /></a>
+<a href="https://open.spotify.com/track/3nKRYKbGxhzv4BbwlLOcWU"><img src="https://i.scdn.co/image/ab67616d0000b27395d5d85909d5deb5cee9f311" width="150" height="150" alt="Mansion" /></a>
 
-<b><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm">Go Go Power Rangers (Redux)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3nKRYKbGxhzv4BbwlLOcWU">Mansion</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Ron Wasserman (2012)</span>
+<span style="color: #666;">NF, Fleurie (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="60" height="60" alt="Power Rangers Redux" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm">Go Go Power Rangers (Redux)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ron Wasserman (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL"><img src="https://i.scdn.co/image/ab67616d0000b273d0f459fe1d5e7c5f51d64a7e" width="60" height="60" alt="GOVERNMENT PACK" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">I'M NOT A BIG FAN OF THE GOVERNMENT</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">CHRIS ADAM (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP"><img src="https://i.scdn.co/image/ab67616d0000b27382288d9e37e14447f5c7f4ab" width="60" height="60" alt="The Hamilton Mixtape" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP">An Open Letter (feat. Shockwave) - Interlude</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Watsky, Shockwave (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"><img src="https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144" width="60" height="60" alt="See You On the Other Side" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (2005)</span></td>
 </tr>
 </table>
 </div>
