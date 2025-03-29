@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"><img src="https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70" width="150" height="150" alt="Blood Sugar Sex Magik (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/5U1lQBg8zLFZCv9UzU6Noh"><img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="150" height="150" alt="U.S.A. (United State of Atlanta)" /></a>
 
-<b><a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0">Under the Bridge</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/5U1lQBg8zLFZCv9UzU6Noh">Shake</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Red Hot Chili Peppers (1991)</span>
+<span style="color: #666;">Ying Yang Twins, Pitbull (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"><img src="https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70" width="60" height="60" alt="Blood Sugar Sex Magik (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0">Under the Bridge</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (1991)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr"><img src="https://i.scdn.co/image/ab67616d0000b27395741aa186187b05e0653245" width="60" height="60" alt="Satellite (U.S. Version)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr">Alive - Chris Lord-Alge Mix</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">P.O.D. (2001)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y"><img src="https://i.scdn.co/image/ab67616d0000b273f3d247f5bc7a34b1ae79a7ef" width="60" height="60" alt="Bass Sax Beats, Vol. 2" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">LISA SIMPSON</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Michael Wilbur (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"><img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" width="60" height="60" alt="Doo-Wops & Hooligans" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ">Just the Way You Are</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2010)</span></td>
 </tr>
 </table>
 </div>
