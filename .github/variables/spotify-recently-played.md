@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="150" height="150" alt="Galactic Empire" /></a>
+<a href="https://open.spotify.com/track/5Cg6S5BXG6lXqjijSK9zFh"><img src="https://i.scdn.co/image/ab67616d0000b273548833f6039e45228205c4ad" width="150" height="150" alt="b-sides and rarities" /></a>
 
-<b><a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190">The Force Theme</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/5Cg6S5BXG6lXqjijSK9zFh">War Pigs</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Galactic Empire (2017)</span>
+<span style="color: #666;">CAKE (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="60" height="60" alt="Galactic Empire" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190">The Force Theme</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl">Anna Molly</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL"><img src="https://i.scdn.co/image/ab67616d0000b273d0f459fe1d5e7c5f51d64a7e" width="60" height="60" alt="GOVERNMENT PACK" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">I'M NOT A BIG FAN OF THE GOVERNMENT</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">CHRIS ADAM (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"><img src="https://i.scdn.co/image/ab67616d0000b273f1dfae21eaac0d24fb3dcf5a" width="60" height="60" alt="The Cookbook" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI">Lose Control (feat. Ciara & Fat Man Scoop)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Missy Elliott, Ciara, Fatman Scoop (2005)</span></td>
 </tr>
 </table>
 </div>
