@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="150" height="150" alt="The Lion King" /></a>
+<a href="https://open.spotify.com/track/7AqISujIaWcY3h5zrOqt5v"><img src="https://i.scdn.co/image/ab67616d0000b2736b078e2d971229c90e75afdc" width="150" height="150" alt="The Lady Killer" /></a>
 
-<b><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8">Circle of Life</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7AqISujIaWcY3h5zrOqt5v">Forget You</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Carmen Twillie, Lebo M. (1994)</span>
+<span style="color: #666;">CeeLo Green (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5td7LYTivVH0MXXwin8QvE"><img src="https://i.scdn.co/image/ab67616d0000b27356f3f4957adbe9677d92f015" width="60" height="60" alt="Up and Down" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5td7LYTivVH0MXXwin8QvE">A Little Bit Harder Now</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">She Wants Revenge (2009)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4TB1RXrxMFkVhQIXtf3ufN"><img src="https://i.scdn.co/image/ab67616d0000b273bc7b539f5d1b6a08493aed29" width="60" height="60" alt="2 Sides of the Story" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4TB1RXrxMFkVhQIXtf3ufN">My Baby (feat. STAR BANDZ)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Sugarhill Ddot, STAR BANDZ (2024)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="60" height="60" alt="The Lion King" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8">Circle of Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Carmen Twillie, Lebo M. (1994)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5Cg6S5BXG6lXqjijSK9zFh"><img src="https://i.scdn.co/image/ab67616d0000b273548833f6039e45228205c4ad" width="60" height="60" alt="b-sides and rarities" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5Cg6S5BXG6lXqjijSK9zFh">War Pigs</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2007)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P">Rip & Tear</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"><img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" width="60" height="60" alt="Doo-Wops & Hooligans" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS">The Lazy Song</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3nKRYKbGxhzv4BbwlLOcWU"><img src="https://i.scdn.co/image/ab67616d0000b27395d5d85909d5deb5cee9f311" width="60" height="60" alt="Mansion" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3nKRYKbGxhzv4BbwlLOcWU">Mansion</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF, Fleurie (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="60" height="60" alt="Power Rangers Redux" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm">Go Go Power Rangers (Redux)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ron Wasserman (2012)</span></td>
 </tr>
 </table>
 </div>
