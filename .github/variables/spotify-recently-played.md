@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT">At Doom's Gate</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
+<td><b><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT">At Doom's Gate</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
