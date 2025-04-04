@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="150" height="150" alt="Make Yourself" /></a>
+<a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"><img src="https://i.scdn.co/image/ab67616d0000b273946301359b8ad60772671b8f" width="150" height="150" alt="Three Dollar Bill, Y'all $" /></a>
 
-<b><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX">The Warmth</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah">Counterfeit</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Incubus (1999)</span>
+<span style="color: #666;">Limp Bizkit (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX">The Warmth</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX">The Warmth</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="60" height="60" alt="The Lion King" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8">Circle of Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Carmen Twillie, Lebo M. (1994)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5Cg6S5BXG6lXqjijSK9zFh"><img src="https://i.scdn.co/image/ab67616d0000b273548833f6039e45228205c4ad" width="60" height="60" alt="b-sides and rarities" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5Cg6S5BXG6lXqjijSK9zFh">War Pigs</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2007)</span></td>
 </tr>
 </table>
 </div>
