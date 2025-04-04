@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"><img src="https://i.scdn.co/image/ab67616d0000b273946301359b8ad60772671b8f" width="150" height="150" alt="Three Dollar Bill, Y'all $" /></a>
+<a href="https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"><img src="https://i.scdn.co/image/ab67616d0000b27303ca37157b9ceefbe8fe225b" width="150" height="150" alt="Another Level" /></a>
 
-<b><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah">Counterfeit</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ">No Diggity</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Limp Bizkit (1997)</span>
+<span style="color: #666;">Blackstreet, Dr. Dre, Queen Pen (1996)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"><img src="https://i.scdn.co/image/ab67616d0000b273946301359b8ad60772671b8f" width="60" height="60" alt="Three Dollar Bill, Y'all $" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah">Counterfeit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (1997)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX">The Warmth</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4TB1RXrxMFkVhQIXtf3ufN"><img src="https://i.scdn.co/image/ab67616d0000b273bc7b539f5d1b6a08493aed29" width="60" height="60" alt="2 Sides of the Story" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4TB1RXrxMFkVhQIXtf3ufN">My Baby (feat. STAR BANDZ)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Sugarhill Ddot, STAR BANDZ (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="60" height="60" alt="The Lion King" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8">Circle of Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Carmen Twillie, Lebo M. (1994)</span></td>
 </tr>
 </table>
 </div>
