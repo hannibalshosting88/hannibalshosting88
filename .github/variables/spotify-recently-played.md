@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA"><img src="https://i.scdn.co/image/ab67616d0000b2730a3eb7ef6df5732fc6fa77ec" width="150" height="150" alt="Load" /></a>
+<a href="https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0"><img src="https://i.scdn.co/image/ab67616d0000b27360c84f44c080824ce336e1a1" width="150" height="150" alt="Save Rock And Roll" /></a>
 
-<b><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA">King Nothing</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0">My Songs Know What You Did In The Dark (Light Em Up)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Metallica (1996)</span>
+<span style="color: #666;">Fall Out Boy (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA"><img src="https://i.scdn.co/image/ab67616d0000b2730a3eb7ef6df5732fc6fa77ec" width="60" height="60" alt="Load" /></a></td>
+<td><b><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA">King Nothing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1996)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7AqISujIaWcY3h5zrOqt5v"><img src="https://i.scdn.co/image/ab67616d0000b2736b078e2d971229c90e75afdc" width="60" height="60" alt="The Lady Killer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7AqISujIaWcY3h5zrOqt5v">Forget You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CeeLo Green (2010)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/19Ww94Uzf6DTXzRkRUQ3XA"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/19Ww94Uzf6DTXzRkRUQ3XA">Rust, Dust & Guts</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT">At Doom's Gate</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
 </tr>
 </table>
 </div>
