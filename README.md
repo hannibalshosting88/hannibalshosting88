@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/222dTwr5XeEgAzEtsrQA0R"><img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" width="150" height="150" alt="The Marshall Mathers LP2 (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="150" height="150" alt="Make Yourself" /></a>
 
-<b><a href="https://open.spotify.com/track/222dTwr5XeEgAzEtsrQA0R">Headlights</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX">The Warmth</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Eminem, Nate Ruess (2013)</span>
+<span style="color: #666;">Incubus (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/222dTwr5XeEgAzEtsrQA0R"><img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" width="60" height="60" alt="The Marshall Mathers LP2 (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/222dTwr5XeEgAzEtsrQA0R">Headlights</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Eminem, Nate Ruess (2013)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"><img src="https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac" width="60" height="60" alt="Slippery When Wet" /></a></td>
 <td><b><a href="https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF">Livin' On A Prayer</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bon Jovi (1986)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="60" height="60" alt="Galactic Empire" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190">The Force Theme</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl">Anna Molly</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
 </tr>
 </table>
 </div>
