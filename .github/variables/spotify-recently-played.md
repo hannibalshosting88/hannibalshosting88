@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"><img src="https://i.scdn.co/image/ab67616d0000b2732bc58e4de7c41e84aeacee40" width="150" height="150" alt="Listen" /></a>
+<a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB"><img src="https://i.scdn.co/image/ab67616d0000b2734c323691524da979d9a8b695" width="150" height="150" alt="BFG 10k" /></a>
 
-<b><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB">Bad Habit</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB">BFG 10k</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">The Kooks (2014)</span>
+<span style="color: #666;">Andrew Baena, Cooper Lagace (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"><img src="https://i.scdn.co/image/ab67616d0000b2732bc58e4de7c41e84aeacee40" width="60" height="60" alt="Listen" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB">Bad Habit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Kooks (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6nonTdcZbN2pmyiN032MXw"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6nonTdcZbN2pmyiN032MXw">Intro 2</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl"><img src="https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890" width="60" height="60" alt="Wonder What's Next (Expanded Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl">Closure</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Chevelle (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC">By Myself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
 </tr>
 </table>
 </div>
