@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF"><img src="https://i.scdn.co/image/ab67616d0000b27380aee3216dbae96c8d21c452" width="150" height="150" alt="Don't Look Back" /></a>
+<a href="https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"><img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" width="150" height="150" alt="WAP (feat. Megan Thee Stallion)" /></a>
 
-<b><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF">Don't Look Back</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih">WAP (feat. Megan Thee Stallion)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Boston (1978)</span>
+<span style="color: #666;">Cardi B, Megan Thee Stallion (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF"><img src="https://i.scdn.co/image/ab67616d0000b27380aee3216dbae96c8d21c452" width="60" height="60" alt="Don't Look Back" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF">Don't Look Back</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Boston (1978)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"><img src="https://i.scdn.co/image/ab67616d0000b273926764eed4da16a86b9ce33e" width="60" height="60" alt="Love At First Sting" /></a></td>
 <td><b><a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX">Rock You Like A Hurricane</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Scorpions (1984)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="60" height="60" alt="Fragile" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yes (1971)</span></td>
 </tr>
 </table>
 </div>
