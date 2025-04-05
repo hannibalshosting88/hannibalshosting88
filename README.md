@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"><img src="https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa" width="150" height="150" alt="Master of Puppets (Remastered Deluxe Box Set)" /></a>
+<a href="https://open.spotify.com/track/5dL0kSGq7V5QQVPac5AkTK"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="150" height="150" alt="The Rising Tied (Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ">Master of Puppets (Remastered)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5dL0kSGq7V5QQVPac5AkTK">Right Now (feat. Black Thought & Styles of Beyond)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Metallica (1986)</span>
+<span style="color: #666;">Fort Minor, Black Thought, Styles Of Beyond (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp">Bring Me To Life</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"><img src="https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa" width="60" height="60" alt="Master of Puppets (Remastered Deluxe Box Set)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ">Master of Puppets (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1986)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">I Don't Give A...</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Mystikal, Krayzie Bone (2002)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7MSwclTvW6KLLkTbmw9FUQ"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7MSwclTvW6KLLkTbmw9FUQ">Throw It Up</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Pastor Troy (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"><img src="https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c" width="60" height="60" alt="Significant Other" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj">Nookie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/39jxVaEhI8R7csdu7GAjmL"><img src="https://i.scdn.co/image/ab67616d0000b2734ab521cf16202a5bc5f72cfe" width="60" height="60" alt="Crunk Juice" /></a></td>
-<td><b><a href="https://open.spotify.com/track/39jxVaEhI8R7csdu7GAjmL">Get Crunk</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Bohagon (2004)</span></td>
 </tr>
 </table>
 </div>
