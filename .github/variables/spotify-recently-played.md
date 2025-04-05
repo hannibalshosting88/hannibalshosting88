@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"><img src="https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af" width="150" height="150" alt="Asia" /></a>
+<a href="https://open.spotify.com/track/5hd0Wm1LuAvo3msLCvqvA6"><img src="https://i.scdn.co/image/ab67616d0000b27362d0614b5dffca14a302b427" width="150" height="150" alt="Greatest Hits '93 - '03" /></a>
 
-<b><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp">Heat Of The Moment</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5hd0Wm1LuAvo3msLCvqvA6">Down</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Asia (1982)</span>
+<span style="color: #666;">311 (2004)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"><img src="https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af" width="60" height="60" alt="Asia" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp">Heat Of The Moment</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Asia (1982)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5N9d1MhLj7eO0gFXlusyji"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5N9d1MhLj7eO0gFXlusyji">Wish You Were Here</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"><img src="https://i.scdn.co/image/ab67616d0000b273c418220159462cdd7cfeb9a1" width="60" height="60" alt="Finding Beauty In Negative Spaces (Bonus Track Version)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0">Fake It</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seether (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"><img src="https://i.scdn.co/image/ab67616d0000b273d7d4922d7d2b7e596084075e" width="60" height="60" alt="The Essential Kansas" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kansas (2010)</span></td>
 </tr>
 </table>
 </div>
