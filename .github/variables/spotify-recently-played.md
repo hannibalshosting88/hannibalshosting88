@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"><img src="https://i.scdn.co/image/ab67616d0000b27372649ad8e79d1e8bdd54c929" width="150" height="150" alt="Happy Together" /></a>
+<a href="https://open.spotify.com/track/6ISuXA3UCPMtsyEUGUTAyn"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="150" height="150" alt="Make Yourself" /></a>
 
-<b><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0">Happy Together</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6ISuXA3UCPMtsyEUGUTAyn">Stellar</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">The Turtles (1967)</span>
+<span style="color: #666;">Incubus (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="60" height="60" alt="Backstreet Boys" /></a></td>
+<td><b><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy">As Long as You Love Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1996)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"><img src="https://i.scdn.co/image/ab67616d0000b27372649ad8e79d1e8bdd54c929" width="60" height="60" alt="Happy Together" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0">Happy Together</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Turtles (1967)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"><img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" width="60" height="60" alt="Californication (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1">Scar Tissue</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (1999)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="60" height="60" alt="Thrifty x Spooky Raccoon" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq">Spooky Raccoon</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/28UKSTXNVOJJBmaAXAGt01"><img src="https://i.scdn.co/image/ab67616d0000b2735ce2cbcfd78c94c0f70bb1b6" width="60" height="60" alt="Meathook" /></a></td>
-<td><b><a href="https://open.spotify.com/track/28UKSTXNVOJJBmaAXAGt01">Meathook</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andrew Baena, Cooper Lagace (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="60" height="60" alt="Galactic Empire" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190">The Force Theme</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2017)</span></td>
 </tr>
 </table>
 </div>
