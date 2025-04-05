@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2oiIjAOaTrGL16gjabClJC"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="150" height="150" alt="Brasshopper" /></a>
+<a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"><img src="https://i.scdn.co/image/ab67616d0000b27348295fd4144b8ce6b437d682" width="150" height="150" alt="Kane Brown" /></a>
 
-<b><a href="https://open.spotify.com/track/2oiIjAOaTrGL16gjabClJC">Pushin' the Soundsystem</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W">What Ifs (feat. Lauren Alaina)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Broken Brass (2015)</span>
+<span style="color: #666;">Kane Brown, Lauren Alaina (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2oiIjAOaTrGL16gjabClJC"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2oiIjAOaTrGL16gjabClJC">Pushin' the Soundsystem</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT"><img src="https://i.scdn.co/image/ab67616d0000b2734f1dab8c832d312591947bf9" width="60" height="60" alt="Ill Mind of Hopsin 5 - Single" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT">Ill Mind of Hopsin 5</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hopsin (2012)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4MmWD6YFgKro8DR1CJUuGD"><img src="https://i.scdn.co/image/ab67616d0000b27357031778aaae84752c546478" width="60" height="60" alt="Ohio River" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4MmWD6YFgKro8DR1CJUuGD">Ohio River</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Year of the Buffalo (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt"><img src="https://i.scdn.co/image/ab67616d0000b273864c4ad1d9285c8f8d58749f" width="60" height="60" alt="Nothing But A Good Time" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt">Nothin' But A Good Time - Remastered 2006</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Poison (2009)</span></td>
 </tr>
 </table>
 </div>
