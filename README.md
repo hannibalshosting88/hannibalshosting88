@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="150" height="150" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a>
+<a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="150" height="150" alt="Hybrid Theory (Bonus Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah">REVOFEV</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC">By Myself</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Kid Cudi (2010)</span>
+<span style="color: #666;">Linkin Park (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah">REVOFEV</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah">REVOFEV</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2010)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5hd0Wm1LuAvo3msLCvqvA6"><img src="https://i.scdn.co/image/ab67616d0000b27362d0614b5dffca14a302b427" width="60" height="60" alt="Greatest Hits '93 - '03" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5hd0Wm1LuAvo3msLCvqvA6">Down</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">311 (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"><img src="https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af" width="60" height="60" alt="Asia" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp">Heat Of The Moment</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Asia (1982)</span></td>
 </tr>
 </table>
 </div>
