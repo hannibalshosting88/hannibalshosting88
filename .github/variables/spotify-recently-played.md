@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="150" height="150" alt="Palm Trees and Power Lines" /></a>
+<a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv"><img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="150" height="150" alt="Sleep With the Lights On" /></a>
 
-<b><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Sugarcult (2004)</span>
+<span style="color: #666;">The Wanton Bishops (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="60" height="60" alt="Palm Trees and Power Lines" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2004)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="60" height="60" alt="Get Rich Or Die Tryin'" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">50 Cent (2003)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"><img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="60" height="60" alt="Does This Look Infected?" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sum 41 (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">Make Yourself</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
 </tr>
 </table>
 </div>
