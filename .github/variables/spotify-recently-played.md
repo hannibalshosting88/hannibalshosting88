@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6ISuXA3UCPMtsyEUGUTAyn"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="150" height="150" alt="Make Yourself" /></a>
+<a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="150" height="150" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a>
 
-<b><a href="https://open.spotify.com/track/6ISuXA3UCPMtsyEUGUTAyn">Stellar</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah">REVOFEV</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Incubus (1999)</span>
+<span style="color: #666;">Kid Cudi (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah">REVOFEV</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2010)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6ISuXA3UCPMtsyEUGUTAyn"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6ISuXA3UCPMtsyEUGUTAyn">Stellar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="60" height="60" alt="Backstreet Boys" /></a></td>
 <td><b><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy">As Long as You Love Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1996)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"><img src="https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af" width="60" height="60" alt="Asia" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp">Heat Of The Moment</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Asia (1982)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5N9d1MhLj7eO0gFXlusyji"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5N9d1MhLj7eO0gFXlusyji">Wish You Were Here</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="60" height="60" alt="Thrifty x Spooky Raccoon" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq">Spooky Raccoon</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
 </tr>
 </table>
 </div>
