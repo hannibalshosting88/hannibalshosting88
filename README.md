@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"><img src="https://i.scdn.co/image/ab67616d0000b273d7d4922d7d2b7e596084075e" width="150" height="150" alt="The Essential Kansas" /></a>
+<a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="150" height="150" alt="Is This It" /></a>
 
-<b><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N">Carry on Wayward Son</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Kansas (2010)</span>
+<span style="color: #666;">The Strokes (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"><img src="https://i.scdn.co/image/ab67616d0000b273c418220159462cdd7cfeb9a1" width="60" height="60" alt="Finding Beauty In Negative Spaces (Bonus Track Version)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0">Fake It</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seether (2007)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"><img src="https://i.scdn.co/image/ab67616d0000b273d7d4922d7d2b7e596084075e" width="60" height="60" alt="The Essential Kansas" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kansas (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf"><img src="https://i.scdn.co/image/ab67616d0000b27391b3adb195fd4017fd3d6400" width="60" height="60" alt="City of Evil" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf">Seize the Day</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2005)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z"><img src="https://i.scdn.co/image/ab67616d0000b273c4e2c0dacbae3e342ac21944" width="60" height="60" alt="Believers" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z">Last One Standing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">¡MAYDAY!, Tech N9ne (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv"><img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="60" height="60" alt="Sleep With the Lights On" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Wanton Bishops (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="60" height="60" alt="Palm Trees and Power Lines" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2004)</span></td>
 </tr>
 </table>
 </div>
