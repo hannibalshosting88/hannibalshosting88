@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl"><img src="https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890" width="150" height="150" alt="Wonder What's Next (Expanded Edition)" /></a>
+<a href="https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt"><img src="https://i.scdn.co/image/ab67616d0000b273864c4ad1d9285c8f8d58749f" width="150" height="150" alt="Nothing But A Good Time" /></a>
 
-<b><a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl">Closure</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt">Nothin' But A Good Time - Remastered 2006</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Chevelle (2002)</span>
+<span style="color: #666;">Poison (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="60" height="60" alt="Hypnotize" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl"><img src="https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890" width="60" height="60" alt="Wonder What's Next (Expanded Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl">Closure</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Chevelle (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC">By Myself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"><img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" width="60" height="60" alt="WAP (feat. Megan Thee Stallion)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih">WAP (feat. Megan Thee Stallion)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cardi B, Megan Thee Stallion (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF"><img src="https://i.scdn.co/image/ab67616d0000b27380aee3216dbae96c8d21c452" width="60" height="60" alt="Don't Look Back" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF">Don't Look Back</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Boston (1978)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"><img src="https://i.scdn.co/image/ab67616d0000b273926764eed4da16a86b9ce33e" width="60" height="60" alt="Love At First Sting" /></a></td>
-<td><b><a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX">Rock You Like A Hurricane</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Scorpions (1984)</span></td>
 </tr>
 </table>
 </div>
