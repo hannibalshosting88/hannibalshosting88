@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5hd0Wm1LuAvo3msLCvqvA6"><img src="https://i.scdn.co/image/ab67616d0000b27362d0614b5dffca14a302b427" width="150" height="150" alt="Greatest Hits '93 - '03" /></a>
+<a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"><img src="https://i.scdn.co/image/ab67616d0000b273926764eed4da16a86b9ce33e" width="150" height="150" alt="Love At First Sting" /></a>
 
-<b><a href="https://open.spotify.com/track/5hd0Wm1LuAvo3msLCvqvA6">Down</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX">Rock You Like A Hurricane</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">311 (2004)</span>
+<span style="color: #666;">Scorpions (1984)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5hd0Wm1LuAvo3msLCvqvA6"><img src="https://i.scdn.co/image/ab67616d0000b27362d0614b5dffca14a302b427" width="60" height="60" alt="Greatest Hits '93 - '03" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5hd0Wm1LuAvo3msLCvqvA6">Down</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">311 (2004)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"><img src="https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af" width="60" height="60" alt="Asia" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp">Heat Of The Moment</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Asia (1982)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="60" height="60" alt="Is This It" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Strokes (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"><img src="https://i.scdn.co/image/ab67616d0000b273c418220159462cdd7cfeb9a1" width="60" height="60" alt="Finding Beauty In Negative Spaces (Bonus Track Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0">Fake It</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seether (2007)</span></td>
 </tr>
 </table>
 </div>
