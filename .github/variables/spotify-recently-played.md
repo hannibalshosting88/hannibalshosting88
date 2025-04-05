@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"><img src="https://i.scdn.co/image/ab67616d0000b27300ac867eff7ed64be10a517c" width="150" height="150" alt="Miles On It" /></a>
+<a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID"><img src="https://i.scdn.co/image/ab67616d0000b273f31382d7bd220e2c6b3f7f14" width="150" height="150" alt="Had Some Drinks" /></a>
 
-<b><a href="https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf">Miles On It</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID">Had Some Drinks</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Marshmello, Kane Brown (2024)</span>
+<span style="color: #666;">Two Feet (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"><img src="https://i.scdn.co/image/ab67616d0000b273a1e05e1048e2cf2737adf742" width="60" height="60" alt="Hot Space (Deluxe Remastered Version)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw">Under Pressure - Remastered 2011</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Queen, David Bowie (1982)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"><img src="https://i.scdn.co/image/ab67616d0000b27300ac867eff7ed64be10a517c" width="60" height="60" alt="Miles On It" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf">Miles On It</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"><img src="https://i.scdn.co/image/ab67616d0000b27348295fd4144b8ce6b437d682" width="60" height="60" alt="Kane Brown" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W">What Ifs (feat. Lauren Alaina)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kane Brown, Lauren Alaina (2016)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8"><img src="https://i.scdn.co/image/ab67616d0000b273eece10ee539479b08711a839" width="60" height="60" alt="Ghostrunner (Original Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8">The Orb</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Daniel Deluxe (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn"><img src="https://i.scdn.co/image/ab67616d0000b2731f52a7e9b573959c8e430974" width="60" height="60" alt="Me & My Brother" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn">Salt Shaker</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins, Lil Jon & The East Side Boyz (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"><img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" width="60" height="60" alt="Relapse: Refill" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX">Forever</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Kanye West, Lil Wayne, Eminem (2009)</span></td>
 </tr>
 </table>
 </div>
