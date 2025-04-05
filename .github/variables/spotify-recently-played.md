@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"><img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="150" height="150" alt="GOOD DAY" /></a>
+<a href="https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"><img src="https://i.scdn.co/image/ab67616d0000b27333d4866ed921300e8ef50808" width="150" height="150" alt="Seal" /></a>
 
-<b><a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh">Kiss from a Rose</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Forrest Frank (2024)</span>
+<span style="color: #666;">Seal (1994)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"><img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="60" height="60" alt="GOOD DAY" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Forrest Frank (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU"><img src="https://i.scdn.co/image/ab67616d0000b273b19cb81319fbfd9ed54baeae" width="60" height="60" alt="Ultimate Sinatra" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU">I've Got The World On A String</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Frank Sinatra (2015)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp">Bring Me To Life</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"><img src="https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa" width="60" height="60" alt="Master of Puppets (Remastered Deluxe Box Set)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ">Master of Puppets (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1986)</span></td>
 </tr>
 </table>
 </div>
