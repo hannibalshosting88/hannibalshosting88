@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"><img src="https://i.scdn.co/image/ab67616d0000b27330c996f370c1a614f294765d" width="150" height="150" alt="KAMI" /></a>
+<a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="150" height="150" alt="Enema Of The State" /></a>
 
-<b><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu">KAMI</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU">All The Small Things</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">DR MØB (2023)</span>
+<span style="color: #666;">blink-182 (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"><img src="https://i.scdn.co/image/ab67616d0000b27383c39b0d32eb4a2064e1e228" width="60" height="60" alt="Away From The Sun" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4">Here Without You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">3 Doors Down (2002)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4TebxwaRPwVGlX3RQxo2FS"><img src="https://i.scdn.co/image/ab67616d0000b273d27a466c22f9a8970f14bac3" width="60" height="60" alt="Senpai" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4TebxwaRPwVGlX3RQxo2FS">Senpai</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Subtronics, Boogie T (2019)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"><img src="https://i.scdn.co/image/ab67616d0000b27330c996f370c1a614f294765d" width="60" height="60" alt="KAMI" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu">KAMI</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DR MØB (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l">My Generation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"><img src="https://i.scdn.co/image/ab67616d0000b273a1e05e1048e2cf2737adf742" width="60" height="60" alt="Hot Space (Deluxe Remastered Version)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw">Under Pressure - Remastered 2011</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Queen, David Bowie (1982)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"><img src="https://i.scdn.co/image/ab67616d0000b27300ac867eff7ed64be10a517c" width="60" height="60" alt="Miles On It" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf">Miles On It</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"><img src="https://i.scdn.co/image/ab67616d0000b27348295fd4144b8ce6b437d682" width="60" height="60" alt="Kane Brown" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W">What Ifs (feat. Lauren Alaina)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kane Brown, Lauren Alaina (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2oiIjAOaTrGL16gjabClJC"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2oiIjAOaTrGL16gjabClJC">Pushin' the Soundsystem</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2015)</span></td>
 </tr>
 </table>
 </div>
