@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="150" height="150" alt="Thrifty x Spooky Raccoon" /></a>
+<a href="https://open.spotify.com/track/5N9d1MhLj7eO0gFXlusyji"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="150" height="150" alt="The Essential Incubus" /></a>
 
-<b><a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq">Spooky Raccoon</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/5N9d1MhLj7eO0gFXlusyji">Wish You Were Here</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Thundersmack (2021)</span>
+<span style="color: #666;">Incubus (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="60" height="60" alt="Thrifty x Spooky Raccoon" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq">Spooky Raccoon</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/28UKSTXNVOJJBmaAXAGt01"><img src="https://i.scdn.co/image/ab67616d0000b2735ce2cbcfd78c94c0f70bb1b6" width="60" height="60" alt="Meathook" /></a></td>
 <td><b><a href="https://open.spotify.com/track/28UKSTXNVOJJBmaAXAGt01">Meathook</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andrew Baena, Cooper Lagace (2021)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf"><img src="https://i.scdn.co/image/ab67616d0000b27391b3adb195fd4017fd3d6400" width="60" height="60" alt="City of Evil" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf">Seize the Day</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"><img src="https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c" width="60" height="60" alt="CHROMAKOPIA" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R">Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne (2024)</span></td>
 </tr>
 </table>
 </div>
