@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"><img src="https://i.scdn.co/image/ab67616d0000b27333d4866ed921300e8ef50808" width="150" height="150" alt="Seal" /></a>
+<a href="https://open.spotify.com/track/05rWggLwQ2weA4D2cRAt55"><img src="https://i.scdn.co/image/ab67616d0000b273bad7e941f557e06019b87fd4" width="150" height="150" alt="All The Right Reasons (15th Anniversary Expanded Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh">Kiss from a Rose</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/05rWggLwQ2weA4D2cRAt55">Far Away - 2020 Remaster</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Seal (1994)</span>
+<span style="color: #666;">Nickelback (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"><img src="https://i.scdn.co/image/ab67616d0000b27333d4866ed921300e8ef50808" width="60" height="60" alt="Seal" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh">Kiss from a Rose</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seal (1994)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"><img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="60" height="60" alt="GOOD DAY" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Forrest Frank (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5dL0kSGq7V5QQVPac5AkTK"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5dL0kSGq7V5QQVPac5AkTK">Right Now (feat. Black Thought & Styles of Beyond)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Black Thought, Styles Of Beyond (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp">Bring Me To Life</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
 </tr>
 </table>
 </div>
