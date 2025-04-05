@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3"><img src="https://i.scdn.co/image/ab67616d0000b273890ce61533a89e00ce593fcb" width="150" height="150" alt="Rise And Fall, Rage And Grace" /></a>
+<a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU"><img src="https://i.scdn.co/image/ab67616d0000b273b19cb81319fbfd9ed54baeae" width="150" height="150" alt="Ultimate Sinatra" /></a>
 
-<b><a href="https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3">Half-Truism</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU">I've Got The World On A String</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">The Offspring (2008)</span>
+<span style="color: #666;">Frank Sinatra (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd"><img src="https://i.scdn.co/image/ab67616d0000b2734bc377c41ab14f2ffa219ea1" width="60" height="60" alt="The Irish Volunteer" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd">The Irish Volunteer</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">David Kincaid (1998)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3"><img src="https://i.scdn.co/image/ab67616d0000b273890ce61533a89e00ce593fcb" width="60" height="60" alt="Rise And Fall, Rage And Grace" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3">Half-Truism</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Offspring (2008)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID"><img src="https://i.scdn.co/image/ab67616d0000b273f31382d7bd220e2c6b3f7f14" width="60" height="60" alt="Had Some Drinks" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID">Had Some Drinks</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"><img src="https://i.scdn.co/image/ab67616d0000b2732bc58e4de7c41e84aeacee40" width="60" height="60" alt="Listen" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB">Bad Habit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Kooks (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6nonTdcZbN2pmyiN032MXw"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6nonTdcZbN2pmyiN032MXw">Intro 2</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"><img src="https://i.scdn.co/image/ab67616d0000b273fc7df879208b362bb1ce1499" width="60" height="60" alt="Purple (2019 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX">Vasoline - 2019 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Temple Pilots (1994)</span></td>
 </tr>
 </table>
 </div>
