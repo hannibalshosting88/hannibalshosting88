@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"><img src="https://i.scdn.co/image/ab67616d0000b273926764eed4da16a86b9ce33e" width="150" height="150" alt="Love At First Sting" /></a>
+<a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF"><img src="https://i.scdn.co/image/ab67616d0000b27380aee3216dbae96c8d21c452" width="150" height="150" alt="Don't Look Back" /></a>
 
-<b><a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX">Rock You Like A Hurricane</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF">Don't Look Back</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Scorpions (1984)</span>
+<span style="color: #666;">Boston (1978)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"><img src="https://i.scdn.co/image/ab67616d0000b273926764eed4da16a86b9ce33e" width="60" height="60" alt="Love At First Sting" /></a></td>
+<td><b><a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX">Rock You Like A Hurricane</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Scorpions (1984)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5hd0Wm1LuAvo3msLCvqvA6"><img src="https://i.scdn.co/image/ab67616d0000b27362d0614b5dffca14a302b427" width="60" height="60" alt="Greatest Hits '93 - '03" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5hd0Wm1LuAvo3msLCvqvA6">Down</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">311 (2004)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="60" height="60" alt="Fragile" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yes (1971)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="60" height="60" alt="Is This It" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Strokes (2001)</span></td>
 </tr>
 </table>
 </div>
