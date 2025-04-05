@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU"><img src="https://i.scdn.co/image/ab67616d0000b273b19cb81319fbfd9ed54baeae" width="150" height="150" alt="Ultimate Sinatra" /></a>
+<a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"><img src="https://i.scdn.co/image/ab67616d0000b27330c996f370c1a614f294765d" width="150" height="150" alt="KAMI" /></a>
 
-<b><a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU">I've Got The World On A String</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu">KAMI</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Frank Sinatra (2015)</span>
+<span style="color: #666;">DR MØB (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l">My Generation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll">With You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU"><img src="https://i.scdn.co/image/ab67616d0000b273b19cb81319fbfd9ed54baeae" width="60" height="60" alt="Ultimate Sinatra" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU">I've Got The World On A String</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Frank Sinatra (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd"><img src="https://i.scdn.co/image/ab67616d0000b2734bc377c41ab14f2ffa219ea1" width="60" height="60" alt="The Irish Volunteer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd">The Irish Volunteer</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">David Kincaid (1998)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2oiIjAOaTrGL16gjabClJC"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2oiIjAOaTrGL16gjabClJC">Pushin' the Soundsystem</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT"><img src="https://i.scdn.co/image/ab67616d0000b2734f1dab8c832d312591947bf9" width="60" height="60" alt="Ill Mind of Hopsin 5 - Single" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT">Ill Mind of Hopsin 5</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hopsin (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB"><img src="https://i.scdn.co/image/ab67616d0000b2734c323691524da979d9a8b695" width="60" height="60" alt="BFG 10k" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB">BFG 10k</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andrew Baena, Cooper Lagace (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"><img src="https://i.scdn.co/image/ab67616d0000b2732bc58e4de7c41e84aeacee40" width="60" height="60" alt="Listen" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB">Bad Habit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Kooks (2014)</span></td>
 </tr>
 </table>
 </div>
