@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="150" height="150" alt="Enema Of The State" /></a>
+<a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="150" height="150" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a>
 
-<b><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU">All The Small Things</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt">Take A Look Around</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">blink-182 (1999)</span>
+<span style="color: #666;">Limp Bizkit (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU">All The Small Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"><img src="https://i.scdn.co/image/ab67616d0000b27383c39b0d32eb4a2064e1e228" width="60" height="60" alt="Away From The Sun" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4">Here Without You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">3 Doors Down (2002)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID"><img src="https://i.scdn.co/image/ab67616d0000b273f31382d7bd220e2c6b3f7f14" width="60" height="60" alt="Had Some Drinks" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID">Had Some Drinks</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"><img src="https://i.scdn.co/image/ab67616d0000b273a1e05e1048e2cf2737adf742" width="60" height="60" alt="Hot Space (Deluxe Remastered Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw">Under Pressure - Remastered 2011</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Queen, David Bowie (1982)</span></td>
 </tr>
 </table>
 </div>
