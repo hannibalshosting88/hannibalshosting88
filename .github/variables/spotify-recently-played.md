@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB"><img src="https://i.scdn.co/image/ab67616d0000b2734c323691524da979d9a8b695" width="150" height="150" alt="BFG 10k" /></a>
+<a href="https://open.spotify.com/track/2oiIjAOaTrGL16gjabClJC"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="150" height="150" alt="Brasshopper" /></a>
 
-<b><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB">BFG 10k</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2oiIjAOaTrGL16gjabClJC">Pushin' the Soundsystem</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Andrew Baena, Cooper Lagace (2020)</span>
+<span style="color: #666;">Broken Brass (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT"><img src="https://i.scdn.co/image/ab67616d0000b2734f1dab8c832d312591947bf9" width="60" height="60" alt="Ill Mind of Hopsin 5 - Single" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT">Ill Mind of Hopsin 5</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hopsin (2012)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB"><img src="https://i.scdn.co/image/ab67616d0000b2734c323691524da979d9a8b695" width="60" height="60" alt="BFG 10k" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB">BFG 10k</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andrew Baena, Cooper Lagace (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"><img src="https://i.scdn.co/image/ab67616d0000b2732bc58e4de7c41e84aeacee40" width="60" height="60" alt="Listen" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB">Bad Habit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Kooks (2014)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt"><img src="https://i.scdn.co/image/ab67616d0000b273864c4ad1d9285c8f8d58749f" width="60" height="60" alt="Nothing But A Good Time" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt">Nothin' But A Good Time - Remastered 2006</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Poison (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="60" height="60" alt="Hypnotize" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl"><img src="https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890" width="60" height="60" alt="Wonder What's Next (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl">Closure</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Chevelle (2002)</span></td>
 </tr>
 </table>
 </div>
