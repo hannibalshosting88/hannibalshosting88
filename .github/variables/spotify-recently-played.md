@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"><img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" width="150" height="150" alt="Californication (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"><img src="https://i.scdn.co/image/ab67616d0000b27372649ad8e79d1e8bdd54c929" width="150" height="150" alt="Happy Together" /></a>
 
-<b><a href="https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1">Scar Tissue</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0">Happy Together</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Red Hot Chili Peppers (1999)</span>
+<span style="color: #666;">The Turtles (1967)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"><img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" width="60" height="60" alt="Californication (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1">Scar Tissue</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"><img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" width="60" height="60" alt="WAP (feat. Megan Thee Stallion)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih">WAP (feat. Megan Thee Stallion)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cardi B, Megan Thee Stallion (2020)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="60" height="60" alt="Galactic Empire" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190">The Force Theme</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0hBUik7RITAPmSlnOGiWdm"><img src="https://i.scdn.co/image/ab67616d0000b273a06f2865e3f11587c668b8e7" width="60" height="60" alt="Killer Instinct: Season One Soundtrack + Original Arcade Soundtrack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0hBUik7RITAPmSlnOGiWdm">Type-03</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
 </tr>
 </table>
 </div>
