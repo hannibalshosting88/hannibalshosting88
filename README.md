@@ -30,6 +30,10 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE"><img src="https://i.scdn.co/image/ab67616d0000b273226f3db2f0de0bf60616527f" width="60" height="60" alt="Scousematic 2" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE">Kop That Shit</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Aystar (2018)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" width="60" height="60" alt="Millennium" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T">Show Me the Meaning of Being Lonely</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1999)</span></td>
 </tr>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll">With You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU"><img src="https://i.scdn.co/image/ab67616d0000b273b19cb81319fbfd9ed54baeae" width="60" height="60" alt="Ultimate Sinatra" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU">I've Got The World On A String</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Frank Sinatra (2015)</span></td>
 </tr>
 </table>
 </div>
