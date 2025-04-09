@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE"><img src="https://i.scdn.co/image/ab67616d0000b273226f3db2f0de0bf60616527f" width="150" height="150" alt="Scousematic 2" /></a>
+<a href="https://open.spotify.com/track/3LvZu8fm2kivB0DESzUA6M"><img src="https://i.scdn.co/image/ab67616d0000b273fe407002806c31bbc99db66e" width="150" height="150" alt="Mugshot" /></a>
 
-<b><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE">Kop That Shit</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3LvZu8fm2kivB0DESzUA6M">Stepped into the Building</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Aystar (2018)</span>
+<span style="color: #666;">Pete & Bas (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE"><img src="https://i.scdn.co/image/ab67616d0000b273226f3db2f0de0bf60616527f" width="60" height="60" alt="Scousematic 2" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE">Kop That Shit</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Aystar (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE"><img src="https://i.scdn.co/image/ab67616d0000b273226f3db2f0de0bf60616527f" width="60" height="60" alt="Scousematic 2" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE">Kop That Shit</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Aystar (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l">My Generation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll">With You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
 </tr>
 </table>
 </div>
