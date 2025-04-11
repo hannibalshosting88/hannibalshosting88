@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC"><img src="https://i.scdn.co/image/ab67616d0000b273663fe218f7d98306c533af10" width="150" height="150" alt="Baby Now That I've Found You" /></a>
+<a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="150" height="150" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC">Build Me Up Buttercup - Mono</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">The Foundations (1967)</span>
+<span style="color: #666;">ZAYN, Taylor Swift (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq"><img src="https://i.scdn.co/image/ab67616d0000b2732bdf20efaf4b308ba0defa70" width="60" height="60" alt="With a Vengeance" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">Quaid</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC"><img src="https://i.scdn.co/image/ab67616d0000b273663fe218f7d98306c533af10" width="60" height="60" alt="Baby Now That I've Found You" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC">Build Me Up Buttercup - Mono</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Foundations (1967)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"><img src="https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5" width="60" height="60" alt="2001" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC">The Next Episode</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Dr. Dre, Snoop Dogg (1999)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"><img src="https://i.scdn.co/image/ab67616d0000b27390126a3a12ad644fa6d3221c" width="60" height="60" alt="Pocket Full Of Kryptonite (Anniversary Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw">Two Princes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Spin Doctors (1991)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"><img src="https://i.scdn.co/image/ab67616d0000b27338b2429ef948e6ca8d3ab599" width="60" height="60" alt="Freeze Frame" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt">Centerfold</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The J. Geils Band (1981)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"><img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" width="60" height="60" alt="The Lady Killer" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG">Fuck You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CeeLo Green (2010)</span></td>
 </tr>
 </table>
 </div>
