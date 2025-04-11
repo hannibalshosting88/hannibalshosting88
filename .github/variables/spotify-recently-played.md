@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq"><img src="https://i.scdn.co/image/ab67616d0000b273dfd165103fba4a50789afc91" width="150" height="150" alt="Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="150" height="150" alt="The Lion King" /></a>
 
-<b><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq">Anakin vs. Obi-Wan</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10">Be Prepared</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">John Williams, London Symphony Orchestra (2005)</span>
+<span style="color: #666;">Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings (1994)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq"><img src="https://i.scdn.co/image/ab67616d0000b273dfd165103fba4a50789afc91" width="60" height="60" alt="Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq">Anakin vs. Obi-Wan</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">John Williams, London Symphony Orchestra (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"><img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="60" height="60" alt="Hang-Ups" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Goldfinger (1998)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"><img src="https://i.scdn.co/image/ab67616d0000b273a8fc008439ab4e268d7a6bcf" width="60" height="60" alt="Afterlife (from the Netflix Series "Devil May Cry")" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI">Afterlife (from the Netflix Series "Devil May Cry")</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2025)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm"><img src="https://i.scdn.co/image/ab67616d0000b273a297a29e6e199e190d4d8530" width="60" height="60" alt="The Father of Make Believe" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm">Goodbye, Sunshine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2025)</span></td>
 </tr>
 </table>
 </div>
