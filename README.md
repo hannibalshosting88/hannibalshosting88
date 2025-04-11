@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="150" height="150" alt="OK ORCHESTRA" /></a>
+<a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"><img src="https://i.scdn.co/image/ab67616d0000b27357ebfccbef07ebff2a495843" width="150" height="150" alt="A Million In Prizes: Iggy Pop Anthology (Edited Version)" /></a>
 
-<b><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World's Smallest Violin</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH">The Passenger</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">AJR (2021)</span>
+<span style="color: #666;">Iggy Pop (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World's Smallest Violin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"><img src="https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1" width="60" height="60" alt="The Black Parade" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW">Welcome to the Black Parade</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">My Chemical Romance (2006)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5DYiaaIQ1UAeOyPNaVaGqy"><img src="https://i.scdn.co/image/ab67616d0000b273f921e318cc5e500bd6891a87" width="60" height="60" alt="No Signal" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5DYiaaIQ1UAeOyPNaVaGqy">Waiting For You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">French The Kid (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD"><img src="https://i.scdn.co/image/ab67616d0000b2731aaa4af459faac4478583092" width="60" height="60" alt="Beyond the Norm" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">Shook Ones Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">J. Koda (2022)</span></td>
 </tr>
 </table>
 </div>
