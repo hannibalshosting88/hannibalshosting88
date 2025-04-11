@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ"><img src="https://i.scdn.co/image/ab67616d0000b273fe7908b7666690bf4e83ce14" width="150" height="150" alt="Pursuit Of Happiness [Extended Steve Aoki Remix (Explicit)]" /></a>
+<a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL"><img src="https://i.scdn.co/image/ab67616d0000b273d0f459fe1d5e7c5f51d64a7e" width="150" height="150" alt="GOVERNMENT PACK" /></a>
 
-<b><a href="https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ">Pursuit Of Happiness - Extended Steve Aoki Remix</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">I'M NOT A BIG FAN OF THE GOVERNMENT</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Kid Cudi, MGMT, Ratatat, Steve Aoki (2012)</span>
+<span style="color: #666;">CHRIS ADAM (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e"><img src="https://i.scdn.co/image/ab67616d0000b2732b46b5b241079360e6951405" width="60" height="60" alt="AA" /></a></td>
+<td><b><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Walker Hayes (2021)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ"><img src="https://i.scdn.co/image/ab67616d0000b273fe7908b7666690bf4e83ce14" width="60" height="60" alt="Pursuit Of Happiness [Extended Steve Aoki Remix (Explicit)]" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ">Pursuit Of Happiness - Extended Steve Aoki Remix</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, MGMT, Ratatat, Steve Aoki (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"><img src="https://i.scdn.co/image/ab67616d0000b27321a706c06719ec096876afec" width="60" height="60" alt="BRELAND & Friends: Vol. 1 (Live)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">Praise the Lord (feat. Thomas Rhett) - Live</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">BRELAND, Thomas Rhett (2024)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="60" height="60" alt="The Lion King" /></a></td>
 <td><b><a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10">Be Prepared</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings (1994)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq"><img src="https://i.scdn.co/image/ab67616d0000b273dfd165103fba4a50789afc91" width="60" height="60" alt="Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq">Anakin vs. Obi-Wan</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">John Williams, London Symphony Orchestra (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"><img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="60" height="60" alt="Hang-Ups" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Goldfinger (1998)</span></td>
 </tr>
 </table>
 </div>
