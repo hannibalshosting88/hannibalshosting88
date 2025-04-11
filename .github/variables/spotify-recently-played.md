@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"><img src="https://i.scdn.co/image/ab67616d0000b27388111edd78a2abc370864319" width="150" height="150" alt="Sugar Sweet" /></a>
+<a href="https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"><img src="https://i.scdn.co/image/ab67616d0000b2737d2055190ae60ffa4c74d13c" width="150" height="150" alt="Stunt (20th Anniversary Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO">Sugar Sweet</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65">One Week</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Benson Boone (2023)</span>
+<span style="color: #666;">Barenaked Ladies (1998)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ"><img src="https://i.scdn.co/image/ab67616d0000b273ec0a9eea5aa9110401cebaf4" width="60" height="60" alt="You Want Some of This?" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ">Everyday Normal Guy</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jon Lajoie (2009)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"><img src="https://i.scdn.co/image/ab67616d0000b27388111edd78a2abc370864319" width="60" height="60" alt="Sugar Sweet" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO">Sugar Sweet</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Benson Boone (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0"><img src="https://i.scdn.co/image/ab67616d0000b273e271723e2054ba24d0b06075" width="60" height="60" alt="Smash Mouth" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0">I'm A Believer - Radio Edit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Smash Mouth (2001)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"><img src="https://i.scdn.co/image/ab67616d0000b273ef063cb80508c55eb443a671" width="60" height="60" alt="Stranger In Town" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7">Old Time Rock & Roll</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bob Seger (1978)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World's Smallest Violin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"><img src="https://i.scdn.co/image/ab67616d0000b273ae954a17f0cfa013c364bb06" width="60" height="60" alt="Out of the Blue" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp">Mr. Blue Sky</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Electric Light Orchestra (1977)</span></td>
 </tr>
 </table>
 </div>
