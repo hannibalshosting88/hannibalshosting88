@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"><img src="https://i.scdn.co/image/ab67616d0000b27321a706c06719ec096876afec" width="150" height="150" alt="BRELAND & Friends: Vol. 1 (Live)" /></a>
+<a href="https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ"><img src="https://i.scdn.co/image/ab67616d0000b273fe7908b7666690bf4e83ce14" width="150" height="150" alt="Pursuit Of Happiness [Extended Steve Aoki Remix (Explicit)]" /></a>
 
-<b><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">Praise the Lord (feat. Thomas Rhett) - Live</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ">Pursuit Of Happiness - Extended Steve Aoki Remix</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">BRELAND, Thomas Rhett (2024)</span>
+<span style="color: #666;">Kid Cudi, MGMT, Ratatat, Steve Aoki (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"><img src="https://i.scdn.co/image/ab67616d0000b27321a706c06719ec096876afec" width="60" height="60" alt="BRELAND & Friends: Vol. 1 (Live)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">Praise the Lord (feat. Thomas Rhett) - Live</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">BRELAND, Thomas Rhett (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="60" height="60" alt="The Lion King" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN">Hakuna Matata</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nathan Lane, Ernie Sabella, Jason Weaver, Joseph Williams (1994)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"><img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="60" height="60" alt="Hang-Ups" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Goldfinger (1998)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5Oj2I2oJscoWoWuh57Mvzf"><img src="https://i.scdn.co/image/ab67616d0000b273bd83dfd964b0c9c91faeb873" width="60" height="60" alt="Ready Player One: The Ultimate Video Game Collection" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5Oj2I2oJscoWoWuh57Mvzf">Super Mario Bros - Theme - Epic Version</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Sofa Sounds (2020)</span></td>
 </tr>
 </table>
 </div>
