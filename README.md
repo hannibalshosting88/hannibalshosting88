@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI"><img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="150" height="150" alt="Times Square" /></a>
+<a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"><img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="150" height="150" alt="UP!" /></a>
 
-<b><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don't Wait</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Thundersmack (2023)</span>
+<span style="color: #666;">Forrest Frank, Connor Price (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA">Knocking on Wood</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI"><img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="60" height="60" alt="Times Square" /></a></td>
+<td><b><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don't Wait</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1"><img src="https://i.scdn.co/image/ab67616d0000b273b11c3ab5cb818192b7a61fdd" width="60" height="60" alt="Fantastic Magic" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1">unravel</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">TK from Ling tosite sigure (2014)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR"><img src="https://i.scdn.co/image/ab67616d0000b273c61d3a663bd18fe8cd97c947" width="60" height="60" alt="Antichrist Superstar" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR">The Beautiful People</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marilyn Manson (1996)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"><img src="https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144" width="60" height="60" alt="See You On the Other Side" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4JWpDtSsSgzMtEzUjzaqbO"><img src="https://i.scdn.co/image/ab67616d0000b27329ef5e9ed78c03841482b193" width="60" height="60" alt="Dancing Critters" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4JWpDtSsSgzMtEzUjzaqbO">Dagoose</a></b> <span style="color: gold;"></span><br><span style="font-size: 12px; color: #666;">Broken Brass (2025)</span></td>
 </tr>
 </table>
 </div>
