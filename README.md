@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC"><img src="https://i.scdn.co/image/ab67616d0000b27316e4a73d53b47d825ff09f08" width="150" height="150" alt="Fight Club" /></a>
+<a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" width="150" height="150" alt="Echoes, Silence, Patience & Grace" /></a>
 
-<b><a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC">No Squids</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Ocean Wisdom, K Koke (2024)</span>
+<span style="color: #666;">Foo Fighters (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC"><img src="https://i.scdn.co/image/ab67616d0000b27316e4a73d53b47d825ff09f08" width="60" height="60" alt="Fight Club" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC">No Squids</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ocean Wisdom, K Koke (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0"><img src="https://i.scdn.co/image/ab67616d0000b27393c1b92aa259f41ee79f6e4d" width="60" height="60" alt="SANTIAGO" /></a></td>
 <td><b><a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">SANTIAGO</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">SIDEQUEST (2024)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"><img src="https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1" width="60" height="60" alt="The Black Parade" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW">Welcome to the Black Parade</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">My Chemical Romance (2006)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT">Oil and Water</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
 </tr>
 </table>
 </div>
