@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"><img src="https://i.scdn.co/image/ab67616d0000b273a8fc008439ab4e268d7a6bcf" width="150" height="150" alt="Afterlife (from the Netflix Series "Devil May Cry")" /></a>
+<a href="https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"><img src="https://i.scdn.co/image/ab67616d0000b273d9de81090bd9699c9d36696e" width="150" height="150" alt="Up From the Bottom" /></a>
 
-<b><a href="https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI">Afterlife (from the Netflix Series "Devil May Cry")</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS">Up From the Bottom</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Evanescence (2025)</span>
+<span style="color: #666;">Linkin Park (2025)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"><img src="https://i.scdn.co/image/ab67616d0000b273a8fc008439ab4e268d7a6bcf" width="60" height="60" alt="Afterlife (from the Netflix Series "Devil May Cry")" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI">Afterlife (from the Netflix Series "Devil May Cry")</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2025)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm"><img src="https://i.scdn.co/image/ab67616d0000b273a297a29e6e199e190d4d8530" width="60" height="60" alt="The Father of Make Believe" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm">Goodbye, Sunshine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2025)</span></td>
@@ -60,10 +64,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3LvZu8fm2kivB0DESzUA6M"><img src="https://i.scdn.co/image/ab67616d0000b273fe407002806c31bbc99db66e" width="60" height="60" alt="Mugshot" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3LvZu8fm2kivB0DESzUA6M">Stepped into the Building</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Pete & Bas (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE"><img src="https://i.scdn.co/image/ab67616d0000b273226f3db2f0de0bf60616527f" width="60" height="60" alt="Scousematic 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE">Kop That Shit</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Aystar (2018)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE"><img src="https://i.scdn.co/image/ab67616d0000b273226f3db2f0de0bf60616527f" width="60" height="60" alt="Scousematic 2" /></a></td>
