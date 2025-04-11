@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0"><img src="https://i.scdn.co/image/ab67616d0000b273e271723e2054ba24d0b06075" width="150" height="150" alt="Smash Mouth" /></a>
+<a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"><img src="https://i.scdn.co/image/ab67616d0000b27388111edd78a2abc370864319" width="150" height="150" alt="Sugar Sweet" /></a>
 
-<b><a href="https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0">I'm A Believer - Radio Edit</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO">Sugar Sweet</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Smash Mouth (2001)</span>
+<span style="color: #666;">Benson Boone (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0"><img src="https://i.scdn.co/image/ab67616d0000b273e271723e2054ba24d0b06075" width="60" height="60" alt="Smash Mouth" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0">I'm A Believer - Radio Edit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Smash Mouth (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"><img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="60" height="60" alt="GOOD DAY" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Forrest Frank (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"><img src="https://i.scdn.co/image/ab67616d0000b273ae954a17f0cfa013c364bb06" width="60" height="60" alt="Out of the Blue" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp">Mr. Blue Sky</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Electric Light Orchestra (1977)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL"><img src="https://i.scdn.co/image/ab67616d0000b273d0f459fe1d5e7c5f51d64a7e" width="60" height="60" alt="GOVERNMENT PACK" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">I'M NOT A BIG FAN OF THE GOVERNMENT</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">CHRIS ADAM (2024)</span></td>
 </tr>
 </table>
 </div>
