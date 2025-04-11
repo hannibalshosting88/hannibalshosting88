@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"><img src="https://i.scdn.co/image/ab67616d0000b2734d54f9eccf5646d0f7a1bd30" width="150" height="150" alt="Permission to Land" /></a>
+<a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe"><img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="150" height="150" alt="COMPLAINT" /></a>
 
-<b><a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA">I Believe in a Thing Called Love</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">The Darkness (2003)</span>
+<span style="color: #666;">Watsky (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"><img src="https://i.scdn.co/image/ab67616d0000b2734d54f9eccf5646d0f7a1bd30" width="60" height="60" alt="Permission to Land" /></a></td>
+<td><b><a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA">I Believe in a Thing Called Love</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Darkness (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr"><img src="https://i.scdn.co/image/ab67616d0000b27379e5734d0c151415e3fa8d6f" width="60" height="60" alt="When I Woke" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr">Send Me On My Way</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rusted Root (1994)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L"><img src="https://i.scdn.co/image/ab67616d0000b273e0114a86a2a0a7d8762951d9" width="60" height="60" alt="Hooked On A Feeling - 40th Anniversary Collection" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L">Hooked On A Feeling</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Blue Swede, Björn Skifs (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"><img src="https://i.scdn.co/image/ab67616d0000b2737d2055190ae60ffa4c74d13c" width="60" height="60" alt="Stunt (20th Anniversary Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65">One Week</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Barenaked Ladies (1998)</span></td>
 </tr>
 </table>
 </div>
