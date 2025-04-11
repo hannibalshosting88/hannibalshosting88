@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"><img src="https://i.scdn.co/image/ab67616d0000b27390126a3a12ad644fa6d3221c" width="150" height="150" alt="Pocket Full Of Kryptonite (Anniversary Edition)" /></a>
+<a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="150" height="150" alt="Brasshopper" /></a>
 
-<b><a href="https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw">Two Princes</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Spin Doctors (1991)</span>
+<span style="color: #666;">Broken Brass, Ruben Hein (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"><img src="https://i.scdn.co/image/ab67616d0000b27390126a3a12ad644fa6d3221c" width="60" height="60" alt="Pocket Full Of Kryptonite (Anniversary Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw">Two Princes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Spin Doctors (1991)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"><img src="https://i.scdn.co/image/ab67616d0000b27338b2429ef948e6ca8d3ab599" width="60" height="60" alt="Freeze Frame" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt">Centerfold</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The J. Geils Band (1981)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"><img src="https://i.scdn.co/image/ab67616d0000b2734d54f9eccf5646d0f7a1bd30" width="60" height="60" alt="Permission to Land" /></a></td>
 <td><b><a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA">I Believe in a Thing Called Love</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Darkness (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr"><img src="https://i.scdn.co/image/ab67616d0000b27379e5734d0c151415e3fa8d6f" width="60" height="60" alt="When I Woke" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr">Send Me On My Way</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rusted Root (1994)</span></td>
 </tr>
 </table>
 </div>
