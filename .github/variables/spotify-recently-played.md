@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe"><img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="150" height="150" alt="COMPLAINT" /></a>
+<a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv"><img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="150" height="150" alt="Sleep With the Lights On" /></a>
 
-<b><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Watsky (2019)</span>
+<span style="color: #666;">The Wanton Bishops (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"><img src="https://i.scdn.co/image/ab67616d0000b27346814e1b44e54d806753801e" width="60" height="60" alt="Come and Get Your Love" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD">Come and Get Your Love - Single Version</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Redbone (1973)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe"><img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="60" height="60" alt="COMPLAINT" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"><img src="https://i.scdn.co/image/ab67616d0000b2734d54f9eccf5646d0f7a1bd30" width="60" height="60" alt="Permission to Land" /></a></td>
 <td><b><a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA">I Believe in a Thing Called Love</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Darkness (2003)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"><img src="https://i.scdn.co/image/ab67616d0000b27354096a7f898de0233d76f626" width="60" height="60" alt="Violent Femmes" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH">Blister In The Sun</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Violent Femmes (1983)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"><img src="https://i.scdn.co/image/ab67616d0000b2736f5a9bf7c8093763dd2a4a82" width="60" height="60" alt="Discovery" /></a></td>
-<td><b><a href="https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7">Don't Bring Me Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Electric Light Orchestra (1979)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L"><img src="https://i.scdn.co/image/ab67616d0000b273e0114a86a2a0a7d8762951d9" width="60" height="60" alt="Hooked On A Feeling - 40th Anniversary Collection" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L">Hooked On A Feeling</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Blue Swede, Björn Skifs (2014)</span></td>
 </tr>
 </table>
 </div>
