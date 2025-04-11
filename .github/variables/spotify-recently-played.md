@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"><img src="https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2" width="150" height="150" alt="A Bar Song (Tipsy)" /></a>
+<a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"><img src="https://i.scdn.co/image/ab67616d0000b2738b344822c35025ba9439f004" width="150" height="150" alt="Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">A Bar Song (Tipsy)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw">Duel of the Fates</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Shaboozey (2024)</span>
+<span style="color: #666;">John Williams, London Symphony Orchestra (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"><img src="https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2" width="60" height="60" alt="A Bar Song (Tipsy)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">A Bar Song (Tipsy)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Shaboozey (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL">A Certain Shade of Green</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"><img src="https://i.scdn.co/image/ab67616d0000b27388111edd78a2abc370864319" width="60" height="60" alt="Sugar Sweet" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO">Sugar Sweet</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Benson Boone (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0"><img src="https://i.scdn.co/image/ab67616d0000b273e271723e2054ba24d0b06075" width="60" height="60" alt="Smash Mouth" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0">I'm A Believer - Radio Edit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Smash Mouth (2001)</span></td>
 </tr>
 </table>
 </div>
