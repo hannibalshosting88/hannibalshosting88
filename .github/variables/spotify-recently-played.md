@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7"><img src="https://i.scdn.co/image/ab67616d0000b2735cc5b5a10eaab8bea0206376" width="150" height="150" alt="A Twist In My Story" /></a>
+<a href="https://open.spotify.com/track/5DYiaaIQ1UAeOyPNaVaGqy"><img src="https://i.scdn.co/image/ab67616d0000b273f921e318cc5e500bd6891a87" width="150" height="150" alt="No Signal" /></a>
 
-<b><a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7">Fall For You</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5DYiaaIQ1UAeOyPNaVaGqy">Waiting For You</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Secondhand Serenade (2008)</span>
+<span style="color: #666;">French The Kid (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD"><img src="https://i.scdn.co/image/ab67616d0000b2731aaa4af459faac4478583092" width="60" height="60" alt="Beyond the Norm" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">Shook Ones Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">J. Koda (2022)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7"><img src="https://i.scdn.co/image/ab67616d0000b2735cc5b5a10eaab8bea0206376" width="60" height="60" alt="A Twist In My Story" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7">Fall For You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Secondhand Serenade (2008)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7"><img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" width="60" height="60" alt="Straight Outta Compton" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">Fuck Tha Police</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">N.W.A. (1988)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"><img src="https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf" width="60" height="60" alt="Beautiful Things" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9">Beautiful Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Benson Boone (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv"><img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="60" height="60" alt="Sleep With the Lights On" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Wanton Bishops (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"><img src="https://i.scdn.co/image/ab67616d0000b27346814e1b44e54d806753801e" width="60" height="60" alt="Come and Get Your Love" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD">Come and Get Your Love - Single Version</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Redbone (1973)</span></td>
 </tr>
 </table>
 </div>
