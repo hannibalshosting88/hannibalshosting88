@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L"><img src="https://i.scdn.co/image/ab67616d0000b273e0114a86a2a0a7d8762951d9" width="150" height="150" alt="Hooked On A Feeling - 40th Anniversary Collection" /></a>
+<a href="https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"><img src="https://i.scdn.co/image/ab67616d0000b27354096a7f898de0233d76f626" width="150" height="150" alt="Violent Femmes" /></a>
 
-<b><a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L">Hooked On A Feeling</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH">Blister In The Sun</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Blue Swede, Björn Skifs (2014)</span>
+<span style="color: #666;">Violent Femmes (1983)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"><img src="https://i.scdn.co/image/ab67616d0000b2736f5a9bf7c8093763dd2a4a82" width="60" height="60" alt="Discovery" /></a></td>
+<td><b><a href="https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7">Don't Bring Me Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Electric Light Orchestra (1979)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L"><img src="https://i.scdn.co/image/ab67616d0000b273e0114a86a2a0a7d8762951d9" width="60" height="60" alt="Hooked On A Feeling - 40th Anniversary Collection" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L">Hooked On A Feeling</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Blue Swede, Björn Skifs (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"><img src="https://i.scdn.co/image/ab67616d0000b2737d2055190ae60ffa4c74d13c" width="60" height="60" alt="Stunt (20th Anniversary Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65">One Week</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Barenaked Ladies (1998)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"><img src="https://i.scdn.co/image/ab67616d0000b273382514f0114ba8f4a16d5db4" width="60" height="60" alt="THE E.N.D. (THE ENERGY NEVER DIES)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG">I Gotta Feeling</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="60" height="60" alt="Tres Hombres (Expanded 2006 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">ZZ Top (1973)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ"><img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" width="60" height="60" alt="Elephunk" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ">Where Is The Love?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2003)</span></td>
 </tr>
 </table>
 </div>
