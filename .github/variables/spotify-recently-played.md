@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="150" height="150" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="150" height="150" alt="Backstreet Boys" /></a>
 
-<b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy">As Long as You Love Me</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">ZAYN, Taylor Swift (2017)</span>
+<span style="color: #666;">Backstreet Boys (1996)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="60" height="60" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">ZAYN, Taylor Swift (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq"><img src="https://i.scdn.co/image/ab67616d0000b2732bdf20efaf4b308ba0defa70" width="60" height="60" alt="With a Vengeance" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">Quaid</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass, Ruben Hein (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"><img src="https://i.scdn.co/image/ab67616d0000b27390126a3a12ad644fa6d3221c" width="60" height="60" alt="Pocket Full Of Kryptonite (Anniversary Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw">Two Princes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Spin Doctors (1991)</span></td>
 </tr>
 </table>
 </div>
