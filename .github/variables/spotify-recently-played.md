@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"><img src="https://i.scdn.co/image/ab67616d0000b27338b2429ef948e6ca8d3ab599" width="150" height="150" alt="Freeze Frame" /></a>
+<a href="https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"><img src="https://i.scdn.co/image/ab67616d0000b27390126a3a12ad644fa6d3221c" width="150" height="150" alt="Pocket Full Of Kryptonite (Anniversary Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt">Centerfold</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw">Two Princes</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">The J. Geils Band (1981)</span>
+<span style="color: #666;">Spin Doctors (1991)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"><img src="https://i.scdn.co/image/ab67616d0000b27338b2429ef948e6ca8d3ab599" width="60" height="60" alt="Freeze Frame" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt">Centerfold</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The J. Geils Band (1981)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"><img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" width="60" height="60" alt="The Lady Killer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG">Fuck You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CeeLo Green (2010)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr"><img src="https://i.scdn.co/image/ab67616d0000b27379e5734d0c151415e3fa8d6f" width="60" height="60" alt="When I Woke" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr">Send Me On My Way</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rusted Root (1994)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"><img src="https://i.scdn.co/image/ab67616d0000b2738b344822c35025ba9439f004" width="60" height="60" alt="Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw">Duel of the Fates</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">John Williams, London Symphony Orchestra (1999)</span></td>
 </tr>
 </table>
 </div>
