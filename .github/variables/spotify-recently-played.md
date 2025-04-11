@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ"><img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" width="150" height="150" alt="Elephunk" /></a>
+<a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="150" height="150" alt="Tres Hombres (Expanded 2006 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ">Where Is The Love?</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Black Eyed Peas (2003)</span>
+<span style="color: #666;">ZZ Top (1973)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ"><img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" width="60" height="60" alt="Elephunk" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ">Where Is The Love?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"><img src="https://i.scdn.co/image/ab67616d0000b273ef063cb80508c55eb443a671" width="60" height="60" alt="Stranger In Town" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7">Old Time Rock & Roll</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bob Seger (1978)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"><img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="60" height="60" alt="UP!" /></a></td>
 <td><b><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Forrest Frank, Connor Price (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA">Knocking on Wood</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
 </tr>
 </table>
 </div>
