@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="150" height="150" alt="The Lion King" /></a>
+<a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI"><img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="150" height="150" alt="Times Square" /></a>
 
-<b><a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10">Be Prepared</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don't Wait</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings (1994)</span>
+<span style="color: #666;">Thundersmack (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1"><img src="https://i.scdn.co/image/ab67616d0000b273b11c3ab5cb818192b7a61fdd" width="60" height="60" alt="Fantastic Magic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1">unravel</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">TK from Ling tosite sigure (2014)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="60" height="60" alt="Perception" /></a></td>
+<td><b><a href="https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL">Let You Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2017)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="60" height="60" alt="The Lion King" /></a></td>
+<td><b><a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10">Be Prepared</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings (1994)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq"><img src="https://i.scdn.co/image/ab67616d0000b273dfd165103fba4a50789afc91" width="60" height="60" alt="Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq">Anakin vs. Obi-Wan</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">John Williams, London Symphony Orchestra (2005)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4JWpDtSsSgzMtEzUjzaqbO"><img src="https://i.scdn.co/image/ab67616d0000b27329ef5e9ed78c03841482b193" width="60" height="60" alt="Dancing Critters" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4JWpDtSsSgzMtEzUjzaqbO">Dagoose</a></b> <span style="color: gold;"></span><br><span style="font-size: 12px; color: #666;">Broken Brass (2025)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ"><img src="https://i.scdn.co/image/ab67616d0000b273b328cb52f944e1e1b19c7a75" width="60" height="60" alt="Babygirl" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ">Babygirl</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Black Keys (2025)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"><img src="https://i.scdn.co/image/ab67616d0000b273d9de81090bd9699c9d36696e" width="60" height="60" alt="Up From the Bottom" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS">Up From the Bottom</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2025)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"><img src="https://i.scdn.co/image/ab67616d0000b273a8fc008439ab4e268d7a6bcf" width="60" height="60" alt="Afterlife (from the Netflix Series "Devil May Cry")" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI">Afterlife (from the Netflix Series "Devil May Cry")</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2025)</span></td>
 </tr>
 </table>
 </div>
