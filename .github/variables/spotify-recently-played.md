@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"><img src="https://i.scdn.co/image/ab67616d0000b2738b344822c35025ba9439f004" width="150" height="150" alt="Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr"><img src="https://i.scdn.co/image/ab67616d0000b27379e5734d0c151415e3fa8d6f" width="150" height="150" alt="When I Woke" /></a>
 
-<b><a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw">Duel of the Fates</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr">Send Me On My Way</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">John Williams, London Symphony Orchestra (1999)</span>
+<span style="color: #666;">Rusted Root (1994)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"><img src="https://i.scdn.co/image/ab67616d0000b2738b344822c35025ba9439f004" width="60" height="60" alt="Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw">Duel of the Fates</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">John Williams, London Symphony Orchestra (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"><img src="https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2" width="60" height="60" alt="A Bar Song (Tipsy)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">A Bar Song (Tipsy)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Shaboozey (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ"><img src="https://i.scdn.co/image/ab67616d0000b273ec0a9eea5aa9110401cebaf4" width="60" height="60" alt="You Want Some of This?" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ">Everyday Normal Guy</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jon Lajoie (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"><img src="https://i.scdn.co/image/ab67616d0000b27388111edd78a2abc370864319" width="60" height="60" alt="Sugar Sweet" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO">Sugar Sweet</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Benson Boone (2023)</span></td>
 </tr>
 </table>
 </div>
