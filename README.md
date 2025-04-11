@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7"><img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" width="150" height="150" alt="Straight Outta Compton" /></a>
+<a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7"><img src="https://i.scdn.co/image/ab67616d0000b2735cc5b5a10eaab8bea0206376" width="150" height="150" alt="A Twist In My Story" /></a>
 
-<b><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">Fuck Tha Police</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7">Fall For You</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">N.W.A. (1988)</span>
+<span style="color: #666;">Secondhand Serenade (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7"><img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" width="60" height="60" alt="Straight Outta Compton" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">Fuck Tha Police</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">N.W.A. (1988)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass, Ruben Hein (2015)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"><img src="https://i.scdn.co/image/ab67616d0000b27346814e1b44e54d806753801e" width="60" height="60" alt="Come and Get Your Love" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD">Come and Get Your Love - Single Version</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Redbone (1973)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe"><img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="60" height="60" alt="COMPLAINT" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2019)</span></td>
 </tr>
 </table>
 </div>
