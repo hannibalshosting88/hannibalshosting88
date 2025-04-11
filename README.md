@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h"><img src="https://i.scdn.co/image/ab67616d0000b273fa53c2e5e710a267b2bbc3b7" width="150" height="150" alt="Faster Than the Speed of Death" /></a>
+<a href="https://open.spotify.com/track/6nWjnyGiPqb5bmkhsyYvLZ"><img src="https://i.scdn.co/image/ab67616d0000b273990926023592dd4786ce3900" width="150" height="150" alt="Scousematic 3" /></a>
 
-<b><a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h">The Sooner We Die the Sooner We Can All Go Home</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/6nWjnyGiPqb5bmkhsyYvLZ">Wats Apenin'</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Dead Players, Jam Baxter, Dabbla, Ghosttown (2024)</span>
+<span style="color: #666;">Aystar (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h"><img src="https://i.scdn.co/image/ab67616d0000b273fa53c2e5e710a267b2bbc3b7" width="60" height="60" alt="Faster Than the Speed of Death" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h">The Sooner We Die the Sooner We Can All Go Home</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dead Players, Jam Baxter, Dabbla, Ghosttown (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k"><img src="https://i.scdn.co/image/ab67616d0000b273d2a85ebbfd9f834dafacaa8a" width="60" height="60" alt="Pecan Pie" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">Pecan Pie</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Nine and Dex (2024)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="60" height="60" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">ZAYN, Taylor Swift (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq"><img src="https://i.scdn.co/image/ab67616d0000b2732bdf20efaf4b308ba0defa70" width="60" height="60" alt="With a Vengeance" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">Quaid</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2018)</span></td>
 </tr>
 </table>
 </div>
