@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR"><img src="https://i.scdn.co/image/ab67616d0000b273c61d3a663bd18fe8cd97c947" width="150" height="150" alt="Antichrist Superstar" /></a>
+<a href="https://open.spotify.com/track/6wv6QIQq91xFh0vETMUCMp"><img src="https://i.scdn.co/image/ab67616d0000b2731f81dec4c6e5a290f0bca4e8" width="150" height="150" alt="Cardboard Castles" /></a>
 
-<b><a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR">The Beautiful People</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6wv6QIQq91xFh0vETMUCMp">Cardboard Castles</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Marilyn Manson (1996)</span>
+<span style="color: #666;">Watsky (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR"><img src="https://i.scdn.co/image/ab67616d0000b273c61d3a663bd18fe8cd97c947" width="60" height="60" alt="Antichrist Superstar" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR">The Beautiful People</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marilyn Manson (1996)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"><img src="https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144" width="60" height="60" alt="See You On the Other Side" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (2005)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4NH8w4K6EBhXPwwmaACILV"><img src="https://i.scdn.co/image/ab67616d0000b273c6e0ad76113b3ef26da6cd3c" width="60" height="60" alt="Permanent Pleasure (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4NH8w4K6EBhXPwwmaACILV">Yellowish Sunbeam</a></b> <span style="color: gold;"></span><br><span style="font-size: 12px; color: #666;">Joywave (2025)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6Fn3HQPcm2DtgIfEIPeKys"><img src="https://i.scdn.co/image/ab67616d0000b273d4b0d94bc7dfbad8d91484e3" width="60" height="60" alt="And the Adjacent Possible" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6Fn3HQPcm2DtgIfEIPeKys">Love</a></b> <span style="color: gold;"></span><br><span style="font-size: 12px; color: #666;">OK Go (2025)</span></td>
 </tr>
 </table>
 </div>
