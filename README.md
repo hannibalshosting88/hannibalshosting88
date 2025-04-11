@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="150" height="150" alt="Fragile" /></a>
+<a href="https://open.spotify.com/track/0ff6FUCAt7YsWgS7wih7Pp"><img src="https://i.scdn.co/image/ab67616d0000b273fa9a28730a2b850342e1e757" width="150" height="150" alt="Perspective" /></a>
 
-<b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0ff6FUCAt7YsWgS7wih7Pp">End of the Beginning</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Yes (1971)</span>
+<span style="color: #666;">Jason Becker (1996)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="60" height="60" alt="Fragile" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yes (1971)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"><img src="https://i.scdn.co/image/ab67616d0000b27354096a7f898de0233d76f626" width="60" height="60" alt="Violent Femmes" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH">Blister In The Sun</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Violent Femmes (1983)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"><img src="https://i.scdn.co/image/ab67616d0000b2738dad7cd9e76fa42013c50d44" width="60" height="60" alt="23" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE">23</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chayce Beckham (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"><img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" width="60" height="60" alt="Storm Front" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI">We Didn't Start the Fire</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Billy Joel (1989)</span></td>
 </tr>
 </table>
 </div>
