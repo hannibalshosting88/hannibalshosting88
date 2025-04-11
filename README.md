@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6nWjnyGiPqb5bmkhsyYvLZ"><img src="https://i.scdn.co/image/ab67616d0000b273990926023592dd4786ce3900" width="150" height="150" alt="Scousematic 3" /></a>
+<a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC"><img src="https://i.scdn.co/image/ab67616d0000b27316e4a73d53b47d825ff09f08" width="150" height="150" alt="Fight Club" /></a>
 
-<b><a href="https://open.spotify.com/track/6nWjnyGiPqb5bmkhsyYvLZ">Wats Apenin'</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC">No Squids</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Aystar (2021)</span>
+<span style="color: #666;">Ocean Wisdom, K Koke (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0"><img src="https://i.scdn.co/image/ab67616d0000b27393c1b92aa259f41ee79f6e4d" width="60" height="60" alt="SANTIAGO" /></a></td>
+<td><b><a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">SANTIAGO</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">SIDEQUEST (2024)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6nWjnyGiPqb5bmkhsyYvLZ"><img src="https://i.scdn.co/image/ab67616d0000b273990926023592dd4786ce3900" width="60" height="60" alt="Scousematic 3" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6nWjnyGiPqb5bmkhsyYvLZ">Wats Apenin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Aystar (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h"><img src="https://i.scdn.co/image/ab67616d0000b273fa53c2e5e710a267b2bbc3b7" width="60" height="60" alt="Faster Than the Speed of Death" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h">The Sooner We Die the Sooner We Can All Go Home</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dead Players, Jam Baxter, Dabbla, Ghosttown (2024)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT">Oil and Water</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="60" height="60" alt="Backstreet Boys" /></a></td>
-<td><b><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy">As Long as You Love Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1996)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="60" height="60" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">ZAYN, Taylor Swift (2017)</span></td>
 </tr>
 </table>
 </div>
