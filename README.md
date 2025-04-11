@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD"><img src="https://i.scdn.co/image/ab67616d0000b2731aaa4af459faac4478583092" width="150" height="150" alt="Beyond the Norm" /></a>
+<a href="https://open.spotify.com/track/3KLAVrzY77ZlbQ3GOLZ8CX"><img src="https://i.scdn.co/image/ab67616d0000b273d7775702b925245900375b34" width="150" height="150" alt="Chaos 93'" /></a>
 
-<b><a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">Shook Ones Remix</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/3KLAVrzY77ZlbQ3GOLZ8CX">Walkin'</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">J. Koda (2022)</span>
+<span style="color: #666;">Ocean Wisdom (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD"><img src="https://i.scdn.co/image/ab67616d0000b2731aaa4af459faac4478583092" width="60" height="60" alt="Beyond the Norm" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">Shook Ones Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">J. Koda (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"><img src="https://i.scdn.co/image/ab67616d0000b27357ebfccbef07ebff2a495843" width="60" height="60" alt="A Million In Prizes: Iggy Pop Anthology (Edited Version)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH">The Passenger</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Iggy Pop (2005)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"><img src="https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5" width="60" height="60" alt="2001" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC">The Next Episode</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Dr. Dre, Snoop Dogg (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="60" height="60" alt="Hypnotize" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu">Hypnotize</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
 </tr>
 </table>
 </div>
