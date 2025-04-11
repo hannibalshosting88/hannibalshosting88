@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1"><img src="https://i.scdn.co/image/ab67616d0000b273b11c3ab5cb818192b7a61fdd" width="150" height="150" alt="Fantastic Magic" /></a>
+<a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI"><img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="150" height="150" alt="Times Square" /></a>
 
-<b><a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1">unravel</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don't Wait</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">TK from Ling tosite sigure (2014)</span>
+<span style="color: #666;">Thundersmack (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1"><img src="https://i.scdn.co/image/ab67616d0000b273b11c3ab5cb818192b7a61fdd" width="60" height="60" alt="Fantastic Magic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1">unravel</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">TK from Ling tosite sigure (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="60" height="60" alt="Perception" /></a></td>
 <td><b><a href="https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL">Let You Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2017)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4JWpDtSsSgzMtEzUjzaqbO"><img src="https://i.scdn.co/image/ab67616d0000b27329ef5e9ed78c03841482b193" width="60" height="60" alt="Dancing Critters" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4JWpDtSsSgzMtEzUjzaqbO">Dagoose</a></b> <span style="color: gold;"></span><br><span style="font-size: 12px; color: #666;">Broken Brass (2025)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ"><img src="https://i.scdn.co/image/ab67616d0000b273b328cb52f944e1e1b19c7a75" width="60" height="60" alt="Babygirl" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ">Babygirl</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Black Keys (2025)</span></td>
 </tr>
 </table>
 </div>
