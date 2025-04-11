@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5DYiaaIQ1UAeOyPNaVaGqy"><img src="https://i.scdn.co/image/ab67616d0000b273f921e318cc5e500bd6891a87" width="150" height="150" alt="No Signal" /></a>
+<a href="https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="150" height="150" alt="Hypnotize" /></a>
 
-<b><a href="https://open.spotify.com/track/5DYiaaIQ1UAeOyPNaVaGqy">Waiting For You</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu">Hypnotize</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">French The Kid (2023)</span>
+<span style="color: #666;">System Of A Down (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5DYiaaIQ1UAeOyPNaVaGqy"><img src="https://i.scdn.co/image/ab67616d0000b273f921e318cc5e500bd6891a87" width="60" height="60" alt="No Signal" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5DYiaaIQ1UAeOyPNaVaGqy">Waiting For You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">French The Kid (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD"><img src="https://i.scdn.co/image/ab67616d0000b2731aaa4af459faac4478583092" width="60" height="60" alt="Beyond the Norm" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">Shook Ones Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">J. Koda (2022)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh"><img src="https://i.scdn.co/image/ab67616d0000b27356149c2955aadc97567e93d4" width="60" height="60" alt="Why Am I So Happy?" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">Greatest Shit Ever</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Spose (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"><img src="https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf" width="60" height="60" alt="Beautiful Things" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9">Beautiful Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Benson Boone (2024)</span></td>
 </tr>
 </table>
 </div>
