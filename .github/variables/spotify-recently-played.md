@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="150" height="150" alt="OK ORCHESTRA" /></a>
+<a href="https://open.spotify.com/track/3WfsYdrkFnr8LFJiw7iuzJ"><img src="https://i.scdn.co/image/ab67616d0000b27308ec828eb5cadd6bddc78510" width="150" height="150" alt="Hero" /></a>
 
-<b><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World's Smallest Violin</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3WfsYdrkFnr8LFJiw7iuzJ">Hero</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">AJR (2021)</span>
+<span style="color: #666;">Reddy Redd (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World's Smallest Violin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"><img src="https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a" width="60" height="60" alt="Vol. 3: The Subliminal Verses" /></a></td>
 <td><b><a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">Duality</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Slipknot (2004)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2QLWLAqMMJuiBRztcBFgvM"><img src="https://i.scdn.co/image/ab67616d0000b273229411bccce65156241b6190" width="60" height="60" alt="I Am Not A Human Being" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2QLWLAqMMJuiBRztcBFgvM">I Am Not A Human Being</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y"><img src="https://i.scdn.co/image/ab67616d0000b273f3d247f5bc7a34b1ae79a7ef" width="60" height="60" alt="Bass Sax Beats, Vol. 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">LISA SIMPSON</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Michael Wilbur (2021)</span></td>
 </tr>
 </table>
 </div>
