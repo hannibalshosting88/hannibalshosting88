@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"><img src="https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886" width="150" height="150" alt="Tha Carter V" /></a>
+<a href="https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"><img src="https://i.scdn.co/image/ab67616d0000b2730f6ce5c138493ac768d9afc8" width="150" height="150" alt="The Essential Journey" /></a>
 
-<b><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8">Mona Lisa (feat. Kendrick Lamar)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg">Don't Stop Believin'</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lil Wayne, Kendrick Lamar (2018)</span>
+<span style="color: #666;">Journey (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"><img src="https://i.scdn.co/image/ab67616d0000b2731f829ea9c2c7ffcec1a3c857" width="60" height="60" alt="Facelift" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F">Man in the Box</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Alice In Chains (1990)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"><img src="https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886" width="60" height="60" alt="Tha Carter V" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8">Mona Lisa (feat. Kendrick Lamar)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Kendrick Lamar (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL"><img src="https://i.scdn.co/image/ab67616d0000b273a320d7e9efd7602648fb78e3" width="60" height="60" alt="Neotheater" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">100 Bad Days</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2019)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl">Anna Molly</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"><img src="https://i.scdn.co/image/ab67616d0000b273fb9dac3244b8486758058a81" width="60" height="60" alt="Smiley Smile (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f">Good Vibrations - Remastered 2001</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Beach Boys (1967)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3WfsYdrkFnr8LFJiw7iuzJ"><img src="https://i.scdn.co/image/ab67616d0000b27308ec828eb5cadd6bddc78510" width="60" height="60" alt="Hero" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3WfsYdrkFnr8LFJiw7iuzJ">Hero</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Reddy Redd (2018)</span></td>
 </tr>
 </table>
 </div>
