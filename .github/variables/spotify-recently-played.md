@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1gkn90ExKRNAOlhDs4RoW0"><img src="https://i.scdn.co/image/ab67616d0000b273b5ad3ae448fd8e160c341b7a" width="150" height="150" alt="Rush" /></a>
+<a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="150" height="150" alt="The Rising Tied (Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/1gkn90ExKRNAOlhDs4RoW0">Working Man</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST">Believe Me (feat. Bobo & Styles of Beyond)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Rush (1974)</span>
+<span style="color: #666;">Fort Minor, Bobo, Styles Of Beyond (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1gkn90ExKRNAOlhDs4RoW0"><img src="https://i.scdn.co/image/ab67616d0000b273b5ad3ae448fd8e160c341b7a" width="60" height="60" alt="Rush" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1gkn90ExKRNAOlhDs4RoW0">Working Man</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Rush (1974)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc"><img src="https://i.scdn.co/image/ab67616d0000b27395cec4b61bd1188fe8a61d2b" width="60" height="60" alt="The Lost City of Atlantits" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">I Have Sex</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Scoochie Boochie (2020)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5NA2QSURjoA6oFJsMnWZU7"><img src="https://i.scdn.co/image/ab67616d0000b2730466a6a8fe6f8c7bce812186" width="60" height="60" alt="Weezer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5NA2QSURjoA6oFJsMnWZU7">Pork And Beans</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2008)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"><img src="https://i.scdn.co/image/ab67616d0000b273afffc8aea37762b4daa91e8b" width="60" height="60" alt="Don't You Worry, Honey" /></a></td>
-<td><b><a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE">High</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sir Sly (2017)</span></td>
 </tr>
 </table>
 </div>
