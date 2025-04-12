@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"><img src="https://i.scdn.co/image/ab67616d0000b2736928dbd7cce1d222ea183c8d" width="150" height="150" alt="Baby You're a Haunted House" /></a>
+<a href="https://open.spotify.com/track/06tMxo0sySSq4SkIS3xUsc"><img src="https://i.scdn.co/image/ab67616d0000b273309cd494416f90d5960f30da" width="150" height="150" alt="The Undisputed Truth" /></a>
 
-<b><a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF">Baby You're a Haunted House</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/06tMxo0sySSq4SkIS3xUsc">Uncle Sam Goddamn</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Gerard Way (2018)</span>
+<span style="color: #666;">Brother Ali (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"><img src="https://i.scdn.co/image/ab67616d0000b2736928dbd7cce1d222ea183c8d" width="60" height="60" alt="Baby You're a Haunted House" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF">Baby You're a Haunted House</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Gerard Way (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd"><img src="https://i.scdn.co/image/ab67616d0000b27316d9cd79b60c6062036bfadc" width="60" height="60" alt="Jordan Belfort" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd">Jordan Belfort</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Wes Walker, Dyl (2015)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"><img src="https://i.scdn.co/image/ab67616d0000b2731f829ea9c2c7ffcec1a3c857" width="60" height="60" alt="Facelift" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F">Man in the Box</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Alice In Chains (1990)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"><img src="https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886" width="60" height="60" alt="Tha Carter V" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8">Mona Lisa (feat. Kendrick Lamar)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Kendrick Lamar (2018)</span></td>
 </tr>
 </table>
 </div>
