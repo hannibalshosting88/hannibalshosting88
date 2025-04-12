@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="150" height="150" alt="The Audacity! (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL"><img src="https://i.scdn.co/image/ab67616d0000b273a320d7e9efd7602648fb78e3" width="150" height="150" alt="Neotheater" /></a>
 
-<b><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA">Knocking on Wood</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">100 Bad Days</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Spose (2012)</span>
+<span style="color: #666;">AJR (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA">Knocking on Wood</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0qb88piRhrignxmuVJssLG"><img src="https://i.scdn.co/image/ab67616d0000b2731ccecd0493c3cb25b703e50d" width="60" height="60" alt="The Only Thing They Fear Is You" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0qb88piRhrignxmuVJssLG">The Only Thing They Fear Is You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Last Bear Ender (2022)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World's Smallest Violin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"><img src="https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a" width="60" height="60" alt="Vol. 3: The Subliminal Verses" /></a></td>
-<td><b><a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">Duality</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Slipknot (2004)</span></td>
 </tr>
 </table>
 </div>
