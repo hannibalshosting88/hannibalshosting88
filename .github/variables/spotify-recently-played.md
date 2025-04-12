@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0"><img src="https://i.scdn.co/image/ab67616d0000b27360c84f44c080824ce336e1a1" width="150" height="150" alt="Save Rock And Roll" /></a>
+<a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"><img src="https://i.scdn.co/image/ab67616d0000b2736928dbd7cce1d222ea183c8d" width="150" height="150" alt="Baby You're a Haunted House" /></a>
 
-<b><a href="https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0">My Songs Know What You Did In The Dark (Light Em Up)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF">Baby You're a Haunted House</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Fall Out Boy (2013)</span>
+<span style="color: #666;">Gerard Way (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd"><img src="https://i.scdn.co/image/ab67616d0000b27316d9cd79b60c6062036bfadc" width="60" height="60" alt="Jordan Belfort" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd">Jordan Belfort</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Wes Walker, Dyl (2015)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0"><img src="https://i.scdn.co/image/ab67616d0000b27360c84f44c080824ce336e1a1" width="60" height="60" alt="Save Rock And Roll" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0">My Songs Know What You Did In The Dark (Light Em Up)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2013)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"><img src="https://i.scdn.co/image/ab67616d0000b2738399047ff71200928f5b6508" width="60" height="60" alt="The Razors Edge" /></a></td>
 <td><b><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">AC/DC (1990)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"><img src="https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886" width="60" height="60" alt="Tha Carter V" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8">Mona Lisa (feat. Kendrick Lamar)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Kendrick Lamar (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL"><img src="https://i.scdn.co/image/ab67616d0000b273a320d7e9efd7602648fb78e3" width="60" height="60" alt="Neotheater" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">100 Bad Days</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA">Knocking on Wood</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
 </tr>
 </table>
 </div>
