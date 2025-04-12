@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="150" height="150" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="150" height="150" alt="Is This It" /></a>
 
-<b><a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt">Rhythmortis</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Danny Baranowsky (2015)</span>
+<span style="color: #666;">The Strokes (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt">Rhythmortis</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"><img src="https://i.scdn.co/image/ab67616d0000b273f9017bcd001d030d46850226" width="60" height="60" alt="Heading South" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd">Heading South</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Zach Bryan (2019)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">Scott Mescudi Vs. The World</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, CeeLo Green (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"><img src="https://i.scdn.co/image/ab67616d0000b27350d216aebaf98e8ac9947fd5" width="60" height="60" alt="Follow The Leader" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu">Freak On a Leash</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (1998)</span></td>
 </tr>
 </table>
 </div>
