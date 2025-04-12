@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="150" height="150" alt="The Rising Tied (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/5dao9oEd92ineD6xJjgQww"><img src="https://i.scdn.co/image/ab67616d0000b2730250beea7e08c080456f937e" width="150" height="150" alt="Jumping Not a Crime" /></a>
 
-<b><a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST">Believe Me (feat. Bobo & Styles of Beyond)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/5dao9oEd92ineD6xJjgQww">Jumping Not a Crime</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Fort Minor, Bobo, Styles Of Beyond (2005)</span>
+<span style="color: #666;">xaviorthemachine (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv"><img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="60" height="60" alt="Sleep With the Lights On" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Wanton Bishops (2015)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST">Believe Me (feat. Bobo & Styles of Beyond)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Bobo, Styles Of Beyond (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1gkn90ExKRNAOlhDs4RoW0"><img src="https://i.scdn.co/image/ab67616d0000b273b5ad3ae448fd8e160c341b7a" width="60" height="60" alt="Rush" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1gkn90ExKRNAOlhDs4RoW0">Working Man</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Rush (1974)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"><img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="60" height="60" alt="Man On The Moon: The End Of Day" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c">Day 'N' Nite (nightmare)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0"><img src="https://i.scdn.co/image/ab67616d0000b2737a015de3b0b7d1e3bf02a926" width="60" height="60" alt="Down3r" /></a></td>
-<td><b><a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0">Suga Boom Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Down3r (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5NA2QSURjoA6oFJsMnWZU7"><img src="https://i.scdn.co/image/ab67616d0000b2730466a6a8fe6f8c7bce812186" width="60" height="60" alt="Weezer" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5NA2QSURjoA6oFJsMnWZU7">Pork And Beans</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2008)</span></td>
 </tr>
 </table>
 </div>
