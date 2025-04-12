@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="150" height="150" alt="Is This It" /></a>
+<a href="https://open.spotify.com/track/0qb88piRhrignxmuVJssLG"><img src="https://i.scdn.co/image/ab67616d0000b2731ccecd0493c3cb25b703e50d" width="150" height="150" alt="The Only Thing They Fear Is You" /></a>
 
-<b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0qb88piRhrignxmuVJssLG">The Only Thing They Fear Is You</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">The Strokes (2001)</span>
+<span style="color: #666;">The Last Bear Ender (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="60" height="60" alt="Is This It" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Strokes (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt">Rhythmortis</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"><img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" width="60" height="60" alt="Hot Fuss" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v">Somebody Told Me</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Killers (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">Scott Mescudi Vs. The World</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, CeeLo Green (2010)</span></td>
 </tr>
 </table>
 </div>
