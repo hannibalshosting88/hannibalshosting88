@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"><img src="https://i.scdn.co/image/ab67616d0000b273afffc8aea37762b4daa91e8b" width="150" height="150" alt="Don't You Worry, Honey" /></a>
+<a href="https://open.spotify.com/track/5NA2QSURjoA6oFJsMnWZU7"><img src="https://i.scdn.co/image/ab67616d0000b2730466a6a8fe6f8c7bce812186" width="150" height="150" alt="Weezer" /></a>
 
-<b><a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE">High</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/5NA2QSURjoA6oFJsMnWZU7">Pork And Beans</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Sir Sly (2017)</span>
+<span style="color: #666;">Weezer (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"><img src="https://i.scdn.co/image/ab67616d0000b273afffc8aea37762b4daa91e8b" width="60" height="60" alt="Don't You Worry, Honey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE">High</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sir Sly (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww"><img src="https://i.scdn.co/image/ab67616d0000b273c2306359e023afa8b2030708" width="60" height="60" alt="Maroon" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww">Pinch Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Barenaked Ladies (2000)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD"><img src="https://i.scdn.co/image/ab67616d0000b2731aaa4af459faac4478583092" width="60" height="60" alt="Beyond the Norm" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">Shook Ones Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">J. Koda (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"><img src="https://i.scdn.co/image/ab67616d0000b27357ebfccbef07ebff2a495843" width="60" height="60" alt="A Million In Prizes: Iggy Pop Anthology (Edited Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH">The Passenger</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Iggy Pop (2005)</span></td>
 </tr>
 </table>
 </div>
