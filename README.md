@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5NA2QSURjoA6oFJsMnWZU7"><img src="https://i.scdn.co/image/ab67616d0000b2730466a6a8fe6f8c7bce812186" width="150" height="150" alt="Weezer" /></a>
+<a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0"><img src="https://i.scdn.co/image/ab67616d0000b2737a015de3b0b7d1e3bf02a926" width="150" height="150" alt="Down3r" /></a>
 
-<b><a href="https://open.spotify.com/track/5NA2QSURjoA6oFJsMnWZU7">Pork And Beans</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0">Suga Boom Boom</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Weezer (2008)</span>
+<span style="color: #666;">Down3r (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5NA2QSURjoA6oFJsMnWZU7"><img src="https://i.scdn.co/image/ab67616d0000b2730466a6a8fe6f8c7bce812186" width="60" height="60" alt="Weezer" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5NA2QSURjoA6oFJsMnWZU7">Pork And Beans</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2008)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"><img src="https://i.scdn.co/image/ab67616d0000b273afffc8aea37762b4daa91e8b" width="60" height="60" alt="Don't You Worry, Honey" /></a></td>
 <td><b><a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE">High</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sir Sly (2017)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3KLAVrzY77ZlbQ3GOLZ8CX"><img src="https://i.scdn.co/image/ab67616d0000b273d7775702b925245900375b34" width="60" height="60" alt="Chaos 93'" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3KLAVrzY77ZlbQ3GOLZ8CX">Walkin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ocean Wisdom (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD"><img src="https://i.scdn.co/image/ab67616d0000b2731aaa4af459faac4478583092" width="60" height="60" alt="Beyond the Norm" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">Shook Ones Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">J. Koda (2022)</span></td>
 </tr>
 </table>
 </div>
