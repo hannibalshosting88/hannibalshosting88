@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0"><img src="https://i.scdn.co/image/ab67616d0000b2737a015de3b0b7d1e3bf02a926" width="150" height="150" alt="Down3r" /></a>
+<a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"><img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="150" height="150" alt="Man On The Moon: The End Of Day" /></a>
 
-<b><a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0">Suga Boom Boom</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c">Day 'N' Nite (nightmare)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Down3r (2016)</span>
+<span style="color: #666;">Kid Cudi (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0"><img src="https://i.scdn.co/image/ab67616d0000b2737a015de3b0b7d1e3bf02a926" width="60" height="60" alt="Down3r" /></a></td>
+<td><b><a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0">Suga Boom Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Down3r (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5NA2QSURjoA6oFJsMnWZU7"><img src="https://i.scdn.co/image/ab67616d0000b2730466a6a8fe6f8c7bce812186" width="60" height="60" alt="Weezer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5NA2QSURjoA6oFJsMnWZU7">Pork And Beans</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2008)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k"><img src="https://i.scdn.co/image/ab67616d0000b273d2a85ebbfd9f834dafacaa8a" width="60" height="60" alt="Pecan Pie" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">Pecan Pie</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Nine and Dex (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3KLAVrzY77ZlbQ3GOLZ8CX"><img src="https://i.scdn.co/image/ab67616d0000b273d7775702b925245900375b34" width="60" height="60" alt="Chaos 93'" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3KLAVrzY77ZlbQ3GOLZ8CX">Walkin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ocean Wisdom (2016)</span></td>
 </tr>
 </table>
 </div>
