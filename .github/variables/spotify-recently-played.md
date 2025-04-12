@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q"><img src="https://i.scdn.co/image/ab67616d0000b2730f9d33cae4a0275e8fd28b93" width="150" height="150" alt="Megalithic Symphony (10th Anniversary Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="150" height="150" alt="Make Yourself" /></a>
 
-<b><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q">Sail - Unlimited Gravity Remix</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">When It Comes</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">AWOLNATION, Unlimited Gravity (2021)</span>
+<span style="color: #666;">Incubus (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q"><img src="https://i.scdn.co/image/ab67616d0000b2730f9d33cae4a0275e8fd28b93" width="60" height="60" alt="Megalithic Symphony (10th Anniversary Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q">Sail - Unlimited Gravity Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION, Unlimited Gravity (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/497nos7LG28Sv5b24P2fW7"><img src="https://i.scdn.co/image/ab67616d0000b2734124006ed30cce44b73ba44a" width="60" height="60" alt="Sinking Ship" /></a></td>
 <td><b><a href="https://open.spotify.com/track/497nos7LG28Sv5b24P2fW7">Sinking Ship</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF">What I Got</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"><img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="60" height="60" alt="Meteora" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU">Faint</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2003)</span></td>
 </tr>
 </table>
 </div>
