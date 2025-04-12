@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"><img src="https://i.scdn.co/image/ab67616d0000b2738399047ff71200928f5b6508" width="150" height="150" alt="The Razors Edge" /></a>
+<a href="https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0"><img src="https://i.scdn.co/image/ab67616d0000b27360c84f44c080824ce336e1a1" width="150" height="150" alt="Save Rock And Roll" /></a>
 
-<b><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0">My Songs Know What You Did In The Dark (Light Em Up)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">AC/DC (1990)</span>
+<span style="color: #666;">Fall Out Boy (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"><img src="https://i.scdn.co/image/ab67616d0000b2738399047ff71200928f5b6508" width="60" height="60" alt="The Razors Edge" /></a></td>
+<td><b><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">AC/DC (1990)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF">What I Got</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA">Knocking on Wood</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0qb88piRhrignxmuVJssLG"><img src="https://i.scdn.co/image/ab67616d0000b2731ccecd0493c3cb25b703e50d" width="60" height="60" alt="The Only Thing They Fear Is You" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0qb88piRhrignxmuVJssLG">The Only Thing They Fear Is You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Last Bear Ender (2022)</span></td>
 </tr>
 </table>
 </div>
