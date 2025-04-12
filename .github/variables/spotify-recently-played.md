@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="150" height="150" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a>
+<a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"><img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" width="150" height="150" alt="Hot Fuss" /></a>
 
-<b><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">Scott Mescudi Vs. The World</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v">Somebody Told Me</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Kid Cudi, CeeLo Green (2010)</span>
+<span style="color: #666;">The Killers (2004)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">Scott Mescudi Vs. The World</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, CeeLo Green (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"><img src="https://i.scdn.co/image/ab67616d0000b27350d216aebaf98e8ac9947fd5" width="60" height="60" alt="Follow The Leader" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu">Freak On a Leash</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (1998)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM"><img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="60" height="60" alt="EndEx" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM">Slum Planet</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">3TEETH, Mick Gordon (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c"><img src="https://i.scdn.co/image/ab67616d0000b27334666061eea81fa4b36ba2b9" width="60" height="60" alt="PARALLAX" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c">Warbringer</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">TheFatRat, Everen Maxwell, Lindsey Stirling (2021)</span></td>
 </tr>
 </table>
 </div>
