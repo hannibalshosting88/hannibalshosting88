@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" width="150" height="150" alt="Echoes, Silence, Patience & Grace" /></a>
+<a href="https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww"><img src="https://i.scdn.co/image/ab67616d0000b273c2306359e023afa8b2030708" width="150" height="150" alt="Maroon" /></a>
 
-<b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww">Pinch Me</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Foo Fighters (2007)</span>
+<span style="color: #666;">Barenaked Ladies (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" width="60" height="60" alt="Echoes, Silence, Patience & Grace" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC"><img src="https://i.scdn.co/image/ab67616d0000b27316e4a73d53b47d825ff09f08" width="60" height="60" alt="Fight Club" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC">No Squids</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ocean Wisdom, K Koke (2024)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World's Smallest Violin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"><img src="https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1" width="60" height="60" alt="The Black Parade" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW">Welcome to the Black Parade</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">My Chemical Romance (2006)</span></td>
 </tr>
 </table>
 </div>
