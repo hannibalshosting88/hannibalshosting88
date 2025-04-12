@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"><img src="https://i.scdn.co/image/ab67616d0000b273229411bccce65156241b6190" width="150" height="150" alt="I Am Not A Human Being" /></a>
+<a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="150" height="150" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP">Right Above It</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt">Rhythmortis</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Lil Wayne, Drake (2010)</span>
+<span style="color: #666;">Danny Baranowsky (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"><img src="https://i.scdn.co/image/ab67616d0000b273f9017bcd001d030d46850226" width="60" height="60" alt="Heading South" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd">Heading South</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Zach Bryan (2019)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"><img src="https://i.scdn.co/image/ab67616d0000b273229411bccce65156241b6190" width="60" height="60" alt="I Am Not A Human Being" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP">Right Above It</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Drake (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl">Anna Molly</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"><img src="https://i.scdn.co/image/ab67616d0000b27350d216aebaf98e8ac9947fd5" width="60" height="60" alt="Follow The Leader" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu">Freak On a Leash</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (1998)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"><img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" width="60" height="60" alt="LIVING THINGS" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I">BURN IT DOWN</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6Y75gBp8334c2d4dg5B7vO"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6Y75gBp8334c2d4dg5B7vO">Cyberdemon</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
 </tr>
 </table>
 </div>
