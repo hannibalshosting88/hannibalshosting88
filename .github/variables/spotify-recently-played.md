@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"><img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="150" height="150" alt="Man On The Moon: The End Of Day" /></a>
+<a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n"><img src="https://i.scdn.co/image/ab67616d0000b2738049549d4bc25e366788a6b3" width="150" height="150" alt="One More Love" /></a>
 
-<b><a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c">Day 'N' Nite (nightmare)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n">Memories (feat. Kid Cudi)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Kid Cudi (2009)</span>
+<span style="color: #666;">David Guetta, Kid Cudi (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n"><img src="https://i.scdn.co/image/ab67616d0000b2738049549d4bc25e366788a6b3" width="60" height="60" alt="One More Love" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n">Memories (feat. Kid Cudi)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">David Guetta, Kid Cudi (2010)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"><img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="60" height="60" alt="Man On The Moon: The End Of Day" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c">Day 'N' Nite (nightmare)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0"><img src="https://i.scdn.co/image/ab67616d0000b2737a015de3b0b7d1e3bf02a926" width="60" height="60" alt="Down3r" /></a></td>
 <td><b><a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0">Suga Boom Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Down3r (2016)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6nWjnyGiPqb5bmkhsyYvLZ"><img src="https://i.scdn.co/image/ab67616d0000b273990926023592dd4786ce3900" width="60" height="60" alt="Scousematic 3" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6nWjnyGiPqb5bmkhsyYvLZ">Wats Apenin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Aystar (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h"><img src="https://i.scdn.co/image/ab67616d0000b273fa53c2e5e710a267b2bbc3b7" width="60" height="60" alt="Faster Than the Speed of Death" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h">The Sooner We Die the Sooner We Can All Go Home</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dead Players, Jam Baxter, Dabbla, Ghosttown (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k"><img src="https://i.scdn.co/image/ab67616d0000b273d2a85ebbfd9f834dafacaa8a" width="60" height="60" alt="Pecan Pie" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">Pecan Pie</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Nine and Dex (2024)</span></td>
 </tr>
 </table>
 </div>
