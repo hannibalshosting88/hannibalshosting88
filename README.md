@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n"><img src="https://i.scdn.co/image/ab67616d0000b2738049549d4bc25e366788a6b3" width="150" height="150" alt="One More Love" /></a>
+<a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB"><img src="https://i.scdn.co/image/ab67616d0000b2734c323691524da979d9a8b695" width="150" height="150" alt="BFG 10k" /></a>
 
-<b><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n">Memories (feat. Kid Cudi)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB">BFG 10k</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">David Guetta, Kid Cudi (2010)</span>
+<span style="color: #666;">Andrew Baena, Cooper Lagace (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" width="60" height="60" alt="Millennium" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T">Show Me the Meaning of Being Lonely</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1999)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n"><img src="https://i.scdn.co/image/ab67616d0000b2738049549d4bc25e366788a6b3" width="60" height="60" alt="One More Love" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n">Memories (feat. Kid Cudi)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">David Guetta, Kid Cudi (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n"><img src="https://i.scdn.co/image/ab67616d0000b2738049549d4bc25e366788a6b3" width="60" height="60" alt="One More Love" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n">Memories (feat. Kid Cudi)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">David Guetta, Kid Cudi (2010)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC"><img src="https://i.scdn.co/image/ab67616d0000b27316e4a73d53b47d825ff09f08" width="60" height="60" alt="Fight Club" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC">No Squids</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ocean Wisdom, K Koke (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0"><img src="https://i.scdn.co/image/ab67616d0000b27393c1b92aa259f41ee79f6e4d" width="60" height="60" alt="SANTIAGO" /></a></td>
-<td><b><a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">SANTIAGO</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">SIDEQUEST (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6nWjnyGiPqb5bmkhsyYvLZ"><img src="https://i.scdn.co/image/ab67616d0000b273990926023592dd4786ce3900" width="60" height="60" alt="Scousematic 3" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6nWjnyGiPqb5bmkhsyYvLZ">Wats Apenin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Aystar (2021)</span></td>
 </tr>
 </table>
 </div>
