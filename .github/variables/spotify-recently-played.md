@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5Tm9At0xeFb0MtlV8uI3eY"><img src="https://i.scdn.co/image/ab67616d0000b2735c8d9ad991d2a23eb039d8dd" width="150" height="150" alt="Passion, Pain & Demon Slayin'" /></a>
+<a href="https://open.spotify.com/track/497nos7LG28Sv5b24P2fW7"><img src="https://i.scdn.co/image/ab67616d0000b2734124006ed30cce44b73ba44a" width="150" height="150" alt="Sinking Ship" /></a>
 
-<b><a href="https://open.spotify.com/track/5Tm9At0xeFb0MtlV8uI3eY">Releaser</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/497nos7LG28Sv5b24P2fW7">Sinking Ship</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Kid Cudi (2016)</span>
+<span style="color: #666;">CAKE (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5Tm9At0xeFb0MtlV8uI3eY"><img src="https://i.scdn.co/image/ab67616d0000b2735c8d9ad991d2a23eb039d8dd" width="60" height="60" alt="Passion, Pain & Demon Slayin'" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5Tm9At0xeFb0MtlV8uI3eY">Releaser</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R"><img src="https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6" width="60" height="60" alt="The Fat of the Land" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R">Smack My Bitch Up</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (1997)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="60" height="60" alt="Thrifty x Spooky Raccoon" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">Thrifty</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0De6k2vhzI1AwNqvDAMyZs"><img src="https://i.scdn.co/image/ab67616d0000b273b4a35e290c22d73c16df1f7b" width="60" height="60" alt="Warmer In The Winter (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0De6k2vhzI1AwNqvDAMyZs">Dance Of The Sugar Plum Fairy</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lindsey Stirling (2018)</span></td>
 </tr>
 </table>
 </div>
