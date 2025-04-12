@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5dao9oEd92ineD6xJjgQww"><img src="https://i.scdn.co/image/ab67616d0000b2730250beea7e08c080456f937e" width="150" height="150" alt="Jumping Not a Crime" /></a>
+<a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB"><img src="https://i.scdn.co/image/ab67616d0000b273fd47f4e731d91210018d62ea" width="150" height="150" alt="The Rise of Hobo Johnson" /></a>
 
-<b><a href="https://open.spotify.com/track/5dao9oEd92ineD6xJjgQww">Jumping Not a Crime</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB">Romeo & Juliet</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">xaviorthemachine (2024)</span>
+<span style="color: #666;">Hobo Johnson (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M">My Immortal</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5dao9oEd92ineD6xJjgQww"><img src="https://i.scdn.co/image/ab67616d0000b2730250beea7e08c080456f937e" width="60" height="60" alt="Jumping Not a Crime" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5dao9oEd92ineD6xJjgQww">Jumping Not a Crime</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">xaviorthemachine (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv"><img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="60" height="60" alt="Sleep With the Lights On" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Wanton Bishops (2015)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n"><img src="https://i.scdn.co/image/ab67616d0000b2738049549d4bc25e366788a6b3" width="60" height="60" alt="One More Love" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n">Memories (feat. Kid Cudi)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">David Guetta, Kid Cudi (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n"><img src="https://i.scdn.co/image/ab67616d0000b2738049549d4bc25e366788a6b3" width="60" height="60" alt="One More Love" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n">Memories (feat. Kid Cudi)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">David Guetta, Kid Cudi (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"><img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="60" height="60" alt="Man On The Moon: The End Of Day" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c">Day 'N' Nite (nightmare)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2009)</span></td>
 </tr>
 </table>
 </div>
