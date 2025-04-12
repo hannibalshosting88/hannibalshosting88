@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB"><img src="https://i.scdn.co/image/ab67616d0000b273fd47f4e731d91210018d62ea" width="150" height="150" alt="The Rise of Hobo Johnson" /></a>
+<a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c"><img src="https://i.scdn.co/image/ab67616d0000b27334666061eea81fa4b36ba2b9" width="150" height="150" alt="PARALLAX" /></a>
 
-<b><a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB">Romeo & Juliet</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c">Warbringer</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Hobo Johnson (2017)</span>
+<span style="color: #666;">TheFatRat, Everen Maxwell, Lindsey Stirling (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB"><img src="https://i.scdn.co/image/ab67616d0000b273fd47f4e731d91210018d62ea" width="60" height="60" alt="The Rise of Hobo Johnson" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB">Romeo & Juliet</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hobo Johnson (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M">My Immortal</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" width="60" height="60" alt="Millennium" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T">Show Me the Meaning of Being Lonely</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n"><img src="https://i.scdn.co/image/ab67616d0000b2738049549d4bc25e366788a6b3" width="60" height="60" alt="One More Love" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n">Memories (feat. Kid Cudi)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">David Guetta, Kid Cudi (2010)</span></td>
 </tr>
 </table>
 </div>
