@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="150" height="150" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a>
+<a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc"><img src="https://i.scdn.co/image/ab67616d0000b27395cec4b61bd1188fe8a61d2b" width="150" height="150" alt="The Lost City of Atlantits" /></a>
 
-<b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">I Have Sex</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Atmosphere, Slug, Ant (2008)</span>
+<span style="color: #666;">Scoochie Boochie (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="60" height="60" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2008)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB"><img src="https://i.scdn.co/image/ab67616d0000b2734c323691524da979d9a8b695" width="60" height="60" alt="BFG 10k" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB">BFG 10k</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andrew Baena, Cooper Lagace (2020)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww"><img src="https://i.scdn.co/image/ab67616d0000b273c2306359e023afa8b2030708" width="60" height="60" alt="Maroon" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww">Pinch Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Barenaked Ladies (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" width="60" height="60" alt="Echoes, Silence, Patience & Grace" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2007)</span></td>
 </tr>
 </table>
 </div>
