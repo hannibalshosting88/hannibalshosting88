@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="150" height="150" alt="Sublime" /></a>
+<a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"><img src="https://i.scdn.co/image/ab67616d0000b2738399047ff71200928f5b6508" width="150" height="150" alt="The Razors Edge" /></a>
 
-<b><a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF">What I Got</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Sublime (1996)</span>
+<span style="color: #666;">AC/DC (1990)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF">What I Got</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"><img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="60" height="60" alt="Meteora" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU">Faint</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2003)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0qb88piRhrignxmuVJssLG"><img src="https://i.scdn.co/image/ab67616d0000b2731ccecd0493c3cb25b703e50d" width="60" height="60" alt="The Only Thing They Fear Is You" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0qb88piRhrignxmuVJssLG">The Only Thing They Fear Is You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Last Bear Ender (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="60" height="60" alt="Is This It" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Strokes (2001)</span></td>
 </tr>
 </table>
 </div>
