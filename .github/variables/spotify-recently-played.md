@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y"><img src="https://i.scdn.co/image/ab67616d0000b273f3d247f5bc7a34b1ae79a7ef" width="150" height="150" alt="Bass Sax Beats, Vol. 2" /></a>
+<a href="https://open.spotify.com/track/2QLWLAqMMJuiBRztcBFgvM"><img src="https://i.scdn.co/image/ab67616d0000b273229411bccce65156241b6190" width="150" height="150" alt="I Am Not A Human Being" /></a>
 
-<b><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">LISA SIMPSON</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/2QLWLAqMMJuiBRztcBFgvM">I Am Not A Human Being</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Michael Wilbur (2021)</span>
+<span style="color: #666;">Lil Wayne (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y"><img src="https://i.scdn.co/image/ab67616d0000b273f3d247f5bc7a34b1ae79a7ef" width="60" height="60" alt="Bass Sax Beats, Vol. 2" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">LISA SIMPSON</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Michael Wilbur (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"><img src="https://i.scdn.co/image/ab67616d0000b273466cbdbfa0f61e469beca2a1" width="60" height="60" alt="Inflammable Material" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ">Suspect Device</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Stiff Little Fingers (1979)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1gkn90ExKRNAOlhDs4RoW0"><img src="https://i.scdn.co/image/ab67616d0000b273b5ad3ae448fd8e160c341b7a" width="60" height="60" alt="Rush" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1gkn90ExKRNAOlhDs4RoW0">Working Man</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Rush (1974)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc"><img src="https://i.scdn.co/image/ab67616d0000b27395cec4b61bd1188fe8a61d2b" width="60" height="60" alt="The Lost City of Atlantits" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">I Have Sex</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Scoochie Boochie (2020)</span></td>
 </tr>
 </table>
 </div>
