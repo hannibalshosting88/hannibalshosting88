@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="150" height="150" alt="From Under The Cork Tree" /></a>
+<a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="150" height="150" alt="INSANO (NITRO MEGA)" /></a>
 
-<b><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">Sugar, We're Goin Down</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By">WIN OR LOSE (feat. Chip Tha Ripper)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Fall Out Boy (2005)</span>
+<span style="color: #666;">Kid Cudi, Chip Tha Ripper (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="60" height="60" alt="From Under The Cork Tree" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">Sugar, We're Goin Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2QLWLAqMMJuiBRztcBFgvM"><img src="https://i.scdn.co/image/ab67616d0000b273229411bccce65156241b6190" width="60" height="60" alt="I Am Not A Human Being" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2QLWLAqMMJuiBRztcBFgvM">I Am Not A Human Being</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2010)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv"><img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="60" height="60" alt="Sleep With the Lights On" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Wanton Bishops (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST">Believe Me (feat. Bobo & Styles of Beyond)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Bobo, Styles Of Beyond (2005)</span></td>
 </tr>
 </table>
 </div>
