@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww"><img src="https://i.scdn.co/image/ab67616d0000b273c2306359e023afa8b2030708" width="150" height="150" alt="Maroon" /></a>
+<a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"><img src="https://i.scdn.co/image/ab67616d0000b273afffc8aea37762b4daa91e8b" width="150" height="150" alt="Don't You Worry, Honey" /></a>
 
-<b><a href="https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww">Pinch Me</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE">High</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Barenaked Ladies (2000)</span>
+<span style="color: #666;">Sir Sly (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww"><img src="https://i.scdn.co/image/ab67616d0000b273c2306359e023afa8b2030708" width="60" height="60" alt="Maroon" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww">Pinch Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Barenaked Ladies (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" width="60" height="60" alt="Echoes, Silence, Patience & Grace" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2007)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"><img src="https://i.scdn.co/image/ab67616d0000b27357ebfccbef07ebff2a495843" width="60" height="60" alt="A Million In Prizes: Iggy Pop Anthology (Edited Version)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH">The Passenger</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Iggy Pop (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World's Smallest Violin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
 </tr>
 </table>
 </div>
