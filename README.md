@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4"><img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="150" height="150" alt="U.S.A. (United State of Atlanta)" /></a>
+<a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"><img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="150" height="150" alt="UP!" /></a>
 
-<b><a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4">Wait (The Whisper Song)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Ying Yang Twins (2005)</span>
+<span style="color: #666;">Forrest Frank, Connor Price (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4"><img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="60" height="60" alt="U.S.A. (United State of Atlanta)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4">Wait (The Whisper Song)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"><img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="60" height="60" alt="Enemy (from the series Arcane League of Legends)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Arcane, League of Legends (2021)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R"><img src="https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6" width="60" height="60" alt="The Fat of the Land" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R">Smack My Bitch Up</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/06tMxo0sySSq4SkIS3xUsc"><img src="https://i.scdn.co/image/ab67616d0000b273309cd494416f90d5960f30da" width="60" height="60" alt="The Undisputed Truth" /></a></td>
-<td><b><a href="https://open.spotify.com/track/06tMxo0sySSq4SkIS3xUsc">Uncle Sam Goddamn</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Brother Ali (2007)</span></td>
 </tr>
 </table>
 </div>
