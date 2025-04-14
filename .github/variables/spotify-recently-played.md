@@ -13,7 +13,7 @@
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4"><img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="60" height="60" alt="U.S.A. (United State of Atlanta)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4">Wait (The Whisper Song)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins (2005)</span></td>
+<td><b><a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4">Wait (The Whisper Song)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins (2005)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"><img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="60" height="60" alt="Enemy (from the series Arcane League of Legends)" /></a></td>
