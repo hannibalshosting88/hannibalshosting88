@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"><img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" width="150" height="150" alt="FutureSex/LoveSounds" /></a>
+<a href="https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"><img src="https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed" width="150" height="150" alt="White Pony" /></a>
 
-<b><a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR">SexyBack (feat. Timbaland)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3">Change (In the House of Flies)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Justin Timberlake, Timbaland (2006)</span>
+<span style="color: #666;">Deftones (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v"><img src="https://i.scdn.co/image/ab67616d0000b273d609342d04c349815b5fe099" width="60" height="60" alt="Leave a Whisper (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v">45</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Shinedown (2003)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"><img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" width="60" height="60" alt="FutureSex/LoveSounds" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR">SexyBack (feat. Timbaland)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake, Timbaland (2006)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"><img src="https://i.scdn.co/image/ab67616d0000b273b424aeb510016daa1bc0251c" width="60" height="60" alt="Come What(ever) May [10th Anniversary Edition]" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c">Through Glass</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Sour (2006)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">Make Yourself</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7qIbKygZWmVZ2ZJpgYHO19"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="60" height="60" alt="INSANO (NITRO MEGA)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7qIbKygZWmVZ2ZJpgYHO19">ELECTROWAVEBABY 2.0</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, Steve Aoki (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7qIbKygZWmVZ2ZJpgYHO19"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="60" height="60" alt="INSANO (NITRO MEGA)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7qIbKygZWmVZ2ZJpgYHO19">ELECTROWAVEBABY 2.0</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, Steve Aoki (2024)</span></td>
 </tr>
 </table>
 </div>
