@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV"><img src="https://i.scdn.co/image/ab67616d0000b2735fc5c78e17b551ddc8da4f05" width="150" height="150" alt="Can't Hold Me Down" /></a>
+<a href="https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"><img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" width="150" height="150" alt="Blurryface" /></a>
 
-<b><a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV">Can't Hold Me Down</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4">Tear in My Heart</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Doodles, Lil Wayne, Lil Yachty, Kyle Richh, Pharrell Williams (2024)</span>
+<span style="color: #666;">Twenty One Pilots (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV"><img src="https://i.scdn.co/image/ab67616d0000b2735fc5c78e17b551ddc8da4f05" width="60" height="60" alt="Can't Hold Me Down" /></a></td>
+<td><b><a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV">Can't Hold Me Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Doodles, Lil Wayne, Lil Yachty, Kyle Richh, Pharrell Williams (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H"><img src="https://i.scdn.co/image/ab67616d0000b273300af6c15e091795c7997d86" width="60" height="60" alt="Sorry 4 The Wait" /></a></td>
 <td><b><a href="https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H">Sorry 4 The Wait</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2022)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="60" height="60" alt="Hypnotize" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX">Lonely Day</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"><img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="60" height="60" alt="UP!" /></a></td>
-<td><b><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Forrest Frank, Connor Price (2024)</span></td>
 </tr>
 </table>
 </div>
