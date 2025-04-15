@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"><img src="https://i.scdn.co/image/ab67616d0000b273d1d1f3d8dd3684ee3d75385b" width="150" height="150" alt="Shadows On The Sun" /></a>
+<a href="https://open.spotify.com/track/0A5txEnRDBBBKK1wGR88xS"><img src="https://i.scdn.co/image/ab67616d0000b273fc6d52924a3ce8a3dc034ea9" width="150" height="150" alt="Westwinds" /></a>
 
-<b><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ">Forest Whitiker</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0A5txEnRDBBBKK1wGR88xS">The Massacre of Glencoe</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Brother Ali (2003)</span>
+<span style="color: #666;">The Real McKenzies (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"><img src="https://i.scdn.co/image/ab67616d0000b273d1d1f3d8dd3684ee3d75385b" width="60" height="60" alt="Shadows On The Sun" /></a></td>
+<td><b><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ">Forest Whitiker</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Brother Ali (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"><img src="https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d" width="60" height="60" alt="Led Zeppelin II (1994 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8">Whole Lotta Love - 1990 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Led Zeppelin (1969)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v"><img src="https://i.scdn.co/image/ab67616d0000b273d609342d04c349815b5fe099" width="60" height="60" alt="Leave a Whisper (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v">45</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Shinedown (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"><img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" width="60" height="60" alt="FutureSex/LoveSounds" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR">SexyBack (feat. Timbaland)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake, Timbaland (2006)</span></td>
 </tr>
 </table>
 </div>
