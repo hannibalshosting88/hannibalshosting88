@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"><img src="https://i.scdn.co/image/ab67616d0000b273801cf8805673d07eb26da351" width="150" height="150" alt="Rebirth" /></a>
+<a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"><img src="https://i.scdn.co/image/ab67616d0000b273030915ffa58125ae36f13a6f" width="150" height="150" alt="The Warrior's Code" /></a>
 
-<b><a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">Drop The World</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">I'm Shipping Up To Boston</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lil Wayne, Eminem (2009)</span>
+<span style="color: #666;">Dropkick Murphys (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/65aeHyw8GdHFwmEvdSns21"><img src="https://i.scdn.co/image/ab67616d0000b273a186a985ccf9ac0215f937f8" width="60" height="60" alt="Thirds" /></a></td>
+<td><b><a href="https://open.spotify.com/track/65aeHyw8GdHFwmEvdSns21">Walk Away</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">James Gang (1971)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"><img src="https://i.scdn.co/image/ab67616d0000b273801cf8805673d07eb26da351" width="60" height="60" alt="Rebirth" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">Drop The World</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Eminem (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"><img src="https://i.scdn.co/image/ab67616d0000b273e95d233a9df33d6c9992b449" width="60" height="60" alt="Contraband" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F">Slither</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Velvet Revolver (2004)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV"><img src="https://i.scdn.co/image/ab67616d0000b2735fc5c78e17b551ddc8da4f05" width="60" height="60" alt="Can't Hold Me Down" /></a></td>
 <td><b><a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV">Can't Hold Me Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Doodles, Lil Wayne, Lil Yachty, Kyle Richh, Pharrell Williams (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H"><img src="https://i.scdn.co/image/ab67616d0000b273300af6c15e091795c7997d86" width="60" height="60" alt="Sorry 4 The Wait" /></a></td>
-<td><b><a href="https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H">Sorry 4 The Wait</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs"><img src="https://i.scdn.co/image/ab67616d0000b2737bd7c7c0b0b0e4e38d2feafc" width="60" height="60" alt="The Uncanny Valley" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs">Death Squad</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Perturbator (2016)</span></td>
 </tr>
 </table>
 </div>
