@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="150" height="150" alt="Hypnotize" /></a>
+<a href="https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"><img src="https://i.scdn.co/image/ab67616d0000b27305f94511cc38a2f4652d9f9c" width="150" height="150" alt="Stop All The World Now" /></a>
 
-<b><a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX">Lonely Day</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol">Collide</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">System Of A Down (2005)</span>
+<span style="color: #666;">Howie Day (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="60" height="60" alt="Hypnotize" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX">Lonely Day</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"><img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="60" height="60" alt="UP!" /></a></td>
 <td><b><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Forrest Frank, Connor Price (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/497nos7LG28Sv5b24P2fW7"><img src="https://i.scdn.co/image/ab67616d0000b2734124006ed30cce44b73ba44a" width="60" height="60" alt="Sinking Ship" /></a></td>
 <td><b><a href="https://open.spotify.com/track/497nos7LG28Sv5b24P2fW7">Sinking Ship</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5Tm9At0xeFb0MtlV8uI3eY"><img src="https://i.scdn.co/image/ab67616d0000b2735c8d9ad991d2a23eb039d8dd" width="60" height="60" alt="Passion, Pain & Demon Slayin'" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5Tm9At0xeFb0MtlV8uI3eY">Releaser</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2016)</span></td>
 </tr>
 </table>
 </div>
