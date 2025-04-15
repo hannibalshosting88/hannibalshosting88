@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H"><img src="https://i.scdn.co/image/ab67616d0000b273300af6c15e091795c7997d86" width="150" height="150" alt="Sorry 4 The Wait" /></a>
+<a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV"><img src="https://i.scdn.co/image/ab67616d0000b2735fc5c78e17b551ddc8da4f05" width="150" height="150" alt="Can't Hold Me Down" /></a>
 
-<b><a href="https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H">Sorry 4 The Wait</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV">Can't Hold Me Down</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lil Wayne (2022)</span>
+<span style="color: #666;">Doodles, Lil Wayne, Lil Yachty, Kyle Richh, Pharrell Williams (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H"><img src="https://i.scdn.co/image/ab67616d0000b273300af6c15e091795c7997d86" width="60" height="60" alt="Sorry 4 The Wait" /></a></td>
+<td><b><a href="https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H">Sorry 4 The Wait</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs"><img src="https://i.scdn.co/image/ab67616d0000b2737bd7c7c0b0b0e4e38d2feafc" width="60" height="60" alt="The Uncanny Valley" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs">Death Squad</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Perturbator (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"><img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="60" height="60" alt="UP!" /></a></td>
 <td><b><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Forrest Frank, Connor Price (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4"><img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="60" height="60" alt="U.S.A. (United State of Atlanta)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4">Wait (The Whisper Song)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins (2005)</span></td>
 </tr>
 </table>
 </div>
