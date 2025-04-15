@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"><img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="150" height="150" alt="UP!" /></a>
+<a href="https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"><img src="https://i.scdn.co/image/ab67616d0000b27305f94511cc38a2f4652d9f9c" width="150" height="150" alt="Stop All The World Now" /></a>
 
-<b><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol">Collide</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Forrest Frank, Connor Price (2024)</span>
+<span style="color: #666;">Howie Day (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="60" height="60" alt="Hypnotize" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX">Lonely Day</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"><img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="60" height="60" alt="UP!" /></a></td>
+<td><b><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Forrest Frank, Connor Price (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4"><img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="60" height="60" alt="U.S.A. (United State of Atlanta)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4">Wait (The Whisper Song)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins (2005)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/497nos7LG28Sv5b24P2fW7"><img src="https://i.scdn.co/image/ab67616d0000b2734124006ed30cce44b73ba44a" width="60" height="60" alt="Sinking Ship" /></a></td>
 <td><b><a href="https://open.spotify.com/track/497nos7LG28Sv5b24P2fW7">Sinking Ship</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5Tm9At0xeFb0MtlV8uI3eY"><img src="https://i.scdn.co/image/ab67616d0000b2735c8d9ad991d2a23eb039d8dd" width="60" height="60" alt="Passion, Pain & Demon Slayin'" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5Tm9At0xeFb0MtlV8uI3eY">Releaser</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R"><img src="https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6" width="60" height="60" alt="The Fat of the Land" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R">Smack My Bitch Up</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (1997)</span></td>
 </tr>
 </table>
 </div>
