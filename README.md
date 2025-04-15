@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"><img src="https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed" width="150" height="150" alt="White Pony" /></a>
+<a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs"><img src="https://i.scdn.co/image/ab67616d0000b2737bd7c7c0b0b0e4e38d2feafc" width="150" height="150" alt="The Uncanny Valley" /></a>
 
-<b><a href="https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3">Change (In the House of Flies)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs">Death Squad</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Deftones (2000)</span>
+<span style="color: #666;">Perturbator (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"><img src="https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed" width="60" height="60" alt="White Pony" /></a></td>
+<td><b><a href="https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3">Change (In the House of Flies)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Deftones (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v"><img src="https://i.scdn.co/image/ab67616d0000b273d609342d04c349815b5fe099" width="60" height="60" alt="Leave a Whisper (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v">45</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Shinedown (2003)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"><img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="60" height="60" alt="Enemy (from the series Arcane League of Legends)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Arcane, League of Legends (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">Make Yourself</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
 </tr>
 </table>
 </div>
