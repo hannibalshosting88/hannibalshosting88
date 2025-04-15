@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"><img src="https://i.scdn.co/image/ab67616d0000b273030915ffa58125ae36f13a6f" width="150" height="150" alt="The Warrior's Code" /></a>
+<a href="https://open.spotify.com/track/0hBUik7RITAPmSlnOGiWdm"><img src="https://i.scdn.co/image/ab67616d0000b273a06f2865e3f11587c668b8e7" width="150" height="150" alt="Killer Instinct: Season One Soundtrack + Original Arcade Soundtrack" /></a>
 
-<b><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">I'm Shipping Up To Boston</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0hBUik7RITAPmSlnOGiWdm">Type-03</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Dropkick Murphys (2005)</span>
+<span style="color: #666;">Mick Gordon (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"><img src="https://i.scdn.co/image/ab67616d0000b273030915ffa58125ae36f13a6f" width="60" height="60" alt="The Warrior's Code" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">I'm Shipping Up To Boston</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dropkick Murphys (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/65aeHyw8GdHFwmEvdSns21"><img src="https://i.scdn.co/image/ab67616d0000b273a186a985ccf9ac0215f937f8" width="60" height="60" alt="Thirds" /></a></td>
 <td><b><a href="https://open.spotify.com/track/65aeHyw8GdHFwmEvdSns21">Walk Away</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">James Gang (1971)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"><img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" width="60" height="60" alt="Blurryface" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4">Tear in My Heart</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Twenty One Pilots (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV"><img src="https://i.scdn.co/image/ab67616d0000b2735fc5c78e17b551ddc8da4f05" width="60" height="60" alt="Can't Hold Me Down" /></a></td>
-<td><b><a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV">Can't Hold Me Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Doodles, Lil Wayne, Lil Yachty, Kyle Richh, Pharrell Williams (2024)</span></td>
 </tr>
 </table>
 </div>
