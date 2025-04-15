@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"><img src="https://i.scdn.co/image/ab67616d0000b273b424aeb510016daa1bc0251c" width="150" height="150" alt="Come What(ever) May [10th Anniversary Edition]" /></a>
+<a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"><img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" width="150" height="150" alt="FutureSex/LoveSounds" /></a>
 
-<b><a href="https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c">Through Glass</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR">SexyBack (feat. Timbaland)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Stone Sour (2006)</span>
+<span style="color: #666;">Justin Timberlake, Timbaland (2006)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"><img src="https://i.scdn.co/image/ab67616d0000b273b424aeb510016daa1bc0251c" width="60" height="60" alt="Come What(ever) May [10th Anniversary Edition]" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c">Through Glass</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Sour (2006)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"><img src="https://i.scdn.co/image/ab67616d0000b2738dad7cd9e76fa42013c50d44" width="60" height="60" alt="23" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE">23</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chayce Beckham (2021)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7qIbKygZWmVZ2ZJpgYHO19"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="60" height="60" alt="INSANO (NITRO MEGA)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7qIbKygZWmVZ2ZJpgYHO19">ELECTROWAVEBABY 2.0</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, Steve Aoki (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">When It Comes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
 </tr>
 </table>
 </div>
