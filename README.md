@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2I4xWxEeI56caBBsVxXd6w"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="150" height="150" alt="Doom (Original Game Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"><img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" width="150" height="150" alt="Songs About Jane: 10th Anniversary Edition" /></a>
 
-<b><a href="https://open.spotify.com/track/2I4xWxEeI56caBBsVxXd6w">Flesh & Metal</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF">This Love</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Mick Gordon (2016)</span>
+<span style="color: #666;">Maroon 5 (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3UMXhDBYe7eIXUe2HLUn0v"><img src="https://i.scdn.co/image/ab67616d0000b273c26357620e211089bf6b45e9" width="60" height="60" alt="American III: Solitary Man" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3UMXhDBYe7eIXUe2HLUn0v">Solitary Man</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2000)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r"><img src="https://i.scdn.co/image/ab67616d0000b273385b6c04e953808acf3964ec" width="60" height="60" alt="Never Land" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">You Can't Stop Me</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andy Mineo (2014)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2I4xWxEeI56caBBsVxXd6w"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2I4xWxEeI56caBBsVxXd6w">Flesh & Metal</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="60" height="60" alt="Minutes to Midnight" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">Bleed It Out</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2007)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/65aeHyw8GdHFwmEvdSns21"><img src="https://i.scdn.co/image/ab67616d0000b273a186a985ccf9ac0215f937f8" width="60" height="60" alt="Thirds" /></a></td>
 <td><b><a href="https://open.spotify.com/track/65aeHyw8GdHFwmEvdSns21">Walk Away</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">James Gang (1971)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"><img src="https://i.scdn.co/image/ab67616d0000b273801cf8805673d07eb26da351" width="60" height="60" alt="Rebirth" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">Drop The World</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Eminem (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"><img src="https://i.scdn.co/image/ab67616d0000b273e95d233a9df33d6c9992b449" width="60" height="60" alt="Contraband" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F">Slither</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Velvet Revolver (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0A5txEnRDBBBKK1wGR88xS"><img src="https://i.scdn.co/image/ab67616d0000b273fc6d52924a3ce8a3dc034ea9" width="60" height="60" alt="Westwinds" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0A5txEnRDBBBKK1wGR88xS">The Massacre of Glencoe</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">The Real McKenzies (2012)</span></td>
 </tr>
 </table>
 </div>
