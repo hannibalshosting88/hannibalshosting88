@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="150" height="150" alt="Enema Of The State" /></a>
+<a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="150" height="150" alt="Minutes to Midnight" /></a>
 
-<b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">Bleed It Out</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">blink-182 (1999)</span>
+<span style="color: #666;">Linkin Park (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">Black Heart Inertia</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"><img src="https://i.scdn.co/image/ab67616d0000b273d1d1f3d8dd3684ee3d75385b" width="60" height="60" alt="Shadows On The Sun" /></a></td>
 <td><b><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ">Forest Whitiker</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Brother Ali (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"><img src="https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d" width="60" height="60" alt="Led Zeppelin II (1994 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8">Whole Lotta Love - 1990 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Led Zeppelin (1969)</span></td>
 </tr>
 </table>
 </div>
