@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="150" height="150" alt="In Keeping Secrets Of Silent Earth: 3" /></a>
+<a href="https://open.spotify.com/track/2m5Sn5GiRlDcnLbPlzubnC"><img src="https://i.scdn.co/image/ab67616d0000b27300ff9a4e6eb3532b592c3777" width="150" height="150" alt="Living In Clip (25th Anniversary Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq">A Favor House Atlantic</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2m5Sn5GiRlDcnLbPlzubnC">Every State Line - atlanta, ga. - 2022 remaster</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Coheed and Cambria (2003)</span>
+<span style="color: #666;">Ani DiFranco, Sara Lee, Andy Stochansky (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq">A Favor House Atlantic</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h"><img src="https://i.scdn.co/image/ab67616d0000b273db802f4399d04f2f50409d7e" width="60" height="60" alt="Make It Bun Dem After Hours EP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h">Make It Bun Dem</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Skrillex, Damian Marley (2012)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3UMXhDBYe7eIXUe2HLUn0v"><img src="https://i.scdn.co/image/ab67616d0000b273c26357620e211089bf6b45e9" width="60" height="60" alt="American III: Solitary Man" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3UMXhDBYe7eIXUe2HLUn0v">Solitary Man</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r"><img src="https://i.scdn.co/image/ab67616d0000b273385b6c04e953808acf3964ec" width="60" height="60" alt="Never Land" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">You Can't Stop Me</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andy Mineo (2014)</span></td>
 </tr>
 </table>
 </div>
