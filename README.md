@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1ZiQSh857sjgpXEiGW6GDR"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="150" height="150" alt="Palm Trees and Power Lines" /></a>
+<a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"><img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" width="150" height="150" alt="Katrina & The Waves" /></a>
 
-<b><a href="https://open.spotify.com/track/1ZiQSh857sjgpXEiGW6GDR">She's the Blade</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0">Walking On Sunshine</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Sugarcult (2004)</span>
+<span style="color: #666;">Katrina & The Waves (1985)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF"><img src="https://i.scdn.co/image/ab67616d0000b27380aee3216dbae96c8d21c452" width="60" height="60" alt="Don't Look Back" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF">Don't Look Back</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Boston (1978)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1ZiQSh857sjgpXEiGW6GDR"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="60" height="60" alt="Palm Trees and Power Lines" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1ZiQSh857sjgpXEiGW6GDR">She's the Blade</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2004)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"><img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" width="60" height="60" alt="Songs About Jane: 10th Anniversary Edition" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF">This Love</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Maroon 5 (2002)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">Black Heart Inertia</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg"><img src="https://i.scdn.co/image/ab67616d0000b2736045d67194bcdd287ec23e63" width="60" height="60" alt="BANJO BLOODBATH" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg">Banjo Bloodbath - Appalachian Bluegrass Death Metal</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Appalachian Anarchy (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0hBUik7RITAPmSlnOGiWdm"><img src="https://i.scdn.co/image/ab67616d0000b273a06f2865e3f11587c668b8e7" width="60" height="60" alt="Killer Instinct: Season One Soundtrack + Original Arcade Soundtrack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0hBUik7RITAPmSlnOGiWdm">Type-03</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
 </tr>
 </table>
 </div>
