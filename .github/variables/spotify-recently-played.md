@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="150" height="150" alt="Minutes to Midnight" /></a>
+<a href="https://open.spotify.com/track/2I4xWxEeI56caBBsVxXd6w"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="150" height="150" alt="Doom (Original Game Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">Bleed It Out</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2I4xWxEeI56caBBsVxXd6w">Flesh & Metal</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Linkin Park (2007)</span>
+<span style="color: #666;">Mick Gordon (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="60" height="60" alt="Minutes to Midnight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">Bleed It Out</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0A5txEnRDBBBKK1wGR88xS"><img src="https://i.scdn.co/image/ab67616d0000b273fc6d52924a3ce8a3dc034ea9" width="60" height="60" alt="Westwinds" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0A5txEnRDBBBKK1wGR88xS">The Massacre of Glencoe</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">The Real McKenzies (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"><img src="https://i.scdn.co/image/ab67616d0000b273d1d1f3d8dd3684ee3d75385b" width="60" height="60" alt="Shadows On The Sun" /></a></td>
-<td><b><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ">Forest Whitiker</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Brother Ali (2003)</span></td>
 </tr>
 </table>
 </div>
