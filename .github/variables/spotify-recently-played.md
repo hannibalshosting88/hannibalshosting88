@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg"><img src="https://i.scdn.co/image/ab67616d0000b2736045d67194bcdd287ec23e63" width="150" height="150" alt="BANJO BLOODBATH" /></a>
+<a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="150" height="150" alt="Enema Of The State" /></a>
 
-<b><a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg">Banjo Bloodbath - Appalachian Bluegrass Death Metal</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Appalachian Anarchy (2024)</span>
+<span style="color: #666;">blink-182 (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">Black Heart Inertia</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg"><img src="https://i.scdn.co/image/ab67616d0000b2736045d67194bcdd287ec23e63" width="60" height="60" alt="BANJO BLOODBATH" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg">Banjo Bloodbath - Appalachian Bluegrass Death Metal</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Appalachian Anarchy (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0hBUik7RITAPmSlnOGiWdm"><img src="https://i.scdn.co/image/ab67616d0000b273a06f2865e3f11587c668b8e7" width="60" height="60" alt="Killer Instinct: Season One Soundtrack + Original Arcade Soundtrack" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0hBUik7RITAPmSlnOGiWdm">Type-03</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"><img src="https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d" width="60" height="60" alt="Led Zeppelin II (1994 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8">Whole Lotta Love - 1990 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Led Zeppelin (1969)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"><img src="https://i.scdn.co/image/ab67616d0000b2731bde4a7bb21c87f3418c2c3d" width="60" height="60" alt="new way out" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t">new way out</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Poppy (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"><img src="https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830" width="60" height="60" alt="Ready to Die (The Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww">Big Poppa - 2005 Remaster</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Notorious B.I.G. (1994)</span></td>
 </tr>
 </table>
 </div>
