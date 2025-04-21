@@ -3,7 +3,7 @@ name: Update Weather
 # Run the workflow every 3 hours
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
