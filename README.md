@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0NkkbKSzQ50mAoSUbQpgLw"><img src="https://i.scdn.co/image/ab67616d0000b2731c29562d6e8c1f55bb1311d5" width="150" height="150" alt=""Awaken, My Love!"" /></a>
+<a href="https://open.spotify.com/track/4NvXTrOSsVlCw0bFe3lKY9"><img src="https://i.scdn.co/image/ab67616d0000b27321b2b485aef32bcc96c1875c" width="150" height="150" alt="Because the Internet" /></a>
 
-<b><a href="https://open.spotify.com/track/0NkkbKSzQ50mAoSUbQpgLw">Me and Your Mama</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/4NvXTrOSsVlCw0bFe3lKY9">IV. Sweatpants</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Childish Gambino (2016)</span>
+<span style="color: #666;">Childish Gambino, JasonMartin (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0NkkbKSzQ50mAoSUbQpgLw"><img src="https://i.scdn.co/image/ab67616d0000b2731c29562d6e8c1f55bb1311d5" width="60" height="60" alt=""Awaken, My Love!"" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0NkkbKSzQ50mAoSUbQpgLw">Me and Your Mama</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Childish Gambino (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo"><img src="https://i.scdn.co/image/ab67616d0000b2731c29562d6e8c1f55bb1311d5" width="60" height="60" alt=""Awaken, My Love!"" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo">Redbone</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Childish Gambino (2016)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/60JeC08kgv03TAcFZcJth6"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="60" height="60" alt="The Darker The Weather // The Better The Man" /></a></td>
 <td><b><a href="https://open.spotify.com/track/60JeC08kgv03TAcFZcJth6">The Darker The Weather // The Better The Man</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">MISSIO (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1xOkWdB8PZJ56kqU6fkAMi"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="60" height="60" alt="The Darker The Weather // The Better The Man" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1xOkWdB8PZJ56kqU6fkAMi">Temple Priest (feat. Paul Wall & Kota the Friend)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">MISSIO, Paul Wall, Kota the Friend (2019)</span></td>
 </tr>
 </table>
 </div>
