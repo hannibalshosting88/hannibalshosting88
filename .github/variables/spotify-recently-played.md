@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"><img src="https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58" width="150" height="150" alt="GNX" /></a>
+<a href="https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="150" height="150" alt="Get Rich Or Die Tryin'" /></a>
 
-<b><a href="https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG">tv off (feat. lefty gunplay)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE">Many Men (Wish Death)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Kendrick Lamar, Lefty Gunplay (2024)</span>
+<span style="color: #666;">50 Cent (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"><img src="https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58" width="60" height="60" alt="GNX" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG">tv off (feat. lefty gunplay)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kendrick Lamar, Lefty Gunplay (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0"><img src="https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57" width="60" height="60" alt="IGOR" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0">EARFQUAKE</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator (2019)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq">A Favor House Atlantic</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h"><img src="https://i.scdn.co/image/ab67616d0000b273db802f4399d04f2f50409d7e" width="60" height="60" alt="Make It Bun Dem After Hours EP" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h">Make It Bun Dem</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Skrillex, Damian Marley (2012)</span></td>
 </tr>
 </table>
 </div>
