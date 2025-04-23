@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"><img src="https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886" width="150" height="150" alt="Tha Carter V" /></a>
+<a href="https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1"><img src="https://i.scdn.co/image/ab67616d0000b273fed9afd601a1732fdae85ea8" width="150" height="150" alt="TAKE CARE" /></a>
 
-<b><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8">Mona Lisa (feat. Kendrick Lamar)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1">The Largest</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lil Wayne, Kendrick Lamar (2018)</span>
+<span style="color: #666;">BigXthaPlug (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"><img src="https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886" width="60" height="60" alt="Tha Carter V" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8">Mona Lisa (feat. Kendrick Lamar)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Kendrick Lamar (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="60" height="60" alt="Get Rich Or Die Tryin'" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE">Many Men (Wish Death)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">50 Cent (2003)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"><img src="https://i.scdn.co/image/ab67616d0000b2730b6dc73f100159537dae26f4" width="60" height="60" alt="Hi-Lo (feat. Lindsey Stirling)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni">Hi-Lo - feat. Lindsey Stirling</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence, Lindsey Stirling (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2m5Sn5GiRlDcnLbPlzubnC"><img src="https://i.scdn.co/image/ab67616d0000b27300ff9a4e6eb3532b592c3777" width="60" height="60" alt="Living In Clip (25th Anniversary Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2m5Sn5GiRlDcnLbPlzubnC">Every State Line - atlanta, ga. - 2022 remaster</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Ani DiFranco, Sara Lee, Andy Stochansky (2022)</span></td>
 </tr>
 </table>
 </div>
