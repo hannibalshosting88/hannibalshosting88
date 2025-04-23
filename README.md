@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"><img src="https://i.scdn.co/image/ab67616d0000b273d9afe5c70c43cb2bd34605ea" width="150" height="150" alt="Big Dawgs" /></a>
+<a href="https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"><img src="https://i.scdn.co/image/ab67616d0000b273aa57907bf0cb2ca0c8cc74bc" width="150" height="150" alt="SAVAGE MODE II" /></a>
 
-<b><a href="https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW">Big Dawgs</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk">Runnin</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Hanumankind, Kalmi (2024)</span>
+<span style="color: #666;">21 Savage, Metro Boomin (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"><img src="https://i.scdn.co/image/ab67616d0000b273842e732b778998eef17b405f" width="60" height="60" alt="Rise Of An Empire (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk">Trophies</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Young Money, Drake (2014)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"><img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" width="60" height="60" alt="DAMN." /></a></td>
+<td><b><a href="https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS">HUMBLE.</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kendrick Lamar (2017)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"><img src="https://i.scdn.co/image/ab67616d0000b273d9afe5c70c43cb2bd34605ea" width="60" height="60" alt="Big Dawgs" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW">Big Dawgs</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Hanumankind, Kalmi (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"><img src="https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830" width="60" height="60" alt="Ready to Die (The Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww">Big Poppa - 2005 Remaster</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Notorious B.I.G. (1994)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"><img src="https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30" width="60" height="60" alt="Life After Death (2014 Remastered Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j">Hypnotize - 2014 Remaster</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Notorious B.I.G. (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga"><img src="https://i.scdn.co/image/ab67616d0000b2739afbbc313ea008b68cc5f40d" width="60" height="60" alt="THE BIGGEST" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga">Back On My BS</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">BigXthaPlug (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"><img src="https://i.scdn.co/image/ab67616d0000b27301c0cd5da820e6128655854f" width="60" height="60" alt="MILLION DOLLAR BABY" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A">MILLION DOLLAR BABY</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tommy Richman (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"><img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" width="60" height="60" alt="Not Like Us" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3">Not Like Us</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kendrick Lamar (2024)</span></td>
 </tr>
 </table>
 </div>
