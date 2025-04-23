@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"><img src="https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30" width="150" height="150" alt="Life After Death (2014 Remastered Edition)" /></a>
+<a href="https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"><img src="https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58" width="150" height="150" alt="GNX" /></a>
 
-<b><a href="https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j">Hypnotize - 2014 Remaster</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG">tv off (feat. lefty gunplay)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">The Notorious B.I.G. (1997)</span>
+<span style="color: #666;">Kendrick Lamar, Lefty Gunplay (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0"><img src="https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57" width="60" height="60" alt="IGOR" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0">EARFQUAKE</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator (2019)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"><img src="https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30" width="60" height="60" alt="Life After Death (2014 Remastered Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j">Hypnotize - 2014 Remaster</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Notorious B.I.G. (1997)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga"><img src="https://i.scdn.co/image/ab67616d0000b2739afbbc313ea008b68cc5f40d" width="60" height="60" alt="THE BIGGEST" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga">Back On My BS</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">BigXthaPlug (2023)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h"><img src="https://i.scdn.co/image/ab67616d0000b273db802f4399d04f2f50409d7e" width="60" height="60" alt="Make It Bun Dem After Hours EP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h">Make It Bun Dem</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Skrillex, Damian Marley (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX">The Warmth</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
-<td><b><a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy">Nice to Know You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
 </tr>
 </table>
 </div>
