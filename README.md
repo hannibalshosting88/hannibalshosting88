@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1xOkWdB8PZJ56kqU6fkAMi"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="150" height="150" alt="The Darker The Weather // The Better The Man" /></a>
+<a href="https://open.spotify.com/track/3PurWIvT2bBeiVKdCdkibR"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="150" height="150" alt="The Darker The Weather // The Better The Man" /></a>
 
-<b><a href="https://open.spotify.com/track/1xOkWdB8PZJ56kqU6fkAMi">Temple Priest (feat. Paul Wall & Kota the Friend)</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/3PurWIvT2bBeiVKdCdkibR">Misfit Lunatic</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">MISSIO, Paul Wall, Kota the Friend (2019)</span>
+<span style="color: #666;">MISSIO (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/65Z5WzX7WdQwfdWXKMOxSA"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="60" height="60" alt="The Darker The Weather // The Better The Man" /></a></td>
+<td><b><a href="https://open.spotify.com/track/65Z5WzX7WdQwfdWXKMOxSA">Do You Still Love Me Like You Used To? (feat. The Wind and The Wave)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">MISSIO, The Wind and The Wave (2019)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/60JeC08kgv03TAcFZcJth6"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="60" height="60" alt="The Darker The Weather // The Better The Man" /></a></td>
+<td><b><a href="https://open.spotify.com/track/60JeC08kgv03TAcFZcJth6">The Darker The Weather // The Better The Man</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">MISSIO (2019)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1xOkWdB8PZJ56kqU6fkAMi"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="60" height="60" alt="The Darker The Weather // The Better The Man" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1xOkWdB8PZJ56kqU6fkAMi">Temple Priest (feat. Paul Wall & Kota the Friend)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">MISSIO, Paul Wall, Kota the Friend (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5UIR8dRPP1GtdxYHYPwKN5"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="60" height="60" alt="The Darker The Weather // The Better The Man" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5UIR8dRPP1GtdxYHYPwKN5">I See You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">MISSIO (2019)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"><img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" width="60" height="60" alt="DAMN." /></a></td>
 <td><b><a href="https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS">HUMBLE.</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kendrick Lamar (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"><img src="https://i.scdn.co/image/ab67616d0000b273d9afe5c70c43cb2bd34605ea" width="60" height="60" alt="Big Dawgs" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW">Big Dawgs</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Hanumankind, Kalmi (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"><img src="https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830" width="60" height="60" alt="Ready to Die (The Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww">Big Poppa - 2005 Remaster</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Notorious B.I.G. (1994)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1"><img src="https://i.scdn.co/image/ab67616d0000b273fed9afd601a1732fdae85ea8" width="60" height="60" alt="TAKE CARE" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1">The Largest</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">BigXthaPlug (2024)</span></td>
 </tr>
 </table>
 </div>
