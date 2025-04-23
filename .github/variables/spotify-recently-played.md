@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5UIR8dRPP1GtdxYHYPwKN5"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="150" height="150" alt="The Darker The Weather // The Better The Man" /></a>
+<a href="https://open.spotify.com/track/1xOkWdB8PZJ56kqU6fkAMi"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="150" height="150" alt="The Darker The Weather // The Better The Man" /></a>
 
-<b><a href="https://open.spotify.com/track/5UIR8dRPP1GtdxYHYPwKN5">I See You</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1xOkWdB8PZJ56kqU6fkAMi">Temple Priest (feat. Paul Wall & Kota the Friend)</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">MISSIO (2019)</span>
+<span style="color: #666;">MISSIO, Paul Wall, Kota the Friend (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5UIR8dRPP1GtdxYHYPwKN5"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="60" height="60" alt="The Darker The Weather // The Better The Man" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5UIR8dRPP1GtdxYHYPwKN5">I See You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">MISSIO (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/16lpoOaoZPRsMEDyMKQrMr"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="60" height="60" alt="The Darker The Weather // The Better The Man" /></a></td>
 <td><b><a href="https://open.spotify.com/track/16lpoOaoZPRsMEDyMKQrMr">Shimmy (feat. Blackillac)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">MISSIO, Blackillac (2019)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1"><img src="https://i.scdn.co/image/ab67616d0000b273fed9afd601a1732fdae85ea8" width="60" height="60" alt="TAKE CARE" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1">The Largest</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">BigXthaPlug (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"><img src="https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886" width="60" height="60" alt="Tha Carter V" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8">Mona Lisa (feat. Kendrick Lamar)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Kendrick Lamar (2018)</span></td>
 </tr>
 </table>
 </div>
