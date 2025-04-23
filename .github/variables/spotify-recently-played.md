@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1"><img src="https://i.scdn.co/image/ab67616d0000b273fed9afd601a1732fdae85ea8" width="150" height="150" alt="TAKE CARE" /></a>
+<a href="https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"><img src="https://i.scdn.co/image/ab67616d0000b273d9afe5c70c43cb2bd34605ea" width="150" height="150" alt="Big Dawgs" /></a>
 
-<b><a href="https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1">The Largest</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW">Big Dawgs</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">BigXthaPlug (2024)</span>
+<span style="color: #666;">Hanumankind, Kalmi (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"><img src="https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830" width="60" height="60" alt="Ready to Die (The Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww">Big Poppa - 2005 Remaster</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Notorious B.I.G. (1994)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1"><img src="https://i.scdn.co/image/ab67616d0000b273fed9afd601a1732fdae85ea8" width="60" height="60" alt="TAKE CARE" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1">The Largest</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">BigXthaPlug (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"><img src="https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886" width="60" height="60" alt="Tha Carter V" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8">Mona Lisa (feat. Kendrick Lamar)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Kendrick Lamar (2018)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"><img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" width="60" height="60" alt="Not Like Us" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3">Not Like Us</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kendrick Lamar (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"><img src="https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3" width="60" height="60" alt="Flower Boy" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB">See You Again (feat. Kali Uchis)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator, Kali Uchis (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"><img src="https://i.scdn.co/image/ab67616d0000b2730b6dc73f100159537dae26f4" width="60" height="60" alt="Hi-Lo (feat. Lindsey Stirling)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni">Hi-Lo - feat. Lindsey Stirling</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence, Lindsey Stirling (2018)</span></td>
 </tr>
 </table>
 </div>
