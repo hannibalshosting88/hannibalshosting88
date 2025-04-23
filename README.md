@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"><img src="https://i.scdn.co/image/ab67616d0000b273aa57907bf0cb2ca0c8cc74bc" width="150" height="150" alt="SAVAGE MODE II" /></a>
+<a href="https://open.spotify.com/track/3GjLecyioIsSt0EaNecctC"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="150" height="150" alt="The Darker The Weather // The Better The Man" /></a>
 
-<b><a href="https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk">Runnin</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/3GjLecyioIsSt0EaNecctC">Underground</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">21 Savage, Metro Boomin (2020)</span>
+<span style="color: #666;">MISSIO (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3IUyjZNbc4Gelselz9s7dO"><img src="https://i.scdn.co/image/ab67616d0000b273e6a375051cedbc0f614c95fb" width="60" height="60" alt="Anxiety Angel" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3IUyjZNbc4Gelselz9s7dO">Am I Scaring You</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Elita, Salem Creeps (2021)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"><img src="https://i.scdn.co/image/ab67616d0000b273aa57907bf0cb2ca0c8cc74bc" width="60" height="60" alt="SAVAGE MODE II" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk">Runnin</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">21 Savage, Metro Boomin (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"><img src="https://i.scdn.co/image/ab67616d0000b273842e732b778998eef17b405f" width="60" height="60" alt="Rise Of An Empire (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk">Trophies</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Young Money, Drake (2014)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"><img src="https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58" width="60" height="60" alt="GNX" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG">tv off (feat. lefty gunplay)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kendrick Lamar, Lefty Gunplay (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0"><img src="https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57" width="60" height="60" alt="IGOR" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0">EARFQUAKE</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"><img src="https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30" width="60" height="60" alt="Life After Death (2014 Remastered Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j">Hypnotize - 2014 Remaster</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Notorious B.I.G. (1997)</span></td>
 </tr>
 </table>
 </div>
