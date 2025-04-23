@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"><img src="https://i.scdn.co/image/ab67616d0000b273ab8995f18dc3dd9f34a6acd4" width="150" height="150" alt="BEST INTEREST" /></a>
+<a href="https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"><img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" width="150" height="150" alt="To Pimp A Butterfly" /></a>
 
-<b><a href="https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX">BEST INTEREST</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs">Alright</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Tyler, The Creator (2020)</span>
+<span style="color: #666;">Kendrick Lamar (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"><img src="https://i.scdn.co/image/ab67616d0000b273ab8995f18dc3dd9f34a6acd4" width="60" height="60" alt="BEST INTEREST" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX">BEST INTEREST</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V"><img src="https://i.scdn.co/image/ab67616d0000b27328ae9a159d24cb0ab2552712" width="60" height="60" alt="Goblin" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V">She</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator, Frank Ocean (2011)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3GjLecyioIsSt0EaNecctC"><img src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7" width="60" height="60" alt="The Darker The Weather // The Better The Man" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3GjLecyioIsSt0EaNecctC">Underground</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">MISSIO (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3IUyjZNbc4Gelselz9s7dO"><img src="https://i.scdn.co/image/ab67616d0000b273e6a375051cedbc0f614c95fb" width="60" height="60" alt="Anxiety Angel" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3IUyjZNbc4Gelselz9s7dO">Am I Scaring You</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Elita, Salem Creeps (2021)</span></td>
 </tr>
 </table>
 </div>
