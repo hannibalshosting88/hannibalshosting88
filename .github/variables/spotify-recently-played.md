@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"><img src="https://i.scdn.co/image/ab67616d0000b2730b6dc73f100159537dae26f4" width="150" height="150" alt="Hi-Lo (feat. Lindsey Stirling)" /></a>
+<a href="https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"><img src="https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3" width="150" height="150" alt="Flower Boy" /></a>
 
-<b><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni">Hi-Lo - feat. Lindsey Stirling</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB">See You Again (feat. Kali Uchis)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Evanescence, Lindsey Stirling (2018)</span>
+<span style="color: #666;">Tyler, The Creator, Kali Uchis (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"><img src="https://i.scdn.co/image/ab67616d0000b2730b6dc73f100159537dae26f4" width="60" height="60" alt="Hi-Lo (feat. Lindsey Stirling)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni">Hi-Lo - feat. Lindsey Stirling</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence, Lindsey Stirling (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2m5Sn5GiRlDcnLbPlzubnC"><img src="https://i.scdn.co/image/ab67616d0000b27300ff9a4e6eb3532b592c3777" width="60" height="60" alt="Living In Clip (25th Anniversary Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2m5Sn5GiRlDcnLbPlzubnC">Every State Line - atlanta, ga. - 2022 remaster</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Ani DiFranco, Sara Lee, Andy Stochansky (2022)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1ZiQSh857sjgpXEiGW6GDR"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="60" height="60" alt="Palm Trees and Power Lines" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1ZiQSh857sjgpXEiGW6GDR">She's the Blade</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"><img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" width="60" height="60" alt="Songs About Jane: 10th Anniversary Edition" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF">This Love</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Maroon 5 (2002)</span></td>
 </tr>
 </table>
 </div>
