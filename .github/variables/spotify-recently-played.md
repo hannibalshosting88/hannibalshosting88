@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga"><img src="https://i.scdn.co/image/ab67616d0000b2739afbbc313ea008b68cc5f40d" width="150" height="150" alt="THE BIGGEST" /></a>
+<a href="https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"><img src="https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30" width="150" height="150" alt="Life After Death (2014 Remastered Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga">Back On My BS</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j">Hypnotize - 2014 Remaster</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">BigXthaPlug (2023)</span>
+<span style="color: #666;">The Notorious B.I.G. (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga"><img src="https://i.scdn.co/image/ab67616d0000b2739afbbc313ea008b68cc5f40d" width="60" height="60" alt="THE BIGGEST" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga">Back On My BS</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">BigXthaPlug (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"><img src="https://i.scdn.co/image/ab67616d0000b27301c0cd5da820e6128655854f" width="60" height="60" alt="MILLION DOLLAR BABY" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A">MILLION DOLLAR BABY</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tommy Richman (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
 <td><b><a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy">Nice to Know You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"><img src="https://i.scdn.co/image/ab67616d0000b273f7b69bb1db06fec7f326d6f7" width="60" height="60" alt="Run" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">Run</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION (2015)</span></td>
 </tr>
 </table>
 </div>
