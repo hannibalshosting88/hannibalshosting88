@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/20hs5uYcsZa1BsZafOid24"><img src="https://i.scdn.co/image/ab67616d0000b273852a96198bd457cfd37e1ad1" width="150" height="150" alt="Nature's Ignition" /></a>
+<a href="https://open.spotify.com/track/1BHse4ulQefGTZZIeziZqr"><img src="https://i.scdn.co/image/ab67616d0000b27358069480bf4c7ab709cfb022" width="150" height="150" alt="Good Lookin'" /></a>
 
-<b><a href="https://open.spotify.com/track/20hs5uYcsZa1BsZafOid24">I Ain't Gay</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/1BHse4ulQefGTZZIeziZqr">Good Lookin'</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Biscuit Beats (2025)</span>
+<span style="color: #666;">Dixon Dallas (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/20hs5uYcsZa1BsZafOid24"><img src="https://i.scdn.co/image/ab67616d0000b273852a96198bd457cfd37e1ad1" width="60" height="60" alt="Nature's Ignition" /></a></td>
+<td><b><a href="https://open.spotify.com/track/20hs5uYcsZa1BsZafOid24">I Ain't Gay</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Biscuit Beats (2025)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"><img src="https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c" width="60" height="60" alt="CHROMAKOPIA" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R">Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne (2024)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"><img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" width="60" height="60" alt="To Pimp A Butterfly" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs">Alright</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kendrick Lamar (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"><img src="https://i.scdn.co/image/ab67616d0000b273ab8995f18dc3dd9f34a6acd4" width="60" height="60" alt="BEST INTEREST" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX">BEST INTEREST</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator (2020)</span></td>
 </tr>
 </table>
 </div>
