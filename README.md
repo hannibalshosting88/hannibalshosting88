@@ -30,6 +30,10 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"><img src="https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c" width="60" height="60" alt="CHROMAKOPIA" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R">Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne (2024)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"><img src="https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c" width="60" height="60" alt="CHROMAKOPIA" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m">Like Him (feat. Lola Young)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator, Lola Young (2024)</span></td>
 </tr>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"><img src="https://i.scdn.co/image/ab67616d0000b273ab8995f18dc3dd9f34a6acd4" width="60" height="60" alt="BEST INTEREST" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX">BEST INTEREST</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V"><img src="https://i.scdn.co/image/ab67616d0000b27328ae9a159d24cb0ab2552712" width="60" height="60" alt="Goblin" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V">She</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator, Frank Ocean (2011)</span></td>
 </tr>
 </table>
 </div>
