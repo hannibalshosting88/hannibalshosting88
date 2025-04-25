@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="150" height="150" alt="Graduation" /></a>
+<a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB"><img src="https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380" width="150" height="150" alt="Reload" /></a>
 
-<b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB">The Unforgiven II</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Kanye West (2007)</span>
+<span style="color: #666;">Metallica (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="60" height="60" alt="Tres Hombres (Expanded 2006 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">ZZ Top (1973)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="60" height="60" alt="Graduation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"><img src="https://i.scdn.co/image/ab67616d0000b273bd01ceabd584855b2edd838d" width="60" height="60" alt="HUMBLE. (SKRILLEX REMIX)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ">HUMBLE. - SKRILLEX REMIX</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Skrillex, Kendrick Lamar (2017)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1BHse4ulQefGTZZIeziZqr"><img src="https://i.scdn.co/image/ab67616d0000b27358069480bf4c7ab709cfb022" width="60" height="60" alt="Good Lookin'" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1BHse4ulQefGTZZIeziZqr">Good Lookin'</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dixon Dallas (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/20hs5uYcsZa1BsZafOid24"><img src="https://i.scdn.co/image/ab67616d0000b273852a96198bd457cfd37e1ad1" width="60" height="60" alt="Nature's Ignition" /></a></td>
-<td><b><a href="https://open.spotify.com/track/20hs5uYcsZa1BsZafOid24">I Ain't Gay</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Biscuit Beats (2025)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"><img src="https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c" width="60" height="60" alt="CHROMAKOPIA" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R">Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne (2024)</span></td>
 </tr>
 </table>
 </div>
