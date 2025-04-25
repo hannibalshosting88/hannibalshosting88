@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="150" height="150" alt="Power Rangers Redux" /></a>
+<a href="https://open.spotify.com/track/6e56CkYWD3JO6ovFZBA8po"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="150" height="150" alt="Perception" /></a>
 
-<b><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5">Go Go Power Rangers (Instrumental Redux)</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/6e56CkYWD3JO6ovFZBA8po">Intro III</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Ron Wasserman (2012)</span>
+<span style="color: #666;">NF (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="60" height="60" alt="Power Rangers Redux" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5">Go Go Power Rangers (Instrumental Redux)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Ron Wasserman (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"><img src="https://i.scdn.co/image/ab67616d0000b273a69f71a8794e2d867a52f98f" width="60" height="60" alt="Elephant" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">Seven Nation Army</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The White Stripes (2003)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0NkkbKSzQ50mAoSUbQpgLw"><img src="https://i.scdn.co/image/ab67616d0000b2731c29562d6e8c1f55bb1311d5" width="60" height="60" alt=""Awaken, My Love!"" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0NkkbKSzQ50mAoSUbQpgLw">Me and Your Mama</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Childish Gambino (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo"><img src="https://i.scdn.co/image/ab67616d0000b2731c29562d6e8c1f55bb1311d5" width="60" height="60" alt=""Awaken, My Love!"" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo">Redbone</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Childish Gambino (2016)</span></td>
 </tr>
 </table>
 </div>
