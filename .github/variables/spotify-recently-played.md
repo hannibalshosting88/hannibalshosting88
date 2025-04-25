@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH"><img src="https://i.scdn.co/image/ab67616d0000b273eba27a544f660024655d31cd" width="150" height="150" alt="We Will Rock You VonLichten" /></a>
+<a href="https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"><img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" width="150" height="150" alt="Appetite For Destruction" /></a>
 
-<b><a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH">We Will Rock You VonLichten</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8">Welcome To The Jungle</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Queen, VonLichten (2012)</span>
+<span style="color: #666;">Guns N' Roses (1987)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH"><img src="https://i.scdn.co/image/ab67616d0000b273eba27a544f660024655d31cd" width="60" height="60" alt="We Will Rock You VonLichten" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH">We Will Rock You VonLichten</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Queen, VonLichten (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"><img src="https://i.scdn.co/image/ab67616d0000b27391b3adb195fd4017fd3d6400" width="60" height="60" alt="City of Evil" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7">Bat Country</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2005)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"><img src="https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb" width="60" height="60" alt="Oracular Spectacular" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt">Electric Feel</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">MGMT (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai"><img src="https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57" width="60" height="60" alt="IGOR" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai">ARE WE STILL FRIENDS?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler, The Creator (2019)</span></td>
 </tr>
 </table>
 </div>
