@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"><img src="https://i.scdn.co/image/ab67616d0000b273618551d2d0f2d446b2b97959" width="150" height="150" alt="The Prodigal" /></a>
+<a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"><img src="https://i.scdn.co/image/ab67616d0000b27346814e1b44e54d806753801e" width="150" height="150" alt="Come and Get Your Love" /></a>
 
-<b><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8">The Prodigal</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD">Come and Get Your Love - Single Version</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Josiah Queen (2023)</span>
+<span style="color: #666;">Redbone (1973)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"><img src="https://i.scdn.co/image/ab67616d0000b273618551d2d0f2d446b2b97959" width="60" height="60" alt="The Prodigal" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8">The Prodigal</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Josiah Queen (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="60" height="60" alt="A Little Bit of Mambo" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lou Bega (1999)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5MAY7XyW322jMwLDtBQgsZ"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="60" height="60" alt="The College Dropout" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5MAY7XyW322jMwLDtBQgsZ">School Spirit Skit 2</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1th3G3okofWlvGWAAR7Y4V"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="60" height="60" alt="The College Dropout" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1th3G3okofWlvGWAAR7Y4V">School Spirit</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2004)</span></td>
 </tr>
 </table>
 </div>
