@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"><img src="https://i.scdn.co/image/ab67616d0000b2735c1c4d3d94d0e845bd1ebec1" width="150" height="150" alt="Spirit In The Sky (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"><img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" width="150" height="150" alt="The Lady Killer" /></a>
 
-<b><a href="https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP">Spirit In The Sky - Deluxe Edition</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG">Fuck You</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Norman Greenbaum (1969)</span>
+<span style="color: #666;">CeeLo Green (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"><img src="https://i.scdn.co/image/ab67616d0000b2735c1c4d3d94d0e845bd1ebec1" width="60" height="60" alt="Spirit In The Sky (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP">Spirit In The Sky - Deluxe Edition</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Norman Greenbaum (1969)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL">A Certain Shade of Green</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO">Gee Willikers</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"><img src="https://i.scdn.co/image/ab67616d0000b27346814e1b44e54d806753801e" width="60" height="60" alt="Come and Get Your Love" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD">Come and Get Your Love - Single Version</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Redbone (1973)</span></td>
 </tr>
 </table>
 </div>
