@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"><img src="https://i.scdn.co/image/ab67616d0000b273af7afb5c49afd3133fa2a6c9" width="150" height="150" alt="Partners In Crime" /></a>
+<a href="https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"><img src="https://i.scdn.co/image/ab67616d0000b2735c1c4d3d94d0e845bd1ebec1" width="150" height="150" alt="Spirit In The Sky (Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ">Escape (The Pina Colada Song)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP">Spirit In The Sky - Deluxe Edition</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Rupert Holmes (1979)</span>
+<span style="color: #666;">Norman Greenbaum (1969)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL">A Certain Shade of Green</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"><img src="https://i.scdn.co/image/ab67616d0000b273af7afb5c49afd3133fa2a6c9" width="60" height="60" alt="Partners In Crime" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ">Escape (The Pina Colada Song)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rupert Holmes (1979)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d">Bang!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"><img src="https://i.scdn.co/image/ab67616d0000b27346814e1b44e54d806753801e" width="60" height="60" alt="Come and Get Your Love" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD">Come and Get Your Love - Single Version</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Redbone (1973)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"><img src="https://i.scdn.co/image/ab67616d0000b273618551d2d0f2d446b2b97959" width="60" height="60" alt="The Prodigal" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8">The Prodigal</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Josiah Queen (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="60" height="60" alt="A Little Bit of Mambo" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lou Bega (1999)</span></td>
 </tr>
 </table>
 </div>
