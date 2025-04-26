@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="150" height="150" alt="Brasshopper" /></a>
+<a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"><img src="https://i.scdn.co/image/ab67616d0000b2734d54f9eccf5646d0f7a1bd30" width="150" height="150" alt="Permission to Land" /></a>
 
-<b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA">I Believe in a Thing Called Love</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Broken Brass, Ruben Hein (2015)</span>
+<span style="color: #666;">The Darkness (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass, Ruben Hein (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO">Gee Willikers</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5"><img src="https://i.scdn.co/image/ab67616d0000b273bc02d6e90da76957899eee36" width="60" height="60" alt="Concrete and Gold" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5">The Sky Is A Neighborhood</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="60" height="60" alt="Evolve" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">Believer</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2017)</span></td>
 </tr>
 </table>
 </div>
