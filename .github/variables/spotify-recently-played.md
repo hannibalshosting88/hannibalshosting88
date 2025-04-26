@@ -12,6 +12,10 @@
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="60" height="60" alt="Thrifty x Spooky Raccoon" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">Thrifty</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT"><img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="60" height="60" alt="GET UP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">THE FILLER</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2022)</span></td>
 </tr>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"><img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" width="60" height="60" alt="Appetite For Destruction" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8">Welcome To The Jungle</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Guns N' Roses (1987)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH"><img src="https://i.scdn.co/image/ab67616d0000b273eba27a544f660024655d31cd" width="60" height="60" alt="We Will Rock You VonLichten" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH">We Will Rock You VonLichten</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Queen, VonLichten (2012)</span></td>
 </tr>
 </table>
 </div>
