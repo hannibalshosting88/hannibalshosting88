@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="150" height="150" alt="The Audacity! (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="150" height="150" alt="Brasshopper" /></a>
 
-<b><a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO">Gee Willikers</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Spose (2012)</span>
+<span style="color: #666;">Broken Brass, Ruben Hein (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO">Gee Willikers</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"><img src="https://i.scdn.co/image/ab67616d0000b27346814e1b44e54d806753801e" width="60" height="60" alt="Come and Get Your Love" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD">Come and Get Your Love - Single Version</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Redbone (1973)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="60" height="60" alt="Evolve" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">Believer</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"><img src="https://i.scdn.co/image/ab67616d0000b2730158cbde70672dd821972907" width="60" height="60" alt="Smash" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP">Self Esteem</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Offspring (1994)</span></td>
 </tr>
 </table>
 </div>
