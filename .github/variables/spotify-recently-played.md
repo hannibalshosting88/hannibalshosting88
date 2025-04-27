@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7"><img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" width="150" height="150" alt="Straight Outta Compton" /></a>
+<a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e"><img src="https://i.scdn.co/image/ab67616d0000b2732b46b5b241079360e6951405" width="150" height="150" alt="AA" /></a>
 
-<b><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">Fuck Tha Police</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">N.W.A. (1988)</span>
+<span style="color: #666;">Walker Hayes (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7"><img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" width="60" height="60" alt="Straight Outta Compton" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">Fuck Tha Police</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">N.W.A. (1988)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"><img src="https://i.scdn.co/image/ab67616d0000b27371e01645abce04dda00e1c0c" width="60" height="60" alt="Oh No" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD">Here It Goes Again</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">OK Go (2005)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"><img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" width="60" height="60" alt="The Lady Killer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG">Fuck You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CeeLo Green (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"><img src="https://i.scdn.co/image/ab67616d0000b2735c1c4d3d94d0e845bd1ebec1" width="60" height="60" alt="Spirit In The Sky (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP">Spirit In The Sky - Deluxe Edition</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Norman Greenbaum (1969)</span></td>
 </tr>
 </table>
 </div>
