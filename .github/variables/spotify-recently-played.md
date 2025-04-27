@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ"><img src="https://i.scdn.co/image/ab67616d0000b273ec0a9eea5aa9110401cebaf4" width="150" height="150" alt="You Want Some of This?" /></a>
+<a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="150" height="150" alt="Tres Hombres (Expanded 2006 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ">Everyday Normal Guy</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Jon Lajoie (2009)</span>
+<span style="color: #666;">ZZ Top (1973)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ"><img src="https://i.scdn.co/image/ab67616d0000b273ec0a9eea5aa9110401cebaf4" width="60" height="60" alt="You Want Some of This?" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ">Everyday Normal Guy</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jon Lajoie (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ"><img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" width="60" height="60" alt="Elephunk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ">Where Is The Love?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2003)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="60" height="60" alt="A Little Bit of Mambo" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lou Bega (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL"><img src="https://i.scdn.co/image/ab67616d0000b273d0f459fe1d5e7c5f51d64a7e" width="60" height="60" alt="GOVERNMENT PACK" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">I'M NOT A BIG FAN OF THE GOVERNMENT</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">CHRIS ADAM (2024)</span></td>
 </tr>
 </table>
 </div>
