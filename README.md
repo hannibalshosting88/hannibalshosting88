@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"><img src="https://i.scdn.co/image/ab67616d0000b27392b32435efed601fc8f1045d" width="150" height="150" alt="The Fray" /></a>
+<a href="https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"><img src="https://i.scdn.co/image/ab67616d0000b273a9bae94ddb20a71f573931c0" width="150" height="150" alt="The Young and The Hopeless" /></a>
 
-<b><a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi">You Found Me</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6">Lifestyles of the Rich & Famous</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">The Fray (2009)</span>
+<span style="color: #666;">Good Charlotte (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"><img src="https://i.scdn.co/image/ab67616d0000b27392b32435efed601fc8f1045d" width="60" height="60" alt="The Fray" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi">You Found Me</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Fray (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF"><img src="https://i.scdn.co/image/ab67616d0000b27380aee3216dbae96c8d21c452" width="60" height="60" alt="Don't Look Back" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF">Don't Look Back</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Boston (1978)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4"><img src="https://i.scdn.co/image/ab67616d0000b273502c8b939032d419e06550e9" width="60" height="60" alt="Welcome Back" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4">Welcome Back</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mase (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB"><img src="https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380" width="60" height="60" alt="Reload" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB">The Unforgiven II</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1997)</span></td>
 </tr>
 </table>
 </div>
