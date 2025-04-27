@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF"><img src="https://i.scdn.co/image/ab67616d0000b27380aee3216dbae96c8d21c452" width="150" height="150" alt="Don't Look Back" /></a>
+<a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"><img src="https://i.scdn.co/image/ab67616d0000b27392b32435efed601fc8f1045d" width="150" height="150" alt="The Fray" /></a>
 
-<b><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF">Don't Look Back</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi">You Found Me</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Boston (1978)</span>
+<span style="color: #666;">The Fray (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF"><img src="https://i.scdn.co/image/ab67616d0000b27380aee3216dbae96c8d21c452" width="60" height="60" alt="Don't Look Back" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF">Don't Look Back</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Boston (1978)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE"><img src="https://i.scdn.co/image/ab67616d0000b273226f3db2f0de0bf60616527f" width="60" height="60" alt="Scousematic 2" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE">Kop That Shit</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Aystar (2018)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB"><img src="https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380" width="60" height="60" alt="Reload" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB">The Unforgiven II</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi"><img src="https://i.scdn.co/image/ab67616d0000b273df6a61394d68d029de36c8c7" width="60" height="60" alt="Flight" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi">Flight</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Tristam, Braken (2013)</span></td>
 </tr>
 </table>
 </div>
