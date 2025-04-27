@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL"><img src="https://i.scdn.co/image/ab67616d0000b273d0f459fe1d5e7c5f51d64a7e" width="150" height="150" alt="GOVERNMENT PACK" /></a>
+<a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"><img src="https://i.scdn.co/image/ab67616d0000b27371e01645abce04dda00e1c0c" width="150" height="150" alt="Oh No" /></a>
 
-<b><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">I'M NOT A BIG FAN OF THE GOVERNMENT</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD">Here It Goes Again</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">CHRIS ADAM (2024)</span>
+<span style="color: #666;">OK Go (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="60" height="60" alt="A Little Bit of Mambo" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lou Bega (1999)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL"><img src="https://i.scdn.co/image/ab67616d0000b273d0f459fe1d5e7c5f51d64a7e" width="60" height="60" alt="GOVERNMENT PACK" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">I'M NOT A BIG FAN OF THE GOVERNMENT</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">CHRIS ADAM (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3BOQOd4qPpdiwvqMQyh2Yg"><img src="https://i.scdn.co/image/ab67616d0000b273d25c579ea362aeee960d0d6b" width="60" height="60" alt="Rockin' The Suburbs" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3BOQOd4qPpdiwvqMQyh2Yg">Rockin' the Suburbs</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ben Folds (2001)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL">A Certain Shade of Green</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"><img src="https://i.scdn.co/image/ab67616d0000b273af7afb5c49afd3133fa2a6c9" width="60" height="60" alt="Partners In Crime" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ">Escape (The Pina Colada Song)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rupert Holmes (1979)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d">Bang!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
 </tr>
 </table>
 </div>
