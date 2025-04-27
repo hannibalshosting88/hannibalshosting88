@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3Vqbj9yPHBTIRhTDJHPQMq"><img src="https://i.scdn.co/image/ab67616d0000b273e4b1ceef0cf245119a4081a3" width="150" height="150" alt="Nostalgia in Times Square" /></a>
+<a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j"><img src="https://i.scdn.co/image/ab67616d0000b27318170cbe68cd3e6d26be4a74" width="150" height="150" alt="A Bigger Bang (2009 Re-Mastered)" /></a>
 
-<b><a href="https://open.spotify.com/track/3Vqbj9yPHBTIRhTDJHPQMq">Moanin'</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j">Laugh, I Nearly Died - Remastered</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Mingus Big Band (1993)</span>
+<span style="color: #666;">The Rolling Stones (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3Vqbj9yPHBTIRhTDJHPQMq"><img src="https://i.scdn.co/image/ab67616d0000b273e4b1ceef0cf245119a4081a3" width="60" height="60" alt="Nostalgia in Times Square" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3Vqbj9yPHBTIRhTDJHPQMq">Moanin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mingus Big Band (1993)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/65aeHyw8GdHFwmEvdSns21"><img src="https://i.scdn.co/image/ab67616d0000b273a186a985ccf9ac0215f937f8" width="60" height="60" alt="Thirds" /></a></td>
 <td><b><a href="https://open.spotify.com/track/65aeHyw8GdHFwmEvdSns21">Walk Away</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">James Gang (1971)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ"><img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" width="60" height="60" alt="Elephunk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ">Where Is The Love?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"><img src="https://i.scdn.co/image/ab67616d0000b273382514f0114ba8f4a16d5db4" width="60" height="60" alt="THE E.N.D. (THE ENERGY NEVER DIES)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG">I Gotta Feeling</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2009)</span></td>
 </tr>
 </table>
 </div>
