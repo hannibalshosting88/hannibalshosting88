@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="150" height="150" alt="Infinity On High" /></a>
+<a href="https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi"><img src="https://i.scdn.co/image/ab67616d0000b273df6a61394d68d029de36c8c7" width="150" height="150" alt="Flight" /></a>
 
-<b><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi">Flight</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Fall Out Boy (2007)</span>
+<span style="color: #666;">Tristam, Braken (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="60" height="60" alt="Infinity On High" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="60" height="60" alt="Licensed To Ill" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Beastie Boys (1986)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6"><img src="https://i.scdn.co/image/ab67616d0000b273a883e26f90ab617c91b90e56" width="60" height="60" alt="Inception (Music from the Motion Picture)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6">Dream Is Collapsing</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Hans Zimmer (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="60" height="60" alt="INSANO (NITRO MEGA)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By">WIN OR LOSE (feat. Chip Tha Ripper)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, Chip Tha Ripper (2024)</span></td>
 </tr>
 </table>
 </div>
