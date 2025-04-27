@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j"><img src="https://i.scdn.co/image/ab67616d0000b27318170cbe68cd3e6d26be4a74" width="150" height="150" alt="A Bigger Bang (2009 Re-Mastered)" /></a>
+<a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435" width="150" height="150" alt="Floored" /></a>
 
-<b><a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j">Laugh, I Nearly Died - Remastered</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly - Fly</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">The Rolling Stones (2005)</span>
+<span style="color: #666;">Sugar Ray (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j"><img src="https://i.scdn.co/image/ab67616d0000b27318170cbe68cd3e6d26be4a74" width="60" height="60" alt="A Bigger Bang (2009 Re-Mastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j">Laugh, I Nearly Died - Remastered</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Rolling Stones (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3Vqbj9yPHBTIRhTDJHPQMq"><img src="https://i.scdn.co/image/ab67616d0000b273e4b1ceef0cf245119a4081a3" width="60" height="60" alt="Nostalgia in Times Square" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3Vqbj9yPHBTIRhTDJHPQMq">Moanin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mingus Big Band (1993)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="60" height="60" alt="Tres Hombres (Expanded 2006 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">ZZ Top (1973)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ"><img src="https://i.scdn.co/image/ab67616d0000b273ec0a9eea5aa9110401cebaf4" width="60" height="60" alt="You Want Some of This?" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ">Everyday Normal Guy</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jon Lajoie (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ"><img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" width="60" height="60" alt="Elephunk" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ">Where Is The Love?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2003)</span></td>
 </tr>
 </table>
 </div>
