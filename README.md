@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" width="150" height="150" alt="The Temptations Sing Smokey" /></a>
+<a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE"><img src="https://i.scdn.co/image/ab67616d0000b273226f3db2f0de0bf60616527f" width="150" height="150" alt="Scousematic 2" /></a>
 
-<b><a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH">My Girl</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE">Kop That Shit</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">The Temptations (1965)</span>
+<span style="color: #666;">Aystar (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM"><img src="https://i.scdn.co/image/ab67616d0000b273950eb267e96cd35da58b1d1c" width="60" height="60" alt="I'm Goin In" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM">I'm Goin In</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Lil Wayne, Jeezy (2009)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" width="60" height="60" alt="The Temptations Sing Smokey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH">My Girl</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Temptations (1965)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"><img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="60" height="60" alt="Night Visions" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp">Radioactive</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2012)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="60" height="60" alt="Infinity On High" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="60" height="60" alt="Licensed To Ill" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Beastie Boys (1986)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7uax1a1G4cg1GgokfakTnN"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="60" height="60" alt="Perception" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7uax1a1G4cg1GgokfakTnN">Outro</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2017)</span></td>
 </tr>
 </table>
 </div>
