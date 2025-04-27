@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="150" height="150" alt="Infinity On High" /></a>
+<a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB"><img src="https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380" width="150" height="150" alt="Reload" /></a>
 
-<b><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB">The Unforgiven II</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Fall Out Boy (2007)</span>
+<span style="color: #666;">Metallica (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi"><img src="https://i.scdn.co/image/ab67616d0000b273df6a61394d68d029de36c8c7" width="60" height="60" alt="Flight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi">Flight</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Tristam, Braken (2013)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="60" height="60" alt="Infinity On High" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="60" height="60" alt="Licensed To Ill" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Beastie Boys (1986)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"><img src="https://i.scdn.co/image/ab67616d0000b273d231bd1716b71b6444e25f89" width="60" height="60" alt="Buffalo Springfield" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">For What It's Worth</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Buffalo Springfield (1966)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6"><img src="https://i.scdn.co/image/ab67616d0000b273a883e26f90ab617c91b90e56" width="60" height="60" alt="Inception (Music from the Motion Picture)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6">Dream Is Collapsing</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Hans Zimmer (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="60" height="60" alt="INSANO (NITRO MEGA)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By">WIN OR LOSE (feat. Chip Tha Ripper)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, Chip Tha Ripper (2024)</span></td>
 </tr>
 </table>
 </div>
