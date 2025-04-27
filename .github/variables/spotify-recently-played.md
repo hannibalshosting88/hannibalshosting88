@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1"><img src="https://i.scdn.co/image/ab67616d0000b2732568a5b51d322cbd987106f7" width="150" height="150" alt="Star Shopping" /></a>
+<a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="150" height="150" alt="INSANO (NITRO MEGA)" /></a>
 
-<b><a href="https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1">Star Shopping</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By">WIN OR LOSE (feat. Chip Tha Ripper)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Lil Peep (2015)</span>
+<span style="color: #666;">Kid Cudi, Chip Tha Ripper (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu"><img src="https://i.scdn.co/image/ab67616d0000b273b7879980ef2ea7ac1cc29316" width="60" height="60" alt="Ghost In The Machine (Remastered 2003)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu">Spirits In The Material World</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Police (1981)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1"><img src="https://i.scdn.co/image/ab67616d0000b2732568a5b51d322cbd987106f7" width="60" height="60" alt="Star Shopping" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1">Star Shopping</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Peep (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="60" height="60" alt="Tres Hombres (Expanded 2006 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">ZZ Top (1973)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e"><img src="https://i.scdn.co/image/ab67616d0000b2732b46b5b241079360e6951405" width="60" height="60" alt="AA" /></a></td>
 <td><b><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Walker Hayes (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7"><img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" width="60" height="60" alt="Straight Outta Compton" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">Fuck Tha Police</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">N.W.A. (1988)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"><img src="https://i.scdn.co/image/ab67616d0000b27371e01645abce04dda00e1c0c" width="60" height="60" alt="Oh No" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD">Here It Goes Again</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">OK Go (2005)</span></td>
 </tr>
 </table>
 </div>
