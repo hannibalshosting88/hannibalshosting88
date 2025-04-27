@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435" width="150" height="150" alt="Floored" /></a>
+<a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="150" height="150" alt="Infinity On High" /></a>
 
-<b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly - Fly</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Sugar Ray (1997)</span>
+<span style="color: #666;">Fall Out Boy (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="60" height="60" alt="Licensed To Ill" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Beastie Boys (1986)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7uax1a1G4cg1GgokfakTnN"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="60" height="60" alt="Perception" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7uax1a1G4cg1GgokfakTnN">Outro</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2017)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435" width="60" height="60" alt="Floored" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly - Fly</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugar Ray (1997)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="60" height="60" alt="INSANO (NITRO MEGA)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By">WIN OR LOSE (feat. Chip Tha Ripper)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, Chip Tha Ripper (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu"><img src="https://i.scdn.co/image/ab67616d0000b273b7879980ef2ea7ac1cc29316" width="60" height="60" alt="Ghost In The Machine (Remastered 2003)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu">Spirits In The Material World</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Police (1981)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1"><img src="https://i.scdn.co/image/ab67616d0000b2732568a5b51d322cbd987106f7" width="60" height="60" alt="Star Shopping" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1">Star Shopping</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Peep (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="60" height="60" alt="Tres Hombres (Expanded 2006 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">ZZ Top (1973)</span></td>
 </tr>
 </table>
 </div>
