@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="150" height="150" alt="Tres Hombres (Expanded 2006 Remaster)" /></a>
+<a href="https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1"><img src="https://i.scdn.co/image/ab67616d0000b2732568a5b51d322cbd987106f7" width="150" height="150" alt="Star Shopping" /></a>
 
-<b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1">Star Shopping</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">ZZ Top (1973)</span>
+<span style="color: #666;">Lil Peep (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="60" height="60" alt="Tres Hombres (Expanded 2006 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">ZZ Top (1973)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ"><img src="https://i.scdn.co/image/ab67616d0000b273ec0a9eea5aa9110401cebaf4" width="60" height="60" alt="You Want Some of This?" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ">Everyday Normal Guy</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jon Lajoie (2009)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"><img src="https://i.scdn.co/image/ab67616d0000b27371e01645abce04dda00e1c0c" width="60" height="60" alt="Oh No" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD">Here It Goes Again</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">OK Go (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="60" height="60" alt="A Little Bit of Mambo" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lou Bega (1999)</span></td>
 </tr>
 </table>
 </div>
