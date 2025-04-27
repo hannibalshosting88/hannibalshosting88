@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="150" height="150" alt="Fragile" /></a>
+<a href="https://open.spotify.com/track/3BOQOd4qPpdiwvqMQyh2Yg"><img src="https://i.scdn.co/image/ab67616d0000b273d25c579ea362aeee960d0d6b" width="150" height="150" alt="Rockin' The Suburbs" /></a>
 
-<b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3BOQOd4qPpdiwvqMQyh2Yg">Rockin' the Suburbs</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Yes (1971)</span>
+<span style="color: #666;">Ben Folds (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"><img src="https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2" width="60" height="60" alt="A Bar Song (Tipsy)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">A Bar Song (Tipsy)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Shaboozey (2024)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"><img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" width="60" height="60" alt="Diana Ross Presents The Jackson 5" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S">I Want You Back</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Jackson 5 (1969)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="60" height="60" alt="Fragile" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yes (1971)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"><img src="https://i.scdn.co/image/ab67616d0000b273382514f0114ba8f4a16d5db4" width="60" height="60" alt="THE E.N.D. (THE ENERGY NEVER DIES)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG">I Gotta Feeling</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2009)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d">Bang!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv"><img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="60" height="60" alt="Sleep With the Lights On" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Wanton Bishops (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"><img src="https://i.scdn.co/image/ab67616d0000b27388111edd78a2abc370864319" width="60" height="60" alt="Sugar Sweet" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO">Sugar Sweet</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Benson Boone (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"><img src="https://i.scdn.co/image/ab67616d0000b2734d54f9eccf5646d0f7a1bd30" width="60" height="60" alt="Permission to Land" /></a></td>
-<td><b><a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA">I Believe in a Thing Called Love</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Darkness (2003)</span></td>
 </tr>
 </table>
 </div>
