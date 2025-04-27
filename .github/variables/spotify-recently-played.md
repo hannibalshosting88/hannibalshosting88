@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/171GowvfxC6r1WCHyb6fn3"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="150" height="150" alt="INSANO (NITRO MEGA)" /></a>
+<a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"><img src="https://i.scdn.co/image/ab67616d0000b273382514f0114ba8f4a16d5db4" width="150" height="150" alt="THE E.N.D. (THE ENERGY NEVER DIES)" /></a>
 
-<b><a href="https://open.spotify.com/track/171GowvfxC6r1WCHyb6fn3">WILLIS (feat. Chip Tha Ripper)</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG">I Gotta Feeling</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Kid Cudi, Chip Tha Ripper (2024)</span>
+<span style="color: #666;">Black Eyed Peas (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/171GowvfxC6r1WCHyb6fn3"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="60" height="60" alt="INSANO (NITRO MEGA)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/171GowvfxC6r1WCHyb6fn3">WILLIS (feat. Chip Tha Ripper)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, Chip Tha Ripper (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ"><img src="https://i.scdn.co/image/ab67616d0000b273fe7908b7666690bf4e83ce14" width="60" height="60" alt="Pursuit Of Happiness [Extended Steve Aoki Remix (Explicit)]" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ">Pursuit Of Happiness - Extended Steve Aoki Remix</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, MGMT, Ratatat, Steve Aoki (2012)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"><img src="https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2" width="60" height="60" alt="A Bar Song (Tipsy)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">A Bar Song (Tipsy)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Shaboozey (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"><img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" width="60" height="60" alt="Diana Ross Presents The Jackson 5" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S">I Want You Back</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Jackson 5 (1969)</span></td>
 </tr>
 </table>
 </div>
