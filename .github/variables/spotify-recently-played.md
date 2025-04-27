@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"><img src="https://i.scdn.co/image/ab67616d0000b27371e01645abce04dda00e1c0c" width="150" height="150" alt="Oh No" /></a>
+<a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7"><img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" width="150" height="150" alt="Straight Outta Compton" /></a>
 
-<b><a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD">Here It Goes Again</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">Fuck Tha Police</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">OK Go (2005)</span>
+<span style="color: #666;">N.W.A. (1988)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"><img src="https://i.scdn.co/image/ab67616d0000b27371e01645abce04dda00e1c0c" width="60" height="60" alt="Oh No" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD">Here It Goes Again</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">OK Go (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="60" height="60" alt="A Little Bit of Mambo" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lou Bega (1999)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"><img src="https://i.scdn.co/image/ab67616d0000b2735c1c4d3d94d0e845bd1ebec1" width="60" height="60" alt="Spirit In The Sky (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP">Spirit In The Sky - Deluxe Edition</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Norman Greenbaum (1969)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL">A Certain Shade of Green</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
 </tr>
 </table>
 </div>
