@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0De6k2vhzI1AwNqvDAMyZs"><img src="https://i.scdn.co/image/ab67616d0000b273b4a35e290c22d73c16df1f7b" width="150" height="150" alt="Warmer In The Winter (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/3pJJciHZvWQ6U1ETxNxoi9"><img src="https://i.scdn.co/image/ab67616d0000b27390b4cf8fa286aa50cebf2a4e" width="150" height="150" alt="x Infinity" /></a>
 
-<b><a href="https://open.spotify.com/track/0De6k2vhzI1AwNqvDAMyZs">Dance Of The Sugar Plum Fairy</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3pJJciHZvWQ6U1ETxNxoi9">Talking to Myself</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Lindsey Stirling (2018)</span>
+<span style="color: #666;">Watsky (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0De6k2vhzI1AwNqvDAMyZs"><img src="https://i.scdn.co/image/ab67616d0000b273b4a35e290c22d73c16df1f7b" width="60" height="60" alt="Warmer In The Winter (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0De6k2vhzI1AwNqvDAMyZs">Dance Of The Sugar Plum Fairy</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lindsey Stirling (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"><img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" width="60" height="60" alt="Bleed American" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">The Middle</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Jimmy Eat World (2001)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF"><img src="https://i.scdn.co/image/ab67616d0000b27380aee3216dbae96c8d21c452" width="60" height="60" alt="Don't Look Back" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF">Don't Look Back</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Boston (1978)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE"><img src="https://i.scdn.co/image/ab67616d0000b273226f3db2f0de0bf60616527f" width="60" height="60" alt="Scousematic 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE">Kop That Shit</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Aystar (2018)</span></td>
 </tr>
 </table>
 </div>
