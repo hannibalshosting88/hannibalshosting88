@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="150" height="150" alt="Power Rangers Redux" /></a>
+<a href="https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"><img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" width="150" height="150" alt="Aftermath" /></a>
 
-<b><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5">Go Go Power Rangers (Instrumental Redux)</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8">Paint It, Black</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Ron Wasserman (2012)</span>
+<span style="color: #666;">The Rolling Stones (1966)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="60" height="60" alt="Power Rangers Redux" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5">Go Go Power Rangers (Instrumental Redux)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Ron Wasserman (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Ying Yang Twins (2002)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG"><img src="https://i.scdn.co/image/ab67616d0000b273d9c7516258eb58d793d49e2e" width="60" height="60" alt="I Wanna Get Better" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG">I Wanna Get Better</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bleachers (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2gyknQOJvwglY6WUOJvDv1"><img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="60" height="60" alt="Start Static" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2gyknQOJvwglY6WUOJvDv1">Pretty Girl (The Way)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2001)</span></td>
 </tr>
 </table>
 </div>
