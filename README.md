@@ -30,6 +30,10 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Ying Yang Twins (2002)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"><img src="https://i.scdn.co/image/ab67616d0000b273618551d2d0f2d446b2b97959" width="60" height="60" alt="The Prodigal" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8">The Prodigal</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Josiah Queen (2023)</span></td>
 </tr>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/18Gb1gqRi5A50PYh0MDukc"><img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="60" height="60" alt="Start Static" /></a></td>
 <td><b><a href="https://open.spotify.com/track/18Gb1gqRi5A50PYh0MDukc">Stuck In America</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"><img src="https://i.scdn.co/image/ab67616d0000b273a9bae94ddb20a71f573931c0" width="60" height="60" alt="The Young and The Hopeless" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6">Lifestyles of the Rich & Famous</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2002)</span></td>
 </tr>
 </table>
 </div>
