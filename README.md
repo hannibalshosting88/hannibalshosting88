@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"><img src="https://i.scdn.co/image/ab67616d0000b273618551d2d0f2d446b2b97959" width="150" height="150" alt="The Prodigal" /></a>
+<a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="150" height="150" alt="Kings Of Crunk" /></a>
 
-<b><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8">The Prodigal</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Josiah Queen (2023)</span>
+<span style="color: #666;">Lil Jon & The East Side Boyz, Ying Yang Twins (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"><img src="https://i.scdn.co/image/ab67616d0000b273618551d2d0f2d446b2b97959" width="60" height="60" alt="The Prodigal" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8">The Prodigal</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Josiah Queen (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3pJJciHZvWQ6U1ETxNxoi9"><img src="https://i.scdn.co/image/ab67616d0000b27390b4cf8fa286aa50cebf2a4e" width="60" height="60" alt="x Infinity" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3pJJciHZvWQ6U1ETxNxoi9">Talking to Myself</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2016)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"><img src="https://i.scdn.co/image/ab67616d0000b273a9bae94ddb20a71f573931c0" width="60" height="60" alt="The Young and The Hopeless" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6">Lifestyles of the Rich & Famous</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"><img src="https://i.scdn.co/image/ab67616d0000b27392b32435efed601fc8f1045d" width="60" height="60" alt="The Fray" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi">You Found Me</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Fray (2009)</span></td>
 </tr>
 </table>
 </div>
