@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"><img src="https://i.scdn.co/image/ab67616d0000b273d3ad3861045494cf7eaaa107" width="150" height="150" alt="Fearless" /></a>
+<a href="https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"><img src="https://i.scdn.co/image/ab67616d0000b273fb9dac3244b8486758058a81" width="150" height="150" alt="Smiley Smile (Remastered)" /></a>
 
-<b><a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7">Pain</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f">Good Vibrations - Remastered 2001</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Josh A (2019)</span>
+<span style="color: #666;">The Beach Boys (1967)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"><img src="https://i.scdn.co/image/ab67616d0000b273d3ad3861045494cf7eaaa107" width="60" height="60" alt="Fearless" /></a></td>
+<td><b><a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7">Pain</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Josh A (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT">Oil and Water</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"><img src="https://i.scdn.co/image/ab67616d0000b2730d1b9dd6cac43fa9d5c3659d" width="60" height="60" alt="Pecos & the Rooftops" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pecos & the Rooftops (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL"><img src="https://i.scdn.co/image/ab67616d0000b273d0f459fe1d5e7c5f51d64a7e" width="60" height="60" alt="GOVERNMENT PACK" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">I'M NOT A BIG FAN OF THE GOVERNMENT</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">CHRIS ADAM (2024)</span></td>
 </tr>
 </table>
 </div>
