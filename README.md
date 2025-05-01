@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl"><img src="https://i.scdn.co/image/ab67616d0000b2736938adf4385d5c197370707e" width="150" height="150" alt="From Chaos" /></a>
+<a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435" width="150" height="150" alt="Floored" /></a>
 
-<b><a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl">Amber</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly - Fly</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">311 (2001)</span>
+<span style="color: #666;">Sugar Ray (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl"><img src="https://i.scdn.co/image/ab67616d0000b2736938adf4385d5c197370707e" width="60" height="60" alt="From Chaos" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl">Amber</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">311 (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="60" height="60" alt="From Under The Cork Tree" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">Sugar, We're Goin Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2005)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"><img src="https://i.scdn.co/image/ab67616d0000b273fb9dac3244b8486758058a81" width="60" height="60" alt="Smiley Smile (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f">Good Vibrations - Remastered 2001</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Beach Boys (1967)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"><img src="https://i.scdn.co/image/ab67616d0000b273d3ad3861045494cf7eaaa107" width="60" height="60" alt="Fearless" /></a></td>
-<td><b><a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7">Pain</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Josh A (2019)</span></td>
 </tr>
 </table>
 </div>
