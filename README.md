@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL"><img src="https://i.scdn.co/image/ab67616d0000b273d0f459fe1d5e7c5f51d64a7e" width="150" height="150" alt="GOVERNMENT PACK" /></a>
+<a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"><img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" width="150" height="150" alt="Led Zeppelin IV (Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">I'M NOT A BIG FAN OF THE GOVERNMENT</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD">Rock and Roll - Remaster</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">CHRIS ADAM (2024)</span>
+<span style="color: #666;">Led Zeppelin (1971)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"><img src="https://i.scdn.co/image/ab67616d0000b2730d1b9dd6cac43fa9d5c3659d" width="60" height="60" alt="Pecos & the Rooftops" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pecos & the Rooftops (2023)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL"><img src="https://i.scdn.co/image/ab67616d0000b273d0f459fe1d5e7c5f51d64a7e" width="60" height="60" alt="GOVERNMENT PACK" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">I'M NOT A BIG FAN OF THE GOVERNMENT</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">CHRIS ADAM (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh"><img src="https://i.scdn.co/image/ab67616d0000b27356149c2955aadc97567e93d4" width="60" height="60" alt="Why Am I So Happy?" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">Greatest Shit Ever</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Spose (2015)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/34GWfxjJsVNCGrhIHK9wPc"><img src="https://i.scdn.co/image/ab67616d0000b2730a364a6839ed83f8fa981209" width="60" height="60" alt="Carry on Wayward Son" /></a></td>
 <td><b><a href="https://open.spotify.com/track/34GWfxjJsVNCGrhIHK9wPc">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Neoni (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"><img src="https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144" width="60" height="60" alt="See You On the Other Side" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"><img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" width="60" height="60" alt="Aftermath" /></a></td>
-<td><b><a href="https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8">Paint It, Black</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Rolling Stones (1966)</span></td>
 </tr>
 </table>
 </div>
