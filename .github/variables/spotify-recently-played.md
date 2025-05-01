@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"><img src="https://i.scdn.co/image/ab67616d0000b273fb9dac3244b8486758058a81" width="150" height="150" alt="Smiley Smile (Remastered)" /></a>
+<a href="https://open.spotify.com/track/0xcGLYbvIiQAcvjRZizdIv"><img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="150" height="150" alt="GET UP" /></a>
 
-<b><a href="https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f">Good Vibrations - Remastered 2001</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0xcGLYbvIiQAcvjRZizdIv">BATTLE AXE</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">The Beach Boys (1967)</span>
+<span style="color: #666;">Thundersmack (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"><img src="https://i.scdn.co/image/ab67616d0000b273fb9dac3244b8486758058a81" width="60" height="60" alt="Smiley Smile (Remastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f">Good Vibrations - Remastered 2001</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Beach Boys (1967)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"><img src="https://i.scdn.co/image/ab67616d0000b273d3ad3861045494cf7eaaa107" width="60" height="60" alt="Fearless" /></a></td>
 <td><b><a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7">Pain</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Josh A (2019)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"><img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" width="60" height="60" alt="Led Zeppelin IV (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD">Rock and Roll - Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Led Zeppelin (1971)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"><img src="https://i.scdn.co/image/ab67616d0000b2730d1b9dd6cac43fa9d5c3659d" width="60" height="60" alt="Pecos & the Rooftops" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pecos & the Rooftops (2023)</span></td>
 </tr>
 </table>
 </div>
