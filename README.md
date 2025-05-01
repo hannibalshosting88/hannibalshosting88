@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"><img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" width="150" height="150" alt="Led Zeppelin IV (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/53XZJuiMSI94CFpvjHoLIf"><img src="https://i.scdn.co/image/ab67616d0000b27337814a429f3dfa602e0d2c5d" width="150" height="150" alt="Loop Daddy" /></a>
 
-<b><a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD">Rock and Roll - Remaster</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/53XZJuiMSI94CFpvjHoLIf">Reach Out</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Led Zeppelin (1971)</span>
+<span style="color: #666;">Marc Rebillet (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7"><img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" width="60" height="60" alt="Straight Outta Compton" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">Fuck Tha Police</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">N.W.A. (1988)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"><img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" width="60" height="60" alt="Led Zeppelin IV (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD">Rock and Roll - Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Led Zeppelin (1971)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"><img src="https://i.scdn.co/image/ab67616d0000b2730d1b9dd6cac43fa9d5c3659d" width="60" height="60" alt="Pecos & the Rooftops" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pecos & the Rooftops (2023)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"><img src="https://i.scdn.co/image/ab67616d0000b273222cb38afc3b3b47d9df26aa" width="60" height="60" alt="Hysteria (Super Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO">Pour Some Sugar On Me - Remastered 2017</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Def Leppard (1987)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5Xevyftg9SENov82JYXlYQ"><img src="https://i.scdn.co/image/ab67616d0000b273229f132702470af1740b7bf4" width="60" height="60" alt="The Power Within (Special Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5Xevyftg9SENov82JYXlYQ">Cry Thunder</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DragonForce (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/34GWfxjJsVNCGrhIHK9wPc"><img src="https://i.scdn.co/image/ab67616d0000b2730a364a6839ed83f8fa981209" width="60" height="60" alt="Carry on Wayward Son" /></a></td>
-<td><b><a href="https://open.spotify.com/track/34GWfxjJsVNCGrhIHK9wPc">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Neoni (2018)</span></td>
 </tr>
 </table>
 </div>
