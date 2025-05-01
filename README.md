@@ -30,6 +30,10 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"><img src="https://i.scdn.co/image/ab67616d0000b273f489b4582e496de8f71e88da" width="60" height="60" alt="With Teeth" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7">The Hand That Feeds</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nine Inch Nails (2005)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/53XZJuiMSI94CFpvjHoLIf"><img src="https://i.scdn.co/image/ab67616d0000b27337814a429f3dfa602e0d2c5d" width="60" height="60" alt="Loop Daddy" /></a></td>
 <td><b><a href="https://open.spotify.com/track/53XZJuiMSI94CFpvjHoLIf">Reach Out</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marc Rebillet (2018)</span></td>
 </tr>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"><img src="https://i.scdn.co/image/ab67616d0000b273437d458d421aaa7c8df8248d" width="60" height="60" alt="Three Days Grace" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">I Hate Everything About You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Three Days Grace (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq"><img src="https://i.scdn.co/image/ab67616d0000b273aac864ff7174329862dcf0ae" width="60" height="60" alt="Duel of The Fates - Epic Version (Remastered) [Cover]" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq">Duel of The Fates - Epic Version (Remastered) - Cover</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Samuel Kim (2022)</span></td>
 </tr>
 </table>
 </div>
