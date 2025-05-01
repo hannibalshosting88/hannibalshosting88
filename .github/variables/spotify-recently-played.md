@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435" width="150" height="150" alt="Floored" /></a>
+<a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN"><img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="150" height="150" alt="Good Company" /></a>
 
-<b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly - Fly</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN">In Hell I'll Be in Good Company</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Sugar Ray (1997)</span>
+<span style="color: #666;">The Dead South (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435" width="60" height="60" alt="Floored" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly - Fly</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugar Ray (1997)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl"><img src="https://i.scdn.co/image/ab67616d0000b2736938adf4385d5c197370707e" width="60" height="60" alt="From Chaos" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl">Amber</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">311 (2001)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0xcGLYbvIiQAcvjRZizdIv"><img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="60" height="60" alt="GET UP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0xcGLYbvIiQAcvjRZizdIv">BATTLE AXE</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"><img src="https://i.scdn.co/image/ab67616d0000b273fb9dac3244b8486758058a81" width="60" height="60" alt="Smiley Smile (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f">Good Vibrations - Remastered 2001</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Beach Boys (1967)</span></td>
 </tr>
 </table>
 </div>
