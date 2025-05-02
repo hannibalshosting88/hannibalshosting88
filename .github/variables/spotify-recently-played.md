@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="150" height="150" alt="Morning View" /></a>
+<a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="150" height="150" alt="In Keeping Secrets Of Silent Earth: 3" /></a>
 
-<b><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm">Are You In?</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Incubus (2001)</span>
+<span style="color: #666;">Coheed and Cambria (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm">Are You In?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"><img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="60" height="60" alt="24K Magic" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P">24K Magic</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1"><img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" height="60" alt="Cyberpunk 2077 - Original Score" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1">Wushu Dolls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marcin Przybyłowicz (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"><img src="https://i.scdn.co/image/ab67616d0000b27387459a563f92e336d282ca59" width="60" height="60" alt="Growin' Up" /></a></td>
-<td><b><a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx">The Kind of Love We Make</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Luke Combs (2022)</span></td>
 </tr>
 </table>
 </div>
