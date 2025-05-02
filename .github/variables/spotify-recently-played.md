@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3A7YqqDeCV4FcYipIvN3a2"><img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="150" height="150" alt="Thundersmack" /></a>
+<a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"><img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="150" height="150" alt="24K Magic" /></a>
 
-<b><a href="https://open.spotify.com/track/3A7YqqDeCV4FcYipIvN3a2">Slap</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P">24K Magic</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Thundersmack (2021)</span>
+<span style="color: #666;">Bruno Mars (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3A7YqqDeCV4FcYipIvN3a2"><img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="60" height="60" alt="Thundersmack" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3A7YqqDeCV4FcYipIvN3a2">Slap</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"><img src="https://i.scdn.co/image/ab67616d0000b273c31d3c870a3dbaf7b53186cc" width="60" height="60" alt="Gangsta's Paradise" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p">Gangsta's Paradise</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Coolio, L.V. (1995)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN"><img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="60" height="60" alt="Good Company" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN">In Hell I'll Be in Good Company</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Dead South (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435" width="60" height="60" alt="Floored" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly - Fly</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugar Ray (1997)</span></td>
 </tr>
 </table>
 </div>
