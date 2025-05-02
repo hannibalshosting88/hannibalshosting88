@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"><img src="https://i.scdn.co/image/ab67616d0000b273e95d233a9df33d6c9992b449" width="150" height="150" alt="Contraband" /></a>
+<a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"><img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="150" height="150" alt="Dookie" /></a>
 
-<b><a href="https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F">Slither</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">Basket Case</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Velvet Revolver (2004)</span>
+<span style="color: #666;">Green Day (1994)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD"><img src="https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74" width="60" height="60" alt="Man On The Moon: The End Of Day (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD">Pursuit Of Happiness (Nightmare)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, MGMT, Ratatat (2009)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"><img src="https://i.scdn.co/image/ab67616d0000b273e95d233a9df33d6c9992b449" width="60" height="60" alt="Contraband" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F">Slither</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Velvet Revolver (2004)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1nljSOphWsigHQjIkqVJUR"><img src="https://i.scdn.co/image/ab67616d0000b273821688d0ee64bb848cb41bf3" width="60" height="60" alt="Revivals" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1nljSOphWsigHQjIkqVJUR">Für Elise (Epic Trailer Version)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hidden Citizens (2018)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"><img src="https://i.scdn.co/image/ab67616d0000b2738b344822c35025ba9439f004" width="60" height="60" alt="Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw">Duel of the Fates</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">John Williams, London Symphony Orchestra (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"><img src="https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144" width="60" height="60" alt="See You On the Other Side" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"><img src="https://i.scdn.co/image/ab67616d0000b273774080a4ac27b3c5c86af35f" width="60" height="60" alt="Hats Off to the Bull" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF">Face to the Floor</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chevelle (2011)</span></td>
 </tr>
 </table>
 </div>
