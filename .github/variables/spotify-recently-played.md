@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" width="150" height="150" alt="The Temptations Sing Smokey" /></a>
+<a href="https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="150" height="150" alt="Tha Carter IV (Complete Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH">My Girl</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj">Mirror</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">The Temptations (1965)</span>
+<span style="color: #666;">Lil Wayne, Bruno Mars (2011)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" width="60" height="60" alt="The Temptations Sing Smokey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH">My Girl</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Temptations (1965)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"><img src="https://i.scdn.co/image/ab67616d0000b27355e734bb400d8c827700541b" width="60" height="60" alt="S.C.I.E.N.C.E." /></a></td>
 <td><b><a href="https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa">Vitamin</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1997)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf">Warning</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2CCfScv56g3qG0tCtM1d0P"><img src="https://i.scdn.co/image/ab67616d0000b2731f81dec4c6e5a290f0bca4e8" width="60" height="60" alt="Cardboard Castles" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2CCfScv56g3qG0tCtM1d0P">Moral of the Story</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2013)</span></td>
 </tr>
 </table>
 </div>
