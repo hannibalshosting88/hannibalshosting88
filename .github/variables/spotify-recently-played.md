@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H"><img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="150" height="150" alt="Dreamland" /></a>
+<a href="https://open.spotify.com/track/2CCfScv56g3qG0tCtM1d0P"><img src="https://i.scdn.co/image/ab67616d0000b2731f81dec4c6e5a290f0bca4e8" width="150" height="150" alt="Cardboard Castles" /></a>
 
-<b><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2CCfScv56g3qG0tCtM1d0P">Moral of the Story</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Glass Animals (2020)</span>
+<span style="color: #666;">Watsky (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY"><img src="https://i.scdn.co/image/ab67616d0000b27349440f89d229d070b504be74" width="60" height="60" alt="Sickology 101" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY">Dysfunctional</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Tech N9ne Collabos (2009)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H"><img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="60" height="60" alt="Dreamland" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Glass Animals (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1"><img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" height="60" alt="Cyberpunk 2077 - Original Score" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1">Wushu Dolls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marcin Przybyłowicz (2020)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1VsxaE5MxzgtmKe50P1kRK"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" height="60" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1VsxaE5MxzgtmKe50P1kRK">14 Years</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ">Dig</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"><img src="https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292" width="60" height="60" alt="Electric Ladyland" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f">All Along the Watchtower</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jimi Hendrix (1968)</span></td>
 </tr>
 </table>
 </div>
