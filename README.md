@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"><img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="150" height="150" alt="Dookie" /></a>
+<a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="150" height="150" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a>
 
-<b><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">Basket Case</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP">Erase Me - Main</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Green Day (1994)</span>
+<span style="color: #666;">Kid Cudi, Kanye West (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"><img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="60" height="60" alt="Dookie" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">Basket Case</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Green Day (1994)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD"><img src="https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74" width="60" height="60" alt="Man On The Moon: The End Of Day (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD">Pursuit Of Happiness (Nightmare)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, MGMT, Ratatat (2009)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj"><img src="https://i.scdn.co/image/ab67616d0000b273c10f473ce20bef8d799fe8a9" width="60" height="60" alt="Never Take Friendship Personal" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj">The Feel Good Drag</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Anberlin (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"><img src="https://i.scdn.co/image/ab67616d0000b2738b344822c35025ba9439f004" width="60" height="60" alt="Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw">Duel of the Fates</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">John Williams, London Symphony Orchestra (1999)</span></td>
 </tr>
 </table>
 </div>
