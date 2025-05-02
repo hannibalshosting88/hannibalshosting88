@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="150" height="150" alt="The Essential Incubus" /></a>
+<a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a"><img src="https://i.scdn.co/image/ab67616d0000b27351853c867bd51abc84432ee5" width="150" height="150" alt="The Best Of Kansas" /></a>
 
-<b><a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT">Oil and Water</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a">Carry on Wayward Son</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Incubus (2012)</span>
+<span style="color: #666;">Kansas (1984)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT">Oil and Water</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi"><img src="https://i.scdn.co/image/ab67616d0000b273fca6a26d626b192b9ffe4ae5" width="60" height="60" alt="Odyssey" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi">Rising Force</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yngwie Malmsteen (1988)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="60" height="60" alt="Tha Carter IV (Complete Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj">Mirror</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Bruno Mars (2011)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" width="60" height="60" alt="The Temptations Sing Smokey" /></a></td>
-<td><b><a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH">My Girl</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Temptations (1965)</span></td>
 </tr>
 </table>
 </div>
