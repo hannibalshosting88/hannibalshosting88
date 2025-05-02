@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1"><img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="150" height="150" alt="Cyberpunk 2077 - Original Score" /></a>
+<a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H"><img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="150" height="150" alt="Dreamland" /></a>
 
-<b><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1">Wushu Dolls</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Marcin Przybyłowicz (2020)</span>
+<span style="color: #666;">Glass Animals (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1"><img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" height="60" alt="Cyberpunk 2077 - Original Score" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1">Wushu Dolls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marcin Przybyłowicz (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"><img src="https://i.scdn.co/image/ab67616d0000b27387459a563f92e336d282ca59" width="60" height="60" alt="Growin' Up" /></a></td>
 <td><b><a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx">The Kind of Love We Make</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Luke Combs (2022)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"><img src="https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292" width="60" height="60" alt="Electric Ladyland" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f">All Along the Watchtower</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jimi Hendrix (1968)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3yoZpOB5ro75ENWjl5F2z7"><img src="https://i.scdn.co/image/ab67616d0000b2739c42c35d57212a5920c42f6c" width="60" height="60" alt="Fight With Tools" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3yoZpOB5ro75ENWjl5F2z7">Stand Up</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Flobots (2008)</span></td>
 </tr>
 </table>
 </div>
