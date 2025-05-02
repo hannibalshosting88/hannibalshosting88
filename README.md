@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ"><img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="150" height="150" alt="EndEx" /></a>
+<a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="150" height="150" alt="Miles On It (Remixes)" /></a>
 
-<b><a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ">Merchant of the Void</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">3TEETH, Mick Gordon (2023)</span>
+<span style="color: #666;">Marshmello, Kane Brown, Ely Oaks (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"><img src="https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4" width="60" height="60" alt="Poison" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH">Poison</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bell Biv DeVoe (1990)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ"><img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="60" height="60" alt="EndEx" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ">Merchant of the Void</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">3TEETH, Mick Gordon (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"><img src="https://i.scdn.co/image/ab67616d0000b273ec4d79e8035ed2803ecfe2b3" width="60" height="60" alt="Sparkle And Fade" /></a></td>
 <td><b><a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI">Santa Monica</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Everclear (1995)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a"><img src="https://i.scdn.co/image/ab67616d0000b27351853c867bd51abc84432ee5" width="60" height="60" alt="The Best Of Kansas" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kansas (1984)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT">Oil and Water</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi"><img src="https://i.scdn.co/image/ab67616d0000b273fca6a26d626b192b9ffe4ae5" width="60" height="60" alt="Odyssey" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi">Rising Force</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yngwie Malmsteen (1988)</span></td>
 </tr>
 </table>
 </div>
