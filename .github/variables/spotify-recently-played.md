@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="150" height="150" alt="Miles On It (Remixes)" /></a>
+<a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC"><img src="https://i.scdn.co/image/ab67616d0000b2731125993143f5a01d1d6e1b1d" width="150" height="150" alt="HIVE" /></a>
 
-<b><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Marshmello, Kane Brown, Ely Oaks (2024)</span>
+<span style="color: #666;">Sub Urban, BENEE (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX"><img src="https://i.scdn.co/image/ab67616d0000b27379f4fe59d312938c5cecfd46" width="60" height="60" alt="SWISH" /></a></td>
+<td><b><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX">Be</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Joywave (2016)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="60" height="60" alt="Miles On It (Remixes)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown, Ely Oaks (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"><img src="https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4" width="60" height="60" alt="Poison" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH">Poison</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bell Biv DeVoe (1990)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1nljSOphWsigHQjIkqVJUR"><img src="https://i.scdn.co/image/ab67616d0000b273821688d0ee64bb848cb41bf3" width="60" height="60" alt="Revivals" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1nljSOphWsigHQjIkqVJUR">Für Elise (Epic Trailer Version)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hidden Citizens (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"><img src="https://i.scdn.co/image/ab67616d0000b273026adcf853fad0af470a9fbb" width="60" height="60" alt="Whitsitt Chapel" /></a></td>
-<td><b><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM">Save Me - with Lainey Wilson</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll, Lainey Wilson (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a"><img src="https://i.scdn.co/image/ab67616d0000b27351853c867bd51abc84432ee5" width="60" height="60" alt="The Best Of Kansas" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kansas (1984)</span></td>
 </tr>
 </table>
 </div>
