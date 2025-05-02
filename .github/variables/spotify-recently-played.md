@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="150" height="150" alt="In Keeping Secrets Of Silent Earth: 3" /></a>
+<a href="https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"><img src="https://i.scdn.co/image/ab67616d0000b27355e734bb400d8c827700541b" width="150" height="150" alt="S.C.I.E.N.C.E." /></a>
 
-<b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa">Vitamin</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Coheed and Cambria (2003)</span>
+<span style="color: #666;">Incubus (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"><img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="60" height="60" alt="Night Visions" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a">Demons</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2012)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm">Are You In?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY"><img src="https://i.scdn.co/image/ab67616d0000b27349440f89d229d070b504be74" width="60" height="60" alt="Sickology 101" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY">Dysfunctional</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Tech N9ne Collabos (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H"><img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="60" height="60" alt="Dreamland" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Glass Animals (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1"><img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" height="60" alt="Cyberpunk 2077 - Original Score" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1">Wushu Dolls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marcin Przybyłowicz (2020)</span></td>
 </tr>
 </table>
 </div>
