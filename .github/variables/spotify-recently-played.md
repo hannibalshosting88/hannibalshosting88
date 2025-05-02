@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"><img src="https://i.scdn.co/image/ab67616d0000b273ec4d79e8035ed2803ecfe2b3" width="150" height="150" alt="Sparkle And Fade" /></a>
+<a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ"><img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="150" height="150" alt="EndEx" /></a>
 
-<b><a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI">Santa Monica</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ">Merchant of the Void</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Everclear (1995)</span>
+<span style="color: #666;">3TEETH, Mick Gordon (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"><img src="https://i.scdn.co/image/ab67616d0000b273ec4d79e8035ed2803ecfe2b3" width="60" height="60" alt="Sparkle And Fade" /></a></td>
+<td><b><a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI">Santa Monica</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Everclear (1995)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP">Erase Me - Main</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, Kanye West (2010)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi"><img src="https://i.scdn.co/image/ab67616d0000b273fca6a26d626b192b9ffe4ae5" width="60" height="60" alt="Odyssey" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi">Rising Force</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yngwie Malmsteen (1988)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"><img src="https://i.scdn.co/image/ab67616d0000b273e9c3c16b480e1c5a84d7b188" width="60" height="60" alt="Them Vs. You Vs. Me (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb">Paralyzer</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Finger Eleven (2007)</span></td>
 </tr>
 </table>
 </div>
