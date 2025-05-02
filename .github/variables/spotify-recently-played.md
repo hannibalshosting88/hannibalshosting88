@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"><img src="https://i.scdn.co/image/ab67616d0000b273026adcf853fad0af470a9fbb" width="150" height="150" alt="Whitsitt Chapel" /></a>
+<a href="https://open.spotify.com/track/1nljSOphWsigHQjIkqVJUR"><img src="https://i.scdn.co/image/ab67616d0000b273821688d0ee64bb848cb41bf3" width="150" height="150" alt="Revivals" /></a>
 
-<b><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM">Save Me - with Lainey Wilson</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1nljSOphWsigHQjIkqVJUR">Für Elise (Epic Trailer Version)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Jelly Roll, Lainey Wilson (2023)</span>
+<span style="color: #666;">Hidden Citizens (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"><img src="https://i.scdn.co/image/ab67616d0000b273026adcf853fad0af470a9fbb" width="60" height="60" alt="Whitsitt Chapel" /></a></td>
+<td><b><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM">Save Me - with Lainey Wilson</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll, Lainey Wilson (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a"><img src="https://i.scdn.co/image/ab67616d0000b27351853c867bd51abc84432ee5" width="60" height="60" alt="The Best Of Kansas" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kansas (1984)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"><img src="https://i.scdn.co/image/ab67616d0000b2731a84d71391df7469c5ab8539" width="60" height="60" alt="Wish You Were Here" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1">Wish You Were Here</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1975)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3HYs3wvhafGbyoGtLspEzr"><img src="https://i.scdn.co/image/ab67616d0000b273353504127a55a603352a32ed" width="60" height="60" alt="The Stories We Tell Ourselves" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3HYs3wvhafGbyoGtLspEzr">Fade In / Fade Out</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NOTHING MORE (2017)</span></td>
 </tr>
 </table>
 </div>
