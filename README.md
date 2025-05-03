@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"><img src="https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53" width="150" height="150" alt="The Anthology" /></a>
+<a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA"><img src="https://i.scdn.co/image/ab67616d0000b2730a3eb7ef6df5732fc6fa77ec" width="150" height="150" alt="Load" /></a>
 
-<b><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">Electric Relaxation</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA">King Nothing</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">A Tribe Called Quest (1999)</span>
+<span style="color: #666;">Metallica (1996)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"><img src="https://i.scdn.co/image/ab67616d0000b2735b6bb2889c9276c2ad126831" width="60" height="60" alt="Holy Hell" /></a></td>
+<td><b><a href="https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt">Doomsday</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Architects (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"><img src="https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53" width="60" height="60" alt="The Anthology" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">Electric Relaxation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">A Tribe Called Quest (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re"><img src="https://i.scdn.co/image/ab67616d0000b2737e4446d65a6d8a166fef547e" width="60" height="60" alt="Colt 45 (Country Remix)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re">Colt 45 (Country Remix)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cooper Alan, Rvshvd (2021)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" width="60" height="60" alt="Echoes, Silence, Patience & Grace" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="60" height="60" alt="Evolve" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB">Thunder</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh">Kenji</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor (2005)</span></td>
 </tr>
 </table>
 </div>
