@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"><img src="https://i.scdn.co/image/ab67616d0000b273f489b4582e496de8f71e88da" width="150" height="150" alt="With Teeth" /></a>
+<a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"><img src="https://i.scdn.co/image/ab67616d0000b27304422c5d997bfa6c750a12f1" width="150" height="150" alt="Wolfmother" /></a>
 
-<b><a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7">The Hand That Feeds</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa">Joker And The Thief</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Nine Inch Nails (2005)</span>
+<span style="color: #666;">Wolfmother (2006)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"><img src="https://i.scdn.co/image/ab67616d0000b273f489b4582e496de8f71e88da" width="60" height="60" alt="With Teeth" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7">The Hand That Feeds</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nine Inch Nails (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"><img src="https://i.scdn.co/image/ab67616d0000b2732e94b668c60b06deb1c3a05c" width="60" height="60" alt="GEMINI" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE">Glorious (feat. Skylar Grey)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Macklemore, Skylar Grey (2017)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"><img src="https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1" width="60" height="60" alt="The Black Parade" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0">Teenagers</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">My Chemical Romance (2006)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"><img src="https://i.scdn.co/image/ab67616d0000b2735e1db60a6f9214c247061d86" width="60" height="60" alt="Believer (feat. Lil Wayne)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN">Believer (feat. Lil Wayne)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Lil Wayne (2019)</span></td>
 </tr>
 </table>
 </div>
