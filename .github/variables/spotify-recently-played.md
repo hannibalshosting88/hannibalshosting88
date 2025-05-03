@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3CIIU7xDPdCzgvw0XrYuMR"><img src="https://i.scdn.co/image/ab67616d0000b273f955b4055c6c6d6a0d4a3442" width="150" height="150" alt="Mr. Blue Sky: The Very Best of Electric Light Orchestra" /></a>
+<a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"><img src="https://i.scdn.co/image/ab67616d0000b2732e94b668c60b06deb1c3a05c" width="150" height="150" alt="GEMINI" /></a>
 
-<b><a href="https://open.spotify.com/track/3CIIU7xDPdCzgvw0XrYuMR">Strange Magic - 2012 Version</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE">Glorious (feat. Skylar Grey)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Electric Light Orchestra (2012)</span>
+<span style="color: #666;">Macklemore, Skylar Grey (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3CIIU7xDPdCzgvw0XrYuMR"><img src="https://i.scdn.co/image/ab67616d0000b273f955b4055c6c6d6a0d4a3442" width="60" height="60" alt="Mr. Blue Sky: The Very Best of Electric Light Orchestra" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3CIIU7xDPdCzgvw0XrYuMR">Strange Magic - 2012 Version</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Electric Light Orchestra (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="60" height="60" alt="Backstreet Boys" /></a></td>
 <td><b><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy">As Long as You Love Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1996)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3QOmgrh6ElgcPKwOAnbwgu"><img src="https://i.scdn.co/image/ab67616d0000b2731a0163e2efba92fc1f1a3891" width="60" height="60" alt="To All My Friends, Blood Makes The Blade Holy: The Atmosphere EPs" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3QOmgrh6ElgcPKwOAnbwgu">The Best Day</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="60" height="60" alt="Disobey" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Wolves (2018)</span></td>
 </tr>
 </table>
 </div>
