@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="150" height="150" alt="Minutes to Midnight" /></a>
+<a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"><img src="https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af" width="150" height="150" alt="Asia" /></a>
 
-<b><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">What I've Done</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp">Heat Of The Moment</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Linkin Park (2007)</span>
+<span style="color: #666;">Asia (1982)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="60" height="60" alt="Minutes to Midnight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">What I've Done</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="60" height="60" alt="Minutes to Midnight" /></a></td>
 <td><b><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">What I've Done</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2007)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"><img src="https://i.scdn.co/image/ab67616d0000b273ec4d79e8035ed2803ecfe2b3" width="60" height="60" alt="Sparkle And Fade" /></a></td>
 <td><b><a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI">Santa Monica</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Everclear (1995)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP">Erase Me - Main</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, Kanye West (2010)</span></td>
 </tr>
 </table>
 </div>
