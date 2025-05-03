@@ -12,6 +12,10 @@
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c"><img src="https://i.scdn.co/image/ab67616d0000b27334666061eea81fa4b36ba2b9" width="60" height="60" alt="PARALLAX" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c">Warbringer</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">TheFatRat, Everen Maxwell, Lindsey Stirling (2021)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs"><img src="https://i.scdn.co/image/ab67616d0000b273559769036607549f92579d08" width="60" height="60" alt="Rocky III: Music From The Motion Picture" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs">Gonna Fly Now</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bill Conti (1982)</span></td>
 </tr>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC"><img src="https://i.scdn.co/image/ab67616d0000b2731125993143f5a01d1d6e1b1d" width="60" height="60" alt="HIVE" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sub Urban, BENEE (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX"><img src="https://i.scdn.co/image/ab67616d0000b27379f4fe59d312938c5cecfd46" width="60" height="60" alt="SWISH" /></a></td>
-<td><b><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX">Be</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Joywave (2016)</span></td>
 </tr>
 </table>
 </div>
