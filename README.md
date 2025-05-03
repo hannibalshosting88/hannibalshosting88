@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="150" height="150" alt="The Lion King" /></a>
+<a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"><img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" width="150" height="150" alt="When The World Comes Down" /></a>
 
-<b><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8">Circle of Life</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF">Gives You Hell</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Carmen Twillie, Lebo M. (1994)</span>
+<span style="color: #666;">The All-American Rejects (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="60" height="60" alt="The Lion King" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8">Circle of Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Carmen Twillie, Lebo M. (1994)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"><img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" width="60" height="60" alt="When The World Comes Down" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF">Gives You Hell</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The All-American Rejects (2008)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66"><img src="https://i.scdn.co/image/ab67616d0000b273cb4ec52c48a6b071ed2ab6bc" width="60" height="60" alt="Suicide Squad: The Album" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66">Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"><img src="https://i.scdn.co/image/ab67616d0000b27352e8aa3275f7a3ee9c1e3628" width="60" height="60" alt="VHS" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I">Unsteady</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">X Ambassadors (2015)</span></td>
 </tr>
 </table>
 </div>
