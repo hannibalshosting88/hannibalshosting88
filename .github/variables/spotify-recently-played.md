@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3HYs3wvhafGbyoGtLspEzr"><img src="https://i.scdn.co/image/ab67616d0000b273353504127a55a603352a32ed" width="150" height="150" alt="The Stories We Tell Ourselves" /></a>
+<a href="https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"><img src="https://i.scdn.co/image/ab67616d0000b2732d4c593f0f35672767d881a9" width="150" height="150" alt="Conspiracy Of One" /></a>
 
-<b><a href="https://open.spotify.com/track/3HYs3wvhafGbyoGtLspEzr">Fade In / Fade Out</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv">Original Prankster</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">NOTHING MORE (2017)</span>
+<span style="color: #666;">The Offspring, Redman (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3HYs3wvhafGbyoGtLspEzr"><img src="https://i.scdn.co/image/ab67616d0000b273353504127a55a603352a32ed" width="60" height="60" alt="The Stories We Tell Ourselves" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3HYs3wvhafGbyoGtLspEzr">Fade In / Fade Out</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NOTHING MORE (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY"><img src="https://i.scdn.co/image/ab67616d0000b27349440f89d229d070b504be74" width="60" height="60" alt="Sickology 101" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY">Dysfunctional</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Tech N9ne Collabos (2009)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"><img src="https://i.scdn.co/image/ab67616d0000b273030915ffa58125ae36f13a6f" width="60" height="60" alt="The Warrior's Code" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">I'm Shipping Up To Boston</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dropkick Murphys (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3UMXhDBYe7eIXUe2HLUn0v"><img src="https://i.scdn.co/image/ab67616d0000b273c26357620e211089bf6b45e9" width="60" height="60" alt="American III: Solitary Man" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3UMXhDBYe7eIXUe2HLUn0v">Solitary Man</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2000)</span></td>
 </tr>
 </table>
 </div>
