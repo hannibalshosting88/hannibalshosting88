@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"><img src="https://i.scdn.co/image/ab67616d0000b27352e8aa3275f7a3ee9c1e3628" width="150" height="150" alt="VHS" /></a>
+<a href="https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66"><img src="https://i.scdn.co/image/ab67616d0000b273cb4ec52c48a6b071ed2ab6bc" width="150" height="150" alt="Suicide Squad: The Album" /></a>
 
-<b><a href="https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I">Unsteady</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66">Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">X Ambassadors (2015)</span>
+<span style="color: #666;">Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"><img src="https://i.scdn.co/image/ab67616d0000b27352e8aa3275f7a3ee9c1e3628" width="60" height="60" alt="VHS" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I">Unsteady</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">X Ambassadors (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"><img src="https://i.scdn.co/image/ab67616d0000b2738a48864289dc2588f13274ec" width="60" height="60" alt="Hoobastank (20th Anniversary Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Hoobastank (2001)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs"><img src="https://i.scdn.co/image/ab67616d0000b273559769036607549f92579d08" width="60" height="60" alt="Rocky III: Music From The Motion Picture" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs">Gonna Fly Now</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bill Conti (1982)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC"><img src="https://i.scdn.co/image/ab67616d0000b273663fe218f7d98306c533af10" width="60" height="60" alt="Baby Now That I've Found You" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC">Build Me Up Buttercup - Mono</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Foundations (1967)</span></td>
 </tr>
 </table>
 </div>
