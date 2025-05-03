@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="150" height="150" alt="Therapy Session" /></a>
+<a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="150" height="150" alt="Unearthed" /></a>
 
-<b><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ">Oh Lord</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb">Two Timin' Woman</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">NF (2016)</span>
+<span style="color: #666;">Johnny Cash (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q"><img src="https://i.scdn.co/image/ab67616d0000b2730f9d33cae4a0275e8fd28b93" width="60" height="60" alt="Megalithic Symphony (10th Anniversary Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q">Sail - Unlimited Gravity Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION, Unlimited Gravity (2021)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ">Oh Lord</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"><img src="https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1" width="60" height="60" alt="The Black Parade" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0">Teenagers</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">My Chemical Romance (2006)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"><img src="https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53" width="60" height="60" alt="The Anthology" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">Electric Relaxation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">A Tribe Called Quest (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re"><img src="https://i.scdn.co/image/ab67616d0000b2737e4446d65a6d8a166fef547e" width="60" height="60" alt="Colt 45 (Country Remix)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re">Colt 45 (Country Remix)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cooper Alan, Rvshvd (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX"><img src="https://i.scdn.co/image/ab67616d0000b27379f4fe59d312938c5cecfd46" width="60" height="60" alt="SWISH" /></a></td>
-<td><b><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX">Be</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Joywave (2016)</span></td>
 </tr>
 </table>
 </div>
