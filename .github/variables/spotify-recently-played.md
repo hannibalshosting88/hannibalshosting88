@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"><img src="https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556" width="150" height="150" alt="Rio (Collector's Edition)" /></a>
+<a href="https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC"><img src="https://i.scdn.co/image/ab67616d0000b273663fe218f7d98306c533af10" width="150" height="150" alt="Baby Now That I've Found You" /></a>
 
-<b><a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL">Hungry Like the Wolf - 2009 Remaster</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC">Build Me Up Buttercup - Mono</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Duran Duran (1982)</span>
+<span style="color: #666;">The Foundations (1967)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"><img src="https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556" width="60" height="60" alt="Rio (Collector's Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL">Hungry Like the Wolf - 2009 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Duran Duran (1982)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"><img src="https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af" width="60" height="60" alt="Asia" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp">Heat Of The Moment</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Asia (1982)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"><img src="https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4" width="60" height="60" alt="Poison" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH">Poison</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bell Biv DeVoe (1990)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ"><img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="60" height="60" alt="EndEx" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ">Merchant of the Void</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">3TEETH, Mick Gordon (2023)</span></td>
 </tr>
 </table>
 </div>
