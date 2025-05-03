@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC"><img src="https://i.scdn.co/image/ab67616d0000b2731125993143f5a01d1d6e1b1d" width="150" height="150" alt="HIVE" /></a>
+<a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj"><img src="https://i.scdn.co/image/ab67616d0000b27370772b281a0ec089721df570" width="150" height="150" alt="Fast & Furious 6" /></a>
 
-<b><a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj">We Own It (Fast & Furious)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Sub Urban, BENEE (2022)</span>
+<span style="color: #666;">2 Chainz, Wiz Khalifa (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj"><img src="https://i.scdn.co/image/ab67616d0000b27370772b281a0ec089721df570" width="60" height="60" alt="Fast & Furious 6" /></a></td>
+<td><b><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj">We Own It (Fast & Furious)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">2 Chainz, Wiz Khalifa (2013)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC"><img src="https://i.scdn.co/image/ab67616d0000b2731125993143f5a01d1d6e1b1d" width="60" height="60" alt="HIVE" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sub Urban, BENEE (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX"><img src="https://i.scdn.co/image/ab67616d0000b27379f4fe59d312938c5cecfd46" width="60" height="60" alt="SWISH" /></a></td>
 <td><b><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX">Be</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Joywave (2016)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD"><img src="https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74" width="60" height="60" alt="Man On The Moon: The End Of Day (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD">Pursuit Of Happiness (Nightmare)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, MGMT, Ratatat (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"><img src="https://i.scdn.co/image/ab67616d0000b273e95d233a9df33d6c9992b449" width="60" height="60" alt="Contraband" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F">Slither</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Velvet Revolver (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1nljSOphWsigHQjIkqVJUR"><img src="https://i.scdn.co/image/ab67616d0000b273821688d0ee64bb848cb41bf3" width="60" height="60" alt="Revivals" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1nljSOphWsigHQjIkqVJUR">Für Elise (Epic Trailer Version)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hidden Citizens (2018)</span></td>
 </tr>
 </table>
 </div>
