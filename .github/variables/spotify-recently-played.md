@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="150" height="150" alt="The Essential Incubus" /></a>
+<a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"><img src="https://i.scdn.co/image/ab67616d0000b2738a48864289dc2588f13274ec" width="150" height="150" alt="Hoobastank (20th Anniversary Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf">Warning</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Incubus (2012)</span>
+<span style="color: #666;">Hoobastank (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/24z528iI9kZu5LbkLainjI"><img src="https://i.scdn.co/image/ab67616d0000b273985bf5ede2fe4a048ee85f28" width="60" height="60" alt="Infest" /></a></td>
+<td><b><a href="https://open.spotify.com/track/24z528iI9kZu5LbkLainjI">Between Angels And Insects</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Papa Roach (2001)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
+<td><b><a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf">Warning</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"><img src="https://i.scdn.co/image/ab67616d0000b273030915ffa58125ae36f13a6f" width="60" height="60" alt="The Warrior's Code" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">I'm Shipping Up To Boston</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dropkick Murphys (2005)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"><img src="https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556" width="60" height="60" alt="Rio (Collector's Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL">Hungry Like the Wolf - 2009 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Duran Duran (1982)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"><img src="https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af" width="60" height="60" alt="Asia" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp">Heat Of The Moment</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Asia (1982)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="60" height="60" alt="Minutes to Midnight" /></a></td>
-<td><b><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">What I've Done</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2007)</span></td>
 </tr>
 </table>
 </div>
