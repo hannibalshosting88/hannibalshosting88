@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re"><img src="https://i.scdn.co/image/ab67616d0000b2737e4446d65a6d8a166fef547e" width="150" height="150" alt="Colt 45 (Country Remix)" /></a>
+<a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"><img src="https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53" width="150" height="150" alt="The Anthology" /></a>
 
-<b><a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re">Colt 45 (Country Remix)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">Electric Relaxation</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Cooper Alan, Rvshvd (2021)</span>
+<span style="color: #666;">A Tribe Called Quest (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re"><img src="https://i.scdn.co/image/ab67616d0000b2737e4446d65a6d8a166fef547e" width="60" height="60" alt="Colt 45 (Country Remix)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re">Colt 45 (Country Remix)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cooper Alan, Rvshvd (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX"><img src="https://i.scdn.co/image/ab67616d0000b27379f4fe59d312938c5cecfd46" width="60" height="60" alt="SWISH" /></a></td>
 <td><b><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX">Be</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Joywave (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh">Kenji</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/15mZ6X4ShiQUdQxN1Cs3n6"><img src="https://i.scdn.co/image/ab67616d0000b27378a5d95e3f9aa5d76975b752" width="60" height="60" alt="Peace Queer" /></a></td>
-<td><b><a href="https://open.spotify.com/track/15mZ6X4ShiQUdQxN1Cs3n6">Mission Accomplished (Because You Gotta Have Faith)</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Todd Snider (2008)</span></td>
 </tr>
 </table>
 </div>
