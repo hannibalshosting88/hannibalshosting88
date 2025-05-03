@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" width="150" height="150" alt="Echoes, Silence, Patience & Grace" /></a>
+<a href="https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"><img src="https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c" width="150" height="150" alt="Significant Other" /></a>
 
-<b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj">Nookie</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Foo Fighters (2007)</span>
+<span style="color: #666;">Limp Bizkit (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" width="60" height="60" alt="Echoes, Silence, Patience & Grace" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" width="60" height="60" alt="Echoes, Silence, Patience & Grace" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2007)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="60" height="60" alt="The Lion King" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8">Circle of Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Carmen Twillie, Lebo M. (1994)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"><img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" width="60" height="60" alt="When The World Comes Down" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF">Gives You Hell</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The All-American Rejects (2008)</span></td>
 </tr>
 </table>
 </div>
