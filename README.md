@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="150" height="150" alt="Evolve" /></a>
+<a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" width="150" height="150" alt="Echoes, Silence, Patience & Grace" /></a>
 
-<b><a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB">Thunder</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Imagine Dragons (2017)</span>
+<span style="color: #666;">Foo Fighters (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="60" height="60" alt="Evolve" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB">Thunder</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh">Kenji</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor (2005)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"><img src="https://i.scdn.co/image/ab67616d0000b2731c229cb7c9851fb0c67e2af8" width="60" height="60" alt="Issues" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5">Falling Away from Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"><img src="https://i.scdn.co/image/ab67616d0000b273f34b698931828b54bceb52f9" width="60" height="60" alt="Dysfunction" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD">Mudshovel</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Staind (1999)</span></td>
 </tr>
 </table>
 </div>
