@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"><img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" width="150" height="150" alt="When The World Comes Down" /></a>
+<a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="150" height="150" alt="Minutes to Midnight" /></a>
 
-<b><a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF">Gives You Hell</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">Bleed It Out</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">The All-American Rejects (2008)</span>
+<span style="color: #666;">Linkin Park (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="60" height="60" alt="The Lion King" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8">Circle of Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Carmen Twillie, Lebo M. (1994)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"><img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" width="60" height="60" alt="When The World Comes Down" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF">Gives You Hell</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The All-American Rejects (2008)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="60" height="60" alt="The Lion King" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8">Circle of Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Carmen Twillie, Lebo M. (1994)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1"><img src="https://i.scdn.co/image/ab67616d0000b273b11c3ab5cb818192b7a61fdd" width="60" height="60" alt="Fantastic Magic" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1">unravel</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">TK from Ling tosite sigure (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="60" height="60" alt="Invaders Must Die" /></a></td>
-<td><b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66"><img src="https://i.scdn.co/image/ab67616d0000b273cb4ec52c48a6b071ed2ab6bc" width="60" height="60" alt="Suicide Squad: The Album" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66">Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign (2016)</span></td>
 </tr>
 </table>
 </div>
