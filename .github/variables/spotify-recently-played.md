@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" width="150" height="150" alt="The Temptations Sing Smokey" /></a>
+<a href="https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="150" height="150" alt="One By One (Expanded Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH">My Girl</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF">Times Like These</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">The Temptations (1965)</span>
+<span style="color: #666;">Foo Fighters (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" width="60" height="60" alt="The Temptations Sing Smokey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH">My Girl</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Temptations (1965)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H"><img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="60" height="60" alt="Dreamland" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Glass Animals (2020)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="60" height="60" alt="Unearthed" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb">Two Timin' Woman</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q"><img src="https://i.scdn.co/image/ab67616d0000b2730f9d33cae4a0275e8fd28b93" width="60" height="60" alt="Megalithic Symphony (10th Anniversary Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q">Sail - Unlimited Gravity Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION, Unlimited Gravity (2021)</span></td>
 </tr>
 </table>
 </div>
