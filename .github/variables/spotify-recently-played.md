@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY"><img src="https://i.scdn.co/image/ab67616d0000b27349440f89d229d070b504be74" width="150" height="150" alt="Sickology 101" /></a>
+<a href="https://open.spotify.com/track/3HYs3wvhafGbyoGtLspEzr"><img src="https://i.scdn.co/image/ab67616d0000b273353504127a55a603352a32ed" width="150" height="150" alt="The Stories We Tell Ourselves" /></a>
 
-<b><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY">Dysfunctional</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3HYs3wvhafGbyoGtLspEzr">Fade In / Fade Out</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Tech N9ne Collabos (2009)</span>
+<span style="color: #666;">NOTHING MORE (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY"><img src="https://i.scdn.co/image/ab67616d0000b27349440f89d229d070b504be74" width="60" height="60" alt="Sickology 101" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY">Dysfunctional</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Tech N9ne Collabos (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1"><img src="https://i.scdn.co/image/ab67616d0000b273b11c3ab5cb818192b7a61fdd" width="60" height="60" alt="Fantastic Magic" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1">unravel</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">TK from Ling tosite sigure (2014)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3UMXhDBYe7eIXUe2HLUn0v"><img src="https://i.scdn.co/image/ab67616d0000b273c26357620e211089bf6b45e9" width="60" height="60" alt="American III: Solitary Man" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3UMXhDBYe7eIXUe2HLUn0v">Solitary Man</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
 </tr>
 </table>
 </div>
