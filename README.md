@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3QOmgrh6ElgcPKwOAnbwgu"><img src="https://i.scdn.co/image/ab67616d0000b2731a0163e2efba92fc1f1a3891" width="150" height="150" alt="To All My Friends, Blood Makes The Blade Holy: The Atmosphere EPs" /></a>
+<a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"><img src="https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1" width="150" height="150" alt="The Black Parade" /></a>
 
-<b><a href="https://open.spotify.com/track/3QOmgrh6ElgcPKwOAnbwgu">The Best Day</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0">Teenagers</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Atmosphere, Slug, Ant (2010)</span>
+<span style="color: #666;">My Chemical Romance (2006)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"><img src="https://i.scdn.co/image/ab67616d0000b2735e1db60a6f9214c247061d86" width="60" height="60" alt="Believer (feat. Lil Wayne)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN">Believer (feat. Lil Wayne)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Lil Wayne (2019)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3QOmgrh6ElgcPKwOAnbwgu"><img src="https://i.scdn.co/image/ab67616d0000b2731a0163e2efba92fc1f1a3891" width="60" height="60" alt="To All My Friends, Blood Makes The Blade Holy: The Atmosphere EPs" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3QOmgrh6ElgcPKwOAnbwgu">The Best Day</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="60" height="60" alt="Disobey" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Wolves (2018)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"><img src="https://i.scdn.co/image/ab67616d0000b2739a0866ecde8aad9ecfcef44d" width="60" height="60" alt="Royal Blood" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd">Figure It Out</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Royal Blood (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf"><img src="https://i.scdn.co/image/ab67616d0000b273f485a27298fbd17d868f7565" width="60" height="60" alt="A Crow Left Of The Murder..." /></a></td>
-<td><b><a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">Sick Sad Little World</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="60" height="60" alt="Palm Trees and Power Lines" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2004)</span></td>
 </tr>
 </table>
 </div>
