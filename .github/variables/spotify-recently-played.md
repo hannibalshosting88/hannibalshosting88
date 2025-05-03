@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="150" height="150" alt="Unearthed" /></a>
+<a href="https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"><img src="https://i.scdn.co/image/ab67616d0000b27387e51905aaafd4b2e46e9121" width="150" height="150" alt="Falco 3" /></a>
 
-<b><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb">Two Timin' Woman</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU">Rock Me Amadeus</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Johnny Cash (2003)</span>
+<span style="color: #666;">Falco (1985)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="60" height="60" alt="Unearthed" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb">Two Timin' Woman</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q"><img src="https://i.scdn.co/image/ab67616d0000b2730f9d33cae4a0275e8fd28b93" width="60" height="60" alt="Megalithic Symphony (10th Anniversary Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q">Sail - Unlimited Gravity Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION, Unlimited Gravity (2021)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"><img src="https://i.scdn.co/image/ab67616d0000b2735b6bb2889c9276c2ad126831" width="60" height="60" alt="Holy Hell" /></a></td>
 <td><b><a href="https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt">Doomsday</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Architects (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"><img src="https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53" width="60" height="60" alt="The Anthology" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">Electric Relaxation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">A Tribe Called Quest (1999)</span></td>
 </tr>
 </table>
 </div>
