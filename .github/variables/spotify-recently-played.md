@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf"><img src="https://i.scdn.co/image/ab67616d0000b273f485a27298fbd17d868f7565" width="150" height="150" alt="A Crow Left Of The Murder..." /></a>
+<a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX"><img src="https://i.scdn.co/image/ab67616d0000b27379f4fe59d312938c5cecfd46" width="150" height="150" alt="SWISH" /></a>
 
-<b><a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">Sick Sad Little World</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX">Be</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Incubus (2004)</span>
+<span style="color: #666;">Joywave (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"><img src="https://i.scdn.co/image/ab67616d0000b2739a0866ecde8aad9ecfcef44d" width="60" height="60" alt="Royal Blood" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd">Figure It Out</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Royal Blood (2014)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf"><img src="https://i.scdn.co/image/ab67616d0000b273f485a27298fbd17d868f7565" width="60" height="60" alt="A Crow Left Of The Murder..." /></a></td>
+<td><b><a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">Sick Sad Little World</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2004)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="60" height="60" alt="Palm Trees and Power Lines" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2004)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="60" height="60" alt="Smoke + Mirrors (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg">Battle Cry</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="60" height="60" alt="Minutes to Midnight" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">Bleed It Out</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="60" height="60" alt="The Lion King" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8">Circle of Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Carmen Twillie, Lebo M. (1994)</span></td>
 </tr>
 </table>
 </div>
