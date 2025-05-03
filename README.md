@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c"><img src="https://i.scdn.co/image/ab67616d0000b27334666061eea81fa4b36ba2b9" width="150" height="150" alt="PARALLAX" /></a>
+<a href="https://open.spotify.com/track/3UMXhDBYe7eIXUe2HLUn0v"><img src="https://i.scdn.co/image/ab67616d0000b273c26357620e211089bf6b45e9" width="150" height="150" alt="American III: Solitary Man" /></a>
 
-<b><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c">Warbringer</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3UMXhDBYe7eIXUe2HLUn0v">Solitary Man</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">TheFatRat, Everen Maxwell, Lindsey Stirling (2021)</span>
+<span style="color: #666;">Johnny Cash (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c"><img src="https://i.scdn.co/image/ab67616d0000b27334666061eea81fa4b36ba2b9" width="60" height="60" alt="PARALLAX" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c">Warbringer</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">TheFatRat, Everen Maxwell, Lindsey Stirling (2021)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c"><img src="https://i.scdn.co/image/ab67616d0000b27334666061eea81fa4b36ba2b9" width="60" height="60" alt="PARALLAX" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c">Warbringer</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">TheFatRat, Everen Maxwell, Lindsey Stirling (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs"><img src="https://i.scdn.co/image/ab67616d0000b273559769036607549f92579d08" width="60" height="60" alt="Rocky III: Music From The Motion Picture" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs">Gonna Fly Now</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bill Conti (1982)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj"><img src="https://i.scdn.co/image/ab67616d0000b27370772b281a0ec089721df570" width="60" height="60" alt="Fast & Furious 6" /></a></td>
 <td><b><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj">We Own It (Fast & Furious)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">2 Chainz, Wiz Khalifa (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj"><img src="https://i.scdn.co/image/ab67616d0000b27370772b281a0ec089721df570" width="60" height="60" alt="Fast & Furious 6" /></a></td>
-<td><b><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj">We Own It (Fast & Furious)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">2 Chainz, Wiz Khalifa (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC"><img src="https://i.scdn.co/image/ab67616d0000b2731125993143f5a01d1d6e1b1d" width="60" height="60" alt="HIVE" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sub Urban, BENEE (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX"><img src="https://i.scdn.co/image/ab67616d0000b27379f4fe59d312938c5cecfd46" width="60" height="60" alt="SWISH" /></a></td>
-<td><b><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX">Be</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Joywave (2016)</span></td>
 </tr>
 </table>
 </div>
