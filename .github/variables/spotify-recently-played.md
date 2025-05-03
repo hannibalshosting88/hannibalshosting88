@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"><img src="https://i.scdn.co/image/ab67616d0000b2738a48864289dc2588f13274ec" width="150" height="150" alt="Hoobastank (20th Anniversary Edition)" /></a>
+<a href="https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"><img src="https://i.scdn.co/image/ab67616d0000b27352e8aa3275f7a3ee9c1e3628" width="150" height="150" alt="VHS" /></a>
 
-<b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I">Unsteady</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Hoobastank (2001)</span>
+<span style="color: #666;">X Ambassadors (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"><img src="https://i.scdn.co/image/ab67616d0000b2738a48864289dc2588f13274ec" width="60" height="60" alt="Hoobastank (20th Anniversary Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Hoobastank (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/24z528iI9kZu5LbkLainjI"><img src="https://i.scdn.co/image/ab67616d0000b273985bf5ede2fe4a048ee85f28" width="60" height="60" alt="Infest" /></a></td>
 <td><b><a href="https://open.spotify.com/track/24z528iI9kZu5LbkLainjI">Between Angels And Insects</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Papa Roach (2001)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC"><img src="https://i.scdn.co/image/ab67616d0000b273663fe218f7d98306c533af10" width="60" height="60" alt="Baby Now That I've Found You" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC">Build Me Up Buttercup - Mono</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Foundations (1967)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"><img src="https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556" width="60" height="60" alt="Rio (Collector's Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL">Hungry Like the Wolf - 2009 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Duran Duran (1982)</span></td>
 </tr>
 </table>
 </div>
