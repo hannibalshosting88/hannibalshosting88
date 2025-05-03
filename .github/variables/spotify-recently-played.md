@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"><img src="https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a" width="150" height="150" alt="Vol. 3: The Subliminal Verses" /></a>
+<a href="https://open.spotify.com/track/3QOmgrh6ElgcPKwOAnbwgu"><img src="https://i.scdn.co/image/ab67616d0000b2731a0163e2efba92fc1f1a3891" width="150" height="150" alt="To All My Friends, Blood Makes The Blade Holy: The Atmosphere EPs" /></a>
 
-<b><a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">Duality</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/3QOmgrh6ElgcPKwOAnbwgu">The Best Day</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Slipknot (2004)</span>
+<span style="color: #666;">Atmosphere, Slug, Ant (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="60" height="60" alt="Disobey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Wolves (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"><img src="https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a" width="60" height="60" alt="Vol. 3: The Subliminal Verses" /></a></td>
+<td><b><a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">Duality</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Slipknot (2004)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA"><img src="https://i.scdn.co/image/ab67616d0000b2730a3eb7ef6df5732fc6fa77ec" width="60" height="60" alt="Load" /></a></td>
 <td><b><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA">King Nothing</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1996)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="60" height="60" alt="Palm Trees and Power Lines" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"><img src="https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c" width="60" height="60" alt="Significant Other" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj">Nookie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" width="60" height="60" alt="Echoes, Silence, Patience & Grace" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2007)</span></td>
 </tr>
 </table>
 </div>
