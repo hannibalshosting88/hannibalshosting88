@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"><img src="https://i.scdn.co/image/ab67616d0000b27304422c5d997bfa6c750a12f1" width="150" height="150" alt="Wolfmother" /></a>
+<a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" width="150" height="150" alt="The Temptations Sing Smokey" /></a>
 
-<b><a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa">Joker And The Thief</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH">My Girl</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Wolfmother (2006)</span>
+<span style="color: #666;">The Temptations (1965)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H"><img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="60" height="60" alt="Dreamland" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Glass Animals (2020)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"><img src="https://i.scdn.co/image/ab67616d0000b27304422c5d997bfa6c750a12f1" width="60" height="60" alt="Wolfmother" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa">Joker And The Thief</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Wolfmother (2006)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"><img src="https://i.scdn.co/image/ab67616d0000b273f489b4582e496de8f71e88da" width="60" height="60" alt="With Teeth" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7">The Hand That Feeds</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nine Inch Nails (2005)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q"><img src="https://i.scdn.co/image/ab67616d0000b2730f9d33cae4a0275e8fd28b93" width="60" height="60" alt="Megalithic Symphony (10th Anniversary Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q">Sail - Unlimited Gravity Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION, Unlimited Gravity (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ">Oh Lord</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"><img src="https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1" width="60" height="60" alt="The Black Parade" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0">Teenagers</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">My Chemical Romance (2006)</span></td>
 </tr>
 </table>
 </div>
