@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"><img src="https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1" width="150" height="150" alt="The Black Parade" /></a>
+<a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="150" height="150" alt="Therapy Session" /></a>
 
-<b><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0">Teenagers</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ">Oh Lord</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">My Chemical Romance (2006)</span>
+<span style="color: #666;">NF (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"><img src="https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1" width="60" height="60" alt="The Black Parade" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0">Teenagers</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">My Chemical Romance (2006)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"><img src="https://i.scdn.co/image/ab67616d0000b2735e1db60a6f9214c247061d86" width="60" height="60" alt="Believer (feat. Lil Wayne)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN">Believer (feat. Lil Wayne)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Lil Wayne (2019)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX"><img src="https://i.scdn.co/image/ab67616d0000b27379f4fe59d312938c5cecfd46" width="60" height="60" alt="SWISH" /></a></td>
 <td><b><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX">Be</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Joywave (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"><img src="https://i.scdn.co/image/ab67616d0000b2739a0866ecde8aad9ecfcef44d" width="60" height="60" alt="Royal Blood" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd">Figure It Out</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Royal Blood (2014)</span></td>
 </tr>
 </table>
 </div>
