@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi"><img src="https://i.scdn.co/image/ab67616d0000b273fca6a26d626b192b9ffe4ae5" width="150" height="150" alt="Odyssey" /></a>
+<a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="150" height="150" alt="Graduation" /></a>
 
-<b><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi">Rising Force</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Yngwie Malmsteen (1988)</span>
+<span style="color: #666;">Kanye West (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi"><img src="https://i.scdn.co/image/ab67616d0000b273fca6a26d626b192b9ffe4ae5" width="60" height="60" alt="Odyssey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi">Rising Force</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yngwie Malmsteen (1988)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2wK1agkJ4rmgAD9pkufVAd"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2wK1agkJ4rmgAD9pkufVAd">Fungal Funk</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="60" height="60" alt="Backstreet Boys" /></a></td>
 <td><b><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy">As Long as You Love Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1996)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV"><img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" width="60" height="60" alt="Dangerous Woman" /></a></td>
-<td><b><a href="https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV">Side To Side</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ariana Grande, Nicki Minaj (2016)</span></td>
 </tr>
 </table>
 </div>
