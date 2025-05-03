@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66"><img src="https://i.scdn.co/image/ab67616d0000b273cb4ec52c48a6b071ed2ab6bc" width="150" height="150" alt="Suicide Squad: The Album" /></a>
+<a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY"><img src="https://i.scdn.co/image/ab67616d0000b27349440f89d229d070b504be74" width="150" height="150" alt="Sickology 101" /></a>
 
-<b><a href="https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66">Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY">Dysfunctional</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign (2016)</span>
+<span style="color: #666;">Tech N9ne Collabos (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1"><img src="https://i.scdn.co/image/ab67616d0000b273b11c3ab5cb818192b7a61fdd" width="60" height="60" alt="Fantastic Magic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1">unravel</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">TK from Ling tosite sigure (2014)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="60" height="60" alt="Invaders Must Die" /></a></td>
+<td><b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (2009)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66"><img src="https://i.scdn.co/image/ab67616d0000b273cb4ec52c48a6b071ed2ab6bc" width="60" height="60" alt="Suicide Squad: The Album" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66">Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"><img src="https://i.scdn.co/image/ab67616d0000b27352e8aa3275f7a3ee9c1e3628" width="60" height="60" alt="VHS" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I">Unsteady</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">X Ambassadors (2015)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c"><img src="https://i.scdn.co/image/ab67616d0000b27334666061eea81fa4b36ba2b9" width="60" height="60" alt="PARALLAX" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c">Warbringer</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">TheFatRat, Everen Maxwell, Lindsey Stirling (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c"><img src="https://i.scdn.co/image/ab67616d0000b27334666061eea81fa4b36ba2b9" width="60" height="60" alt="PARALLAX" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c">Warbringer</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">TheFatRat, Everen Maxwell, Lindsey Stirling (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs"><img src="https://i.scdn.co/image/ab67616d0000b273559769036607549f92579d08" width="60" height="60" alt="Rocky III: Music From The Motion Picture" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs">Gonna Fly Now</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bill Conti (1982)</span></td>
 </tr>
 </table>
 </div>
