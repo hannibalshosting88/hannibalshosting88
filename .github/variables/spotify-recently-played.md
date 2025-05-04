@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"><img src="https://i.scdn.co/image/ab67616d0000b273e8a1ae591befe4bb0a9261ab" width="150" height="150" alt="Get Behind Me Satan" /></a>
+<a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB"><img src="https://i.scdn.co/image/ab67616d0000b2734c323691524da979d9a8b695" width="150" height="150" alt="BFG 10k" /></a>
 
-<b><a href="https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1">Blue Orchid</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB">BFG 10k</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">The White Stripes (2005)</span>
+<span style="color: #666;">Andrew Baena, Cooper Lagace (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"><img src="https://i.scdn.co/image/ab67616d0000b2730b0fbaf16e4475ad616b41b8" width="60" height="60" alt="Blackout" /></a></td>
+<td><b><a href="https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg">No One Like You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Scorpions (1982)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"><img src="https://i.scdn.co/image/ab67616d0000b273e8a1ae591befe4bb0a9261ab" width="60" height="60" alt="Get Behind Me Satan" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1">Blue Orchid</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The White Stripes (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"><img src="https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8" width="60" height="60" alt="In The Groove" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw">I Heard It Through The Grapevine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marvin Gaye (1968)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1"><img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" height="60" alt="Cyberpunk 2077 - Original Score" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1">Wushu Dolls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marcin Przybyłowicz (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1nljSOphWsigHQjIkqVJUR"><img src="https://i.scdn.co/image/ab67616d0000b273821688d0ee64bb848cb41bf3" width="60" height="60" alt="Revivals" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1nljSOphWsigHQjIkqVJUR">Für Elise (Epic Trailer Version)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hidden Citizens (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO">Brass Brothers</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2015)</span></td>
 </tr>
 </table>
 </div>
