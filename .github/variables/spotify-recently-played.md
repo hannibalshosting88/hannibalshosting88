@@ -12,6 +12,10 @@
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk"><img src="https://i.scdn.co/image/ab67616d0000b27389fc85fb1ba584958c2cb040" width="60" height="60" alt="Tough People" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk">Tough People</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Drew Baldridge (2024)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"><img src="https://i.scdn.co/image/ab67616d0000b273a8045b6cc934e134e99eddd6" width="60" height="60" alt="Death By Rock And Roll" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV">Death By Rock And Roll</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Pretty Reckless (2021)</span></td>
 </tr>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="60" height="60" alt="Thrifty x Spooky Raccoon" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">Thrifty</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj">Renegade</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
 </tr>
 </table>
 </div>
