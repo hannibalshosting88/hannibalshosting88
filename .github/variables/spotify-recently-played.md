@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="150" height="150" alt="Thrifty x Spooky Raccoon" /></a>
+<a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"><img src="https://i.scdn.co/image/ab67616d0000b2731f829ea9c2c7ffcec1a3c857" width="150" height="150" alt="Facelift" /></a>
 
-<b><a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq">Spooky Raccoon</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F">Man in the Box</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Thundersmack (2021)</span>
+<span style="color: #666;">Alice In Chains (1990)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="60" height="60" alt="Thrifty x Spooky Raccoon" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq">Spooky Raccoon</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"><img src="https://i.scdn.co/image/ab67616d0000b27339808230102049beb62fdd7b" width="60" height="60" alt="Ain't No Love In Oklahoma (From Twisters: The Album)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">Ain't No Love In Oklahoma (From Twisters: The Album)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Luke Combs (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi"><img src="https://i.scdn.co/image/ab67616d0000b273fca6a26d626b192b9ffe4ae5" width="60" height="60" alt="Odyssey" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi">Rising Force</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yngwie Malmsteen (1988)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2wK1agkJ4rmgAD9pkufVAd"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2wK1agkJ4rmgAD9pkufVAd">Fungal Funk</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
 </tr>
 </table>
 </div>
