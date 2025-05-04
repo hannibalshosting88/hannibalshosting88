@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"><img src="https://i.scdn.co/image/ab67616d0000b27339808230102049beb62fdd7b" width="150" height="150" alt="Ain't No Love In Oklahoma (From Twisters: The Album)" /></a>
+<a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="150" height="150" alt="Thrifty x Spooky Raccoon" /></a>
 
-<b><a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">Ain't No Love In Oklahoma (From Twisters: The Album)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq">Spooky Raccoon</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Luke Combs (2024)</span>
+<span style="color: #666;">Thundersmack (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"><img src="https://i.scdn.co/image/ab67616d0000b27339808230102049beb62fdd7b" width="60" height="60" alt="Ain't No Love In Oklahoma (From Twisters: The Album)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">Ain't No Love In Oklahoma (From Twisters: The Album)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Luke Combs (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="60" height="60" alt="Licensed To Ill" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Beastie Boys (1986)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2wK1agkJ4rmgAD9pkufVAd"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2wK1agkJ4rmgAD9pkufVAd">Fungal Funk</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF">Times Like These</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
 </tr>
 </table>
 </div>
