@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"><img src="https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8" width="150" height="150" alt="In The Groove" /></a>
+<a href="https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"><img src="https://i.scdn.co/image/ab67616d0000b273e8a1ae591befe4bb0a9261ab" width="150" height="150" alt="Get Behind Me Satan" /></a>
 
-<b><a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw">I Heard It Through The Grapevine</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1">Blue Orchid</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Marvin Gaye (1968)</span>
+<span style="color: #666;">The White Stripes (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"><img src="https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8" width="60" height="60" alt="In The Groove" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw">I Heard It Through The Grapevine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marvin Gaye (1968)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"><img src="https://i.scdn.co/image/ab67616d0000b273801cf8805673d07eb26da351" width="60" height="60" alt="Rebirth" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">Drop The World</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Eminem (2009)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO">Brass Brothers</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I"><img src="https://i.scdn.co/image/ab67616d0000b273fd9b4042f5381c3fa3b4d58c" width="60" height="60" alt="Slayer's Paradise (Gangsta's Paradise)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">Slayer's Paradise (Gangsta's Paradise)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Geoffplaysguitar (2022)</span></td>
 </tr>
 </table>
 </div>
