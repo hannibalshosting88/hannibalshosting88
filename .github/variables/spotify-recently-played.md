@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="150" height="150" alt="The College Dropout" /></a>
+<a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z"><img src="https://i.scdn.co/image/ab67616d0000b273c4e2c0dacbae3e342ac21944" width="150" height="150" alt="Believers" /></a>
 
-<b><a href="https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX">Slow Jamz</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z">Last One Standing</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Twista, Kanye West, Jamie Foxx (2004)</span>
+<span style="color: #666;">¡MAYDAY!, Tech N9ne (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="60" height="60" alt="The College Dropout" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX">Slow Jamz</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Twista, Kanye West, Jamie Foxx (2004)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"><img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" width="60" height="60" alt="Unorthodox Jukebox" /></a></td>
 <td><b><a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7">Treasure</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2012)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6ekWVvw642aQsT3AfnCiTz"><img src="https://i.scdn.co/image/ab67616d0000b2731f81dec4c6e5a290f0bca4e8" width="60" height="60" alt="Cardboard Castles" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6ekWVvw642aQsT3AfnCiTz">Sloppy Seconds</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk"><img src="https://i.scdn.co/image/ab67616d0000b27389fc85fb1ba584958c2cb040" width="60" height="60" alt="Tough People" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk">Tough People</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Drew Baldridge (2024)</span></td>
 </tr>
 </table>
 </div>
