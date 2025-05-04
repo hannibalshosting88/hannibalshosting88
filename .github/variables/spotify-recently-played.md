@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z"><img src="https://i.scdn.co/image/ab67616d0000b273c4e2c0dacbae3e342ac21944" width="150" height="150" alt="Believers" /></a>
+<a href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp"><img src="https://i.scdn.co/image/ab67616d0000b2736f3e9696889a2425338e0836" width="150" height="150" alt="Chill Bill (feat. J. Davi$ & Spooks)" /></a>
 
-<b><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z">Last One Standing</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp">Chill Bill (feat. J. Davi$ & Spooks)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">¡MAYDAY!, Tech N9ne (2013)</span>
+<span style="color: #666;">Rob $tone, J. Davi$, J Spooks (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"><img src="https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96" width="60" height="60" alt="Weezer" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA">Say It Ain't So - Original Mix</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (1994)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z"><img src="https://i.scdn.co/image/ab67616d0000b273c4e2c0dacbae3e342ac21944" width="60" height="60" alt="Believers" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z">Last One Standing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">¡MAYDAY!, Tech N9ne (2013)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="60" height="60" alt="The College Dropout" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX">Slow Jamz</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Twista, Kanye West, Jamie Foxx (2004)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"><img src="https://i.scdn.co/image/ab67616d0000b273801cf8805673d07eb26da351" width="60" height="60" alt="Rebirth" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">Drop The World</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Eminem (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="60" height="60" alt="Infinity On High" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6ekWVvw642aQsT3AfnCiTz"><img src="https://i.scdn.co/image/ab67616d0000b2731f81dec4c6e5a290f0bca4e8" width="60" height="60" alt="Cardboard Castles" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6ekWVvw642aQsT3AfnCiTz">Sloppy Seconds</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2013)</span></td>
 </tr>
 </table>
 </div>
