@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1eEqg0aPf3BoaBl0I4Tuln"><img src="https://i.scdn.co/image/ab67616d0000b2734c3c8c75fb500e590cfff73c" width="150" height="150" alt="Retro Funky" /></a>
+<a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"><img src="https://i.scdn.co/image/ab67616d0000b273f903e62767a0e22e33b7af83" width="150" height="150" alt="Toto" /></a>
 
-<b><a href="https://open.spotify.com/track/1eEqg0aPf3BoaBl0I4Tuln">Retro Funky - Sundance Remix</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA">Hold the Line</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Perséphone (2014)</span>
+<span style="color: #666;">TOTO (1978)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1eEqg0aPf3BoaBl0I4Tuln"><img src="https://i.scdn.co/image/ab67616d0000b2734c3c8c75fb500e590cfff73c" width="60" height="60" alt="Retro Funky" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1eEqg0aPf3BoaBl0I4Tuln">Retro Funky - Sundance Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Perséphone (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"><img src="https://i.scdn.co/image/ab67616d0000b273a69f71a8794e2d867a52f98f" width="60" height="60" alt="Elephant" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">Seven Nation Army</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The White Stripes (2003)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ"><img src="https://i.scdn.co/image/ab67616d0000b273fdff0e4ec273827627487f39" width="60" height="60" alt="Whitey Ford Sings the Blues" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ">What It's Like</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Everlast (1998)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"><img src="https://i.scdn.co/image/ab67616d0000b2731f829ea9c2c7ffcec1a3c857" width="60" height="60" alt="Facelift" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F">Man in the Box</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Alice In Chains (1990)</span></td>
 </tr>
 </table>
 </div>
