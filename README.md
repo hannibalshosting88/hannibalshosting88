@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I"><img src="https://i.scdn.co/image/ab67616d0000b273fd9b4042f5381c3fa3b4d58c" width="150" height="150" alt="Slayer's Paradise (Gangsta's Paradise)" /></a>
+<a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="150" height="150" alt="Brasshopper" /></a>
 
-<b><a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">Slayer's Paradise (Gangsta's Paradise)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO">Brass Brothers</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Geoffplaysguitar (2022)</span>
+<span style="color: #666;">Broken Brass (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I"><img src="https://i.scdn.co/image/ab67616d0000b273fd9b4042f5381c3fa3b4d58c" width="60" height="60" alt="Slayer's Paradise (Gangsta's Paradise)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">Slayer's Paradise (Gangsta's Paradise)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Geoffplaysguitar (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"><img src="https://i.scdn.co/image/ab67616d0000b273f903e62767a0e22e33b7af83" width="60" height="60" alt="Toto" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA">Hold the Line</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">TOTO (1978)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"><img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="60" height="60" alt="Dookie" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">Basket Case</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Green Day (1994)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0hBUik7RITAPmSlnOGiWdm"><img src="https://i.scdn.co/image/ab67616d0000b273a06f2865e3f11587c668b8e7" width="60" height="60" alt="Killer Instinct: Season One Soundtrack + Original Arcade Soundtrack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0hBUik7RITAPmSlnOGiWdm">Type-03</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
 </tr>
 </table>
 </div>
