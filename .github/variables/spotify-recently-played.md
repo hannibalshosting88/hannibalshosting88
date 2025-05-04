@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"><img src="https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4" width="150" height="150" alt="Franz Ferdinand" /></a>
+<a href="https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"><img src="https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb" width="150" height="150" alt="Oracular Spectacular" /></a>
 
-<b><a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">Take Me Out</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU">Kids</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Franz Ferdinand (2004)</span>
+<span style="color: #666;">MGMT (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"><img src="https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4" width="60" height="60" alt="Franz Ferdinand" /></a></td>
+<td><b><a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">Take Me Out</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Franz Ferdinand (2004)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3BOQOd4qPpdiwvqMQyh2Yg"><img src="https://i.scdn.co/image/ab67616d0000b273d25c579ea362aeee960d0d6b" width="60" height="60" alt="Rockin' The Suburbs" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3BOQOd4qPpdiwvqMQyh2Yg">Rockin' the Suburbs</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ben Folds (2001)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass, Ruben Hein (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="60" height="60" alt="Kamikaze" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4">Venom - Music From The Motion Picture</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2018)</span></td>
 </tr>
 </table>
 </div>
