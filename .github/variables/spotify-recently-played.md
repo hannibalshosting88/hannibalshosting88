@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"><img src="https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb" width="150" height="150" alt="Oracular Spectacular" /></a>
+<a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="150" height="150" alt="Thrifty x Spooky Raccoon" /></a>
 
-<b><a href="https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU">Kids</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">Thrifty</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">MGMT (2007)</span>
+<span style="color: #666;">Thundersmack (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj">Renegade</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"><img src="https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb" width="60" height="60" alt="Oracular Spectacular" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU">Kids</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">MGMT (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"><img src="https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4" width="60" height="60" alt="Franz Ferdinand" /></a></td>
 <td><b><a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">Take Me Out</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Franz Ferdinand (2004)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"><img src="https://i.scdn.co/image/ab67616d0000b27339808230102049beb62fdd7b" width="60" height="60" alt="Ain't No Love In Oklahoma (From Twisters: The Album)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">Ain't No Love In Oklahoma (From Twisters: The Album)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Luke Combs (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="60" height="60" alt="Licensed To Ill" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Beastie Boys (1986)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass, Ruben Hein (2015)</span></td>
 </tr>
 </table>
 </div>
