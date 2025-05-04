@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="150" height="150" alt="Graduation" /></a>
+<a href="https://open.spotify.com/track/693bMFOSAQxhzWXuia1N11"><img src="https://i.scdn.co/image/ab67616d0000b27346c74c22d018aebb237eb464" width="150" height="150" alt="Covers, Vol. III" /></a>
 
-<b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/693bMFOSAQxhzWXuia1N11">Pirates Medley</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Kanye West (2007)</span>
+<span style="color: #666;">Peter Hollens, Gardiner Sisters (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2HIslp2i7gk4DwtwOEKJPA"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2HIslp2i7gk4DwtwOEKJPA">Dance of the Decorous</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6BUb5Ti1FO4B1i2iaY7IQQ"><img src="https://i.scdn.co/image/ab67616d0000b273d50b2dcb415302b5864fc07b" width="60" height="60" alt="Ultra Beatdown" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6BUb5Ti1FO4B1i2iaY7IQQ">Heroes of Our Time</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DragonForce (2008)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="60" height="60" alt="Graduation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi"><img src="https://i.scdn.co/image/ab67616d0000b273fca6a26d626b192b9ffe4ae5" width="60" height="60" alt="Odyssey" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi">Rising Force</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yngwie Malmsteen (1988)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"><img src="https://i.scdn.co/image/ab67616d0000b273f489b4582e496de8f71e88da" width="60" height="60" alt="With Teeth" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7">The Hand That Feeds</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nine Inch Nails (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"><img src="https://i.scdn.co/image/ab67616d0000b2732e94b668c60b06deb1c3a05c" width="60" height="60" alt="GEMINI" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE">Glorious (feat. Skylar Grey)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Macklemore, Skylar Grey (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3CIIU7xDPdCzgvw0XrYuMR"><img src="https://i.scdn.co/image/ab67616d0000b273f955b4055c6c6d6a0d4a3442" width="60" height="60" alt="Mr. Blue Sky: The Very Best of Electric Light Orchestra" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3CIIU7xDPdCzgvw0XrYuMR">Strange Magic - 2012 Version</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Electric Light Orchestra (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="60" height="60" alt="Backstreet Boys" /></a></td>
-<td><b><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy">As Long as You Love Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1996)</span></td>
 </tr>
 </table>
 </div>
