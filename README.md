@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"><img src="https://i.scdn.co/image/ab67616d0000b2734053ce7818f114a4e8dde08f" width="150" height="150" alt="Kick" /></a>
+<a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ"><img src="https://i.scdn.co/image/ab67616d0000b2737583749302de0d090a055381" width="150" height="150" alt="9Circles" /></a>
 
-<b><a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs">Need You Tonight</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ">9Circles</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">INXS (1987)</span>
+<span style="color: #666;">Psygnals (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"><img src="https://i.scdn.co/image/ab67616d0000b2734053ce7818f114a4e8dde08f" width="60" height="60" alt="Kick" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs">Need You Tonight</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">INXS (1987)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1szwDbVdIdoQq5mG5GXAmJ"><img src="https://i.scdn.co/image/ab67616d0000b27300df6727e2cfe905baa75c1e" width="60" height="60" alt="Fashion Nugget" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1szwDbVdIdoQq5mG5GXAmJ">The Distance</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (1996)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"><img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" width="60" height="60" alt="Unorthodox Jukebox" /></a></td>
 <td><b><a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7">Treasure</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk"><img src="https://i.scdn.co/image/ab67616d0000b2739d9468ab048a4110a71eeab7" width="60" height="60" alt="Somewhere in the Between" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk">We Will Fall Together</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Streetlight Manifesto (2007)</span></td>
 </tr>
 </table>
 </div>
