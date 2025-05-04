@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk"><img src="https://i.scdn.co/image/ab67616d0000b2739d9468ab048a4110a71eeab7" width="150" height="150" alt="Somewhere in the Between" /></a>
+<a href="https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="150" height="150" alt="The College Dropout" /></a>
 
-<b><a href="https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk">We Will Fall Together</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX">Slow Jamz</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Streetlight Manifesto (2007)</span>
+<span style="color: #666;">Twista, Kanye West, Jamie Foxx (2004)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"><img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" width="60" height="60" alt="Unorthodox Jukebox" /></a></td>
+<td><b><a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7">Treasure</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2012)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk"><img src="https://i.scdn.co/image/ab67616d0000b2739d9468ab048a4110a71eeab7" width="60" height="60" alt="Somewhere in the Between" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk">We Will Fall Together</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Streetlight Manifesto (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB"><img src="https://i.scdn.co/image/ab67616d0000b2734c323691524da979d9a8b695" width="60" height="60" alt="BFG 10k" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB">BFG 10k</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andrew Baena, Cooper Lagace (2020)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk"><img src="https://i.scdn.co/image/ab67616d0000b27389fc85fb1ba584958c2cb040" width="60" height="60" alt="Tough People" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk">Tough People</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Drew Baldridge (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk"><img src="https://i.scdn.co/image/ab67616d0000b27389fc85fb1ba584958c2cb040" width="60" height="60" alt="Tough People" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk">Tough People</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Drew Baldridge (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"><img src="https://i.scdn.co/image/ab67616d0000b273a8045b6cc934e134e99eddd6" width="60" height="60" alt="Death By Rock And Roll" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV">Death By Rock And Roll</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Pretty Reckless (2021)</span></td>
 </tr>
 </table>
 </div>
