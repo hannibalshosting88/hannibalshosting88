@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ"><img src="https://i.scdn.co/image/ab67616d0000b273fdff0e4ec273827627487f39" width="150" height="150" alt="Whitey Ford Sings the Blues" /></a>
+<a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"><img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="150" height="150" alt="Dookie" /></a>
 
-<b><a href="https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ">What It's Like</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">Basket Case</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Everlast (1998)</span>
+<span style="color: #666;">Green Day (1994)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0hBUik7RITAPmSlnOGiWdm"><img src="https://i.scdn.co/image/ab67616d0000b273a06f2865e3f11587c668b8e7" width="60" height="60" alt="Killer Instinct: Season One Soundtrack + Original Arcade Soundtrack" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0hBUik7RITAPmSlnOGiWdm">Type-03</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ"><img src="https://i.scdn.co/image/ab67616d0000b273fdff0e4ec273827627487f39" width="60" height="60" alt="Whitey Ford Sings the Blues" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ">What It's Like</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Everlast (1998)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"><img src="https://i.scdn.co/image/ab67616d0000b2731f829ea9c2c7ffcec1a3c857" width="60" height="60" alt="Facelift" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F">Man in the Box</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Alice In Chains (1990)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2HIslp2i7gk4DwtwOEKJPA"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2HIslp2i7gk4DwtwOEKJPA">Dance of the Decorous</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6BUb5Ti1FO4B1i2iaY7IQQ"><img src="https://i.scdn.co/image/ab67616d0000b273d50b2dcb415302b5864fc07b" width="60" height="60" alt="Ultra Beatdown" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6BUb5Ti1FO4B1i2iaY7IQQ">Heroes of Our Time</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DragonForce (2008)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="60" height="60" alt="Graduation" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2007)</span></td>
 </tr>
 </table>
 </div>
