@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6G64UdPdlraaVuLzhoXlrH"><img src="https://i.scdn.co/image/ab67616d0000b27390b4cf8fa286aa50cebf2a4e" width="150" height="150" alt="x Infinity" /></a>
+<a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"><img src="https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee" width="150" height="150" alt="Justified" /></a>
 
-<b><a href="https://open.spotify.com/track/6G64UdPdlraaVuLzhoXlrH">(Bonus Track) Exquisite Corpse</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT">Rock Your Body</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Watsky, Dumbfoundead, Grieves, Adam Vida, Wax, Rafael Casal, Daveed Diggs, Chinaka Hodge (2016)</span>
+<span style="color: #666;">Justin Timberlake (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6G64UdPdlraaVuLzhoXlrH"><img src="https://i.scdn.co/image/ab67616d0000b27390b4cf8fa286aa50cebf2a4e" width="60" height="60" alt="x Infinity" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6G64UdPdlraaVuLzhoXlrH">(Bonus Track) Exquisite Corpse</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Watsky, Dumbfoundead, Grieves, Adam Vida, Wax, Rafael Casal, Daveed Diggs, Chinaka Hodge (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ"><img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" width="60" height="60" alt="Doo-Wops & Hooligans" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ">Grenade</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2010)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="60" height="60" alt="Unearthed" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb">Two Timin' Woman</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"><img src="https://i.scdn.co/image/ab67616d0000b273ec4d79e8035ed2803ecfe2b3" width="60" height="60" alt="Sparkle And Fade" /></a></td>
-<td><b><a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI">Santa Monica</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Everclear (1995)</span></td>
 </tr>
 </table>
 </div>
