@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"><img src="https://i.scdn.co/image/ab67616d0000b2730d1b9dd6cac43fa9d5c3659d" width="150" height="150" alt="Pecos & the Rooftops" /></a>
+<a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="150" height="150" alt="One By One (Expanded Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Pecos & the Rooftops (2023)</span>
+<span style="color: #666;">Foo Fighters (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"><img src="https://i.scdn.co/image/ab67616d0000b2730d1b9dd6cac43fa9d5c3659d" width="60" height="60" alt="Pecos & the Rooftops" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pecos & the Rooftops (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4R0Bi7Fo7A9XMoiU6lRCLF"><img src="https://i.scdn.co/image/ab67616d0000b27377d80794b8f40cae84e56542" width="60" height="60" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4R0Bi7Fo7A9XMoiU6lRCLF">Song of the Lonely Mountain</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Peter Hollens (2016)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"><img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" width="60" height="60" alt="The Lady Killer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG">Fuck You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CeeLo Green (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"><img src="https://i.scdn.co/image/ab67616d0000b2736928dbd7cce1d222ea183c8d" width="60" height="60" alt="Baby You're a Haunted House" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF">Baby You're a Haunted House</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Gerard Way (2018)</span></td>
 </tr>
 </table>
 </div>
