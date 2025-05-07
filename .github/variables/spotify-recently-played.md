@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv"><img src="https://i.scdn.co/image/ab67616d0000b273bfe4b1f5943476f199f5b666" width="150" height="150" alt="A B Y S S" /></a>
+<a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="150" height="150" alt="Thrifty x Spooky Raccoon" /></a>
 
-<b><a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv">A B Y S S</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">Thrifty</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">1788-L, TYNAN (2018)</span>
+<span style="color: #666;">Thundersmack (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv"><img src="https://i.scdn.co/image/ab67616d0000b273bfe4b1f5943476f199f5b666" width="60" height="60" alt="A B Y S S" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv">A B Y S S</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">1788-L, TYNAN (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24">Haunted</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj"><img src="https://i.scdn.co/image/ab67616d0000b27370772b281a0ec089721df570" width="60" height="60" alt="Fast & Furious 6" /></a></td>
 <td><b><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj">We Own It (Fast & Furious)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">2 Chainz, Wiz Khalifa (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"><img src="https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d" width="60" height="60" alt="Led Zeppelin II (1994 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8">Whole Lotta Love - 1990 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Led Zeppelin (1969)</span></td>
 </tr>
 </table>
 </div>
