@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"><img src="https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d" width="150" height="150" alt="Led Zeppelin II (1994 Remaster)" /></a>
+<a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj"><img src="https://i.scdn.co/image/ab67616d0000b27370772b281a0ec089721df570" width="150" height="150" alt="Fast & Furious 6" /></a>
 
-<b><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8">Whole Lotta Love - 1990 Remaster</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj">We Own It (Fast & Furious)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Led Zeppelin (1969)</span>
+<span style="color: #666;">2 Chainz, Wiz Khalifa (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"><img src="https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d" width="60" height="60" alt="Led Zeppelin II (1994 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8">Whole Lotta Love - 1990 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Led Zeppelin (1969)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="60" height="60" alt="Disobey" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Wolves (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"><img src="https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee" width="60" height="60" alt="Justified" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT">Rock Your Body</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6G64UdPdlraaVuLzhoXlrH"><img src="https://i.scdn.co/image/ab67616d0000b27390b4cf8fa286aa50cebf2a4e" width="60" height="60" alt="x Infinity" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6G64UdPdlraaVuLzhoXlrH">(Bonus Track) Exquisite Corpse</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Watsky, Dumbfoundead, Grieves, Adam Vida, Wax, Rafael Casal, Daveed Diggs, Chinaka Hodge (2016)</span></td>
 </tr>
 </table>
 </div>
