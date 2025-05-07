@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj"><img src="https://i.scdn.co/image/ab67616d0000b27370772b281a0ec089721df570" width="150" height="150" alt="Fast & Furious 6" /></a>
+<a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"><img src="https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af" width="150" height="150" alt="Asia" /></a>
 
-<b><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj">We Own It (Fast & Furious)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp">Heat Of The Moment</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">2 Chainz, Wiz Khalifa (2013)</span>
+<span style="color: #666;">Asia (1982)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="60" height="60" alt="Minutes to Midnight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">What I've Done</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2007)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj"><img src="https://i.scdn.co/image/ab67616d0000b27370772b281a0ec089721df570" width="60" height="60" alt="Fast & Furious 6" /></a></td>
+<td><b><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj">We Own It (Fast & Furious)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">2 Chainz, Wiz Khalifa (2013)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"><img src="https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d" width="60" height="60" alt="Led Zeppelin II (1994 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8">Whole Lotta Love - 1990 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Led Zeppelin (1969)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4"><img src="https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550" width="60" height="60" alt="Take Care (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4">HYFR (Hell Ya Fucking Right)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Lil Wayne (2011)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd"><img src="https://i.scdn.co/image/ab67616d0000b27316d9cd79b60c6062036bfadc" width="60" height="60" alt="Jordan Belfort" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd">Jordan Belfort</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Wes Walker, Dyl (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"><img src="https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee" width="60" height="60" alt="Justified" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT">Rock Your Body</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake (2002)</span></td>
 </tr>
 </table>
 </div>
