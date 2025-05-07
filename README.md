@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="150" height="150" alt="Disobey" /></a>
+<a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"><img src="https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d" width="150" height="150" alt="Led Zeppelin II (1994 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8">Whole Lotta Love - 1990 Remaster</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Bad Wolves (2018)</span>
+<span style="color: #666;">Led Zeppelin (1969)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="60" height="60" alt="Disobey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Wolves (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"><img src="https://i.scdn.co/image/ab67616d0000b2738a48864289dc2588f13274ec" width="60" height="60" alt="Hoobastank (20th Anniversary Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Hoobastank (2001)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6G64UdPdlraaVuLzhoXlrH"><img src="https://i.scdn.co/image/ab67616d0000b27390b4cf8fa286aa50cebf2a4e" width="60" height="60" alt="x Infinity" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6G64UdPdlraaVuLzhoXlrH">(Bonus Track) Exquisite Corpse</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Watsky, Dumbfoundead, Grieves, Adam Vida, Wax, Rafael Casal, Daveed Diggs, Chinaka Hodge (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ"><img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" width="60" height="60" alt="Doo-Wops & Hooligans" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ">Grenade</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2010)</span></td>
 </tr>
 </table>
 </div>
