@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY"><img src="https://i.scdn.co/image/ab67616d0000b27323152d9337d6c57b116ed13a" width="150" height="150" alt="Death of a Bachelor" /></a>
+<a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"><img src="https://i.scdn.co/image/ab67616d0000b2730d1b9dd6cac43fa9d5c3659d" width="150" height="150" alt="Pecos & the Rooftops" /></a>
 
-<b><a href="https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY">Don't Threaten Me with a Good Time</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Panic! At The Disco (2016)</span>
+<span style="color: #666;">Pecos & the Rooftops (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4R0Bi7Fo7A9XMoiU6lRCLF"><img src="https://i.scdn.co/image/ab67616d0000b27377d80794b8f40cae84e56542" width="60" height="60" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4R0Bi7Fo7A9XMoiU6lRCLF">Song of the Lonely Mountain</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Peter Hollens (2016)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1zmdFR7JiwWzbrmblbMLXU"><img src="https://i.scdn.co/image/ab67616d0000b2735c86463730ede1350f2628f0" width="60" height="60" alt="Uncovered" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1zmdFR7JiwWzbrmblbMLXU">The Final Countdown</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Damned Anthem (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY"><img src="https://i.scdn.co/image/ab67616d0000b27323152d9337d6c57b116ed13a" width="60" height="60" alt="Death of a Bachelor" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY">Don't Threaten Me with a Good Time</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass, Ruben Hein (2015)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"><img src="https://i.scdn.co/image/ab67616d0000b2736928dbd7cce1d222ea183c8d" width="60" height="60" alt="Baby You're a Haunted House" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF">Baby You're a Haunted House</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Gerard Way (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"><img src="https://i.scdn.co/image/ab67616d0000b2731aa2474909c648492bcf27ce" width="60" height="60" alt="Life" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh">Die MF Die</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dope (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs"><img src="https://i.scdn.co/image/ab67616d0000b273559769036607549f92579d08" width="60" height="60" alt="Rocky III: Music From The Motion Picture" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs">Gonna Fly Now</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bill Conti (1982)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"><img src="https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af" width="60" height="60" alt="Asia" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp">Heat Of The Moment</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Asia (1982)</span></td>
 </tr>
 </table>
 </div>
