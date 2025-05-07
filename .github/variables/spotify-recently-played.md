@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"><img src="https://i.scdn.co/image/ab67616d0000b2736928dbd7cce1d222ea183c8d" width="150" height="150" alt="Baby You're a Haunted House" /></a>
+<a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"><img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" width="150" height="150" alt="The Lady Killer" /></a>
 
-<b><a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF">Baby You're a Haunted House</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG">Fuck You</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Gerard Way (2018)</span>
+<span style="color: #666;">CeeLo Green (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"><img src="https://i.scdn.co/image/ab67616d0000b2736928dbd7cce1d222ea183c8d" width="60" height="60" alt="Baby You're a Haunted House" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF">Baby You're a Haunted House</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Gerard Way (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"><img src="https://i.scdn.co/image/ab67616d0000b2731aa2474909c648492bcf27ce" width="60" height="60" alt="Life" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh">Die MF Die</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dope (2001)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1qm9MfTAoEixNPSqshHqfV"><img src="https://i.scdn.co/image/ab67616d0000b273ff95d6da36363251247978a4" width="60" height="60" alt="Papi Gordo" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1qm9MfTAoEixNPSqshHqfV">Toca (feat. Timmy Trumpet & KSHMR)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Carnage, Timmy Trumpet, KSHMR (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="60" height="60" alt="Fragile" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yes (1971)</span></td>
 </tr>
 </table>
 </div>
