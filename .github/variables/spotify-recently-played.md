@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4"><img src="https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550" width="150" height="150" alt="Take Care (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="150" height="150" alt="The Audacity! (Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4">HYFR (Hell Ya Fucking Right)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA">Knocking on Wood</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Drake, Lil Wayne (2011)</span>
+<span style="color: #666;">Spose (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4"><img src="https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550" width="60" height="60" alt="Take Care (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4">HYFR (Hell Ya Fucking Right)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Lil Wayne (2011)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd"><img src="https://i.scdn.co/image/ab67616d0000b27316d9cd79b60c6062036bfadc" width="60" height="60" alt="Jordan Belfort" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd">Jordan Belfort</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Wes Walker, Dyl (2015)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT">Get By</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ"><img src="https://i.scdn.co/image/ab67616d0000b273622422043b91c9785ede378e" width="60" height="60" alt="Heaven on Hold" /></a></td>
-<td><b><a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ">Horns</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bryce Fox (2017)</span></td>
 </tr>
 </table>
 </div>
