@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="150" height="150" alt="Therapy Session" /></a>
+<a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl"><img src="https://i.scdn.co/image/ab67616d0000b2736938adf4385d5c197370707e" width="150" height="150" alt="From Chaos" /></a>
 
-<b><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ">Oh Lord</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl">Amber</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">NF (2016)</span>
+<span style="color: #666;">311 (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ">Oh Lord</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00"><img src="https://i.scdn.co/image/ab67616d0000b2736b275d72474c508ce2b405a4" width="60" height="60" alt="S&M" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00">No Leaf Clover - Live with the SFSO</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1999)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass, Ruben Hein (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="60" height="60" alt="Thrifty x Spooky Raccoon" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">Thrifty</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
 </tr>
 </table>
 </div>
