@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435" width="150" height="150" alt="Floored" /></a>
+<a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN"><img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="150" height="150" alt="Good Company" /></a>
 
-<b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly - Fly</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN">In Hell I'll Be in Good Company</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Sugar Ray (1997)</span>
+<span style="color: #666;">The Dead South (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"><img src="https://i.scdn.co/image/ab67616d0000b27354ab617bc2d4974ab6ffbece" width="60" height="60" alt="Rage Against The Machine - XX (20th Anniversary Special Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp">Killing In The Name</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Rage Against The Machine (1992)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435" width="60" height="60" alt="Floored" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly - Fly</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugar Ray (1997)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/28UKSTXNVOJJBmaAXAGt01"><img src="https://i.scdn.co/image/ab67616d0000b2735ce2cbcfd78c94c0f70bb1b6" width="60" height="60" alt="Meathook" /></a></td>
 <td><b><a href="https://open.spotify.com/track/28UKSTXNVOJJBmaAXAGt01">Meathook</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andrew Baena, Cooper Lagace (2021)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS"><img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="60" height="60" alt="Man On The Moon: The End Of Day" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS">Soundtrack 2 My Life</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"><img src="https://i.scdn.co/image/ab67616d0000b2730d1b9dd6cac43fa9d5c3659d" width="60" height="60" alt="Pecos & the Rooftops" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pecos & the Rooftops (2023)</span></td>
 </tr>
 </table>
 </div>
