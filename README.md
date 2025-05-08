@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P"><img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" width="150" height="150" alt="Californication (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435" width="150" height="150" alt="Floored" /></a>
 
-<b><a href="https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P">Otherside</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly - Fly</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Red Hot Chili Peppers (1999)</span>
+<span style="color: #666;">Sugar Ray (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/28UKSTXNVOJJBmaAXAGt01"><img src="https://i.scdn.co/image/ab67616d0000b2735ce2cbcfd78c94c0f70bb1b6" width="60" height="60" alt="Meathook" /></a></td>
+<td><b><a href="https://open.spotify.com/track/28UKSTXNVOJJBmaAXAGt01">Meathook</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andrew Baena, Cooper Lagace (2021)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P"><img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" width="60" height="60" alt="Californication (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P">Otherside</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0De6k2vhzI1AwNqvDAMyZs"><img src="https://i.scdn.co/image/ab67616d0000b273b4a35e290c22d73c16df1f7b" width="60" height="60" alt="Warmer In The Winter (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0De6k2vhzI1AwNqvDAMyZs">Dance Of The Sugar Plum Fairy</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lindsey Stirling (2018)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"><img src="https://i.scdn.co/image/ab67616d0000b2730d1b9dd6cac43fa9d5c3659d" width="60" height="60" alt="Pecos & the Rooftops" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pecos & the Rooftops (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4R0Bi7Fo7A9XMoiU6lRCLF"><img src="https://i.scdn.co/image/ab67616d0000b27377d80794b8f40cae84e56542" width="60" height="60" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4R0Bi7Fo7A9XMoiU6lRCLF">Song of the Lonely Mountain</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Peter Hollens (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1zmdFR7JiwWzbrmblbMLXU"><img src="https://i.scdn.co/image/ab67616d0000b2735c86463730ede1350f2628f0" width="60" height="60" alt="Uncovered" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1zmdFR7JiwWzbrmblbMLXU">The Final Countdown</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Damned Anthem (2018)</span></td>
 </tr>
 </table>
 </div>
