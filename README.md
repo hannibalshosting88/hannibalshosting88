@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="150" height="150" alt="One By One (Expanded Edition)" /></a>
+<a href="https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"><img src="https://i.scdn.co/image/ab67616d0000b27379ac84696fa8624e97684d27" width="150" height="150" alt="Mother's Milk" /></a>
 
-<b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl">Higher Ground - Remastered 2003</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Foo Fighters (2002)</span>
+<span style="color: #666;">Red Hot Chili Peppers (1989)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS"><img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="60" height="60" alt="Man On The Moon: The End Of Day" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS">Soundtrack 2 My Life</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2009)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"><img src="https://i.scdn.co/image/ab67616d0000b2730d1b9dd6cac43fa9d5c3659d" width="60" height="60" alt="Pecos & the Rooftops" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pecos & the Rooftops (2023)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24">Haunted</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"><img src="https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c" width="60" height="60" alt="In Utero (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa">Heart-Shaped Box</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nirvana (1993)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"><img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" width="60" height="60" alt="The Lady Killer" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG">Fuck You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CeeLo Green (2010)</span></td>
 </tr>
 </table>
 </div>
