@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl"><img src="https://i.scdn.co/image/ab67616d0000b2736938adf4385d5c197370707e" width="150" height="150" alt="From Chaos" /></a>
+<a href="https://open.spotify.com/track/0De6k2vhzI1AwNqvDAMyZs"><img src="https://i.scdn.co/image/ab67616d0000b273b4a35e290c22d73c16df1f7b" width="150" height="150" alt="Warmer In The Winter (Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl">Amber</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0De6k2vhzI1AwNqvDAMyZs">Dance Of The Sugar Plum Fairy</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">311 (2001)</span>
+<span style="color: #666;">Lindsey Stirling (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl"><img src="https://i.scdn.co/image/ab67616d0000b2736938adf4385d5c197370707e" width="60" height="60" alt="From Chaos" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl">Amber</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">311 (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ">Oh Lord</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY"><img src="https://i.scdn.co/image/ab67616d0000b27323152d9337d6c57b116ed13a" width="60" height="60" alt="Death of a Bachelor" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY">Don't Threaten Me with a Good Time</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass, Ruben Hein (2015)</span></td>
 </tr>
 </table>
 </div>
