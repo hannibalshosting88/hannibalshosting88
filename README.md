@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN"><img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="150" height="150" alt="Good Company" /></a>
+<a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"><img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="150" height="150" alt="Audioslave" /></a>
 
-<b><a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN">In Hell I'll Be in Good Company</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo">Show Me How to Live</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">The Dead South (2014)</span>
+<span style="color: #666;">Audioslave (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN"><img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="60" height="60" alt="Good Company" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN">In Hell I'll Be in Good Company</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Dead South (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"><img src="https://i.scdn.co/image/ab67616d0000b27354ab617bc2d4974ab6ffbece" width="60" height="60" alt="Rage Against The Machine - XX (20th Anniversary Special Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp">Killing In The Name</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Rage Against The Machine (1992)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"><img src="https://i.scdn.co/image/ab67616d0000b27379ac84696fa8624e97684d27" width="60" height="60" alt="Mother's Milk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl">Higher Ground - Remastered 2003</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (1989)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS"><img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="60" height="60" alt="Man On The Moon: The End Of Day" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS">Soundtrack 2 My Life</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2009)</span></td>
 </tr>
 </table>
 </div>
