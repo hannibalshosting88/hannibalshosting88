@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"><img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="150" height="150" alt="Audioslave" /></a>
+<a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU"><img src="https://i.scdn.co/image/ab67616d0000b273b19cb81319fbfd9ed54baeae" width="150" height="150" alt="Ultimate Sinatra" /></a>
 
-<b><a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo">Show Me How to Live</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU">I've Got The World On A String</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Audioslave (2002)</span>
+<span style="color: #666;">Frank Sinatra (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"><img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="60" height="60" alt="Audioslave" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo">Show Me How to Live</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Audioslave (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN"><img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="60" height="60" alt="Good Company" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN">In Hell I'll Be in Good Company</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Dead South (2014)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00"><img src="https://i.scdn.co/image/ab67616d0000b2736b275d72474c508ce2b405a4" width="60" height="60" alt="S&M" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00">No Leaf Clover - Live with the SFSO</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"><img src="https://i.scdn.co/image/ab67616d0000b27379ac84696fa8624e97684d27" width="60" height="60" alt="Mother's Milk" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl">Higher Ground - Remastered 2003</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (1989)</span></td>
 </tr>
 </table>
 </div>
