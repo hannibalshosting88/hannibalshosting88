@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"><img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" width="150" height="150" alt="Not Like Us" /></a>
+<a href="https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"><img src="https://i.scdn.co/image/ab67616d0000b273f5e27c2aa0b110c2b6611577" width="150" height="150" alt="Love Sick (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3">Not Like Us</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz">No Pole</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Kendrick Lamar (2024)</span>
+<span style="color: #666;">Don Toliver (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"><img src="https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c" width="60" height="60" alt="Heaven Or Hell" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU">No Idea</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Don Toliver (2020)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"><img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" width="60" height="60" alt="Not Like Us" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3">Not Like Us</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kendrick Lamar (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"><img src="https://i.scdn.co/image/ab67616d0000b2731729574fe2a8e391a2ce1ece" width="60" height="60" alt="WE DON'T TRUST YOU" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf">Like That</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Future, Metro Boomin, Kendrick Lamar (2024)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt"><img src="https://i.scdn.co/image/ab67616d0000b27358aafbee8d662b660081bc90" width="60" height="60" alt="Big Baby DRAM (Deluxe Version)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt">Broccoli (feat. Lil Yachty)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">DRAM, Lil Yachty (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt"><img src="https://i.scdn.co/image/ab67616d0000b27358aafbee8d662b660081bc90" width="60" height="60" alt="Big Baby DRAM (Deluxe Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt">Broccoli (feat. Lil Yachty)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">DRAM, Lil Yachty (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx">Therapy Session</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
 </tr>
 </table>
 </div>
