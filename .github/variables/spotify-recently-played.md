@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"><img src="https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5" width="150" height="150" alt="Endless Summer Vacation" /></a>
+<a href="https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH"><img src="https://i.scdn.co/image/ab67616d0000b273d20c38f295039520d688a888" width="150" height="150" alt="Teenage Dream" /></a>
 
-<b><a href="https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0">Flowers</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH">California Gurls</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Miley Cyrus (2023)</span>
+<span style="color: #666;">Katy Perry, Snoop Dogg (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"><img src="https://i.scdn.co/image/ab67616d0000b2732780cc9f7796e04f367e394d" width="60" height="60" alt="Lazarus" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig">Billionaire (feat. Bruno Mars)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Travie McCoy, Bruno Mars (2010)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"><img src="https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5" width="60" height="60" alt="Endless Summer Vacation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0">Flowers</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Miley Cyrus (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"><img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" width="60" height="60" alt="21" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk">Rolling in the Deep</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Adele (2011)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"><img src="https://i.scdn.co/image/ab67616d0000b2738d0a75346badc30c8b845be9" width="60" height="60" alt="DNCE" /></a></td>
 <td><b><a href="https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC">Cake By The Ocean</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">DNCE (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4GtRAKx3ev5UCzyJeASbdc"><img src="https://i.scdn.co/image/ab67616d0000b273e67020411b308d59190de556" width="60" height="60" alt="TOKYO GAMES #jerseyclub" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4GtRAKx3ev5UCzyJeASbdc">TOKYO GAMES #jerseyclub</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ziahfyah, Ski Guy (2025)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5UI846kakgl3TCjjnS2kdg"><img src="https://i.scdn.co/image/ab67616d0000b273f0acd067acce83928c61b74d" width="60" height="60" alt="All Around Me (Majed Remix)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5UI846kakgl3TCjjnS2kdg">All Around Me - Majed Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Majed, Luna Orbit (2025)</span></td>
 </tr>
 </table>
 </div>
