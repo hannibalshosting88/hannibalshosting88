@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"><img src="https://i.scdn.co/image/ab67616d0000b2738d0a75346badc30c8b845be9" width="150" height="150" alt="DNCE" /></a>
+<a href="https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"><img src="https://i.scdn.co/image/ab67616d0000b273d20c38f295039520d688a888" width="150" height="150" alt="Teenage Dream" /></a>
 
-<b><a href="https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC">Cake By The Ocean</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh">Teenage Dream</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">DNCE (2016)</span>
+<span style="color: #666;">Katy Perry (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"><img src="https://i.scdn.co/image/ab67616d0000b2738d0a75346badc30c8b845be9" width="60" height="60" alt="DNCE" /></a></td>
+<td><b><a href="https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC">Cake By The Ocean</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">DNCE (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4GtRAKx3ev5UCzyJeASbdc"><img src="https://i.scdn.co/image/ab67616d0000b273e67020411b308d59190de556" width="60" height="60" alt="TOKYO GAMES #jerseyclub" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4GtRAKx3ev5UCzyJeASbdc">TOKYO GAMES #jerseyclub</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ziahfyah, Ski Guy (2025)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ"><img src="https://i.scdn.co/image/ab67616d0000b2739d7454e428d8052edb36b610" width="60" height="60" alt="2 Sides of the Story" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ">My Baby (feat. STAR BANDZ)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarhill Ddot, STAR BANDZ (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4V2CBFJ6AaCp7Pij4IyHTs"><img src="https://i.scdn.co/image/ab67616d0000b273cb67c10e57f157d85510fa34" width="60" height="60" alt="Don't Take It Personal" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4V2CBFJ6AaCp7Pij4IyHTs">Uptown</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Stevedastoner (2024)</span></td>
 </tr>
 </table>
 </div>
