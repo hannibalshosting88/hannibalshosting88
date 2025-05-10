@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"><img src="https://i.scdn.co/image/ab67616d0000b273c800e1a4a237cf8f085183c5" width="150" height="150" alt="HARDSTONE PSYCHO" /></a>
+<a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="150" height="150" alt="This Is Why" /></a>
 
-<b><a href="https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf">NEW DROP</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M">This Is Why</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Don Toliver (2024)</span>
+<span style="color: #666;">Paramore (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"><img src="https://i.scdn.co/image/ab67616d0000b273c800e1a4a237cf8f085183c5" width="60" height="60" alt="HARDSTONE PSYCHO" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf">NEW DROP</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Don Toliver (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"><img src="https://i.scdn.co/image/ab67616d0000b273f5e27c2aa0b110c2b6611577" width="60" height="60" alt="Love Sick (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz">No Pole</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Don Toliver (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH"><img src="https://i.scdn.co/image/ab67616d0000b273eba27a544f660024655d31cd" width="60" height="60" alt="We Will Rock You VonLichten" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH">We Will Rock You VonLichten</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Queen, VonLichten (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA">Knocking on Wood</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
 </tr>
 </table>
 </div>
