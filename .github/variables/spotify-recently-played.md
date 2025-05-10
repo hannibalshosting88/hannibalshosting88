@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/59oAu1DeHUGQxoj593GzCW"><img src="https://i.scdn.co/image/ab67616d0000b2735a2e66cf16498dbdd1335b91" width="150" height="150" alt="HOT N COLD" /></a>
+<a href="https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"><img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" width="150" height="150" alt="21" /></a>
 
-<b><a href="https://open.spotify.com/track/59oAu1DeHUGQxoj593GzCW">HOT N COLD</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk">Rolling in the Deep</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">xxtristanxo (2024)</span>
+<span style="color: #666;">Adele (2011)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/59oAu1DeHUGQxoj593GzCW"><img src="https://i.scdn.co/image/ab67616d0000b2735a2e66cf16498dbdd1335b91" width="60" height="60" alt="HOT N COLD" /></a></td>
+<td><b><a href="https://open.spotify.com/track/59oAu1DeHUGQxoj593GzCW">HOT N COLD</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">xxtristanxo (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL"><img src="https://i.scdn.co/image/ab67616d0000b27391538eb04634de568637b8be" width="60" height="60" alt="An Introduction To Ellie Goulding EP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL">Lights</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ellie Goulding (2010)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz"><img src="https://i.scdn.co/image/ab67616d0000b273f0755b328f96c0b117161893" width="60" height="60" alt="we r who we r (glitter on my eyes)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz">we r who we r (glitter on my eyes)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">pk (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"><img src="https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a" width="60" height="60" alt="The Papercut Chronicles II" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz">Stereo Hearts (feat. Adam Levine)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Gym Class Heroes, Adam Levine (2011)</span></td>
 </tr>
 </table>
 </div>
