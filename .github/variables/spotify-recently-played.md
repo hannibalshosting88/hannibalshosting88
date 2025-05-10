@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ"><img src="https://i.scdn.co/image/ab67616d0000b2739d7454e428d8052edb36b610" width="150" height="150" alt="2 Sides of the Story" /></a>
+<a href="https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"><img src="https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb" width="150" height="150" alt="Native" /></a>
 
-<b><a href="https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ">My Baby (feat. STAR BANDZ)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1">Counting Stars</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Sugarhill Ddot, STAR BANDZ (2024)</span>
+<span style="color: #666;">OneRepublic (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ"><img src="https://i.scdn.co/image/ab67616d0000b2739d7454e428d8052edb36b610" width="60" height="60" alt="2 Sides of the Story" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ">My Baby (feat. STAR BANDZ)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarhill Ddot, STAR BANDZ (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4V2CBFJ6AaCp7Pij4IyHTs"><img src="https://i.scdn.co/image/ab67616d0000b273cb67c10e57f157d85510fa34" width="60" height="60" alt="Don't Take It Personal" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4V2CBFJ6AaCp7Pij4IyHTs">Uptown</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Stevedastoner (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"><img src="https://i.scdn.co/image/ab67616d0000b2731729574fe2a8e391a2ce1ece" width="60" height="60" alt="WE DON'T TRUST YOU" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf">Like That</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Future, Metro Boomin, Kendrick Lamar (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4"><img src="https://i.scdn.co/image/ab67616d0000b2738bcc97e71e05b475077bdf4b" width="60" height="60" alt="Good Religion" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4">I Got the Juice</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dream Junkies, Beleaf, Ruslan, John Givez (2016)</span></td>
 </tr>
 </table>
 </div>
