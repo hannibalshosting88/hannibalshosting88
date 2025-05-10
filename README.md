@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="150" height="150" alt="This Is Why" /></a>
+<a href="https://open.spotify.com/track/4V2CBFJ6AaCp7Pij4IyHTs"><img src="https://i.scdn.co/image/ab67616d0000b273cb67c10e57f157d85510fa34" width="150" height="150" alt="Don't Take It Personal" /></a>
 
-<b><a href="https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq">C’est Comme Ça</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4V2CBFJ6AaCp7Pij4IyHTs">Uptown</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Paramore (2023)</span>
+<span style="color: #666;">Stevedastoner (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="60" height="60" alt="This Is Why" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq">C’est Comme Ça</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Paramore (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="60" height="60" alt="This Is Why" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE">Running Out Of Time</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Paramore (2023)</span></td>
@@ -58,16 +62,12 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <td><b><a href="https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf">Like That</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Future, Metro Boomin, Kendrick Lamar (2024)</span></td>
 </tr>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4"><img src="https://i.scdn.co/image/ab67616d0000b2738bcc97e71e05b475077bdf4b" width="60" height="60" alt="Good Religion" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4">I Got the Juice</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dream Junkies, Beleaf, Ruslan, John Givez (2016)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
 <td><b><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="60" height="60" alt="Death Magnetic" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (2008)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="60" height="60" alt="Mercury - Acts 1 & 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span></td>
 </tr>
 </table>
 </div>
