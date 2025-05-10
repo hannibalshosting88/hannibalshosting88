@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt"><img src="https://i.scdn.co/image/ab67616d0000b27358aafbee8d662b660081bc90" width="150" height="150" alt="Big Baby DRAM (Deluxe Version)" /></a>
+<a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="150" height="150" alt="The Audacity! (Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt">Broccoli (feat. Lil Yachty)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA">Knocking on Wood</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">DRAM, Lil Yachty (2016)</span>
+<span style="color: #666;">Spose (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt"><img src="https://i.scdn.co/image/ab67616d0000b27358aafbee8d662b660081bc90" width="60" height="60" alt="Big Baby DRAM (Deluxe Version)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt">Broccoli (feat. Lil Yachty)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">DRAM, Lil Yachty (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt"><img src="https://i.scdn.co/image/ab67616d0000b27358aafbee8d662b660081bc90" width="60" height="60" alt="Big Baby DRAM (Deluxe Version)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt">Broccoli (feat. Lil Yachty)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">DRAM, Lil Yachty (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"><img src="https://i.scdn.co/image/ab67616d0000b27354ab617bc2d4974ab6ffbece" width="60" height="60" alt="Rage Against The Machine - XX (20th Anniversary Special Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp">Killing In The Name</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Rage Against The Machine (1992)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435" width="60" height="60" alt="Floored" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly - Fly</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugar Ray (1997)</span></td>
 </tr>
 </table>
 </div>
