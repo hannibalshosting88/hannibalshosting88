@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"><img src="https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb" width="150" height="150" alt="Native" /></a>
+<a href="https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"><img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" width="150" height="150" alt="Planet Her" /></a>
 
-<b><a href="https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1">Counting Stars</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb">Get Into It (Yuh)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">OneRepublic (2013)</span>
+<span style="color: #666;">Doja Cat (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2DkKddV2e952EAteyuV0wP"><img src="https://i.scdn.co/image/ab67616d0000b27374a94c8c0c6b1e9f38ff7cfe" width="60" height="60" alt="Love For You" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2DkKddV2e952EAteyuV0wP">Love For You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">LOVELI LORI, ovg! (2022)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"><img src="https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb" width="60" height="60" alt="Native" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1">Counting Stars</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">OneRepublic (2013)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ"><img src="https://i.scdn.co/image/ab67616d0000b2739d7454e428d8052edb36b610" width="60" height="60" alt="2 Sides of the Story" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ">My Baby (feat. STAR BANDZ)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarhill Ddot, STAR BANDZ (2024)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"><img src="https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c" width="60" height="60" alt="Heaven Or Hell" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU">No Idea</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Don Toliver (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"><img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" width="60" height="60" alt="Not Like Us" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3">Not Like Us</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kendrick Lamar (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"><img src="https://i.scdn.co/image/ab67616d0000b2731729574fe2a8e391a2ce1ece" width="60" height="60" alt="WE DON'T TRUST YOU" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf">Like That</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Future, Metro Boomin, Kendrick Lamar (2024)</span></td>
 </tr>
 </table>
 </div>
