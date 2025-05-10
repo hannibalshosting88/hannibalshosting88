@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH"><img src="https://i.scdn.co/image/ab67616d0000b273d20c38f295039520d688a888" width="150" height="150" alt="Teenage Dream" /></a>
+<a href="https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ"><img src="https://i.scdn.co/image/ab67616d0000b27382ad713a69ecdb656bed2d78" width="150" height="150" alt="Love Game" /></a>
 
-<b><a href="https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH">California Gurls</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ">Love Game</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Katy Perry, Snoop Dogg (2010)</span>
+<span style="color: #666;">Bread Beatz (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH"><img src="https://i.scdn.co/image/ab67616d0000b273d20c38f295039520d688a888" width="60" height="60" alt="Teenage Dream" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH">California Gurls</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Katy Perry, Snoop Dogg (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"><img src="https://i.scdn.co/image/ab67616d0000b2732780cc9f7796e04f367e394d" width="60" height="60" alt="Lazarus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig">Billionaire (feat. Bruno Mars)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Travie McCoy, Bruno Mars (2010)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"><img src="https://i.scdn.co/image/ab67616d0000b273d20c38f295039520d688a888" width="60" height="60" alt="Teenage Dream" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh">Teenage Dream</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Katy Perry (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"><img src="https://i.scdn.co/image/ab67616d0000b2738d0a75346badc30c8b845be9" width="60" height="60" alt="DNCE" /></a></td>
-<td><b><a href="https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC">Cake By The Ocean</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">DNCE (2016)</span></td>
 </tr>
 </table>
 </div>
