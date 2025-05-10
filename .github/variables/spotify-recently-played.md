@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz"><img src="https://i.scdn.co/image/ab67616d0000b273f0755b328f96c0b117161893" width="150" height="150" alt="we r who we r (glitter on my eyes)" /></a>
+<a href="https://open.spotify.com/track/5UI846kakgl3TCjjnS2kdg"><img src="https://i.scdn.co/image/ab67616d0000b273f0acd067acce83928c61b74d" width="150" height="150" alt="All Around Me (Majed Remix)" /></a>
 
-<b><a href="https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz">we r who we r (glitter on my eyes)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/5UI846kakgl3TCjjnS2kdg">All Around Me - Majed Remix</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">pk (2024)</span>
+<span style="color: #666;">Majed, Luna Orbit (2025)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz"><img src="https://i.scdn.co/image/ab67616d0000b273f0755b328f96c0b117161893" width="60" height="60" alt="we r who we r (glitter on my eyes)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz">we r who we r (glitter on my eyes)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">pk (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"><img src="https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a" width="60" height="60" alt="The Papercut Chronicles II" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz">Stereo Hearts (feat. Adam Levine)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Gym Class Heroes, Adam Levine (2011)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="60" height="60" alt="This Is Why" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE">Running Out Of Time</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Paramore (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="60" height="60" alt="This Is Why" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M">This Is Why</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Paramore (2023)</span></td>
 </tr>
 </table>
 </div>
