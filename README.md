@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="150" height="150" alt="Pieces Of Eight" /></a>
+<a href="https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"><img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" width="150" height="150" alt="Not Like Us" /></a>
 
-<b><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3">Not Like Us</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Styx (1978)</span>
+<span style="color: #666;">Kendrick Lamar (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"><img src="https://i.scdn.co/image/ab67616d0000b2731729574fe2a8e391a2ce1ece" width="60" height="60" alt="WE DON'T TRUST YOU" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf">Like That</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Future, Metro Boomin, Kendrick Lamar (2024)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="60" height="60" alt="Death Magnetic" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (2008)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx">Therapy Session</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx">Therapy Session</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"><img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" width="60" height="60" alt="Bleed American" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">The Middle</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Jimmy Eat World (2001)</span></td>
 </tr>
 </table>
 </div>
