@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH"><img src="https://i.scdn.co/image/ab67616d0000b273eba27a544f660024655d31cd" width="150" height="150" alt="We Will Rock You VonLichten" /></a>
+<a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="150" height="150" alt="Mercury - Acts 1 & 2" /></a>
 
-<b><a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH">We Will Rock You VonLichten</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Queen, VonLichten (2012)</span>
+<span style="color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="60" height="60" alt="Mercury - Acts 1 & 2" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH"><img src="https://i.scdn.co/image/ab67616d0000b273eba27a544f660024655d31cd" width="60" height="60" alt="We Will Rock You VonLichten" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH">We Will Rock You VonLichten</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Queen, VonLichten (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA">Knocking on Wood</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU"><img src="https://i.scdn.co/image/ab67616d0000b273b19cb81319fbfd9ed54baeae" width="60" height="60" alt="Ultimate Sinatra" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU">I've Got The World On A String</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Frank Sinatra (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"><img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="60" height="60" alt="Audioslave" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo">Show Me How to Live</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Audioslave (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN"><img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="60" height="60" alt="Good Company" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN">In Hell I'll Be in Good Company</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Dead South (2014)</span></td>
 </tr>
 </table>
 </div>
