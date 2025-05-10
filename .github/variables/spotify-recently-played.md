@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="150" height="150" alt="This Is Why" /></a>
+<a href="https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="150" height="150" alt="This Is Why" /></a>
 
-<b><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M">This Is Why</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq">C’est Comme Ça</a></b><span style="color: gold;"> ★★★</span>
 
 <span style="color: #666;">Paramore (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="60" height="60" alt="This Is Why" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE">Running Out Of Time</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Paramore (2023)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="60" height="60" alt="This Is Why" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M">This Is Why</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Paramore (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"><img src="https://i.scdn.co/image/ab67616d0000b273c800e1a4a237cf8f085183c5" width="60" height="60" alt="HARDSTONE PSYCHO" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf">NEW DROP</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Don Toliver (2024)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="60" height="60" alt="Mercury - Acts 1 & 2" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="60" height="60" alt="Mercury - Acts 1 & 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH"><img src="https://i.scdn.co/image/ab67616d0000b273eba27a544f660024655d31cd" width="60" height="60" alt="We Will Rock You VonLichten" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2nGbqswvRnByhSdtx9egGH">We Will Rock You VonLichten</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Queen, VonLichten (2012)</span></td>
 </tr>
 </table>
 </div>
