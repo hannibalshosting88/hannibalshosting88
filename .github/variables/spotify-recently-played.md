@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"><img src="https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f" width="150" height="150" alt="Future Nostalgia" /></a>
+<a href="https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz"><img src="https://i.scdn.co/image/ab67616d0000b273f0755b328f96c0b117161893" width="150" height="150" alt="we r who we r (glitter on my eyes)" /></a>
 
-<b><a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62">Don't Start Now</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz">we r who we r (glitter on my eyes)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Dua Lipa (2020)</span>
+<span style="color: #666;">pk (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"><img src="https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a" width="60" height="60" alt="The Papercut Chronicles II" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz">Stereo Hearts (feat. Adam Levine)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Gym Class Heroes, Adam Levine (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"><img src="https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f" width="60" height="60" alt="Future Nostalgia" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62">Don't Start Now</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Dua Lipa (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"><img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" width="60" height="60" alt="Planet Her" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb">Get Into It (Yuh)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Doja Cat (2021)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="60" height="60" alt="This Is Why" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M">This Is Why</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Paramore (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"><img src="https://i.scdn.co/image/ab67616d0000b273c800e1a4a237cf8f085183c5" width="60" height="60" alt="HARDSTONE PSYCHO" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf">NEW DROP</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Don Toliver (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"><img src="https://i.scdn.co/image/ab67616d0000b273f5e27c2aa0b110c2b6611577" width="60" height="60" alt="Love Sick (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz">No Pole</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Don Toliver (2023)</span></td>
 </tr>
 </table>
 </div>
