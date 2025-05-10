@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"><img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" width="150" height="150" alt="Planet Her" /></a>
+<a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"><img src="https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f" width="150" height="150" alt="Future Nostalgia" /></a>
 
-<b><a href="https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb">Get Into It (Yuh)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62">Don't Start Now</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Doja Cat (2021)</span>
+<span style="color: #666;">Dua Lipa (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"><img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" width="60" height="60" alt="Planet Her" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb">Get Into It (Yuh)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Doja Cat (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2DkKddV2e952EAteyuV0wP"><img src="https://i.scdn.co/image/ab67616d0000b27374a94c8c0c6b1e9f38ff7cfe" width="60" height="60" alt="Love For You" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2DkKddV2e952EAteyuV0wP">Love For You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">LOVELI LORI, ovg! (2022)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"><img src="https://i.scdn.co/image/ab67616d0000b273f5e27c2aa0b110c2b6611577" width="60" height="60" alt="Love Sick (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz">No Pole</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Don Toliver (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"><img src="https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c" width="60" height="60" alt="Heaven Or Hell" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU">No Idea</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Don Toliver (2020)</span></td>
 </tr>
 </table>
 </div>
