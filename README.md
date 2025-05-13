@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"><img src="https://i.scdn.co/image/ab67616d0000b27398a02fef3a8b1d80a0f164ec" width="150" height="150" alt="The Heist" /></a>
+<a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="150" height="150" alt="Pray for the Wicked" /></a>
 
-<b><a href="https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn">Can't Hold Us (feat. Ray Dalton)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton (2012)</span>
+<span style="color: #666;">Panic! At The Disco (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6xrdxmGZnnpScIck7YxCnd"><img src="https://i.scdn.co/image/ab67616d0000b273a47d777eacab80613fdde21e" width="60" height="60" alt="The Best That I Could Do 1978 - 1988" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6xrdxmGZnnpScIck7YxCnd">Jack & Diane</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">John Mellencamp (1997)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"><img src="https://i.scdn.co/image/ab67616d0000b27398a02fef3a8b1d80a0f164ec" width="60" height="60" alt="The Heist" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn">Can't Hold Us (feat. Ray Dalton)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1Hg2egRryMkCdXqXmXki3A"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1Hg2egRryMkCdXqXmXki3A">Krwlng (Mike Shinoda Reanimation) [feat. Aaron Lewis]</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park, Aaron Lewis (2002)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"><img src="https://i.scdn.co/image/ab67616d0000b2732780cc9f7796e04f367e394d" width="60" height="60" alt="Lazarus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig">Billionaire (feat. Bruno Mars)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Travie McCoy, Bruno Mars (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"><img src="https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5" width="60" height="60" alt="Endless Summer Vacation" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0">Flowers</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Miley Cyrus (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"><img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" width="60" height="60" alt="21" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk">Rolling in the Deep</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Adele (2011)</span></td>
 </tr>
 </table>
 </div>
