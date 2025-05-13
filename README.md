@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"><img src="https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96" width="150" height="150" alt="Weezer" /></a>
+<a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan"><img src="https://i.scdn.co/image/ab67616d0000b273cb91b5b8f9640caf6602e4f3" width="150" height="150" alt="The Cyberpunk" /></a>
 
-<b><a href="https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA">Say It Ain't So - Original Mix</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">The Cyberpunk Runner</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Weezer (1994)</span>
+<span style="color: #666;">Yuri Petrovski (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C"><img src="https://i.scdn.co/image/ab67616d0000b273f74baf63e915712df348e647" width="60" height="60" alt="Dark Horse" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C">Burn It to the Ground</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nickelback (2008)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"><img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" width="60" height="60" alt="Blurryface" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn">Stressed Out</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Twenty One Pilots (2015)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"><img src="https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96" width="60" height="60" alt="Weezer" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA">Say It Ain't So - Original Mix</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (1994)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"><img src="https://i.scdn.co/image/ab67616d0000b2731cd131e5e9ad887ad8c1ecb7" width="60" height="60" alt="Dirt (2022 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2">Rooster (2022 Remaster)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Alice In Chains (1992)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="60" height="60" alt="Pray for the Wicked" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6xrdxmGZnnpScIck7YxCnd"><img src="https://i.scdn.co/image/ab67616d0000b273a47d777eacab80613fdde21e" width="60" height="60" alt="The Best That I Could Do 1978 - 1988" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6xrdxmGZnnpScIck7YxCnd">Jack & Diane</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">John Mellencamp (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"><img src="https://i.scdn.co/image/ab67616d0000b27398a02fef3a8b1d80a0f164ec" width="60" height="60" alt="The Heist" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn">Can't Hold Us (feat. Ray Dalton)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1Hg2egRryMkCdXqXmXki3A"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1Hg2egRryMkCdXqXmXki3A">Krwlng (Mike Shinoda Reanimation) [feat. Aaron Lewis]</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park, Aaron Lewis (2002)</span></td>
 </tr>
 </table>
 </div>
