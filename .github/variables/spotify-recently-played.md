@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="150" height="150" alt="Pray for the Wicked" /></a>
+<a href="https://open.spotify.com/track/6ekWVvw642aQsT3AfnCiTz"><img src="https://i.scdn.co/image/ab67616d0000b2731f81dec4c6e5a290f0bca4e8" width="150" height="150" alt="Cardboard Castles" /></a>
 
-<b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/6ekWVvw642aQsT3AfnCiTz">Sloppy Seconds</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Panic! At The Disco (2018)</span>
+<span style="color: #666;">Watsky (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="60" height="60" alt="Pray for the Wicked" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6xrdxmGZnnpScIck7YxCnd"><img src="https://i.scdn.co/image/ab67616d0000b273a47d777eacab80613fdde21e" width="60" height="60" alt="The Best That I Could Do 1978 - 1988" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6xrdxmGZnnpScIck7YxCnd">Jack & Diane</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">John Mellencamp (1997)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH"><img src="https://i.scdn.co/image/ab67616d0000b273d20c38f295039520d688a888" width="60" height="60" alt="Teenage Dream" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH">California Gurls</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Katy Perry, Snoop Dogg (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"><img src="https://i.scdn.co/image/ab67616d0000b2732780cc9f7796e04f367e394d" width="60" height="60" alt="Lazarus" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig">Billionaire (feat. Bruno Mars)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Travie McCoy, Bruno Mars (2010)</span></td>
 </tr>
 </table>
 </div>
