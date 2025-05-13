@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb"><img src="https://i.scdn.co/image/ab67616d0000b2738a31cacc2818b37d9e4e4bdc" width="150" height="150" alt="Dura (Remix)" /></a>
+<a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4"><img src="https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6" width="150" height="150" alt="The Fat of the Land" /></a>
 
-<b><a href="https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb">Dura - Remix</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4">Firestarter</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny (2018)</span>
+<span style="color: #666;">The Prodigy (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb"><img src="https://i.scdn.co/image/ab67616d0000b2738a31cacc2818b37d9e4e4bdc" width="60" height="60" alt="Dura (Remix)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb">Dura - Remix</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"><img src="https://i.scdn.co/image/ab67616d0000b273838698485511bd9108fadadc" width="60" height="60" alt="Dua Lipa (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr">IDGAF</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Dua Lipa (2017)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL"><img src="https://i.scdn.co/image/ab67616d0000b27391538eb04634de568637b8be" width="60" height="60" alt="An Introduction To Ellie Goulding EP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL">Lights</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ellie Goulding (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"><img src="https://i.scdn.co/image/ab67616d0000b273bde344cc54eedc35050f4c61" width="60" height="60" alt="California 37" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9">Drive By</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Train (2012)</span></td>
 </tr>
 </table>
 </div>
