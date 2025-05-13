@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="150" height="150" alt="Make Yourself" /></a>
+<a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y"><img src="https://i.scdn.co/image/ab67616d0000b273f3d247f5bc7a34b1ae79a7ef" width="150" height="150" alt="Bass Sax Beats, Vol. 2" /></a>
 
-<b><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX">The Warmth</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">LISA SIMPSON</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Incubus (1999)</span>
+<span style="color: #666;">Michael Wilbur (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX">The Warmth</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6ekWVvw642aQsT3AfnCiTz"><img src="https://i.scdn.co/image/ab67616d0000b2731f81dec4c6e5a290f0bca4e8" width="60" height="60" alt="Cardboard Castles" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6ekWVvw642aQsT3AfnCiTz">Sloppy Seconds</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2013)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"><img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" width="60" height="60" alt="Paint The Town Red" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7">Paint The Town Red</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Doja Cat (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ"><img src="https://i.scdn.co/image/ab67616d0000b27382ad713a69ecdb656bed2d78" width="60" height="60" alt="Love Game" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ">Love Game</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bread Beatz (2023)</span></td>
 </tr>
 </table>
 </div>
