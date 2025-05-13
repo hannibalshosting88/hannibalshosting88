@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4"><img src="https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6" width="150" height="150" alt="The Fat of the Land" /></a>
+<a href="https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"><img src="https://i.scdn.co/image/ab67616d0000b27398a02fef3a8b1d80a0f164ec" width="150" height="150" alt="The Heist" /></a>
 
-<b><a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4">Firestarter</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn">Can't Hold Us (feat. Ray Dalton)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">The Prodigy (1997)</span>
+<span style="color: #666;">Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1Hg2egRryMkCdXqXmXki3A"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Hg2egRryMkCdXqXmXki3A">Krwlng (Mike Shinoda Reanimation) [feat. Aaron Lewis]</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park, Aaron Lewis (2002)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4"><img src="https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6" width="60" height="60" alt="The Fat of the Land" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4">Firestarter</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (1997)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb"><img src="https://i.scdn.co/image/ab67616d0000b2738a31cacc2818b37d9e4e4bdc" width="60" height="60" alt="Dura (Remix)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb">Dura - Remix</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny (2018)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"><img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" width="60" height="60" alt="21" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk">Rolling in the Deep</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Adele (2011)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/59oAu1DeHUGQxoj593GzCW"><img src="https://i.scdn.co/image/ab67616d0000b2735a2e66cf16498dbdd1335b91" width="60" height="60" alt="HOT N COLD" /></a></td>
-<td><b><a href="https://open.spotify.com/track/59oAu1DeHUGQxoj593GzCW">HOT N COLD</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">xxtristanxo (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL"><img src="https://i.scdn.co/image/ab67616d0000b27391538eb04634de568637b8be" width="60" height="60" alt="An Introduction To Ellie Goulding EP" /></a></td>
-<td><b><a href="https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL">Lights</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ellie Goulding (2010)</span></td>
 </tr>
 </table>
 </div>
