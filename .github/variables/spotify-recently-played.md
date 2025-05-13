@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"><img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="150" height="150" alt="UP!" /></a>
+<a href="https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"><img src="https://i.scdn.co/image/ab67616d0000b2731cd131e5e9ad887ad8c1ecb7" width="150" height="150" alt="Dirt (2022 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2">Rooster (2022 Remaster)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Forrest Frank, Connor Price (2024)</span>
+<span style="color: #666;">Alice In Chains (1992)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"><img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="60" height="60" alt="UP!" /></a></td>
+<td><b><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Forrest Frank, Connor Price (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y"><img src="https://i.scdn.co/image/ab67616d0000b273f3d247f5bc7a34b1ae79a7ef" width="60" height="60" alt="Bass Sax Beats, Vol. 2" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">LISA SIMPSON</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Michael Wilbur (2021)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4"><img src="https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6" width="60" height="60" alt="The Fat of the Land" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4">Firestarter</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb"><img src="https://i.scdn.co/image/ab67616d0000b2738a31cacc2818b37d9e4e4bdc" width="60" height="60" alt="Dura (Remix)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb">Dura - Remix</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny (2018)</span></td>
 </tr>
 </table>
 </div>
