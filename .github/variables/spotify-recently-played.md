@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan"><img src="https://i.scdn.co/image/ab67616d0000b273cb91b5b8f9640caf6602e4f3" width="150" height="150" alt="The Cyberpunk" /></a>
+<a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e"><img src="https://i.scdn.co/image/ab67616d0000b2732b46b5b241079360e6951405" width="150" height="150" alt="AA" /></a>
 
-<b><a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">The Cyberpunk Runner</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Yuri Petrovski (2020)</span>
+<span style="color: #666;">Walker Hayes (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan"><img src="https://i.scdn.co/image/ab67616d0000b273cb91b5b8f9640caf6602e4f3" width="60" height="60" alt="The Cyberpunk" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">The Cyberpunk Runner</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yuri Petrovski (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C"><img src="https://i.scdn.co/image/ab67616d0000b273f74baf63e915712df348e647" width="60" height="60" alt="Dark Horse" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C">Burn It to the Ground</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nickelback (2008)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6ekWVvw642aQsT3AfnCiTz"><img src="https://i.scdn.co/image/ab67616d0000b2731f81dec4c6e5a290f0bca4e8" width="60" height="60" alt="Cardboard Castles" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6ekWVvw642aQsT3AfnCiTz">Sloppy Seconds</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="60" height="60" alt="Pray for the Wicked" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2018)</span></td>
 </tr>
 </table>
 </div>
