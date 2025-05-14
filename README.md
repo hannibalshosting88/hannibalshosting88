@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"><img src="https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403" width="150" height="150" alt="Three Days Grace" /></a>
+<a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"><img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" width="150" height="150" alt="When The World Comes Down" /></a>
 
-<b><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">I Hate Everything About You</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF">Gives You Hell</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Three Days Grace (2003)</span>
+<span style="color: #666;">The All-American Rejects (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"><img src="https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403" width="60" height="60" alt="Three Days Grace" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">I Hate Everything About You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Three Days Grace (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ">Dig</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"><img src="https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96" width="60" height="60" alt="Weezer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA">Say It Ain't So - Original Mix</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (1994)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"><img src="https://i.scdn.co/image/ab67616d0000b2731cd131e5e9ad887ad8c1ecb7" width="60" height="60" alt="Dirt (2022 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2">Rooster (2022 Remaster)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Alice In Chains (1992)</span></td>
 </tr>
 </table>
 </div>
