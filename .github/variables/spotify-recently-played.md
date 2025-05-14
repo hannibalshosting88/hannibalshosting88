@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8"><img src="https://i.scdn.co/image/ab67616d0000b2732d4439111d68acb3f3a08e16" width="150" height="150" alt="Loki: Epic Collection (Cover)" /></a>
+<a href="https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh"><img src="https://i.scdn.co/image/ab67616d0000b273b3819d044ad981ffae5dd2b8" width="150" height="150" alt="Seven Bridges Road" /></a>
 
-<b><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme) - Cover</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh">Seven Bridges Road</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Samuel Kim (2021)</span>
+<span style="color: #666;">The Wilder Blue, Luke Combs (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8"><img src="https://i.scdn.co/image/ab67616d0000b2732d4439111d68acb3f3a08e16" width="60" height="60" alt="Loki: Epic Collection (Cover)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme) - Cover</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Samuel Kim (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK"><img src="https://i.scdn.co/image/ab67616d0000b273e8e3c040bfc38a08c65a5f77" width="60" height="60" alt="Kamikaze" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK">Slow Jamz (feat. Kanye West & Jamie Foxx)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Twista, Kanye West, Jamie Foxx (2004)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"><img src="https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403" width="60" height="60" alt="Three Days Grace" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">I Hate Everything About You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Three Days Grace (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ">Dig</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
 </tr>
 </table>
 </div>
