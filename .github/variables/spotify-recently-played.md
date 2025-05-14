@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="150" height="150" alt="Therapy Session" /></a>
+<a href="https://open.spotify.com/track/2naBVHNHinneXOYmczG7xE"><img src="https://i.scdn.co/image/ab67616d0000b273bafc29f4f3fb3fdb9d23a140" width="150" height="150" alt="The Pale Emperor" /></a>
 
-<b><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ">Oh Lord</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2naBVHNHinneXOYmczG7xE">Killing Strangers</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">NF (2016)</span>
+<span style="color: #666;">Marilyn Manson (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ">Oh Lord</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"><img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="60" height="60" alt="Hang-Ups" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Goldfinger (1998)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"><img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" width="60" height="60" alt="Black Holes and Revelations" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9">Supermassive Black Hole</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Muse (2006)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"><img src="https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf" width="60" height="60" alt="Beautiful Things" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9">Beautiful Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Benson Boone (2024)</span></td>
 </tr>
 </table>
 </div>
