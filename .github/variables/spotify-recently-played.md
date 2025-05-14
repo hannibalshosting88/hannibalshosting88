@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"><img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" width="150" height="150" alt="Black Holes and Revelations" /></a>
+<a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="150" height="150" alt="The Rising Tied" /></a>
 
-<b><a href="https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9">Supermassive Black Hole</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA">High Road (feat. John Legend)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Muse (2006)</span>
+<span style="color: #666;">Fort Minor, John Legend (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"><img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" width="60" height="60" alt="Black Holes and Revelations" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9">Supermassive Black Hole</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Muse (2006)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"><img src="https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf" width="60" height="60" alt="Beautiful Things" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9">Beautiful Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Benson Boone (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7fWFqVCqWk6tUvN7QPtAgN"><img src="https://i.scdn.co/image/ab67616d0000b273d00e49003543a5bb5aa5b873" width="60" height="60" alt="The Collection (Standard Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7fWFqVCqWk6tUvN7QPtAgN">Head over Feet</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Alanis Morissette (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e"><img src="https://i.scdn.co/image/ab67616d0000b2732b46b5b241079360e6951405" width="60" height="60" alt="AA" /></a></td>
-<td><b><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Walker Hayes (2021)</span></td>
 </tr>
 </table>
 </div>
