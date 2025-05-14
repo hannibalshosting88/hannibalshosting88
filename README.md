@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"><img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" width="150" height="150" alt="Paramore" /></a>
+<a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"><img src="https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403" width="150" height="150" alt="Three Days Grace" /></a>
 
-<b><a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa">Ain't It Fun</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">I Hate Everything About You</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Paramore (2013)</span>
+<span style="color: #666;">Three Days Grace (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ">Dig</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"><img src="https://i.scdn.co/image/ab67616d0000b273c72cc4087da2190116857f37" width="60" height="60" alt="Every Six Seconds" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">Click Click Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Saliva (2001)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"><img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" width="60" height="60" alt="Paramore" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa">Ain't It Fun</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Paramore (2013)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7fWFqVCqWk6tUvN7QPtAgN"><img src="https://i.scdn.co/image/ab67616d0000b273d00e49003543a5bb5aa5b873" width="60" height="60" alt="The Collection (Standard Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7fWFqVCqWk6tUvN7QPtAgN">Head over Feet</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Alanis Morissette (2005)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"><img src="https://i.scdn.co/image/ab67616d0000b2731cd131e5e9ad887ad8c1ecb7" width="60" height="60" alt="Dirt (2022 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2">Rooster (2022 Remaster)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Alice In Chains (1992)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"><img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="60" height="60" alt="UP!" /></a></td>
-<td><b><a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Forrest Frank, Connor Price (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y"><img src="https://i.scdn.co/image/ab67616d0000b273f3d247f5bc7a34b1ae79a7ef" width="60" height="60" alt="Bass Sax Beats, Vol. 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">LISA SIMPSON</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Michael Wilbur (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y"><img src="https://i.scdn.co/image/ab67616d0000b273f3d247f5bc7a34b1ae79a7ef" width="60" height="60" alt="Bass Sax Beats, Vol. 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">LISA SIMPSON</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Michael Wilbur (2021)</span></td>
 </tr>
 </table>
 </div>
