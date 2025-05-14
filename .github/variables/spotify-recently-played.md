@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"><img src="https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf" width="150" height="150" alt="Beautiful Things" /></a>
+<a href="https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"><img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" width="150" height="150" alt="Black Holes and Revelations" /></a>
 
-<b><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9">Beautiful Things</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9">Supermassive Black Hole</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Benson Boone (2024)</span>
+<span style="color: #666;">Muse (2006)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"><img src="https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf" width="60" height="60" alt="Beautiful Things" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9">Beautiful Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Benson Boone (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">No Warm Up</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e"><img src="https://i.scdn.co/image/ab67616d0000b2732b46b5b241079360e6951405" width="60" height="60" alt="AA" /></a></td>
 <td><b><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Walker Hayes (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan"><img src="https://i.scdn.co/image/ab67616d0000b273cb91b5b8f9640caf6602e4f3" width="60" height="60" alt="The Cyberpunk" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">The Cyberpunk Runner</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yuri Petrovski (2020)</span></td>
 </tr>
 </table>
 </div>
