@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1"><img src="https://i.scdn.co/image/ab67616d0000b27323d8d82a798baa960fdb5070" width="150" height="150" alt="Throwing Copper" /></a>
+<a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8"><img src="https://i.scdn.co/image/ab67616d0000b2732d4439111d68acb3f3a08e16" width="150" height="150" alt="Loki: Epic Collection (Cover)" /></a>
 
-<b><a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1">Lightning Crashes</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme) - Cover</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Live (1994)</span>
+<span style="color: #666;">Samuel Kim (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK"><img src="https://i.scdn.co/image/ab67616d0000b273e8e3c040bfc38a08c65a5f77" width="60" height="60" alt="Kamikaze" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK">Slow Jamz (feat. Kanye West & Jamie Foxx)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Twista, Kanye West, Jamie Foxx (2004)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1"><img src="https://i.scdn.co/image/ab67616d0000b27323d8d82a798baa960fdb5070" width="60" height="60" alt="Throwing Copper" /></a></td>
+<td><b><a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1">Lightning Crashes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Live (1994)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA">High Road (feat. John Legend)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, John Legend (2005)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ">Dig</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"><img src="https://i.scdn.co/image/ab67616d0000b273c72cc4087da2190116857f37" width="60" height="60" alt="Every Six Seconds" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">Click Click Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Saliva (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"><img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" width="60" height="60" alt="Paramore" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa">Ain't It Fun</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Paramore (2013)</span></td>
 </tr>
 </table>
 </div>
