@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2naBVHNHinneXOYmczG7xE"><img src="https://i.scdn.co/image/ab67616d0000b273bafc29f4f3fb3fdb9d23a140" width="150" height="150" alt="The Pale Emperor" /></a>
+<a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz"><img src="https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c" width="150" height="150" alt="Significant Other" /></a>
 
-<b><a href="https://open.spotify.com/track/2naBVHNHinneXOYmczG7xE">Killing Strangers</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz">9 Teen 90 Nine</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Marilyn Manson (2015)</span>
+<span style="color: #666;">Limp Bizkit (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"><img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" width="60" height="60" alt="LIVING THINGS" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I">BURN IT DOWN</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2012)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2naBVHNHinneXOYmczG7xE"><img src="https://i.scdn.co/image/ab67616d0000b273bafc29f4f3fb3fdb9d23a140" width="60" height="60" alt="The Pale Emperor" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2naBVHNHinneXOYmczG7xE">Killing Strangers</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marilyn Manson (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ">Oh Lord</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1"><img src="https://i.scdn.co/image/ab67616d0000b27323d8d82a798baa960fdb5070" width="60" height="60" alt="Throwing Copper" /></a></td>
 <td><b><a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1">Lightning Crashes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Live (1994)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA">High Road (feat. John Legend)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, John Legend (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"><img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" width="60" height="60" alt="Black Holes and Revelations" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9">Supermassive Black Hole</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Muse (2006)</span></td>
 </tr>
 </table>
 </div>
