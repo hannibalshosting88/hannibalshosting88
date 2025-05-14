@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"><img src="https://i.scdn.co/image/ab67616d0000b2735b8c3c95fc82a1643ada6766" width="150" height="150" alt="Spreading The Disease" /></a>
+<a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"><img src="https://i.scdn.co/image/ab67616d0000b273d3ad3861045494cf7eaaa107" width="150" height="150" alt="Fearless" /></a>
 
-<b><a href="https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX">Madhouse</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7">Pain</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Anthrax (1985)</span>
+<span style="color: #666;">Josh A (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"><img src="https://i.scdn.co/image/ab67616d0000b2735b8c3c95fc82a1643ada6766" width="60" height="60" alt="Spreading The Disease" /></a></td>
+<td><b><a href="https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX">Madhouse</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Anthrax (1985)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz"><img src="https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c" width="60" height="60" alt="Significant Other" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz">9 Teen 90 Nine</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (1999)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8"><img src="https://i.scdn.co/image/ab67616d0000b2732d4439111d68acb3f3a08e16" width="60" height="60" alt="Loki: Epic Collection (Cover)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme) - Cover</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Samuel Kim (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK"><img src="https://i.scdn.co/image/ab67616d0000b273e8e3c040bfc38a08c65a5f77" width="60" height="60" alt="Kamikaze" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK">Slow Jamz (feat. Kanye West & Jamie Foxx)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Twista, Kanye West, Jamie Foxx (2004)</span></td>
 </tr>
 </table>
 </div>
