@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"><img src="https://i.scdn.co/image/ab67616d0000b27397e3ca5aecb464f021c601d5" width="150" height="150" alt="Boulevard of Broken Dreams" /></a>
+<a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"><img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="150" height="150" alt="Hang-Ups" /></a>
 
-<b><a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw">Boulevard of Broken Dreams</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Green Day (2004)</span>
+<span style="color: #666;">Goldfinger (1998)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"><img src="https://i.scdn.co/image/ab67616d0000b27397e3ca5aecb464f021c601d5" width="60" height="60" alt="Boulevard of Broken Dreams" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw">Boulevard of Broken Dreams</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Green Day (2004)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn"><img src="https://i.scdn.co/image/ab67616d0000b273a9f4b8706c2bae056b19ca78" width="60" height="60" alt="Alley: The Return of the Ying Yang Twins" /></a></td>
 <td><b><a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn">Say I Yi Yi</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins (2002)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">No Warm Up</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L"><img src="https://i.scdn.co/image/ab67616d0000b273c6710b4a52539506c30e5354" width="60" height="60" alt="Monkey Business" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L">Pump It</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2005)</span></td>
 </tr>
 </table>
 </div>
