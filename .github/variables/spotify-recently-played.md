@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="150" height="150" alt="The Rising Tied" /></a>
+<a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1"><img src="https://i.scdn.co/image/ab67616d0000b27323d8d82a798baa960fdb5070" width="150" height="150" alt="Throwing Copper" /></a>
 
-<b><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA">High Road (feat. John Legend)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1">Lightning Crashes</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Fort Minor, John Legend (2005)</span>
+<span style="color: #666;">Live (1994)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA">High Road (feat. John Legend)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, John Legend (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"><img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" width="60" height="60" alt="Black Holes and Revelations" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9">Supermassive Black Hole</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Muse (2006)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"><img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" width="60" height="60" alt="Paramore" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa">Ain't It Fun</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Paramore (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7fWFqVCqWk6tUvN7QPtAgN"><img src="https://i.scdn.co/image/ab67616d0000b273d00e49003543a5bb5aa5b873" width="60" height="60" alt="The Collection (Standard Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7fWFqVCqWk6tUvN7QPtAgN">Head over Feet</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Alanis Morissette (2005)</span></td>
 </tr>
 </table>
 </div>
