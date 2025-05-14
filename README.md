@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn"><img src="https://i.scdn.co/image/ab67616d0000b273a9f4b8706c2bae056b19ca78" width="150" height="150" alt="Alley: The Return of the Ying Yang Twins" /></a>
+<a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"><img src="https://i.scdn.co/image/ab67616d0000b27397e3ca5aecb464f021c601d5" width="150" height="150" alt="Boulevard of Broken Dreams" /></a>
 
-<b><a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn">Say I Yi Yi</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw">Boulevard of Broken Dreams</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Ying Yang Twins (2002)</span>
+<span style="color: #666;">Green Day (2004)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn"><img src="https://i.scdn.co/image/ab67616d0000b273a9f4b8706c2bae056b19ca78" width="60" height="60" alt="Alley: The Return of the Ying Yang Twins" /></a></td>
+<td><b><a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn">Say I Yi Yi</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh"><img src="https://i.scdn.co/image/ab67616d0000b273b3819d044ad981ffae5dd2b8" width="60" height="60" alt="Seven Bridges Road" /></a></td>
 <td><b><a href="https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh">Seven Bridges Road</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Wilder Blue, Luke Combs (2023)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L"><img src="https://i.scdn.co/image/ab67616d0000b273c6710b4a52539506c30e5354" width="60" height="60" alt="Monkey Business" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L">Pump It</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"><img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" width="60" height="60" alt="When The World Comes Down" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF">Gives You Hell</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The All-American Rejects (2008)</span></td>
 </tr>
 </table>
 </div>
