@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"><img src="https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292" width="150" height="150" alt="Electric Ladyland" /></a>
+<a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="150" height="150" alt="Brasshopper" /></a>
 
-<b><a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f">All Along the Watchtower</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO">Brass Brothers</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Jimi Hendrix (1968)</span>
+<span style="color: #666;">Broken Brass (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"><img src="https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292" width="60" height="60" alt="Electric Ladyland" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f">All Along the Watchtower</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jimi Hendrix (1968)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"><img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="60" height="60" alt="Mezmerize" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md">B.Y.O.B.</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"><img src="https://i.scdn.co/image/ab67616d0000b27397e3ca5aecb464f021c601d5" width="60" height="60" alt="Boulevard of Broken Dreams" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw">Boulevard of Broken Dreams</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Green Day (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn"><img src="https://i.scdn.co/image/ab67616d0000b273a9f4b8706c2bae056b19ca78" width="60" height="60" alt="Alley: The Return of the Ying Yang Twins" /></a></td>
-<td><b><a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn">Say I Yi Yi</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins (2002)</span></td>
 </tr>
 </table>
 </div>
