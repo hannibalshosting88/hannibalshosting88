@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="150" height="150" alt="Burn The Ships" /></a>
+<a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="150" height="150" alt="Burn The Ships" /></a>
 
-<b><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi">joy.</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf">Burn The Ships</a></b><span style="color: gold;"> ★★★★</span>
 
 <span style="color: #666;">for KING & COUNTRY (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="60" height="60" alt="Burn The Ships" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi">joy.</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8"><img src="https://i.scdn.co/image/ab67616d0000b2734f582a7765b766fac982283a" width="60" height="60" alt="What Are We Waiting For?" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8">For God Is With Us</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2022)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"><img src="https://i.scdn.co/image/ab67616d0000b273d3ad3861045494cf7eaaa107" width="60" height="60" alt="Fearless" /></a></td>
 <td><b><a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7">Pain</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Josh A (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"><img src="https://i.scdn.co/image/ab67616d0000b2735b8c3c95fc82a1643ada6766" width="60" height="60" alt="Spreading The Disease" /></a></td>
-<td><b><a href="https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX">Madhouse</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Anthrax (1985)</span></td>
 </tr>
 </table>
 </div>
