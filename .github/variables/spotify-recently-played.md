@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"><img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" width="150" height="150" alt="FutureSex/LoveSounds" /></a>
+<a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2"><img src="https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf" width="150" height="150" alt="The Wall" /></a>
 
-<b><a href="https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey">What Goes Around.../...Comes Around (Interlude)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2">Goodbye Blue Sky</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Justin Timberlake (2006)</span>
+<span style="color: #666;">Pink Floyd (1979)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"><img src="https://i.scdn.co/image/ab67616d0000b27332f1572738340ddc9569c54b" width="60" height="60" alt="Megalithic Symphony" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">Sail</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"><img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" width="60" height="60" alt="FutureSex/LoveSounds" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey">What Goes Around.../...Comes Around (Interlude)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake (2006)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"><img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" width="60" height="60" alt="FutureSex/LoveSounds" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey">What Goes Around.../...Comes Around (Interlude)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake (2006)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"><img src="https://i.scdn.co/image/ab67616d0000b2730b6dc73f100159537dae26f4" width="60" height="60" alt="Hi-Lo (feat. Lindsey Stirling)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni">Hi-Lo - feat. Lindsey Stirling</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence, Lindsey Stirling (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI"><img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="60" height="60" alt="JoJo's Theme (Doom Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo's Theme (Doom Version)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Aahiden, Aaron F. Bianchi Jupiter (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4">One Step Closer</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
 </tr>
 </table>
 </div>
