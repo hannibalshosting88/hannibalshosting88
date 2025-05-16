@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO"><img src="https://i.scdn.co/image/ab67616d0000b27369b381d574b329409bd806e6" width="150" height="150" alt="Freddie's Inferno" /></a>
+<a href="https://open.spotify.com/track/1vvBUZseJ7fwYPX1NedOLd"><img src="https://i.scdn.co/image/ab67616d0000b27342ffc7773e7f4ea48e5606a8" width="150" height="150" alt="Cha Cha" /></a>
 
-<b><a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">Wrath</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1vvBUZseJ7fwYPX1NedOLd">Cha Cha</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Freddie Dredd (2022)</span>
+<span style="color: #666;">Freddie Dredd (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8"><img src="https://i.scdn.co/image/ab67616d0000b273ab400f73482c4eff6121adfb" width="60" height="60" alt="Suffer" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8">Devil's Work</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2020)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO"><img src="https://i.scdn.co/image/ab67616d0000b27369b381d574b329409bd806e6" width="60" height="60" alt="Freddie's Inferno" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">Wrath</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP"><img src="https://i.scdn.co/image/ab67616d0000b273629fb93e6332cdb8774c9676" width="60" height="60" alt="POPTHATRUNK" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP">POPTHATRUNK</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">1nonly, Freddie Dredd (2023)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Ying Yang Twins (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L"><img src="https://i.scdn.co/image/ab67616d0000b273c6710b4a52539506c30e5354" width="60" height="60" alt="Monkey Business" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L">Pump It</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"><img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" width="60" height="60" alt="A Place In The Sun" /></a></td>
-<td><b><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lit (1999)</span></td>
 </tr>
 </table>
 </div>
