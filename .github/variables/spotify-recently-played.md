@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3SlET8cwpL8uGI6BFFqmsp"><img src="https://i.scdn.co/image/ab67616d0000b2734f582a7765b766fac982283a" width="150" height="150" alt="What Are We Waiting For?" /></a>
+<a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"><img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" width="150" height="150" alt="A Place In The Sun" /></a>
 
-<b><a href="https://open.spotify.com/track/3SlET8cwpL8uGI6BFFqmsp">Unsung Hero</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">for KING & COUNTRY (2022)</span>
+<span style="color: #666;">Lit (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3SlET8cwpL8uGI6BFFqmsp"><img src="https://i.scdn.co/image/ab67616d0000b2734f582a7765b766fac982283a" width="60" height="60" alt="What Are We Waiting For?" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3SlET8cwpL8uGI6BFFqmsp">Unsung Hero</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4Vv58i2pIEeEWQsyS1Acrx"><img src="https://i.scdn.co/image/ab67616d0000b273c3f78dde5c0e86d445d5c5a4" width="60" height="60" alt="What Are We Waiting For? +" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4Vv58i2pIEeEWQsyS1Acrx">What Are We Waiting For? (The Single)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="60" height="60" alt="Burn The Ships" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf">Burn The Ships</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="60" height="60" alt="Burn The Ships" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi">joy.</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2018)</span></td>
 </tr>
 </table>
 </div>
