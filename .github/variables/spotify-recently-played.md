@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2"><img src="https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf" width="150" height="150" alt="The Wall" /></a>
+<a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"><img src="https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730" width="150" height="150" alt="Cage The Elephant (Expanded Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2">Goodbye Blue Sky</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">Ain't No Rest for the Wicked</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Pink Floyd (1979)</span>
+<span style="color: #666;">Cage The Elephant (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2"><img src="https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf" width="60" height="60" alt="The Wall" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2">Goodbye Blue Sky</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1979)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"><img src="https://i.scdn.co/image/ab67616d0000b27332f1572738340ddc9569c54b" width="60" height="60" alt="Megalithic Symphony" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">Sail</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION (2011)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95"><img src="https://i.scdn.co/image/ab67616d0000b27360c11533e1cb8e606f7042b9" width="60" height="60" alt="King Gampo" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">Gampo</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Prof (2011)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"><img src="https://i.scdn.co/image/ab67616d0000b2730b6dc73f100159537dae26f4" width="60" height="60" alt="Hi-Lo (feat. Lindsey Stirling)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni">Hi-Lo - feat. Lindsey Stirling</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence, Lindsey Stirling (2018)</span></td>
 </tr>
 </table>
 </div>
