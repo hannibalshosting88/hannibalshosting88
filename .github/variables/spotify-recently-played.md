@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="150" height="150" alt="Kings Of Crunk" /></a>
+<a href="https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"><img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" width="150" height="150" alt="DAMN." /></a>
 
-<b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS">HUMBLE.</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Lil Jon & The East Side Boyz, Ying Yang Twins (2002)</span>
+<span style="color: #666;">Kendrick Lamar (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Ying Yang Twins (2002)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Ying Yang Twins (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L"><img src="https://i.scdn.co/image/ab67616d0000b273c6710b4a52539506c30e5354" width="60" height="60" alt="Monkey Business" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L">Pump It</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2005)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1D9qrTl2rVrS2XP9RDLLs0"><img src="https://i.scdn.co/image/ab67616d0000b273c23344fb16b6497459430460" width="60" height="60" alt="Burn The Ships (Deluxe Edition: Remixes & Collaborations)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1D9qrTl2rVrS2XP9RDLLs0">TOGETHER</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY, Kirk Franklin, Tori Kelly (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5pNavG44Qct8Vm5vQDDxYF"><img src="https://i.scdn.co/image/ab67616d0000b273b3e7d09ce7493d8c41c43ac9" width="60" height="60" alt="Crave" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5pNavG44Qct8Vm5vQDDxYF">The Proof of Your Love</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="60" height="60" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl">Fix My Eyes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2015)</span></td>
 </tr>
 </table>
 </div>
