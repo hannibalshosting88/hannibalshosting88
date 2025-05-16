@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5MCG4XcVcvCOXWpSg2cfRC"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="150" height="150" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a>
+<a href="https://open.spotify.com/track/7BTmtN6bP35E54vVASTqao"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="150" height="150" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/5MCG4XcVcvCOXWpSg2cfRC">Shoulders</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/7BTmtN6bP35E54vVASTqao">Priceless</a></b><span style="color: gold;"> ★★★</span>
 
 <span style="color: #666;">for KING & COUNTRY (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5MCG4XcVcvCOXWpSg2cfRC"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="60" height="60" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5MCG4XcVcvCOXWpSg2cfRC">Shoulders</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1D9qrTl2rVrS2XP9RDLLs0"><img src="https://i.scdn.co/image/ab67616d0000b273c23344fb16b6497459430460" width="60" height="60" alt="Burn The Ships (Deluxe Edition: Remixes & Collaborations)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1D9qrTl2rVrS2XP9RDLLs0">TOGETHER</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY, Kirk Franklin, Tori Kelly (2021)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"><img src="https://i.scdn.co/image/ab67616d0000b273e122d21b6026da241cd33997" width="60" height="60" alt="Bobby Darin" /></a></td>
 <td><b><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG">Splish Splash</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bobby Darin (1958)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"><img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" width="60" height="60" alt="Unorthodox Jukebox" /></a></td>
-<td><b><a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7">Treasure</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2012)</span></td>
 </tr>
 </table>
 </div>
