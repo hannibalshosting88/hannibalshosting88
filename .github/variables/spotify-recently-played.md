@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="150" height="150" alt="Hybrid Theory (Bonus Edition)" /></a>
+<a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI"><img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="150" height="150" alt="JoJo's Theme (Doom Version)" /></a>
 
-<b><a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4">One Step Closer</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo's Theme (Doom Version)</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Linkin Park (2000)</span>
+<span style="color: #666;">Aahiden, Aaron F. Bianchi Jupiter (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4">One Step Closer</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1JTZqN0snbMSNtp59zveTs"><img src="https://i.scdn.co/image/ab67616d0000b2736a0b17b302637c4094433f09" width="60" height="60" alt="All 6's And 7's" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1JTZqN0snbMSNtp59zveTs">Am I A Psycho</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Tech N9ne (2011)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"><img src="https://i.scdn.co/image/ab67616d0000b273f67a8d19b2c7130f0437887b" width="60" height="60" alt="GTG" /></a></td>
 <td><b><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">GTG</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"><img src="https://i.scdn.co/image/ab67616d0000b27369b381d574b329409bd806e6" width="60" height="60" alt="Freddie's Inferno" /></a></td>
-<td><b><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2022)</span></td>
 </tr>
 </table>
 </div>
