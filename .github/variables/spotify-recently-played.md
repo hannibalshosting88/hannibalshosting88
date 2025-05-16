@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"><img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" width="150" height="150" alt="A Place In The Sun" /></a>
+<a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="150" height="150" alt="Kings Of Crunk" /></a>
 
-<b><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lit (1999)</span>
+<span style="color: #666;">Lil Jon & The East Side Boyz, Ying Yang Twins (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L"><img src="https://i.scdn.co/image/ab67616d0000b273c6710b4a52539506c30e5354" width="60" height="60" alt="Monkey Business" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L">Pump It</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2005)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"><img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" width="60" height="60" alt="A Place In The Sun" /></a></td>
+<td><b><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lit (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3SlET8cwpL8uGI6BFFqmsp"><img src="https://i.scdn.co/image/ab67616d0000b2734f582a7765b766fac982283a" width="60" height="60" alt="What Are We Waiting For?" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3SlET8cwpL8uGI6BFFqmsp">Unsung Hero</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2022)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="60" height="60" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl">Fix My Eyes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="60" height="60" alt="Burn The Ships" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf">Burn The Ships</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="60" height="60" alt="Burn The Ships" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf">Burn The Ships</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2018)</span></td>
 </tr>
 </table>
 </div>
