@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95"><img src="https://i.scdn.co/image/ab67616d0000b27360c11533e1cb8e606f7042b9" width="150" height="150" alt="King Gampo" /></a>
+<a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"><img src="https://i.scdn.co/image/ab67616d0000b2732e94b668c60b06deb1c3a05c" width="150" height="150" alt="GEMINI" /></a>
 
-<b><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">Gampo</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE">Glorious (feat. Skylar Grey)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Prof (2011)</span>
+<span style="color: #666;">Macklemore, Skylar Grey (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95"><img src="https://i.scdn.co/image/ab67616d0000b27360c11533e1cb8e606f7042b9" width="60" height="60" alt="King Gampo" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">Gampo</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Prof (2011)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"><img src="https://i.scdn.co/image/ab67616d0000b2730b6dc73f100159537dae26f4" width="60" height="60" alt="Hi-Lo (feat. Lindsey Stirling)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni">Hi-Lo - feat. Lindsey Stirling</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence, Lindsey Stirling (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8"><img src="https://i.scdn.co/image/ab67616d0000b273ab400f73482c4eff6121adfb" width="60" height="60" alt="Suffer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8">Devil's Work</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO"><img src="https://i.scdn.co/image/ab67616d0000b27369b381d574b329409bd806e6" width="60" height="60" alt="Freddie's Inferno" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">Wrath</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2022)</span></td>
 </tr>
 </table>
 </div>
