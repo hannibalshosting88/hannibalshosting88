@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"><img src="https://i.scdn.co/image/ab67616d0000b27369b381d574b329409bd806e6" width="150" height="150" alt="Freddie's Inferno" /></a>
+<a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"><img src="https://i.scdn.co/image/ab67616d0000b273f67a8d19b2c7130f0437887b" width="150" height="150" alt="GTG" /></a>
 
-<b><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">GTG</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Freddie Dredd (2022)</span>
+<span style="color: #666;">Freddie Dredd (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"><img src="https://i.scdn.co/image/ab67616d0000b27369b381d574b329409bd806e6" width="60" height="60" alt="Freddie's Inferno" /></a></td>
+<td><b><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6ft2eVtvt4okD58OvpPXIk"><img src="https://i.scdn.co/image/ab67616d0000b273784706138cf16da58822b58b" width="60" height="60" alt="Late To Work" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6ft2eVtvt4okD58OvpPXIk">Late To Work</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marc Rebillet (2023)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4Vv58i2pIEeEWQsyS1Acrx"><img src="https://i.scdn.co/image/ab67616d0000b273c3f78dde5c0e86d445d5c5a4" width="60" height="60" alt="What Are We Waiting For? +" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4Vv58i2pIEeEWQsyS1Acrx">What Are We Waiting For? (The Single)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5EFy628DSPL8FpuOLavfCl"><img src="https://i.scdn.co/image/ab67616d0000b27337cafa140d73cc50dcc3924a" width="60" height="60" alt="Unsung Hero (The Inspired By Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5EFy628DSPL8FpuOLavfCl">Place In This World</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY, Michael W. Smith (2024)</span></td>
 </tr>
 </table>
 </div>
