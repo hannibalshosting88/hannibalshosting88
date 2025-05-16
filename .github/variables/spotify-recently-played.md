@@ -12,6 +12,10 @@
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="60" height="60" alt="Burn The Ships" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf">Burn The Ships</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2018)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="60" height="60" alt="Burn The Ships" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi">joy.</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2018)</span></td>
 </tr>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"><img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="60" height="60" alt="Mezmerize" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md">B.Y.O.B.</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"><img src="https://i.scdn.co/image/ab67616d0000b273d3ad3861045494cf7eaaa107" width="60" height="60" alt="Fearless" /></a></td>
-<td><b><a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7">Pain</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Josh A (2019)</span></td>
 </tr>
 </table>
 </div>
