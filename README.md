@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5SV9SnHkuHMh446QsgQtry"><img src="https://i.scdn.co/image/ab67616d0000b273efbf69c0f1aac9d7e7cb489e" width="150" height="150" alt="The Red Light District" /></a>
+<a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="150" height="150" alt="Hybrid Theory (Bonus Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/5SV9SnHkuHMh446QsgQtry">Number One Spot</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4">One Step Closer</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Ludacris (2004)</span>
+<span style="color: #666;">Linkin Park (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1JTZqN0snbMSNtp59zveTs"><img src="https://i.scdn.co/image/ab67616d0000b2736a0b17b302637c4094433f09" width="60" height="60" alt="All 6's And 7's" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1JTZqN0snbMSNtp59zveTs">Am I A Psycho</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Tech N9ne (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5SV9SnHkuHMh446QsgQtry"><img src="https://i.scdn.co/image/ab67616d0000b273efbf69c0f1aac9d7e7cb489e" width="60" height="60" alt="The Red Light District" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5SV9SnHkuHMh446QsgQtry">Number One Spot</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ludacris (2004)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP"><img src="https://i.scdn.co/image/ab67616d0000b273629fb93e6332cdb8774c9676" width="60" height="60" alt="POPTHATRUNK" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP">POPTHATRUNK</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">1nonly, Freddie Dredd (2023)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"><img src="https://i.scdn.co/image/ab67616d0000b27369b381d574b329409bd806e6" width="60" height="60" alt="Freddie's Inferno" /></a></td>
 <td><b><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6ft2eVtvt4okD58OvpPXIk"><img src="https://i.scdn.co/image/ab67616d0000b273784706138cf16da58822b58b" width="60" height="60" alt="Late To Work" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6ft2eVtvt4okD58OvpPXIk">Late To Work</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marc Rebillet (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="60" height="60" alt="Minutes to Midnight" /></a></td>
-<td><b><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">What I've Done</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"><img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" width="60" height="60" alt="DAMN." /></a></td>
-<td><b><a href="https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS">HUMBLE.</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kendrick Lamar (2017)</span></td>
 </tr>
 </table>
 </div>
