@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI"><img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="150" height="150" alt="JoJo's Theme (Doom Version)" /></a>
+<a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95"><img src="https://i.scdn.co/image/ab67616d0000b27360c11533e1cb8e606f7042b9" width="150" height="150" alt="King Gampo" /></a>
 
-<b><a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo's Theme (Doom Version)</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">Gampo</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Aahiden, Aaron F. Bianchi Jupiter (2022)</span>
+<span style="color: #666;">Prof (2011)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"><img src="https://i.scdn.co/image/ab67616d0000b2730b6dc73f100159537dae26f4" width="60" height="60" alt="Hi-Lo (feat. Lindsey Stirling)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni">Hi-Lo - feat. Lindsey Stirling</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence, Lindsey Stirling (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI"><img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="60" height="60" alt="JoJo's Theme (Doom Version)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo's Theme (Doom Version)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Aahiden, Aaron F. Bianchi Jupiter (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4">One Step Closer</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO"><img src="https://i.scdn.co/image/ab67616d0000b27369b381d574b329409bd806e6" width="60" height="60" alt="Freddie's Inferno" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">Wrath</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP"><img src="https://i.scdn.co/image/ab67616d0000b273629fb93e6332cdb8774c9676" width="60" height="60" alt="POPTHATRUNK" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP">POPTHATRUNK</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">1nonly, Freddie Dredd (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"><img src="https://i.scdn.co/image/ab67616d0000b273f67a8d19b2c7130f0437887b" width="60" height="60" alt="GTG" /></a></td>
-<td><b><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">GTG</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2018)</span></td>
 </tr>
 </table>
 </div>
