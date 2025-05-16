@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="150" height="150" alt="Burn The Ships" /></a>
+<a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="150" height="150" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf">Burn The Ships</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl">Fix My Eyes</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">for KING & COUNTRY (2018)</span>
+<span style="color: #666;">for KING & COUNTRY (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="60" height="60" alt="Burn The Ships" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf">Burn The Ships</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="60" height="60" alt="Burn The Ships" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf">Burn The Ships</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"><img src="https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292" width="60" height="60" alt="Electric Ladyland" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f">All Along the Watchtower</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jimi Hendrix (1968)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"><img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="60" height="60" alt="Mezmerize" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md">B.Y.O.B.</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
 </tr>
 </table>
 </div>
