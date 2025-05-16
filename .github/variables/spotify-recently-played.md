@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf"><img src="https://i.scdn.co/image/ab67616d0000b273a9250e237a834437fa7d8739" width="150" height="150" alt="Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness" /></a>
+<a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="150" height="150" alt="Burn The Ships" /></a>
 
-<b><a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf">Ten Speed (Of God's Blood & Burial)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi">joy.</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Coheed and Cambria (2005)</span>
+<span style="color: #666;">for KING & COUNTRY (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8"><img src="https://i.scdn.co/image/ab67616d0000b2734f582a7765b766fac982283a" width="60" height="60" alt="What Are We Waiting For?" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8">For God Is With Us</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2022)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf"><img src="https://i.scdn.co/image/ab67616d0000b273a9250e237a834437fa7d8739" width="60" height="60" alt="Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf">Ten Speed (Of God's Blood & Burial)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"><img src="https://i.scdn.co/image/ab67616d0000b273e122d21b6026da241cd33997" width="60" height="60" alt="Bobby Darin" /></a></td>
 <td><b><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG">Splish Splash</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bobby Darin (1958)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"><img src="https://i.scdn.co/image/ab67616d0000b2735b8c3c95fc82a1643ada6766" width="60" height="60" alt="Spreading The Disease" /></a></td>
 <td><b><a href="https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX">Madhouse</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Anthrax (1985)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz"><img src="https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c" width="60" height="60" alt="Significant Other" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz">9 Teen 90 Nine</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"><img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" width="60" height="60" alt="LIVING THINGS" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I">BURN IT DOWN</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2012)</span></td>
 </tr>
 </table>
 </div>
