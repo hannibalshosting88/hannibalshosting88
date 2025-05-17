@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"><img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" width="150" height="150" alt="Curtain Call: The Hits (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="150" height="150" alt="Pieces Of Eight" /></a>
 
-<b><a href="https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ">Lose Yourself</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Eminem (2005)</span>
+<span style="color: #666;">Styx (1978)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"><img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" width="60" height="60" alt="Curtain Call: The Hits (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ">Lose Yourself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"><img src="https://i.scdn.co/image/ab67616d0000b273ade9ee0ae7f33fbb979d6bfe" width="60" height="60" alt="Ace of Spades (Expanded Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO">Ace of Spades</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Motörhead (1980)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4"><img src="https://i.scdn.co/image/ab67616d0000b2738bcc97e71e05b475077bdf4b" width="60" height="60" alt="Good Religion" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4">I Got the Juice</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dream Junkies, Beleaf, Ruslan, John Givez (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"><img src="https://i.scdn.co/image/ab67616d0000b273c34064a3c5e4a25892a091f3" width="60" height="60" alt="Nightmare" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8">Nightmare</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2010)</span></td>
 </tr>
 </table>
 </div>
