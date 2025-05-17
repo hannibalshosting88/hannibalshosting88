@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"><img src="https://i.scdn.co/image/ab67616d0000b273f7b69bb1db06fec7f326d6f7" width="150" height="150" alt="Run" /></a>
+<a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"><img src="https://i.scdn.co/image/ab67616d0000b273c34064a3c5e4a25892a091f3" width="150" height="150" alt="Nightmare" /></a>
 
-<b><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">Run</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8">Nightmare</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">AWOLNATION (2015)</span>
+<span style="color: #666;">Avenged Sevenfold (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3"><img src="https://i.scdn.co/image/ab67616d0000b273240501e829a9a109600cedd2" width="60" height="60" alt="CREED: Original Motion Picture Soundtrack" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3">Last Breath</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Future (2015)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"><img src="https://i.scdn.co/image/ab67616d0000b273f7b69bb1db06fec7f326d6f7" width="60" height="60" alt="Run" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">Run</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"><img src="https://i.scdn.co/image/ab67616d0000b273a69f71a8794e2d867a52f98f" width="60" height="60" alt="Elephant" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">Seven Nation Army</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The White Stripes (2003)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2pgmBocir7WJTM0HZ9yCgu"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="60" height="60" alt="YOUNG GENIUS" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2pgmBocir7WJTM0HZ9yCgu">MATHEMATICAL DISRESPECT</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Mabu (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4"><img src="https://i.scdn.co/image/ab67616d0000b27344583d23b665c7de0968ef3b" width="60" height="60" alt="311" /></a></td>
-<td><b><a href="https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4">All Mixed Up</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">311 (1995)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus"><img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="60" height="60" alt="The Click" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus">Sober Up (feat. Rivers Cuomo)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR, Rivers Cuomo (2017)</span></td>
 </tr>
 </table>
 </div>
