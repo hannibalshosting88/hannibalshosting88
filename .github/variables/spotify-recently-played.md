@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus"><img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="150" height="150" alt="The Click" /></a>
+<a href="https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4"><img src="https://i.scdn.co/image/ab67616d0000b27344583d23b665c7de0968ef3b" width="150" height="150" alt="311" /></a>
 
-<b><a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus">Sober Up (feat. Rivers Cuomo)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4">All Mixed Up</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">AJR, Rivers Cuomo (2017)</span>
+<span style="color: #666;">311 (1995)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus"><img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="60" height="60" alt="The Click" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus">Sober Up (feat. Rivers Cuomo)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR, Rivers Cuomo (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3"><img src="https://i.scdn.co/image/ab67616d0000b273f68df0d2e33a7c96a30a7847" width="60" height="60" alt="Dead Air" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3">Dead Air</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5VWVVSABdgccboSdrKGiZH"><img src="https://i.scdn.co/image/ab67616d0000b273bd4a1098dd7c86d8aa4580f5" width="60" height="60" alt="Drink the Sea" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5VWVVSABdgccboSdrKGiZH">Fortune Days</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Glitch Mob (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"><img src="https://i.scdn.co/image/ab67616d0000b27379606c79fde418c0bc458abb" width="60" height="60" alt="House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq">Jump Around - 30 Years Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">House Of Pain (2022)</span></td>
 </tr>
 </table>
 </div>
