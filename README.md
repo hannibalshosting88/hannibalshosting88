@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"><img src="https://i.scdn.co/image/ab67616d0000b2730fe330862c62782c7044f044" width="150" height="150" alt="Never Enough" /></a>
+<a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3"><img src="https://i.scdn.co/image/ab67616d0000b273f68df0d2e33a7c96a30a7847" width="150" height="150" alt="Dead Air" /></a>
 
-<b><a href="https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW">Burn It Down</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3">Dead Air</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Parker McCollum (2023)</span>
+<span style="color: #666;">Psygnals (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"><img src="https://i.scdn.co/image/ab67616d0000b2730fe330862c62782c7044f044" width="60" height="60" alt="Never Enough" /></a></td>
+<td><b><a href="https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW">Burn It Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Parker McCollum (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2gsNpSn7VvvJuSrIDfRoYy"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="60" height="60" alt="Kamikaze" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2gsNpSn7VvvJuSrIDfRoYy">Kamikaze</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2018)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv"><img src="https://i.scdn.co/image/ab67616d0000b273bfe4b1f5943476f199f5b666" width="60" height="60" alt="A B Y S S" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv">A B Y S S</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">1788-L, TYNAN (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2T3w7ohdeZNs7noXuIlHrr"><img src="https://i.scdn.co/image/ab67616d0000b273d9a3b1b7041f2fdfc5de0035" width="60" height="60" alt="Crooked Teeth (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2T3w7ohdeZNs7noXuIlHrr">Born For Greatness</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Papa Roach (2017)</span></td>
 </tr>
 </table>
 </div>
