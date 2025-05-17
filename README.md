@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1eb1ADsizGY0d7xnzeZrlc"><img src="https://i.scdn.co/image/ab67616d0000b273258a50aa1d9a6cfa722eab5a" width="150" height="150" alt="Loose Canon, Vol. 2" /></a>
+<a href="https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"><img src="https://i.scdn.co/image/ab67616d0000b273ade9ee0ae7f33fbb979d6bfe" width="150" height="150" alt="Ace of Spades (Expanded Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/1eb1ADsizGY0d7xnzeZrlc">Motivation (feat. Social Club)</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO">Ace of Spades</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Canon, Social Club Misfits (2014)</span>
+<span style="color: #666;">Motörhead (1980)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ"><img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" width="60" height="60" alt="The Marshall Mathers LP2 (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ">Berzerk</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2013)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1eb1ADsizGY0d7xnzeZrlc"><img src="https://i.scdn.co/image/ab67616d0000b273258a50aa1d9a6cfa722eab5a" width="60" height="60" alt="Loose Canon, Vol. 2" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1eb1ADsizGY0d7xnzeZrlc">Motivation (feat. Social Club)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Canon, Social Club Misfits (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"><img src="https://i.scdn.co/image/ab67616d0000b273d1d1f3d8dd3684ee3d75385b" width="60" height="60" alt="Shadows On The Sun" /></a></td>
 <td><b><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ">Forest Whitiker</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Brother Ali (2003)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3"><img src="https://i.scdn.co/image/ab67616d0000b273240501e829a9a109600cedd2" width="60" height="60" alt="CREED: Original Motion Picture Soundtrack" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3">Last Breath</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Future (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"><img src="https://i.scdn.co/image/ab67616d0000b273f7b69bb1db06fec7f326d6f7" width="60" height="60" alt="Run" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">Run</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"><img src="https://i.scdn.co/image/ab67616d0000b273a69f71a8794e2d867a52f98f" width="60" height="60" alt="Elephant" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">Seven Nation Army</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The White Stripes (2003)</span></td>
 </tr>
 </table>
 </div>
