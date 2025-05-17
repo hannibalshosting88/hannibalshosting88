@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"><img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="150" height="150" alt="Americana" /></a>
+<a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="150" height="150" alt="Origins (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">The Kids Aren't Alright</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT">Natural</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">The Offspring (1998)</span>
+<span style="color: #666;">Imagine Dragons (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6e56CkYWD3JO6ovFZBA8po"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="60" height="60" alt="Perception" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6e56CkYWD3JO6ovFZBA8po">Intro III</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2017)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"><img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="60" height="60" alt="Americana" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">The Kids Aren't Alright</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Offspring (1998)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"><img src="https://i.scdn.co/image/ab67616d0000b27320292e6cce666a69ba5a86fb" width="60" height="60" alt="Kill 'Em All (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">Seek & Destroy (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1983)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"><img src="https://i.scdn.co/image/ab67616d0000b2730fe330862c62782c7044f044" width="60" height="60" alt="Never Enough" /></a></td>
 <td><b><a href="https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW">Burn It Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Parker McCollum (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2gsNpSn7VvvJuSrIDfRoYy"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="60" height="60" alt="Kamikaze" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2gsNpSn7VvvJuSrIDfRoYy">Kamikaze</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"><img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" width="60" height="60" alt="Back In Black" /></a></td>
-<td><b><a href="https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj">Back In Black</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">AC/DC (1980)</span></td>
 </tr>
 </table>
 </div>
