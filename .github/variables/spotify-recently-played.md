@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="150" height="150" alt="Pieces Of Eight" /></a>
+<a href="https://open.spotify.com/track/5CQF7rXAK0cpqSoAvZ4n5I"><img src="https://i.scdn.co/image/ab67616d0000b27371951231efe12f82d1b89a2a" width="150" height="150" alt="A Drummer Boy Christmas" /></a>
 
-<b><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/5CQF7rXAK0cpqSoAvZ4n5I">Joy To The World</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Styx (1978)</span>
+<span style="color: #666;">for KING & COUNTRY (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"><img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" width="60" height="60" alt="Curtain Call: The Hits (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ">Lose Yourself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2005)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="60" height="60" alt="Death Magnetic" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (2008)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4"><img src="https://i.scdn.co/image/ab67616d0000b2738bcc97e71e05b475077bdf4b" width="60" height="60" alt="Good Religion" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4">I Got the Juice</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dream Junkies, Beleaf, Ruslan, John Givez (2016)</span></td>
 </tr>
 </table>
 </div>
