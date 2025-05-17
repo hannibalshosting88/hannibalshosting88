@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="150" height="150" alt="Power Rangers Redux" /></a>
+<a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"><img src="https://i.scdn.co/image/ab67616d0000b273d1d1f3d8dd3684ee3d75385b" width="150" height="150" alt="Shadows On The Sun" /></a>
 
-<b><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm">Go Go Power Rangers (Redux)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ">Forest Whitiker</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Ron Wasserman (2012)</span>
+<span style="color: #666;">Brother Ali (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9"><img src="https://i.scdn.co/image/ab67616d0000b2737a1ca67982b45f4e3e8387d6" width="60" height="60" alt="Now And Forever" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9">Fight Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sister Sin (2012)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="60" height="60" alt="Power Rangers Redux" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm">Go Go Power Rangers (Redux)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ron Wasserman (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/343YBumqHu19cGoGARUTsd"><img src="https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700" width="60" height="60" alt="More Life" /></a></td>
 <td><b><a href="https://open.spotify.com/track/343YBumqHu19cGoGARUTsd">Fake Love</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake (2017)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT">Natural</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6e56CkYWD3JO6ovFZBA8po"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="60" height="60" alt="Perception" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6e56CkYWD3JO6ovFZBA8po">Intro III</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"><img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="60" height="60" alt="Americana" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">The Kids Aren't Alright</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Offspring (1998)</span></td>
 </tr>
 </table>
 </div>
