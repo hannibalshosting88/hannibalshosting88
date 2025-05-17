@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3"><img src="https://i.scdn.co/image/ab67616d0000b273f68df0d2e33a7c96a30a7847" width="150" height="150" alt="Dead Air" /></a>
+<a href="https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"><img src="https://i.scdn.co/image/ab67616d0000b2730fe330862c62782c7044f044" width="150" height="150" alt="Never Enough" /></a>
 
-<b><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3">Dead Air</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW">Burn It Down</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Psygnals (2023)</span>
+<span style="color: #666;">Parker McCollum (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"><img src="https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730" width="60" height="60" alt="Cage The Elephant (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">Ain't No Rest for the Wicked</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cage The Elephant (2009)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2gsNpSn7VvvJuSrIDfRoYy"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="60" height="60" alt="Kamikaze" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2gsNpSn7VvvJuSrIDfRoYy">Kamikaze</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2"><img src="https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf" width="60" height="60" alt="The Wall" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2">Goodbye Blue Sky</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1979)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"><img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" width="60" height="60" alt="Back In Black" /></a></td>
+<td><b><a href="https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj">Back In Black</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">AC/DC (1980)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"><img src="https://i.scdn.co/image/ab67616d0000b27332f1572738340ddc9569c54b" width="60" height="60" alt="Megalithic Symphony" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">Sail</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION (2011)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="60" height="60" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl">Fix My Eyes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2015)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"><img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" width="60" height="60" alt="FutureSex/LoveSounds" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey">What Goes Around.../...Comes Around (Interlude)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake (2006)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"><img src="https://i.scdn.co/image/ab67616d0000b273a65df73c4011b6a9357c89f0" width="60" height="60" alt="Drops Of Jupiter" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA">Drops of Jupiter (Tell Me)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Train (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"><img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" width="60" height="60" alt="FutureSex/LoveSounds" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey">What Goes Around.../...Comes Around (Interlude)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake (2006)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1kyTf6EuKSuMyLZSFaQ80s"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1kyTf6EuKSuMyLZSFaQ80s">I'll Fly Away</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass, Harmen Ridderbos (2015)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"><img src="https://i.scdn.co/image/ab67616d0000b27357ebfccbef07ebff2a495843" width="60" height="60" alt="A Million In Prizes: Iggy Pop Anthology (Edited Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH">The Passenger</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Iggy Pop (2005)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY"><img src="https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8" width="60" height="60" alt="Pronounced' Leh-'Nerd 'Skin-'Nerd" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY">Simple Man</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lynyrd Skynyrd (1973)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1szwDbVdIdoQq5mG5GXAmJ"><img src="https://i.scdn.co/image/ab67616d0000b27300df6727e2cfe905baa75c1e" width="60" height="60" alt="Fashion Nugget" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1szwDbVdIdoQq5mG5GXAmJ">The Distance</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (1996)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5VWVVSABdgccboSdrKGiZH"><img src="https://i.scdn.co/image/ab67616d0000b273bd4a1098dd7c86d8aa4580f5" width="60" height="60" alt="Drink the Sea" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5VWVVSABdgccboSdrKGiZH">Fortune Days</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Glitch Mob (2010)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/50xYqUTVCvoqRLuyWFuG3r"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
-<td><b><a href="https://open.spotify.com/track/50xYqUTVCvoqRLuyWFuG3r">Enth E Nd (Kutmasta Kurt Reanimation) [feat. Motion Man]</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park, Motion Man (2002)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"><img src="https://i.scdn.co/image/ab67616d0000b27379606c79fde418c0bc458abb" width="60" height="60" alt="House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq">Jump Around - 30 Years Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">House Of Pain (2022)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA">Knocking on Wood</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv"><img src="https://i.scdn.co/image/ab67616d0000b273bfe4b1f5943476f199f5b666" width="60" height="60" alt="A B Y S S" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv">A B Y S S</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">1788-L, TYNAN (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"><img src="https://i.scdn.co/image/ab67616d0000b2732e94b668c60b06deb1c3a05c" width="60" height="60" alt="GEMINI" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE">Glorious (feat. Skylar Grey)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Macklemore, Skylar Grey (2017)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2T3w7ohdeZNs7noXuIlHrr"><img src="https://i.scdn.co/image/ab67616d0000b273d9a3b1b7041f2fdfc5de0035" width="60" height="60" alt="Crooked Teeth (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2T3w7ohdeZNs7noXuIlHrr">Born For Greatness</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Papa Roach (2017)</span></td>
 </tr>
 </table>
 </div>
