@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6591oPA9nKFawSWOcQcL8A"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="150" height="150" alt="YOUNG GENIUS" /></a>
+<a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"><img src="https://i.scdn.co/image/ab67616d0000b27320292e6cce666a69ba5a86fb" width="150" height="150" alt="Kill 'Em All (Remastered)" /></a>
 
-<b><a href="https://open.spotify.com/track/6591oPA9nKFawSWOcQcL8A">EVIL EMPIRE (feat. DD Osama)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">Seek & Destroy (Remastered)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lil Mabu, DD Osama (2024)</span>
+<span style="color: #666;">Metallica (1983)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6591oPA9nKFawSWOcQcL8A"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="60" height="60" alt="YOUNG GENIUS" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6591oPA9nKFawSWOcQcL8A">EVIL EMPIRE (feat. DD Osama)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Mabu, DD Osama (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="60" height="60" alt="YOUNG GENIUS" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp">BIG DOG SH*T (feat. Lil RT)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Mabu, Lil RT (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="60" height="60" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl">Fix My Eyes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"><img src="https://i.scdn.co/image/ab67616d0000b273a65df73c4011b6a9357c89f0" width="60" height="60" alt="Drops Of Jupiter" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA">Drops of Jupiter (Tell Me)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Train (2001)</span></td>
 </tr>
 </table>
 </div>
