@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"><img src="https://i.scdn.co/image/ab67616d0000b273a69f71a8794e2d867a52f98f" width="150" height="150" alt="Elephant" /></a>
+<a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"><img src="https://i.scdn.co/image/ab67616d0000b273f7b69bb1db06fec7f326d6f7" width="150" height="150" alt="Run" /></a>
 
-<b><a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">Seven Nation Army</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">Run</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">The White Stripes (2003)</span>
+<span style="color: #666;">AWOLNATION (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"><img src="https://i.scdn.co/image/ab67616d0000b273a69f71a8794e2d867a52f98f" width="60" height="60" alt="Elephant" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">Seven Nation Army</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The White Stripes (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT">Natural</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus"><img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="60" height="60" alt="The Click" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus">Sober Up (feat. Rivers Cuomo)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR, Rivers Cuomo (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3"><img src="https://i.scdn.co/image/ab67616d0000b273f68df0d2e33a7c96a30a7847" width="60" height="60" alt="Dead Air" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3">Dead Air</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
 </tr>
 </table>
 </div>
