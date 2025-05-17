@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"><img src="https://i.scdn.co/image/ab67616d0000b273ade9ee0ae7f33fbb979d6bfe" width="150" height="150" alt="Ace of Spades (Expanded Edition)" /></a>
+<a href="https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"><img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" width="150" height="150" alt="Curtain Call: The Hits (Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO">Ace of Spades</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ">Lose Yourself</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Motörhead (1980)</span>
+<span style="color: #666;">Eminem (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"><img src="https://i.scdn.co/image/ab67616d0000b273ade9ee0ae7f33fbb979d6bfe" width="60" height="60" alt="Ace of Spades (Expanded Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO">Ace of Spades</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Motörhead (1980)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ"><img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" width="60" height="60" alt="The Marshall Mathers LP2 (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ">Berzerk</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2013)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"><img src="https://i.scdn.co/image/ab67616d0000b273c34064a3c5e4a25892a091f3" width="60" height="60" alt="Nightmare" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8">Nightmare</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3"><img src="https://i.scdn.co/image/ab67616d0000b273240501e829a9a109600cedd2" width="60" height="60" alt="CREED: Original Motion Picture Soundtrack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3">Last Breath</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Future (2015)</span></td>
 </tr>
 </table>
 </div>
