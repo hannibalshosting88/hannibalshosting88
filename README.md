@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4"><img src="https://i.scdn.co/image/ab67616d0000b27344583d23b665c7de0968ef3b" width="150" height="150" alt="311" /></a>
+<a href="https://open.spotify.com/track/2pgmBocir7WJTM0HZ9yCgu"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="150" height="150" alt="YOUNG GENIUS" /></a>
 
-<b><a href="https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4">All Mixed Up</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2pgmBocir7WJTM0HZ9yCgu">MATHEMATICAL DISRESPECT</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">311 (1995)</span>
+<span style="color: #666;">Lil Mabu (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4"><img src="https://i.scdn.co/image/ab67616d0000b27344583d23b665c7de0968ef3b" width="60" height="60" alt="311" /></a></td>
+<td><b><a href="https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4">All Mixed Up</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">311 (1995)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus"><img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="60" height="60" alt="The Click" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus">Sober Up (feat. Rivers Cuomo)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR, Rivers Cuomo (2017)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY"><img src="https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8" width="60" height="60" alt="Pronounced' Leh-'Nerd 'Skin-'Nerd" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY">Simple Man</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lynyrd Skynyrd (1973)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5VWVVSABdgccboSdrKGiZH"><img src="https://i.scdn.co/image/ab67616d0000b273bd4a1098dd7c86d8aa4580f5" width="60" height="60" alt="Drink the Sea" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5VWVVSABdgccboSdrKGiZH">Fortune Days</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Glitch Mob (2010)</span></td>
 </tr>
 </table>
 </div>
