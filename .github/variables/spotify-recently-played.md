@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/706vx3MSxGNKO2yINe56uq"><img src="https://i.scdn.co/image/ab67616d0000b2733ecfe081929d760c1d5af4de" width="150" height="150" alt="Good Ol' Boys" /></a>
+<a href="https://open.spotify.com/track/7qfdFKdEZFuOf2X4cID8jS"><img src="https://i.scdn.co/image/ab67616d0000b273e43a058e5f8ffb25fa0a1c52" width="150" height="150" alt="For the Birds" /></a>
 
-<b><a href="https://open.spotify.com/track/706vx3MSxGNKO2yINe56uq">Good Ol' Boys</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/7qfdFKdEZFuOf2X4cID8jS">DLTGYD</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Hayden Coffman (2022)</span>
+<span style="color: #666;">Southall (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/706vx3MSxGNKO2yINe56uq"><img src="https://i.scdn.co/image/ab67616d0000b2733ecfe081929d760c1d5af4de" width="60" height="60" alt="Good Ol' Boys" /></a></td>
+<td><b><a href="https://open.spotify.com/track/706vx3MSxGNKO2yINe56uq">Good Ol' Boys</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hayden Coffman (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3DWl5nnIYM390wBQ1CxiMm"><img src="https://i.scdn.co/image/ab67616d0000b273cce2c214c1b7c45b3841a5bd" width="60" height="60" alt="County Line" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3DWl5nnIYM390wBQ1CxiMm">Pull Up</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chase Matthew (2021)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5CQF7rXAK0cpqSoAvZ4n5I"><img src="https://i.scdn.co/image/ab67616d0000b27371951231efe12f82d1b89a2a" width="60" height="60" alt="A Drummer Boy Christmas" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5CQF7rXAK0cpqSoAvZ4n5I">Joy To The World</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
-<td><b><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
 </tr>
 </table>
 </div>
