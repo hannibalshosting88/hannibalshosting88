@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5YZIkJeXIrDJYsmTM22Ieu"><img src="https://i.scdn.co/image/ab67616d0000b27393c15d202d46c5e3b6788e88" width="150" height="150" alt="Potluck" /></a>
+<a href="https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO"><img src="https://i.scdn.co/image/ab67616d0000b273edb94ff93ebc4cde0324e765" width="150" height="150" alt="Country Ghetto" /></a>
 
-<b><a href="https://open.spotify.com/track/5YZIkJeXIrDJYsmTM22Ieu">Kickapoo Redemption</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO">Mississippi</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Shea Abshier & The Nighthowlers (2018)</span>
+<span style="color: #666;">JJ Grey & Mofro (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5YZIkJeXIrDJYsmTM22Ieu"><img src="https://i.scdn.co/image/ab67616d0000b27393c15d202d46c5e3b6788e88" width="60" height="60" alt="Potluck" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5YZIkJeXIrDJYsmTM22Ieu">Kickapoo Redemption</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Shea Abshier & The Nighthowlers (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4sIIonIXHdJRzJSrn3BGYE"><img src="https://i.scdn.co/image/ab67616d0000b273e7bde7fb9ffdc4c8b1279c23" width="60" height="60" alt="Speed of the South" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4sIIonIXHdJRzJSrn3BGYE">Speed of the South</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Adam Hood (2022)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ"><img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" width="60" height="60" alt="The Marshall Mathers LP2 (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ">Berzerk</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1eb1ADsizGY0d7xnzeZrlc"><img src="https://i.scdn.co/image/ab67616d0000b273258a50aa1d9a6cfa722eab5a" width="60" height="60" alt="Loose Canon, Vol. 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1eb1ADsizGY0d7xnzeZrlc">Motivation (feat. Social Club)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Canon, Social Club Misfits (2014)</span></td>
 </tr>
 </table>
 </div>
