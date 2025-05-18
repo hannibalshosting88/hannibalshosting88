@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="150" height="150" alt="Beautifully Broken" /></a>
+<a href="https://open.spotify.com/track/4sIIonIXHdJRzJSrn3BGYE"><img src="https://i.scdn.co/image/ab67616d0000b273e7bde7fb9ffdc4c8b1279c23" width="150" height="150" alt="Speed of the South" /></a>
 
-<b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/4sIIonIXHdJRzJSrn3BGYE">Speed of the South</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Jelly Roll (2024)</span>
+<span style="color: #666;">Adam Hood (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6fV7s0epFFso0w5cZquNms"><img src="https://i.scdn.co/image/ab67616d0000b2737c06d81b96cda576401efaa1" width="60" height="60" alt="This Town" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6fV7s0epFFso0w5cZquNms">Cheap Gasoline</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Tanner Fenoglio (2017)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="60" height="60" alt="YOUNG GENIUS" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp">BIG DOG SH*T (feat. Lil RT)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Mabu, Lil RT (2024)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"><img src="https://i.scdn.co/image/ab67616d0000b273d1d1f3d8dd3684ee3d75385b" width="60" height="60" alt="Shadows On The Sun" /></a></td>
 <td><b><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ">Forest Whitiker</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Brother Ali (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9"><img src="https://i.scdn.co/image/ab67616d0000b2737a1ca67982b45f4e3e8387d6" width="60" height="60" alt="Now And Forever" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9">Fight Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sister Sin (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="60" height="60" alt="Power Rangers Redux" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm">Go Go Power Rangers (Redux)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ron Wasserman (2012)</span></td>
 </tr>
 </table>
 </div>
