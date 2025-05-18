@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="150" height="150" alt="YOUNG GENIUS" /></a>
+<a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="150" height="150" alt="Beautifully Broken" /></a>
 
-<b><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp">BIG DOG SH*T (feat. Lil RT)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Lil Mabu, Lil RT (2024)</span>
+<span style="color: #666;">Jelly Roll (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="60" height="60" alt="YOUNG GENIUS" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp">BIG DOG SH*T (feat. Lil RT)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Mabu, Lil RT (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5CQF7rXAK0cpqSoAvZ4n5I"><img src="https://i.scdn.co/image/ab67616d0000b27371951231efe12f82d1b89a2a" width="60" height="60" alt="A Drummer Boy Christmas" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5CQF7rXAK0cpqSoAvZ4n5I">Joy To The World</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2020)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="60" height="60" alt="Power Rangers Redux" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm">Go Go Power Rangers (Redux)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ron Wasserman (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/343YBumqHu19cGoGARUTsd"><img src="https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700" width="60" height="60" alt="More Life" /></a></td>
-<td><b><a href="https://open.spotify.com/track/343YBumqHu19cGoGARUTsd">Fake Love</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake (2017)</span></td>
 </tr>
 </table>
 </div>
