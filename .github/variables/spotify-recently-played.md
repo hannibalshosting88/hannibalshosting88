@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3DWl5nnIYM390wBQ1CxiMm"><img src="https://i.scdn.co/image/ab67616d0000b273cce2c214c1b7c45b3841a5bd" width="150" height="150" alt="County Line" /></a>
+<a href="https://open.spotify.com/track/706vx3MSxGNKO2yINe56uq"><img src="https://i.scdn.co/image/ab67616d0000b2733ecfe081929d760c1d5af4de" width="150" height="150" alt="Good Ol' Boys" /></a>
 
-<b><a href="https://open.spotify.com/track/3DWl5nnIYM390wBQ1CxiMm">Pull Up</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/706vx3MSxGNKO2yINe56uq">Good Ol' Boys</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Chase Matthew (2021)</span>
+<span style="color: #666;">Hayden Coffman (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3DWl5nnIYM390wBQ1CxiMm"><img src="https://i.scdn.co/image/ab67616d0000b273cce2c214c1b7c45b3841a5bd" width="60" height="60" alt="County Line" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3DWl5nnIYM390wBQ1CxiMm">Pull Up</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chase Matthew (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6MTnccytqnxeo6DJxEiYhJ"><img src="https://i.scdn.co/image/ab67616d0000b2730e862d17831f6d70c4f90106" width="60" height="60" alt="TOOGOODOO" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6MTnccytqnxeo6DJxEiYhJ">For Elizabeth</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Stop Light Observations (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
 <td><b><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"><img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" width="60" height="60" alt="Curtain Call: The Hits (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ">Lose Yourself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2005)</span></td>
 </tr>
 </table>
 </div>
