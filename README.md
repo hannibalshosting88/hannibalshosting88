@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6CThut6kPrjot0pTJOTEer"><img src="https://i.scdn.co/image/ab67616d0000b273fd6559329866163a6c4919d2" width="150" height="150" alt="the mockingbird & THE CROW" /></a>
+<a href="https://open.spotify.com/track/5NU6kBZORKaoqS09mOqgXs"><img src="https://i.scdn.co/image/ab67616d0000b273949000dbd45fd90ed1c2d17d" width="150" height="150" alt="Bad For Me" /></a>
 
-<b><a href="https://open.spotify.com/track/6CThut6kPrjot0pTJOTEer">TRUCK BED</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5NU6kBZORKaoqS09mOqgXs">23</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">HARDY (2023)</span>
+<span style="color: #666;">Chayce Beckham (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX"><img src="https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0" width="60" height="60" alt="F-1 Trillion" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX">Losers (Feat. Jelly Roll)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Post Malone, Jelly Roll (2024)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1JMkvPw0dUmU1iDVCN37M2"><img src="https://i.scdn.co/image/ab67616d0000b273beebaa7fbb1d4b9dcf30dbb9" width="60" height="60" alt="Young Blood" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1JMkvPw0dUmU1iDVCN37M2">Aim High</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marcus King (2022)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6CThut6kPrjot0pTJOTEer"><img src="https://i.scdn.co/image/ab67616d0000b273fd6559329866163a6c4919d2" width="60" height="60" alt="the mockingbird & THE CROW" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6CThut6kPrjot0pTJOTEer">TRUCK BED</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">HARDY (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7qfdFKdEZFuOf2X4cID8jS"><img src="https://i.scdn.co/image/ab67616d0000b273e43a058e5f8ffb25fa0a1c52" width="60" height="60" alt="For the Birds" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7qfdFKdEZFuOf2X4cID8jS">DLTGYD</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Southall (2021)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4sIIonIXHdJRzJSrn3BGYE"><img src="https://i.scdn.co/image/ab67616d0000b273e7bde7fb9ffdc4c8b1279c23" width="60" height="60" alt="Speed of the South" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4sIIonIXHdJRzJSrn3BGYE">Speed of the South</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Adam Hood (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6fV7s0epFFso0w5cZquNms"><img src="https://i.scdn.co/image/ab67616d0000b2737c06d81b96cda576401efaa1" width="60" height="60" alt="This Town" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6fV7s0epFFso0w5cZquNms">Cheap Gasoline</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Tanner Fenoglio (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="60" height="60" alt="YOUNG GENIUS" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp">BIG DOG SH*T (feat. Lil RT)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Mabu, Lil RT (2024)</span></td>
 </tr>
 </table>
 </div>
