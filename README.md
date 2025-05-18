@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA"><img src="https://i.scdn.co/image/ab67616d0000b273d4a465bfbd858cc114c0da1a" width="150" height="150" alt="Never Give Up On A Good Time" /></a>
+<a href="https://open.spotify.com/track/1PKyxZQMGrjEHcLmGiMAL5"><img src="https://i.scdn.co/image/ab67616d0000b273699599750974684ca0a6cc8a" width="150" height="150" alt="Outlaw Nation, Vol. 1" /></a>
 
-<b><a href="https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA">Never Give Up On A Good Time</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/1PKyxZQMGrjEHcLmGiMAL5">Welcome to My House</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Casey Barnes (2023)</span>
+<span style="color: #666;">Nu Breed, Jesse Howard (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA"><img src="https://i.scdn.co/image/ab67616d0000b273d4a465bfbd858cc114c0da1a" width="60" height="60" alt="Never Give Up On A Good Time" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA">Never Give Up On A Good Time</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Casey Barnes (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5NU6kBZORKaoqS09mOqgXs"><img src="https://i.scdn.co/image/ab67616d0000b273949000dbd45fd90ed1c2d17d" width="60" height="60" alt="Bad For Me" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5NU6kBZORKaoqS09mOqgXs">23</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chayce Beckham (2024)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO"><img src="https://i.scdn.co/image/ab67616d0000b273edb94ff93ebc4cde0324e765" width="60" height="60" alt="Country Ghetto" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO">Mississippi</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">JJ Grey & Mofro (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5YZIkJeXIrDJYsmTM22Ieu"><img src="https://i.scdn.co/image/ab67616d0000b27393c15d202d46c5e3b6788e88" width="60" height="60" alt="Potluck" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5YZIkJeXIrDJYsmTM22Ieu">Kickapoo Redemption</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Shea Abshier & The Nighthowlers (2018)</span></td>
 </tr>
 </table>
 </div>
