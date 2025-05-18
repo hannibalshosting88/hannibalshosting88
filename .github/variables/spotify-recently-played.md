@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX"><img src="https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0" width="150" height="150" alt="F-1 Trillion" /></a>
+<a href="https://open.spotify.com/track/5NU6kBZORKaoqS09mOqgXs"><img src="https://i.scdn.co/image/ab67616d0000b273949000dbd45fd90ed1c2d17d" width="150" height="150" alt="Bad For Me" /></a>
 
-<b><a href="https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX">Losers (Feat. Jelly Roll)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5NU6kBZORKaoqS09mOqgXs">23</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Post Malone, Jelly Roll (2024)</span>
+<span style="color: #666;">Chayce Beckham (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX"><img src="https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0" width="60" height="60" alt="F-1 Trillion" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX">Losers (Feat. Jelly Roll)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Post Malone, Jelly Roll (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1JMkvPw0dUmU1iDVCN37M2"><img src="https://i.scdn.co/image/ab67616d0000b273beebaa7fbb1d4b9dcf30dbb9" width="60" height="60" alt="Young Blood" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1JMkvPw0dUmU1iDVCN37M2">Aim High</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marcus King (2022)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4sIIonIXHdJRzJSrn3BGYE"><img src="https://i.scdn.co/image/ab67616d0000b273e7bde7fb9ffdc4c8b1279c23" width="60" height="60" alt="Speed of the South" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4sIIonIXHdJRzJSrn3BGYE">Speed of the South</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Adam Hood (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6fV7s0epFFso0w5cZquNms"><img src="https://i.scdn.co/image/ab67616d0000b2737c06d81b96cda576401efaa1" width="60" height="60" alt="This Town" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6fV7s0epFFso0w5cZquNms">Cheap Gasoline</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Tanner Fenoglio (2017)</span></td>
 </tr>
 </table>
 </div>
