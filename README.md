@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="150" height="150" alt="Disobey" /></a>
+<a href="https://open.spotify.com/track/5YaLFRpqpUzgLLDcukNn0H"><img src="https://i.scdn.co/image/ab67616d0000b2737b8aabae10ab5bbe7c7f11c5" width="150" height="150" alt="The Open Door" /></a>
 
-<b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5YaLFRpqpUzgLLDcukNn0H">Lithium</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Bad Wolves (2018)</span>
+<span style="color: #666;">Evanescence (2006)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="60" height="60" alt="Disobey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Wolves (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="60" height="60" alt="Disobey" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Wolves (2018)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"><img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" width="60" height="60" alt="Dangerously In Love" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr">Crazy In Love (feat. JAY-Z)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Beyoncé, JAY-Z (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"><img src="https://i.scdn.co/image/ab67616d0000b273a15ce75bd2271f6388b6645d" width="60" height="60" alt="Killin' On Demand" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV">Killin' On Demand</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2018)</span></td>
 </tr>
 </table>
 </div>
