@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"><img src="https://i.scdn.co/image/ab67616d0000b27343294cfa2688055c9d821bf3" width="150" height="150" alt="TALKING IS HARD" /></a>
+<a href="https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"><img src="https://i.scdn.co/image/ab67616d0000b273ecd970d1d2623b6c7fc6080c" width="150" height="150" alt="Good Times Go" /></a>
 
-<b><a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA">Shut Up and Dance</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA">Sunroof</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">WALK THE MOON (2014)</span>
+<span style="color: #666;">Nicky Youre, hey daisy (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"><img src="https://i.scdn.co/image/ab67616d0000b27343294cfa2688055c9d821bf3" width="60" height="60" alt="TALKING IS HARD" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA">Shut Up and Dance</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">WALK THE MOON (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6luTWh6j0KQQ1OgYAgV8ke"><img src="https://i.scdn.co/image/ab67616d0000b273f4a954bd49b104d726f4d616" width="60" height="60" alt="Government Hooker" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6luTWh6j0KQQ1OgYAgV8ke">Government Hooker</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bread Beatz (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"><img src="https://i.scdn.co/image/ab67616d0000b273d6165c0d6eba7e5bf3fca16d" width="60" height="60" alt="31 Minutes to Takeoff" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj">Cooler Than Me - Single Mix</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Mike Posner, Gigamesh (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"><img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" width="60" height="60" alt="1989" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH">Shake It Off</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Taylor Swift (2014)</span></td>
 </tr>
 </table>
 </div>
