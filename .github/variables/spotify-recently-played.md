@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"><img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" width="150" height="150" alt="Future Nostalgia" /></a>
+<a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"><img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="150" height="150" alt="Blurred Lines (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF">Levitating (feat. DaBaby)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Dua Lipa, DaBaby (2020)</span>
+<span style="color: #666;">Robin Thicke, T.I., Pharrell Williams (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"><img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" width="60" height="60" alt="Future Nostalgia" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF">Levitating (feat. DaBaby)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Dua Lipa, DaBaby (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"><img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" width="60" height="60" alt="Illuminate (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml">There's Nothing Holdin' Me Back</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Shawn Mendes (2017)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"><img src="https://i.scdn.co/image/ab67616d0000b27336385e0fad3c87e8e8f19071" width="60" height="60" alt="PASSO BEM SOLTO" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3">PASSO BEM SOLTO - Slowed</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">ATLXS (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"><img src="https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b" width="60" height="60" alt="18 Months" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc">Feel So Close - Radio Edit</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Calvin Harris (2012)</span></td>
 </tr>
 </table>
 </div>
