@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"><img src="https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103" width="150" height="150" alt="The Time Of Our Lives" /></a>
+<a href="https://open.spotify.com/track/1DqdF42leyFIzqNDv9CjId"><img src="https://i.scdn.co/image/ab67616d0000b273a9006ae892a2255a865c0f7a" width="150" height="150" alt="Rokstarr" /></a>
 
-<b><a href="https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1">Party In The U.S.A.</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1DqdF42leyFIzqNDv9CjId">Dynamite</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Miley Cyrus (2009)</span>
+<span style="color: #666;">Taio Cruz (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"><img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="60" height="60" alt="24K Magic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P">24K Magic</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2016)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"><img src="https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616" width="60" height="60" alt="Don't Forget About Me, Demos" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc">Babydoll</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Dominic Fike (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"><img src="https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103" width="60" height="60" alt="The Time Of Our Lives" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1">Party In The U.S.A.</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Miley Cyrus (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"><img src="https://i.scdn.co/image/ab67616d0000b273aa7d2641af0fa4c1f76fafbf" width="60" height="60" alt="Pink Friday (Complete Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel">Super Bass</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nicki Minaj (2010)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1JMkvPw0dUmU1iDVCN37M2"><img src="https://i.scdn.co/image/ab67616d0000b273beebaa7fbb1d4b9dcf30dbb9" width="60" height="60" alt="Young Blood" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1JMkvPw0dUmU1iDVCN37M2">Aim High</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marcus King (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6CThut6kPrjot0pTJOTEer"><img src="https://i.scdn.co/image/ab67616d0000b273fd6559329866163a6c4919d2" width="60" height="60" alt="the mockingbird & THE CROW" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6CThut6kPrjot0pTJOTEer">TRUCK BED</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">HARDY (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7qfdFKdEZFuOf2X4cID8jS"><img src="https://i.scdn.co/image/ab67616d0000b273e43a058e5f8ffb25fa0a1c52" width="60" height="60" alt="For the Birds" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7qfdFKdEZFuOf2X4cID8jS">DLTGYD</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Southall (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/706vx3MSxGNKO2yINe56uq"><img src="https://i.scdn.co/image/ab67616d0000b2733ecfe081929d760c1d5af4de" width="60" height="60" alt="Good Ol' Boys" /></a></td>
-<td><b><a href="https://open.spotify.com/track/706vx3MSxGNKO2yINe56uq">Good Ol' Boys</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hayden Coffman (2022)</span></td>
 </tr>
 </table>
 </div>
