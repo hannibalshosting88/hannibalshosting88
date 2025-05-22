@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths"><img src="https://i.scdn.co/image/ab67616d0000b273a511f69870fa68e7ba78c099" width="150" height="150" alt="Pitbull Starring In Rebelution" /></a>
+<a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"><img src="https://i.scdn.co/image/ab67616d0000b27369b381d574b329409bd806e6" width="150" height="150" alt="Freddie's Inferno" /></a>
 
-<b><a href="https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths">Hotel Room Service</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Pitbull (2009)</span>
+<span style="color: #666;">Freddie Dredd (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths"><img src="https://i.scdn.co/image/ab67616d0000b273a511f69870fa68e7ba78c099" width="60" height="60" alt="Pitbull Starring In Rebelution" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths">Hotel Room Service</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pitbull (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"><img src="https://i.scdn.co/image/ab67616d0000b273ec96e006b8bdfc582610ec13" width="60" height="60" alt="I Ain’t Worried (Music From The Motion Picture "Top Gun: Maverick")" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB">I Ain't Worried</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">OneRepublic (2022)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"><img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" width="60" height="60" alt="Illuminate (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml">There's Nothing Holdin' Me Back</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Shawn Mendes (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9"><img src="https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d" width="60" height="60" alt="The Heist" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9">Thrift Shop (feat. Wanz)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Wanz (2012)</span></td>
 </tr>
 </table>
 </div>
