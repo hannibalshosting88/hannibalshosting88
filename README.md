@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"><img src="https://i.scdn.co/image/ab67616d0000b2735299e58cae4abdeebf3bab3a" width="150" height="150" alt="Rock" /></a>
+<a href="https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"><img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" width="150" height="150" alt="1989" /></a>
 
-<b><a href="https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf">Rock</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH">Shake It Off</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Stepz (2024)</span>
+<span style="color: #666;">Taylor Swift (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"><img src="https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb" width="60" height="60" alt="Oracular Spectacular" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt">Electric Feel</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">MGMT (2007)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"><img src="https://i.scdn.co/image/ab67616d0000b2735299e58cae4abdeebf3bab3a" width="60" height="60" alt="Rock" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf">Rock</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stepz (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"><img src="https://i.scdn.co/image/ab67616d0000b273a4c01842096428fb14859bdc" width="60" height="60" alt="Night Shades" /></a></td>
 <td><b><a href="https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM">You Make Me Feel... (feat. Sabi)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cobra Starship, Sabi (2011)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"><img src="https://i.scdn.co/image/ab67616d0000b273aa7d2641af0fa4c1f76fafbf" width="60" height="60" alt="Pink Friday (Complete Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel">Super Bass</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nicki Minaj (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn"><img src="https://i.scdn.co/image/ab67616d0000b273f2486b438645e97b523e4f90" width="60" height="60" alt="Global Warming: Meltdown (Deluxe Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn">Don't Stop the Party (feat. TJR)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pitbull, TJR (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1PKyxZQMGrjEHcLmGiMAL5"><img src="https://i.scdn.co/image/ab67616d0000b273699599750974684ca0a6cc8a" width="60" height="60" alt="Outlaw Nation, Vol. 1" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1PKyxZQMGrjEHcLmGiMAL5">Welcome to My House</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nu Breed, Jesse Howard (2021)</span></td>
 </tr>
 </table>
 </div>
