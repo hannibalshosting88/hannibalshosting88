@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"><img src="https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f" width="150" height="150" alt="Future Nostalgia" /></a>
+<a href="https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"><img src="https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b" width="150" height="150" alt="Beauty Behind The Madness" /></a>
 
-<b><a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62">Don't Start Now</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81">Can't Feel My Face</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Dua Lipa (2020)</span>
+<span style="color: #666;">The Weeknd (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"><img src="https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f" width="60" height="60" alt="Future Nostalgia" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62">Don't Start Now</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Dua Lipa (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"><img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="60" height="60" alt="Blurred Lines (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Robin Thicke, T.I., Pharrell Williams (2013)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"><img src="https://i.scdn.co/image/ab67616d0000b2735299e58cae4abdeebf3bab3a" width="60" height="60" alt="Rock" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf">Rock</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stepz (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"><img src="https://i.scdn.co/image/ab67616d0000b273a4c01842096428fb14859bdc" width="60" height="60" alt="Night Shades" /></a></td>
-<td><b><a href="https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM">You Make Me Feel... (feat. Sabi)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cobra Starship, Sabi (2011)</span></td>
 </tr>
 </table>
 </div>
