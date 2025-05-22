@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"><img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="150" height="150" alt="Blurred Lines (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"><img src="https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f" width="150" height="150" alt="Future Nostalgia" /></a>
 
-<b><a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62">Don't Start Now</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Robin Thicke, T.I., Pharrell Williams (2013)</span>
+<span style="color: #666;">Dua Lipa (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"><img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="60" height="60" alt="Blurred Lines (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Robin Thicke, T.I., Pharrell Williams (2013)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"><img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" width="60" height="60" alt="Future Nostalgia" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF">Levitating (feat. DaBaby)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Dua Lipa, DaBaby (2020)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"><img src="https://i.scdn.co/image/ab67616d0000b273a4c01842096428fb14859bdc" width="60" height="60" alt="Night Shades" /></a></td>
 <td><b><a href="https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM">You Make Me Feel... (feat. Sabi)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cobra Starship, Sabi (2011)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"><img src="https://i.scdn.co/image/ab67616d0000b27336385e0fad3c87e8e8f19071" width="60" height="60" alt="PASSO BEM SOLTO" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3">PASSO BEM SOLTO - Slowed</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">ATLXS (2024)</span></td>
 </tr>
 </table>
 </div>
