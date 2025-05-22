@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"><img src="https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee" width="150" height="150" alt="Justified" /></a>
+<a href="https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"><img src="https://i.scdn.co/image/ab67616d0000b273531292351b0d757c7e7aedb7" width="150" height="150" alt="Jugo A La Vida" /></a>
 
-<b><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT">Rock Your Body</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW">La Chica Sexy</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Justin Timberlake (2002)</span>
+<span style="color: #666;">Los Tucanes De Tijuana (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"><img src="https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee" width="60" height="60" alt="Justified" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT">Rock Your Body</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"><img src="https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee" width="60" height="60" alt="Justified" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT">Rock Your Body</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake (2002)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6luTWh6j0KQQ1OgYAgV8ke"><img src="https://i.scdn.co/image/ab67616d0000b273f4a954bd49b104d726f4d616" width="60" height="60" alt="Government Hooker" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6luTWh6j0KQQ1OgYAgV8ke">Government Hooker</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bread Beatz (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"><img src="https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b" width="60" height="60" alt="Beauty Behind The Madness" /></a></td>
-<td><b><a href="https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81">Can't Feel My Face</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Weeknd (2015)</span></td>
 </tr>
 </table>
 </div>
