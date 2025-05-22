@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"><img src="https://i.scdn.co/image/ab67616d0000b273ec96e006b8bdfc582610ec13" width="150" height="150" alt="I Ain’t Worried (Music From The Motion Picture "Top Gun: Maverick")" /></a>
+<a href="https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths"><img src="https://i.scdn.co/image/ab67616d0000b273a511f69870fa68e7ba78c099" width="150" height="150" alt="Pitbull Starring In Rebelution" /></a>
 
-<b><a href="https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB">I Ain't Worried</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths">Hotel Room Service</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">OneRepublic (2022)</span>
+<span style="color: #666;">Pitbull (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"><img src="https://i.scdn.co/image/ab67616d0000b273ec96e006b8bdfc582610ec13" width="60" height="60" alt="I Ain’t Worried (Music From The Motion Picture "Top Gun: Maverick")" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB">I Ain't Worried</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">OneRepublic (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"><img src="https://i.scdn.co/image/ab67616d0000b273ecd970d1d2623b6c7fc6080c" width="60" height="60" alt="Good Times Go" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA">Sunroof</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nicky Youre, hey daisy (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9"><img src="https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d" width="60" height="60" alt="The Heist" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9">Thrift Shop (feat. Wanz)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Wanz (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"><img src="https://i.scdn.co/image/ab67616d0000b273861f87fea3ad0f7b23453780" width="60" height="60" alt="Pocketful Of Sunshine" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk">Pocketful of Sunshine</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Natasha Bedingfield (2007)</span></td>
 </tr>
 </table>
 </div>
