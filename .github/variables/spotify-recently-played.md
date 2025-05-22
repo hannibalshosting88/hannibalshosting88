@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn"><img src="https://i.scdn.co/image/ab67616d0000b273f2486b438645e97b523e4f90" width="150" height="150" alt="Global Warming: Meltdown (Deluxe Version)" /></a>
+<a href="https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"><img src="https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103" width="150" height="150" alt="The Time Of Our Lives" /></a>
 
-<b><a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn">Don't Stop the Party (feat. TJR)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1">Party In The U.S.A.</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Pitbull, TJR (2012)</span>
+<span style="color: #666;">Miley Cyrus (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"><img src="https://i.scdn.co/image/ab67616d0000b273aa7d2641af0fa4c1f76fafbf" width="60" height="60" alt="Pink Friday (Complete Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel">Super Bass</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nicki Minaj (2010)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn"><img src="https://i.scdn.co/image/ab67616d0000b273f2486b438645e97b523e4f90" width="60" height="60" alt="Global Warming: Meltdown (Deluxe Version)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn">Don't Stop the Party (feat. TJR)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pitbull, TJR (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1PKyxZQMGrjEHcLmGiMAL5"><img src="https://i.scdn.co/image/ab67616d0000b273699599750974684ca0a6cc8a" width="60" height="60" alt="Outlaw Nation, Vol. 1" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1PKyxZQMGrjEHcLmGiMAL5">Welcome to My House</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nu Breed, Jesse Howard (2021)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/706vx3MSxGNKO2yINe56uq"><img src="https://i.scdn.co/image/ab67616d0000b2733ecfe081929d760c1d5af4de" width="60" height="60" alt="Good Ol' Boys" /></a></td>
 <td><b><a href="https://open.spotify.com/track/706vx3MSxGNKO2yINe56uq">Good Ol' Boys</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hayden Coffman (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3DWl5nnIYM390wBQ1CxiMm"><img src="https://i.scdn.co/image/ab67616d0000b273cce2c214c1b7c45b3841a5bd" width="60" height="60" alt="County Line" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3DWl5nnIYM390wBQ1CxiMm">Pull Up</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chase Matthew (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6MTnccytqnxeo6DJxEiYhJ"><img src="https://i.scdn.co/image/ab67616d0000b2730e862d17831f6d70c4f90106" width="60" height="60" alt="TOOGOODOO" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6MTnccytqnxeo6DJxEiYhJ">For Elizabeth</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Stop Light Observations (2016)</span></td>
 </tr>
 </table>
 </div>
