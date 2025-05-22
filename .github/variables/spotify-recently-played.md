@@ -12,6 +12,10 @@
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"><img src="https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee" width="60" height="60" alt="Justified" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT">Rock Your Body</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake (2002)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"><img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" width="60" height="60" alt="Dangerously In Love" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr">Crazy In Love (feat. JAY-Z)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Beyoncé, JAY-Z (2003)</span></td>
 </tr>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"><img src="https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b" width="60" height="60" alt="Beauty Behind The Madness" /></a></td>
 <td><b><a href="https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81">Can't Feel My Face</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Weeknd (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"><img src="https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f" width="60" height="60" alt="Future Nostalgia" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62">Don't Start Now</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Dua Lipa (2020)</span></td>
 </tr>
 </table>
 </div>
