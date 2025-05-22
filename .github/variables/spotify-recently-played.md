@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"><img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="150" height="150" alt="24K Magic" /></a>
+<a href="https://open.spotify.com/track/1DqdF42leyFIzqNDv9CjId"><img src="https://i.scdn.co/image/ab67616d0000b273a9006ae892a2255a865c0f7a" width="150" height="150" alt="Rokstarr" /></a>
 
-<b><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P">24K Magic</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/1DqdF42leyFIzqNDv9CjId">Dynamite</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Bruno Mars (2016)</span>
+<span style="color: #666;">Taio Cruz (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"><img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="60" height="60" alt="24K Magic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P">24K Magic</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"><img src="https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616" width="60" height="60" alt="Don't Forget About Me, Demos" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc">Babydoll</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Dominic Fike (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1JMkvPw0dUmU1iDVCN37M2"><img src="https://i.scdn.co/image/ab67616d0000b273beebaa7fbb1d4b9dcf30dbb9" width="60" height="60" alt="Young Blood" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1JMkvPw0dUmU1iDVCN37M2">Aim High</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marcus King (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6CThut6kPrjot0pTJOTEer"><img src="https://i.scdn.co/image/ab67616d0000b273fd6559329866163a6c4919d2" width="60" height="60" alt="the mockingbird & THE CROW" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6CThut6kPrjot0pTJOTEer">TRUCK BED</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">HARDY (2023)</span></td>
 </tr>
 </table>
 </div>
