@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"><img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" width="150" height="150" alt="1989" /></a>
+<a href="https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"><img src="https://i.scdn.co/image/ab67616d0000b273861f87fea3ad0f7b23453780" width="150" height="150" alt="Pocketful Of Sunshine" /></a>
 
-<b><a href="https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH">Shake It Off</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk">Pocketful of Sunshine</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Taylor Swift (2014)</span>
+<span style="color: #666;">Natasha Bedingfield (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"><img src="https://i.scdn.co/image/ab67616d0000b273d6165c0d6eba7e5bf3fca16d" width="60" height="60" alt="31 Minutes to Takeoff" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj">Cooler Than Me - Single Mix</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Mike Posner, Gigamesh (2010)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"><img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" width="60" height="60" alt="1989" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH">Shake It Off</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Taylor Swift (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"><img src="https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb" width="60" height="60" alt="Oracular Spectacular" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt">Electric Feel</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">MGMT (2007)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"><img src="https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616" width="60" height="60" alt="Don't Forget About Me, Demos" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc">Babydoll</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Dominic Fike (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"><img src="https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103" width="60" height="60" alt="The Time Of Our Lives" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1">Party In The U.S.A.</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Miley Cyrus (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"><img src="https://i.scdn.co/image/ab67616d0000b273aa7d2641af0fa4c1f76fafbf" width="60" height="60" alt="Pink Friday (Complete Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel">Super Bass</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nicki Minaj (2010)</span></td>
 </tr>
 </table>
 </div>
