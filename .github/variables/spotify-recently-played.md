@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK"><img src="https://i.scdn.co/image/ab67616d0000b273e59abdd41c728e2745b0e715" width="150" height="150" alt="Mindwalkers" /></a>
+<a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM"><img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="150" height="150" alt="EndEx" /></a>
 
-<b><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK">Mindwalkers</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM">Slum Planet</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Psygnals (2023)</span>
+<span style="color: #666;">3TEETH, Mick Gordon (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK"><img src="https://i.scdn.co/image/ab67616d0000b273e59abdd41c728e2745b0e715" width="60" height="60" alt="Mindwalkers" /></a></td>
+<td><b><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK">Mindwalkers</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"><img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="60" height="60" alt="Does This Look Infected?" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sum 41 (2002)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"><img src="https://i.scdn.co/image/ab67616d0000b2739efc623f9c64c8efb583b186" width="60" height="60" alt="The Beginning" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4">Just Can’t Get Enough</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C"><img src="https://i.scdn.co/image/ab67616d0000b273f74baf63e915712df348e647" width="60" height="60" alt="Dark Horse" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C">Burn It to the Ground</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nickelback (2008)</span></td>
 </tr>
 </table>
 </div>
