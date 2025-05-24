@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"><img src="https://i.scdn.co/image/ab67616d0000b2739efc623f9c64c8efb583b186" width="150" height="150" alt="The Beginning" /></a>
+<a href="https://open.spotify.com/track/5tvdxJ8JpA9u4lKsLcUYKL"><img src="https://i.scdn.co/image/ab67616d0000b273533644c194069d80a08109cf" width="150" height="150" alt="The Dethalbum" /></a>
 
-<b><a href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4">Just Can’t Get Enough</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/5tvdxJ8JpA9u4lKsLcUYKL">Face Fisted</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Black Eyed Peas (2010)</span>
+<span style="color: #666;">Metalocalypse: Dethklok (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"><img src="https://i.scdn.co/image/ab67616d0000b2739efc623f9c64c8efb583b186" width="60" height="60" alt="The Beginning" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4">Just Can’t Get Enough</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C"><img src="https://i.scdn.co/image/ab67616d0000b273f74baf63e915712df348e647" width="60" height="60" alt="Dark Horse" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C">Burn It to the Ground</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nickelback (2008)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"><img src="https://i.scdn.co/image/ab67616d0000b27390a788beadaad34ff684d3ec" width="60" height="60" alt="Human (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O">Human</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Rag'n'Bone Man (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/25mwJPzWVmS2yronBNQJF1"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="60" height="60" alt="The College Dropout" /></a></td>
-<td><b><a href="https://open.spotify.com/track/25mwJPzWVmS2yronBNQJF1">School Spirit Skit 1</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2004)</span></td>
 </tr>
 </table>
 </div>
