@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq"><img src="https://i.scdn.co/image/ab67616d0000b2736ff25c2481eeaf6e7284d461" width="150" height="150" alt="Man On The Moon III: The Chosen" /></a>
+<a href="https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"><img src="https://i.scdn.co/image/ab67616d0000b273d965d29d7dcf46ade5a8a7e4" width="150" height="150" alt="TROLLS (Original Motion Picture Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq">Sad People</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI">CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS")</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Kid Cudi (2020)</span>
+<span style="color: #666;">Justin Timberlake (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq"><img src="https://i.scdn.co/image/ab67616d0000b2736ff25c2481eeaf6e7284d461" width="60" height="60" alt="Man On The Moon III: The Chosen" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq">Sad People</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO">Gee Willikers</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3UMXhDBYe7eIXUe2HLUn0v"><img src="https://i.scdn.co/image/ab67616d0000b273c26357620e211089bf6b45e9" width="60" height="60" alt="American III: Solitary Man" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3UMXhDBYe7eIXUe2HLUn0v">Solitary Man</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"><img src="https://i.scdn.co/image/ab67616d0000b2730ea1ecb2d5271c2db402b0c2" width="60" height="60" alt="Hail to the King" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo">Hail to the King</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2013)</span></td>
 </tr>
 </table>
 </div>
