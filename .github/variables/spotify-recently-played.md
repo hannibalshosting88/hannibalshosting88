@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="150" height="150" alt="The Rising Tied (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"><img src="https://i.scdn.co/image/ab67616d0000b273ae954a17f0cfa013c364bb06" width="150" height="150" alt="Out of the Blue" /></a>
 
-<b><a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST">Believe Me (feat. Bobo & Styles of Beyond)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp">Mr. Blue Sky</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Fort Minor, Bobo, Styles Of Beyond (2005)</span>
+<span style="color: #666;">Electric Light Orchestra (1977)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST">Believe Me (feat. Bobo & Styles of Beyond)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Bobo, Styles Of Beyond (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"><img src="https://i.scdn.co/image/ab67616d0000b273d965d29d7dcf46ade5a8a7e4" width="60" height="60" alt="TROLLS (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI">CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS")</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2rb7ow4hAmloaakkWQAwDR"><img src="https://i.scdn.co/image/ab67616d0000b27356ab242347f67449d755986a" width="60" height="60" alt="Star Eater" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2rb7ow4hAmloaakkWQAwDR">Star Eater</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Daniel Deluxe (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0KlLzi19JtjLQsZg9nWN4i"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" height="60" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0KlLzi19JtjLQsZg9nWN4i">Deathshead</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
 </tr>
 </table>
 </div>
