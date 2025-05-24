@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ"><img src="https://i.scdn.co/image/ab67616d0000b27375a9cde08f286d9420709048" width="150" height="150" alt="Icky Thump" /></a>
+<a href="https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"><img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="150" height="150" alt="Audioslave" /></a>
 
-<b><a href="https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ">Icky Thump</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei">Like a Stone</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">The White Stripes (2007)</span>
+<span style="color: #666;">Audioslave (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ"><img src="https://i.scdn.co/image/ab67616d0000b27375a9cde08f286d9420709048" width="60" height="60" alt="Icky Thump" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ">Icky Thump</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The White Stripes (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL"><img src="https://i.scdn.co/image/ab67616d0000b27324edb22d068eb245a924b7f2" width="60" height="60" alt="UNDERTALE Soundtrack" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL">MEGALOVANIA</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Toby Fox (2015)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8"><img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="60" height="60" alt="The Click" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">Weak</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"><img src="https://i.scdn.co/image/ab67616d0000b273531292351b0d757c7e7aedb7" width="60" height="60" alt="Jugo A La Vida" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW">La Chica Sexy</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Los Tucanes De Tijuana (2002)</span></td>
 </tr>
 </table>
 </div>
