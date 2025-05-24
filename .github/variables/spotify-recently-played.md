@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"><img src="https://i.scdn.co/image/ab67616d0000b273ae954a17f0cfa013c364bb06" width="150" height="150" alt="Out of the Blue" /></a>
+<a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"><img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="150" height="150" alt="Does This Look Infected?" /></a>
 
-<b><a href="https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp">Mr. Blue Sky</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Electric Light Orchestra (1977)</span>
+<span style="color: #666;">Sum 41 (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"><img src="https://i.scdn.co/image/ab67616d0000b273ae954a17f0cfa013c364bb06" width="60" height="60" alt="Out of the Blue" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp">Mr. Blue Sky</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Electric Light Orchestra (1977)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST">Believe Me (feat. Bobo & Styles of Beyond)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Bobo, Styles Of Beyond (2005)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"><img src="https://i.scdn.co/image/ab67616d0000b273d1d1f3d8dd3684ee3d75385b" width="60" height="60" alt="Shadows On The Sun" /></a></td>
 <td><b><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ">Forest Whitiker</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Brother Ali (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2rb7ow4hAmloaakkWQAwDR"><img src="https://i.scdn.co/image/ab67616d0000b27356ab242347f67449d755986a" width="60" height="60" alt="Star Eater" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2rb7ow4hAmloaakkWQAwDR">Star Eater</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Daniel Deluxe (2015)</span></td>
 </tr>
 </table>
 </div>
