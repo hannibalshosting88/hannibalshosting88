@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C"><img src="https://i.scdn.co/image/ab67616d0000b27302a999c3a283b5392e57737d" width="150" height="150" alt="Tha Carter III (MTV Bonus Version)" /></a>
+<a href="https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo"><img src="https://i.scdn.co/image/ab67616d0000b273a1af94a40da71e8999941844" width="150" height="150" alt="wutiwant" /></a>
 
-<b><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C">A Milli</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo">wutiwant</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lil Wayne (2008)</span>
+<span style="color: #666;">saraunh0ly (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C"><img src="https://i.scdn.co/image/ab67616d0000b27302a999c3a283b5392e57737d" width="60" height="60" alt="Tha Carter III (MTV Bonus Version)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C">A Milli</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2008)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i">Going Under</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0XFQHYTpmqCsrBk1gEHxST">Believe Me (feat. Bobo & Styles of Beyond)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Bobo, Styles Of Beyond (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"><img src="https://i.scdn.co/image/ab67616d0000b273d965d29d7dcf46ade5a8a7e4" width="60" height="60" alt="TROLLS (Original Motion Picture Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI">CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS")</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake (2016)</span></td>
 </tr>
 </table>
 </div>
