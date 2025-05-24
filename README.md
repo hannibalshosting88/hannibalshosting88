@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2fSuoIlA1uTERXunbshSWh"><img src="https://i.scdn.co/image/ab67616d0000b2739bdfaaf2bbb2b82c288fd7a8" width="150" height="150" alt="Weekends Look A Little Different These Days" /></a>
+<a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"><img src="https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed" width="150" height="150" alt="1984 (Remastered)" /></a>
 
-<b><a href="https://open.spotify.com/track/2fSuoIlA1uTERXunbshSWh">Lady</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j">Jump - 2015 Remaster</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Brett Young (2021)</span>
+<span style="color: #666;">Van Halen (1984)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5M67k54BVUDADZPryaqV1y"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5M67k54BVUDADZPryaqV1y">Aqueous Transmission</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2fSuoIlA1uTERXunbshSWh"><img src="https://i.scdn.co/image/ab67616d0000b2739bdfaaf2bbb2b82c288fd7a8" width="60" height="60" alt="Weekends Look A Little Different These Days" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2fSuoIlA1uTERXunbshSWh">Lady</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Brett Young (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"><img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" width="60" height="60" alt="Unorthodox Jukebox" /></a></td>
 <td><b><a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7">Treasure</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2012)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"><img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="60" height="60" alt="Nevermind (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7">Lithium</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nirvana (1991)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM"><img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="60" height="60" alt="EndEx" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM">Slum Planet</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">3TEETH, Mick Gordon (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK"><img src="https://i.scdn.co/image/ab67616d0000b273e59abdd41c728e2745b0e715" width="60" height="60" alt="Mindwalkers" /></a></td>
-<td><b><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK">Mindwalkers</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
 </tr>
 </table>
 </div>
