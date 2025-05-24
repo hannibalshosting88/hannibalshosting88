@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"><img src="https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed" width="150" height="150" alt="1984 (Remastered)" /></a>
+<a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp"><img src="https://i.scdn.co/image/ab67616d0000b2733c2bba46b66a3c8a83a53015" width="150" height="150" alt="Come Clean" /></a>
 
-<b><a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j">Jump - 2015 Remaster</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp">Blurry</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Van Halen (1984)</span>
+<span style="color: #666;">Puddle Of Mudd (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"><img src="https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed" width="60" height="60" alt="1984 (Remastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j">Jump - 2015 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Van Halen (1984)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5M67k54BVUDADZPryaqV1y"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5M67k54BVUDADZPryaqV1y">Aqueous Transmission</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"><img src="https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905" width="60" height="60" alt="Too Rye Ay" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm">Come On Eileen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dexys Midnight Runners (1982)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"><img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="60" height="60" alt="Nevermind (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7">Lithium</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nirvana (1991)</span></td>
 </tr>
 </table>
 </div>
