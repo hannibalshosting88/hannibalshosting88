@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"><img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="150" height="150" alt="Dookie" /></a>
+<a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"><img src="https://i.scdn.co/image/ab67616d0000b27390a788beadaad34ff684d3ec" width="150" height="150" alt="Human (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">Basket Case</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O">Human</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Green Day (1994)</span>
+<span style="color: #666;">Rag'n'Bone Man (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/25mwJPzWVmS2yronBNQJF1"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="60" height="60" alt="The College Dropout" /></a></td>
+<td><b><a href="https://open.spotify.com/track/25mwJPzWVmS2yronBNQJF1">School Spirit Skit 1</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2004)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"><img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="60" height="60" alt="Dookie" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">Basket Case</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Green Day (1994)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"><img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="60" height="60" alt="Audioslave" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei">Like a Stone</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Audioslave (2002)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"><img src="https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730" width="60" height="60" alt="Cage The Elephant (Expanded Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">Ain't No Rest for the Wicked</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cage The Elephant (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">When It Comes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe">Way Less Sad</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
 </tr>
 </table>
 </div>
