@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"><img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="150" height="150" alt="Audioslave" /></a>
+<a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"><img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="150" height="150" alt="Dookie" /></a>
 
-<b><a href="https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei">Like a Stone</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">Basket Case</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Audioslave (2002)</span>
+<span style="color: #666;">Green Day (1994)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"><img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="60" height="60" alt="Audioslave" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei">Like a Stone</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Audioslave (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ"><img src="https://i.scdn.co/image/ab67616d0000b27375a9cde08f286d9420709048" width="60" height="60" alt="Icky Thump" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ">Icky Thump</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The White Stripes (2007)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe">Way Less Sad</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8"><img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="60" height="60" alt="The Click" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">Weak</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2017)</span></td>
 </tr>
 </table>
 </div>
