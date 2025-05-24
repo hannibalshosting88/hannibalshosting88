@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"><img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="150" height="150" alt="Nevermind (Remastered)" /></a>
+<a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"><img src="https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905" width="150" height="150" alt="Too Rye Ay" /></a>
 
-<b><a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7">Lithium</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm">Come On Eileen</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Nirvana (1991)</span>
+<span style="color: #666;">Dexys Midnight Runners (1982)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"><img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="60" height="60" alt="Nevermind (Remastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7">Lithium</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nirvana (1991)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM"><img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="60" height="60" alt="EndEx" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM">Slum Planet</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">3TEETH, Mick Gordon (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4TCeFZNjGNQIpCuZmJkkE2"><img src="https://i.scdn.co/image/ab67616d0000b273acf99661b45380007ad598cb" width="60" height="60" alt="Fully Loaded: God's Country" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4TCeFZNjGNQIpCuZmJkkE2">God's Country</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Blake Shelton (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5tvdxJ8JpA9u4lKsLcUYKL"><img src="https://i.scdn.co/image/ab67616d0000b273533644c194069d80a08109cf" width="60" height="60" alt="The Dethalbum" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5tvdxJ8JpA9u4lKsLcUYKL">Face Fisted</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metalocalypse: Dethklok (2007)</span></td>
 </tr>
 </table>
 </div>
