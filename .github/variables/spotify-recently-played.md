@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"><img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="150" height="150" alt="Love Is a Bitch" /></a>
+<a href="https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s"><img src="https://i.scdn.co/image/ab67616d0000b2736895da04b237964b95c2a166" width="150" height="150" alt="Fire of Unknown Origin" /></a>
 
-<b><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s">Burnin' for You</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Two Feet (2017)</span>
+<span style="color: #666;">Blue Öyster Cult (1981)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"><img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="60" height="60" alt="Love Is a Bitch" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp"><img src="https://i.scdn.co/image/ab67616d0000b2733c2bba46b66a3c8a83a53015" width="60" height="60" alt="Come Clean" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp">Blurry</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i">Going Under</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l">My Generation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
 </tr>
 </table>
 </div>
