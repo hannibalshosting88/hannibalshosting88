@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"><img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" width="150" height="150" alt="Unorthodox Jukebox" /></a>
+<a href="https://open.spotify.com/track/2fSuoIlA1uTERXunbshSWh"><img src="https://i.scdn.co/image/ab67616d0000b2739bdfaaf2bbb2b82c288fd7a8" width="150" height="150" alt="Weekends Look A Little Different These Days" /></a>
 
-<b><a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7">Treasure</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2fSuoIlA1uTERXunbshSWh">Lady</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Bruno Mars (2012)</span>
+<span style="color: #666;">Brett Young (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"><img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" width="60" height="60" alt="Unorthodox Jukebox" /></a></td>
+<td><b><a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7">Treasure</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps"><img src="https://i.scdn.co/image/ab67616d0000b273d126daad8e8479dbad94610e" width="60" height="60" alt="Hall Of Fame (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps">Beware</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Big Sean, Lil Wayne, Jhené Aiko (2013)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK"><img src="https://i.scdn.co/image/ab67616d0000b273e59abdd41c728e2745b0e715" width="60" height="60" alt="Mindwalkers" /></a></td>
 <td><b><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK">Mindwalkers</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"><img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="60" height="60" alt="Does This Look Infected?" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sum 41 (2002)</span></td>
 </tr>
 </table>
 </div>
