@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1BmdqDrBU5eohtRwHBls6C"><img src="https://i.scdn.co/image/ab67616d0000b27365f75a324229390511bec07e" width="150" height="150" alt="joy. (R3HAB Remix)" /></a>
+<a href="https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"><img src="https://i.scdn.co/image/ab67616d0000b273bb5c54a68f9ce31f83b98de4" width="150" height="150" alt="Unleashed" /></a>
 
-<b><a href="https://open.spotify.com/track/1BmdqDrBU5eohtRwHBls6C">joy. (R3HAB Remix)</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q">Beer For My Horses</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">for KING & COUNTRY, R3HAB (2019)</span>
+<span style="color: #666;">Toby Keith, Willie Nelson (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1BmdqDrBU5eohtRwHBls6C"><img src="https://i.scdn.co/image/ab67616d0000b27365f75a324229390511bec07e" width="60" height="60" alt="joy. (R3HAB Remix)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1BmdqDrBU5eohtRwHBls6C">joy. (R3HAB Remix)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY, R3HAB (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"><img src="https://i.scdn.co/image/ab67616d0000b273fc1df8423733f6f3c9e8dea2" width="60" height="60" alt="3 Songs At A Time Sampler" /></a></td>
 <td><b><a href="https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8">Last Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Morgan Wallen (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4lFg73IKskM5WsBgUZMDQA"><img src="https://i.scdn.co/image/ab67616d0000b273bd92e9330f1292e444909bc1" width="60" height="60" alt="Kentucky Always Wins" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4lFg73IKskM5WsBgUZMDQA">Kentucky Always Wins</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Sam Riggs (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4MUhz6QMSgo3G5Keo0uTJa"><img src="https://i.scdn.co/image/ab67616d0000b27365a8f8edae896225445bf729" width="60" height="60" alt="American Thread" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4MUhz6QMSgo3G5Keo0uTJa">Like Me</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Tim Montana (2020)</span></td>
 </tr>
 </table>
 </div>
