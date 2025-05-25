@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"><img src="https://i.scdn.co/image/ab67616d0000b2730112fc622336812a1abda2fe" width="150" height="150" alt="Black Sheep" /></a>
+<a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="150" height="150" alt="Miles On It (Remixes)" /></a>
 
-<b><a href="https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD">Happier Alone</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Austin Meade (2021)</span>
+<span style="color: #666;">Marshmello, Kane Brown, Ely Oaks (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"><img src="https://i.scdn.co/image/ab67616d0000b2730112fc622336812a1abda2fe" width="60" height="60" alt="Black Sheep" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD">Happier Alone</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Austin Meade (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6ByOysDSRSEoOU62pvWOdO"><img src="https://i.scdn.co/image/ab67616d0000b273bc908a8e6da684e5d39a1a21" width="60" height="60" alt="Supernatural" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6ByOysDSRSEoOU62pvWOdO">Cowboy (feat. Carly Rogers)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Upchurch, Carly Rogers (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9"><img src="https://i.scdn.co/image/ab67616d0000b273d4a6817b14d3dea6f23c680c" width="60" height="60" alt="AWB" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9">Pick Up the Pieces</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Average White Band (1974)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0QduumThmC2CsAoRsBLFlK"><img src="https://i.scdn.co/image/ab67616d0000b273dd7c39a1606be65244e99787" width="60" height="60" alt="The 50 Greatest Songs" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0QduumThmC2CsAoRsBLFlK">Get Down On It</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kool & The Gang (2007)</span></td>
 </tr>
 </table>
 </div>
