@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="150" height="150" alt="Miles On It (Remixes)" /></a>
+<a href="https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"><img src="https://i.scdn.co/image/ab67616d0000b273fc1df8423733f6f3c9e8dea2" width="150" height="150" alt="3 Songs At A Time Sampler" /></a>
 
-<b><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8">Last Night</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Marshmello, Kane Brown, Ely Oaks (2024)</span>
+<span style="color: #666;">Morgan Wallen (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="60" height="60" alt="Miles On It (Remixes)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown, Ely Oaks (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2tj88oEKcx7CXtqsGI8KWy"><img src="https://i.scdn.co/image/ab67616d0000b273e2129c9dab1617ed1e9646c3" width="60" height="60" alt="Shake and Bake" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2tj88oEKcx7CXtqsGI8KWy">The Waltz</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Left Lane Cruiser (2019)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2QLWLAqMMJuiBRztcBFgvM"><img src="https://i.scdn.co/image/ab67616d0000b273229411bccce65156241b6190" width="60" height="60" alt="I Am Not A Human Being" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2QLWLAqMMJuiBRztcBFgvM">I Am Not A Human Being</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435" width="60" height="60" alt="Floored" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly - Fly</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugar Ray (1997)</span></td>
 </tr>
 </table>
 </div>
