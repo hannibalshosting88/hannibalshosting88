@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"><img src="https://i.scdn.co/image/ab67616d0000b273b8aea967f04d4c6f6cf81285" width="150" height="150" alt="Jackson Dean" /></a>
+<a href="https://open.spotify.com/track/1DgtQlVNotingln271ZKCx"><img src="https://i.scdn.co/image/ab67616d0000b273de2e30cf7205b45a0ba3877f" width="150" height="150" alt="Higher" /></a>
 
-<b><a href="https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV">Don't Come Lookin'</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1DgtQlVNotingln271ZKCx">White Horse</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Jackson Dean (2021)</span>
+<span style="color: #666;">Chris Stapleton (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"><img src="https://i.scdn.co/image/ab67616d0000b273b8aea967f04d4c6f6cf81285" width="60" height="60" alt="Jackson Dean" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV">Don't Come Lookin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jackson Dean (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="60" height="60" alt="Miles On It (Remixes)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown, Ely Oaks (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"><img src="https://i.scdn.co/image/ab67616d0000b273fc7df879208b362bb1ce1499" width="60" height="60" alt="Purple (2019 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX">Vasoline - 2019 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Temple Pilots (1994)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4qL9VYPB4XwJKAOq4xn2Mh"><img src="https://i.scdn.co/image/ab67616d0000b273966507d369a0de6da093d5f1" width="60" height="60" alt="Dance, Dance, Dance: The Best of Chic" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4qL9VYPB4XwJKAOq4xn2Mh">Le Freak</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">CHIC (1991)</span></td>
 </tr>
 </table>
 </div>
