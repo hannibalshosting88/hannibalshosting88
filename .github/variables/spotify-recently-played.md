@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="150" height="150" alt="Unearthed" /></a>
+<a href="https://open.spotify.com/track/2JKlf0IYz5oWsT3OCLyjpO"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="150" height="150" alt="Sublime" /></a>
 
-<b><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb">Two Timin' Woman</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/2JKlf0IYz5oWsT3OCLyjpO">Caress Me Down</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Johnny Cash (2003)</span>
+<span style="color: #666;">Sublime (1996)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="60" height="60" alt="Unearthed" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb">Two Timin' Woman</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB"><img src="https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380" width="60" height="60" alt="Reload" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB">The Unforgiven II</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1997)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps"><img src="https://i.scdn.co/image/ab67616d0000b273d126daad8e8479dbad94610e" width="60" height="60" alt="Hall Of Fame (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps">Beware</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Big Sean, Lil Wayne, Jhené Aiko (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo"><img src="https://i.scdn.co/image/ab67616d0000b273a1af94a40da71e8999941844" width="60" height="60" alt="wutiwant" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo">wutiwant</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">saraunh0ly (2022)</span></td>
 </tr>
 </table>
 </div>
