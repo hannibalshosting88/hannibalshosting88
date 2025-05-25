@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="150" height="150" alt="Is This It" /></a>
+<a href="https://open.spotify.com/track/2QLWLAqMMJuiBRztcBFgvM"><img src="https://i.scdn.co/image/ab67616d0000b273229411bccce65156241b6190" width="150" height="150" alt="I Am Not A Human Being" /></a>
 
-<b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2QLWLAqMMJuiBRztcBFgvM">I Am Not A Human Being</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">The Strokes (2001)</span>
+<span style="color: #666;">Lil Wayne (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435" width="60" height="60" alt="Floored" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly - Fly</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugar Ray (1997)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="60" height="60" alt="Is This It" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Strokes (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"><img src="https://i.scdn.co/image/ab67616d0000b273fc7df879208b362bb1ce1499" width="60" height="60" alt="Purple (2019 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX">Vasoline - 2019 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Temple Pilots (1994)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"><img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" width="60" height="60" alt="Heathens" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr">Heathens</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Twenty One Pilots (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2JKlf0IYz5oWsT3OCLyjpO"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2JKlf0IYz5oWsT3OCLyjpO">Caress Me Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="60" height="60" alt="Unearthed" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb">Two Timin' Woman</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2003)</span></td>
 </tr>
 </table>
 </div>
