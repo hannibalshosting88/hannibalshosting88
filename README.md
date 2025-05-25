@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s"><img src="https://i.scdn.co/image/ab67616d0000b2736895da04b237964b95c2a166" width="150" height="150" alt="Fire of Unknown Origin" /></a>
+<a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="150" height="150" alt="Unearthed" /></a>
 
-<b><a href="https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s">Burnin' for You</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1mfOoIqZQewAROz2FqASqb">Two Timin' Woman</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Blue Öyster Cult (1981)</span>
+<span style="color: #666;">Johnny Cash (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB"><img src="https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380" width="60" height="60" alt="Reload" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB">The Unforgiven II</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1997)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s"><img src="https://i.scdn.co/image/ab67616d0000b2736895da04b237964b95c2a166" width="60" height="60" alt="Fire of Unknown Origin" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s">Burnin' for You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Blue Öyster Cult (1981)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"><img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="60" height="60" alt="Love Is a Bitch" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo"><img src="https://i.scdn.co/image/ab67616d0000b273a1af94a40da71e8999941844" width="60" height="60" alt="wutiwant" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo">wutiwant</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">saraunh0ly (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C"><img src="https://i.scdn.co/image/ab67616d0000b27302a999c3a283b5392e57737d" width="60" height="60" alt="Tha Carter III (MTV Bonus Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C">A Milli</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2008)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i">Going Under</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
 </tr>
 </table>
 </div>
