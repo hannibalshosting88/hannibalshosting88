@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"><img src="https://i.scdn.co/image/ab67616d0000b2739d52169c3b609d4630e04433" width="150" height="150" alt="Commodores" /></a>
+<a href="https://open.spotify.com/track/0QduumThmC2CsAoRsBLFlK"><img src="https://i.scdn.co/image/ab67616d0000b273dd7c39a1606be65244e99787" width="150" height="150" alt="The 50 Greatest Songs" /></a>
 
-<b><a href="https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P">Brick House</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0QduumThmC2CsAoRsBLFlK">Get Down On It</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Commodores (1977)</span>
+<span style="color: #666;">Kool & The Gang (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"><img src="https://i.scdn.co/image/ab67616d0000b2739d52169c3b609d4630e04433" width="60" height="60" alt="Commodores" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P">Brick House</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Commodores (1977)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"><img src="https://i.scdn.co/image/ab67616d0000b273579b9602ae484950d95d0ab8" width="60" height="60" alt="Black Summer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b">Black Summer</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2022)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp"><img src="https://i.scdn.co/image/ab67616d0000b2733c2bba46b66a3c8a83a53015" width="60" height="60" alt="Come Clean" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp">Blurry</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"><img src="https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed" width="60" height="60" alt="1984 (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j">Jump - 2015 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Van Halen (1984)</span></td>
 </tr>
 </table>
 </div>
