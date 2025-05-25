@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"><img src="https://i.scdn.co/image/ab67616d0000b2739fd857fb9120e851eb0c68ea" width="150" height="150" alt="Down The Road I Go" /></a>
+<a href="https://open.spotify.com/track/7BOPBxyEsmjAhxHpMsnHei"><img src="https://i.scdn.co/image/ab67616d0000b27364718c662c3b77f14f11ebb4" width="150" height="150" alt="Losing Sleep" /></a>
 
-<b><a href="https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH">It's A Great Day To Be Alive</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7BOPBxyEsmjAhxHpMsnHei">Losing Sleep</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Travis Tritt (2000)</span>
+<span style="color: #666;">Joey Adams (2025)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"><img src="https://i.scdn.co/image/ab67616d0000b2739fd857fb9120e851eb0c68ea" width="60" height="60" alt="Down The Road I Go" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH">It's A Great Day To Be Alive</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Travis Tritt (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"><img src="https://i.scdn.co/image/ab67616d0000b273bb5c54a68f9ce31f83b98de4" width="60" height="60" alt="Unleashed" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q">Beer For My Horses</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Toby Keith, Willie Nelson (2002)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"><img src="https://i.scdn.co/image/ab67616d0000b2730112fc622336812a1abda2fe" width="60" height="60" alt="Black Sheep" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD">Happier Alone</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Austin Meade (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6ByOysDSRSEoOU62pvWOdO"><img src="https://i.scdn.co/image/ab67616d0000b273bc908a8e6da684e5d39a1a21" width="60" height="60" alt="Supernatural" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6ByOysDSRSEoOU62pvWOdO">Cowboy (feat. Carly Rogers)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Upchurch, Carly Rogers (2018)</span></td>
 </tr>
 </table>
 </div>
