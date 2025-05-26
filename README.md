@@ -30,6 +30,10 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/7BOPBxyEsmjAhxHpMsnHei"><img src="https://i.scdn.co/image/ab67616d0000b27364718c662c3b77f14f11ebb4" width="60" height="60" alt="Losing Sleep" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7BOPBxyEsmjAhxHpMsnHei">Losing Sleep</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Joey Adams (2025)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"><img src="https://i.scdn.co/image/ab67616d0000b2739fd857fb9120e851eb0c68ea" width="60" height="60" alt="Down The Road I Go" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH">It's A Great Day To Be Alive</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Travis Tritt (2000)</span></td>
 </tr>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="60" height="60" alt="Miles On It (Remixes)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown, Ely Oaks (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"><img src="https://i.scdn.co/image/ab67616d0000b2730112fc622336812a1abda2fe" width="60" height="60" alt="Black Sheep" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD">Happier Alone</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Austin Meade (2021)</span></td>
 </tr>
 </table>
 </div>
