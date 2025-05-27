@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="150" height="150" alt="Origins (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/4R0Bi7Fo7A9XMoiU6lRCLF"><img src="https://i.scdn.co/image/ab67616d0000b27377d80794b8f40cae84e56542" width="150" height="150" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" /></a>
 
-<b><a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT">Natural</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/4R0Bi7Fo7A9XMoiU6lRCLF">Song of the Lonely Mountain</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Imagine Dragons (2018)</span>
+<span style="color: #666;">Peter Hollens (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT">Natural</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"><img src="https://i.scdn.co/image/ab67616d0000b27372649ad8e79d1e8bdd54c929" width="60" height="60" alt="Happy Together" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0">Happy Together</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Turtles (1967)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1BmdqDrBU5eohtRwHBls6C"><img src="https://i.scdn.co/image/ab67616d0000b27365f75a324229390511bec07e" width="60" height="60" alt="joy. (R3HAB Remix)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1BmdqDrBU5eohtRwHBls6C">joy. (R3HAB Remix)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY, R3HAB (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"><img src="https://i.scdn.co/image/ab67616d0000b273fc1df8423733f6f3c9e8dea2" width="60" height="60" alt="3 Songs At A Time Sampler" /></a></td>
-<td><b><a href="https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8">Last Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Morgan Wallen (2023)</span></td>
 </tr>
 </table>
 </div>
