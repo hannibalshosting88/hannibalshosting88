@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"><img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="150" height="150" alt="24K Magic" /></a>
+<a href="https://open.spotify.com/track/1CirS5cREBtJy71CLQyKmb"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="150" height="150" alt="Galactic Empire" /></a>
 
-<b><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P">24K Magic</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/1CirS5cREBtJy71CLQyKmb">Battle of The Heroes</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Bruno Mars (2016)</span>
+<span style="color: #666;">Galactic Empire (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"><img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="60" height="60" alt="24K Magic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P">24K Magic</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="60" height="60" alt="From Under The Cork Tree" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7">Dance, Dance</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2005)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7BOPBxyEsmjAhxHpMsnHei"><img src="https://i.scdn.co/image/ab67616d0000b27364718c662c3b77f14f11ebb4" width="60" height="60" alt="Losing Sleep" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7BOPBxyEsmjAhxHpMsnHei">Losing Sleep</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Joey Adams (2025)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"><img src="https://i.scdn.co/image/ab67616d0000b2739fd857fb9120e851eb0c68ea" width="60" height="60" alt="Down The Road I Go" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH">It's A Great Day To Be Alive</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Travis Tritt (2000)</span></td>
 </tr>
 </table>
 </div>
