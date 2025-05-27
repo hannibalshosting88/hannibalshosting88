@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="150" height="150" alt="From Under The Cork Tree" /></a>
+<a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"><img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="150" height="150" alt="24K Magic" /></a>
 
-<b><a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7">Dance, Dance</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P">24K Magic</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Fall Out Boy (2005)</span>
+<span style="color: #666;">Bruno Mars (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="60" height="60" alt="From Under The Cork Tree" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7">Dance, Dance</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4R0Bi7Fo7A9XMoiU6lRCLF"><img src="https://i.scdn.co/image/ab67616d0000b27377d80794b8f40cae84e56542" width="60" height="60" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4R0Bi7Fo7A9XMoiU6lRCLF">Song of the Lonely Mountain</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Peter Hollens (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"><img src="https://i.scdn.co/image/ab67616d0000b2739fd857fb9120e851eb0c68ea" width="60" height="60" alt="Down The Road I Go" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH">It's A Great Day To Be Alive</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Travis Tritt (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"><img src="https://i.scdn.co/image/ab67616d0000b273bb5c54a68f9ce31f83b98de4" width="60" height="60" alt="Unleashed" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q">Beer For My Horses</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Toby Keith, Willie Nelson (2002)</span></td>
 </tr>
 </table>
 </div>
