@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"><img src="https://i.scdn.co/image/ab67616d0000b27372649ad8e79d1e8bdd54c929" width="150" height="150" alt="Happy Together" /></a>
+<a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="150" height="150" alt="Origins (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0">Happy Together</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT">Natural</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">The Turtles (1967)</span>
+<span style="color: #666;">Imagine Dragons (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"><img src="https://i.scdn.co/image/ab67616d0000b27372649ad8e79d1e8bdd54c929" width="60" height="60" alt="Happy Together" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0">Happy Together</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Turtles (1967)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU">All The Small Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"><img src="https://i.scdn.co/image/ab67616d0000b273fc1df8423733f6f3c9e8dea2" width="60" height="60" alt="3 Songs At A Time Sampler" /></a></td>
 <td><b><a href="https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8">Last Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Morgan Wallen (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="60" height="60" alt="Miles On It (Remixes)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown, Ely Oaks (2024)</span></td>
 </tr>
 </table>
 </div>
