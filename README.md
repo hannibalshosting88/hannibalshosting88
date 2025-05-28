@@ -62,7 +62,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <td><b><a href="https://open.spotify.com/track/2ncLdwTd8qzkxiJjlbiOgC">Mr. Rager</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2010)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/07sKtzspwObyxjV6SQ8wTY"><img src="https://i.scdn.co/image/ab67616d0000b2737c0b1996b4ff1e28919cfe1a" width="60" height="60" alt="DS (Original Soundtrack)" /></a></td>
+<td width="60"><a href="https://open.spotify.com/track/07sKtzspwObyxjV6SQ8wTY"><img src="https://i.scdn.co/image/ab67616d0000b273d88df65671fa7d1eeef2c398" width="60" height="60" alt="DS (Original Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/07sKtzspwObyxjV6SQ8wTY">III. The Slayer's Blitzkrieg</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Zach Houston (2023)</span></td>
 </tr>
 <tr>
