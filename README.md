@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="150" height="150" alt="Smoke + Mirrors (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/222dTwr5XeEgAzEtsrQA0R"><img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" width="150" height="150" alt="The Marshall Mathers LP2 (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg">Battle Cry</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/222dTwr5XeEgAzEtsrQA0R">Headlights</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Imagine Dragons (2015)</span>
+<span style="color: #666;">Eminem, Nate Ruess (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4qL9VYPB4XwJKAOq4xn2Mh"><img src="https://i.scdn.co/image/ab67616d0000b273966507d369a0de6da093d5f1" width="60" height="60" alt="Dance, Dance, Dance: The Best of Chic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4qL9VYPB4XwJKAOq4xn2Mh">Le Freak</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">CHIC (1991)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="60" height="60" alt="Smoke + Mirrors (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg">Battle Cry</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7GNLLg5wpQlPvVUWRij1Xa"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7GNLLg5wpQlPvVUWRij1Xa">High Road (feat. John Legend)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, John Legend (2005)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2ncLdwTd8qzkxiJjlbiOgC"><img src="https://i.scdn.co/image/ab67616d0000b2735a750965d0ad3f11cac34628" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2ncLdwTd8qzkxiJjlbiOgC">Mr. Rager</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/07sKtzspwObyxjV6SQ8wTY"><img src="https://i.scdn.co/image/ab67616d0000b273d88df65671fa7d1eeef2c398" width="60" height="60" alt="DS (Original Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/07sKtzspwObyxjV6SQ8wTY">III. The Slayer's Blitzkrieg</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Zach Houston (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a"><img src="https://i.scdn.co/image/ab67616d0000b27351853c867bd51abc84432ee5" width="60" height="60" alt="The Best Of Kansas" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kansas (1984)</span></td>
 </tr>
 </table>
 </div>
