@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"><img src="https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa" width="150" height="150" alt="Oral Fixation, Vol. 2 (Expanded Edition)" /></a>
+<a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"><img src="https://i.scdn.co/image/ab67616d0000b273d1d1f3d8dd3684ee3d75385b" width="150" height="150" alt="Shadows On The Sun" /></a>
 
-<b><a href="https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V">Hips Don't Lie (feat. Wyclef Jean)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ">Forest Whitiker</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Shakira, Wyclef Jean (2005)</span>
+<span style="color: #666;">Brother Ali (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"><img src="https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa" width="60" height="60" alt="Oral Fixation, Vol. 2 (Expanded Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V">Hips Don't Lie (feat. Wyclef Jean)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Shakira, Wyclef Jean (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/222dTwr5XeEgAzEtsrQA0R"><img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" width="60" height="60" alt="The Marshall Mathers LP2 (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/222dTwr5XeEgAzEtsrQA0R">Headlights</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Eminem, Nate Ruess (2013)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"><img src="https://i.scdn.co/image/ab67616d0000b27344971d48c21dbd132f2d506e" width="60" height="60" alt="Results May Vary" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj">Behind Blue Eyes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5ekIQRUzOO1ht8GCvbY9hQ"><img src="https://i.scdn.co/image/ab67616d0000b273ea584a7bd29940c6d7c5b32a" width="60" height="60" alt="The Only Thing They Fear Is Vader" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5ekIQRUzOO1ht8GCvbY9hQ">The Only Thing They Fear Is Vader</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2024)</span></td>
 </tr>
 </table>
 </div>
