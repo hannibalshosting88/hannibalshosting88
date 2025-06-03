@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2zkXZqtAuTOzuqBERZHB34"><img src="https://i.scdn.co/image/ab67616d0000b273167cb6a039a78b7804f33426" width="150" height="150" alt="Metallica (Remastered Deluxe Box Set)" /></a>
+<a href="https://open.spotify.com/track/2AjUivpSXN0bAwEZeEZ40G"><img src="https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa" width="150" height="150" alt="Master of Puppets (Remastered Deluxe Box Set)" /></a>
 
-<b><a href="https://open.spotify.com/track/2zkXZqtAuTOzuqBERZHB34">The Struggle Within (From James' Riff Tapes)</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/2AjUivpSXN0bAwEZeEZ40G">For Whom The Bell Tolls (Fan Recording - Live at Solnahallen, Stockholm, Sweden - September 26th, 1986)</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Metallica (1991)</span>
+<span style="color: #666;">Metallica (1986)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2zkXZqtAuTOzuqBERZHB34"><img src="https://i.scdn.co/image/ab67616d0000b273167cb6a039a78b7804f33426" width="60" height="60" alt="Metallica (Remastered Deluxe Box Set)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2zkXZqtAuTOzuqBERZHB34">The Struggle Within (From James' Riff Tapes)</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4xyWJM4kscTROV2RESdwpd"><img src="https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa" width="60" height="60" alt="Master of Puppets (Remastered Deluxe Box Set)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4xyWJM4kscTROV2RESdwpd">Orion (Remastered)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1986)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1KogAwAyqXzHwuEXiURTdY"><img src="https://i.scdn.co/image/ab67616d0000b273167cb6a039a78b7804f33426" width="60" height="60" alt="Metallica (Remastered Deluxe Box Set)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1KogAwAyqXzHwuEXiURTdY">Enter Sandman (Live at Tushino Airfield, Moscow, Russia - September 28th, 1991)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"><img src="https://i.scdn.co/image/ab67616d0000b273d1d1f3d8dd3684ee3d75385b" width="60" height="60" alt="Shadows On The Sun" /></a></td>
-<td><b><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ">Forest Whitiker</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Brother Ali (2003)</span></td>
 </tr>
 </table>
 </div>
