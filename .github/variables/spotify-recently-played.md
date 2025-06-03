@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="150" height="150" alt="Beautifully Broken" /></a>
+<a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="150" height="150" alt="Tha Carter IV (Complete Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu">Blunt Blowin</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Jelly Roll (2024)</span>
+<span style="color: #666;">Lil Wayne (2011)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"><img src="https://i.scdn.co/image/ab67616d0000b2733c534611bd3658006378a2d7" width="60" height="60" alt="The Animals" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb">House Of The Rising Sun</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Animals (1964)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1qpGFa1qWTG47rsHa56pE4"><img src="https://i.scdn.co/image/ab67616d0000b273be54746b374358970b5e617a" width="60" height="60" alt="...And Justice for All (Remastered Deluxe Box Set)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1qpGFa1qWTG47rsHa56pE4">Eye of the Beholder (January 1988 Demo)</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Metallica (1988)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/09mTwA7SG7niAgLOGINqWc"><img src="https://i.scdn.co/image/ab67616d0000b273be54746b374358970b5e617a" width="60" height="60" alt="...And Justice for All (Remastered Deluxe Box Set)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/09mTwA7SG7niAgLOGINqWc">One (1987, From James' Riff Tapes)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1988)</span></td>
 </tr>
 </table>
 </div>
