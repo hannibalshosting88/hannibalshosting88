@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2"><img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" width="150" height="150" alt="American Beauty/American Psycho" /></a>
+<a href="https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"><img src="https://i.scdn.co/image/ab67616d0000b273437a8cfd8293ddf6d800c384" width="150" height="150" alt="Break the Cycle" /></a>
 
-<b><a href="https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2">Immortals</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm">Outside</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Fall Out Boy (2015)</span>
+<span style="color: #666;">Staind (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2"><img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" width="60" height="60" alt="American Beauty/American Psycho" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2">Immortals</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"><img src="https://i.scdn.co/image/ab67616d0000b273cf1fee2a55e98e22bf358512" width="60" height="60" alt="Reckless (30th Anniversary / Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV">Run To You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bryan Adams (1984)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="60" height="60" alt="Tha Carter IV (Complete Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu">Blunt Blowin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2011)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
 </tr>
 </table>
 </div>
