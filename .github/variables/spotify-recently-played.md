@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB"><img src="https://i.scdn.co/image/ab67616d0000b273fd47f4e731d91210018d62ea" width="150" height="150" alt="The Rise of Hobo Johnson" /></a>
+<a href="https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"><img src="https://i.scdn.co/image/ab67616d0000b273cf1fee2a55e98e22bf358512" width="150" height="150" alt="Reckless (30th Anniversary / Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB">Romeo & Juliet</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV">Run To You</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Hobo Johnson (2017)</span>
+<span style="color: #666;">Bryan Adams (1984)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="60" height="60" alt="Thrifty x Spooky Raccoon" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">Thrifty</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB"><img src="https://i.scdn.co/image/ab67616d0000b273fd47f4e731d91210018d62ea" width="60" height="60" alt="The Rise of Hobo Johnson" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB">Romeo & Juliet</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hobo Johnson (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"><img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="60" height="60" alt="24K Magic" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU">That's What I Like</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2016)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"><img src="https://i.scdn.co/image/ab67616d0000b2733c534611bd3658006378a2d7" width="60" height="60" alt="The Animals" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb">House Of The Rising Sun</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Animals (1964)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6"><img src="https://i.scdn.co/image/ab67616d0000b27315f032e426133c995e725423" width="60" height="60" alt="Crosses and Crossroads" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6">Love the Heartless</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2AjUivpSXN0bAwEZeEZ40G"><img src="https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa" width="60" height="60" alt="Master of Puppets (Remastered Deluxe Box Set)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2AjUivpSXN0bAwEZeEZ40G">For Whom The Bell Tolls (Fan Recording - Live at Solnahallen, Stockholm, Sweden - September 26th, 1986)</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Metallica (1986)</span></td>
 </tr>
 </table>
 </div>
