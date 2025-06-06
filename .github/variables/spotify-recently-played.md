@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"><img src="https://i.scdn.co/image/ab67616d0000b273c0ddb38854cde41708d606a1" width="150" height="150" alt="Only One Flo (Part 1)" /></a>
+<a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"><img src="https://i.scdn.co/image/ab67616d0000b27330c996f370c1a614f294765d" width="150" height="150" alt="KAMI" /></a>
 
-<b><a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y">Club Can't Handle Me (feat. David Guetta)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu">KAMI</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Flo Rida, David Guetta (2010)</span>
+<span style="color: #666;">DR MØB (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"><img src="https://i.scdn.co/image/ab67616d0000b273c0ddb38854cde41708d606a1" width="60" height="60" alt="Only One Flo (Part 1)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y">Club Can't Handle Me (feat. David Guetta)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Flo Rida, David Guetta (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"><img src="https://i.scdn.co/image/ab67616d0000b273fe3a12c23f04549cef0fbe84" width="60" height="60" alt="A 20 Something Fuck" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1">I Feel Like I'm Drowning</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"><img src="https://i.scdn.co/image/ab67616d0000b2731aa2474909c648492bcf27ce" width="60" height="60" alt="Life" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh">Die MF Die</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dope (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/14daOroAa2CmxeT1prZnOE"><img src="https://i.scdn.co/image/ab67616d0000b2736fede82146181a73665793d8" width="60" height="60" alt="The Devil You Know" /></a></td>
-<td><b><a href="https://open.spotify.com/track/14daOroAa2CmxeT1prZnOE">The Highland Street Incident</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Todd Snider (2006)</span></td>
 </tr>
 </table>
 </div>
