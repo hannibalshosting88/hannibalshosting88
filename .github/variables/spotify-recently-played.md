@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"><img src="https://i.scdn.co/image/ab67616d0000b2731aa2474909c648492bcf27ce" width="150" height="150" alt="Life" /></a>
+<a href="https://open.spotify.com/track/693bMFOSAQxhzWXuia1N11"><img src="https://i.scdn.co/image/ab67616d0000b27346c74c22d018aebb237eb464" width="150" height="150" alt="Covers, Vol. III" /></a>
 
-<b><a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh">Die MF Die</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/693bMFOSAQxhzWXuia1N11">Pirates Medley</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Dope (2001)</span>
+<span style="color: #666;">Peter Hollens, Gardiner Sisters (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="60" height="60" alt="Death Magnetic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (2008)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"><img src="https://i.scdn.co/image/ab67616d0000b2731aa2474909c648492bcf27ce" width="60" height="60" alt="Life" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh">Die MF Die</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dope (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/14daOroAa2CmxeT1prZnOE"><img src="https://i.scdn.co/image/ab67616d0000b2736fede82146181a73665793d8" width="60" height="60" alt="The Devil You Know" /></a></td>
 <td><b><a href="https://open.spotify.com/track/14daOroAa2CmxeT1prZnOE">The Highland Street Incident</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Todd Snider (2006)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="60" height="60" alt="Smoke + Mirrors (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8">Monster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"><img src="https://i.scdn.co/image/ab67616d0000b273437a8cfd8293ddf6d800c384" width="60" height="60" alt="Break the Cycle" /></a></td>
-<td><b><a href="https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm">Outside</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Staind (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2"><img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" width="60" height="60" alt="American Beauty/American Psycho" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2">Immortals</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2015)</span></td>
 </tr>
 </table>
 </div>
