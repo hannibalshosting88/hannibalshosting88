@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="150" height="150" alt="Smoke + Mirrors (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs"><img src="https://i.scdn.co/image/ab67616d0000b27370d9fedb964ec02475a25b83" width="150" height="150" alt="We Control" /></a>
 
-<b><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8">Monster</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs">We Control</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Imagine Dragons (2015)</span>
+<span style="color: #666;">Hyper (2006)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1JTZqN0snbMSNtp59zveTs"><img src="https://i.scdn.co/image/ab67616d0000b2736a0b17b302637c4094433f09" width="60" height="60" alt="All 6's And 7's" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1JTZqN0snbMSNtp59zveTs">Am I A Psycho</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Tech N9ne (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="60" height="60" alt="Smoke + Mirrors (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8">Monster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"><img src="https://i.scdn.co/image/ab67616d0000b273437a8cfd8293ddf6d800c384" width="60" height="60" alt="Break the Cycle" /></a></td>
 <td><b><a href="https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm">Outside</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Staind (2001)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i"><img src="https://i.scdn.co/image/ab67616d0000b2735b7865be7f7fcc05faec6137" width="60" height="60" alt="The Score (Expanded Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i">No Woman, No Cry</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fugees, Wyclef Jean (1996)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"><img src="https://i.scdn.co/image/ab67616d0000b2736a21b97de47168df4f0c1993" width="60" height="60" alt="El Camino" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1">Gold on the Ceiling</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Black Keys (2011)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy"><img src="https://i.scdn.co/image/ab67616d0000b273f9aefc986924f7e9e5e71b74" width="60" height="60" alt="Jackpot" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy">Holidae In</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chingy, Ludacris, Snoop Dogg (2003)</span></td>
 </tr>
 </table>
 </div>
