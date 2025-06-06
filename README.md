@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8"><img src="https://i.scdn.co/image/ab67616d0000b2732d4439111d68acb3f3a08e16" width="150" height="150" alt="Loki: Epic Collection (Cover)" /></a>
+<a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"><img src="https://i.scdn.co/image/ab67616d0000b2734053ce7818f114a4e8dde08f" width="150" height="150" alt="Kick" /></a>
 
-<b><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme) - Cover</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs">Need You Tonight</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Samuel Kim (2021)</span>
+<span style="color: #666;">INXS (1987)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="60" height="60" alt="Tres Hombres (Expanded 2006 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">ZZ Top (1973)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8"><img src="https://i.scdn.co/image/ab67616d0000b2732d4439111d68acb3f3a08e16" width="60" height="60" alt="Loki: Epic Collection (Cover)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme) - Cover</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Samuel Kim (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0qb88piRhrignxmuVJssLG"><img src="https://i.scdn.co/image/ab67616d0000b2731ccecd0493c3cb25b703e50d" width="60" height="60" alt="The Only Thing They Fear Is You" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0qb88piRhrignxmuVJssLG">The Only Thing They Fear Is You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Last Bear Ender (2022)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"><img src="https://i.scdn.co/image/ab67616d0000b273f9017bcd001d030d46850226" width="60" height="60" alt="Heading South" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd">Heading South</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Zach Bryan (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="60" height="60" alt="Backstreet Boys" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl">Everybody (Backstreet's Back) - Extended Version</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1996)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="60" height="60" alt="Infinity On High" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp">This Ain't A Scene, It's An Arms Race</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2007)</span></td>
 </tr>
 </table>
 </div>
