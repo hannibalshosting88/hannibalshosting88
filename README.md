@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="150" height="150" alt="Infinity On High" /></a>
+<a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"><img src="https://i.scdn.co/image/ab67616d0000b273f9017bcd001d030d46850226" width="150" height="150" alt="Heading South" /></a>
 
-<b><a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp">This Ain't A Scene, It's An Arms Race</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd">Heading South</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Fall Out Boy (2007)</span>
+<span style="color: #666;">Zach Bryan (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="60" height="60" alt="Backstreet Boys" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl">Everybody (Backstreet's Back) - Extended Version</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1996)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="60" height="60" alt="Infinity On High" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp">This Ain't A Scene, It's An Arms Race</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"><img src="https://i.scdn.co/image/ab67616d0000b2737e1f85f69323acac962516c4" width="60" height="60" alt="Garage, Inc." /></a></td>
 <td><b><a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP">Whiskey In The Jar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1998)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk"><img src="https://i.scdn.co/image/ab67616d0000b273c86ab6207f7687c4d8c29587" width="60" height="60" alt="Transistor" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk">Beautiful Disaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">311 (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"><img src="https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730" width="60" height="60" alt="Cage The Elephant (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">Ain't No Rest for the Wicked</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cage The Elephant (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs"><img src="https://i.scdn.co/image/ab67616d0000b27370d9fedb964ec02475a25b83" width="60" height="60" alt="We Control" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs">We Control</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper (2006)</span></td>
 </tr>
 </table>
 </div>
