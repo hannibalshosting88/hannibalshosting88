@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk"><img src="https://i.scdn.co/image/ab67616d0000b273c86ab6207f7687c4d8c29587" width="150" height="150" alt="Transistor" /></a>
+<a href="https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"><img src="https://i.scdn.co/image/ab67616d0000b273ded3790fc374ac8c641c27df" width="150" height="150" alt="Light Me Up" /></a>
 
-<b><a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk">Beautiful Disaster</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN">Make Me Wanna Die</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">311 (1997)</span>
+<span style="color: #666;">The Pretty Reckless (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk"><img src="https://i.scdn.co/image/ab67616d0000b273c86ab6207f7687c4d8c29587" width="60" height="60" alt="Transistor" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk">Beautiful Disaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">311 (1997)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"><img src="https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730" width="60" height="60" alt="Cage The Elephant (Expanded Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">Ain't No Rest for the Wicked</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cage The Elephant (2009)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB"><img src="https://i.scdn.co/image/ab67616d0000b273fd47f4e731d91210018d62ea" width="60" height="60" alt="The Rise of Hobo Johnson" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB">Romeo & Juliet</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hobo Johnson (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"><img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="60" height="60" alt="24K Magic" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU">That's What I Like</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2016)</span></td>
 </tr>
 </table>
 </div>
