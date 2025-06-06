@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"><img src="https://i.scdn.co/image/ab67616d0000b2734053ce7818f114a4e8dde08f" width="150" height="150" alt="Kick" /></a>
+<a href="https://open.spotify.com/track/5iP1wbr72LIsChhXDDFZoO"><img src="https://i.scdn.co/image/ab67616d0000b2733e541ce9ee34a1429ad835fe" width="150" height="150" alt="Argent Hate" /></a>
 
-<b><a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs">Need You Tonight</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5iP1wbr72LIsChhXDDFZoO">Argent Hate</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">INXS (1987)</span>
+<span style="color: #666;">Psygnals, Dark Ovus (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"><img src="https://i.scdn.co/image/ab67616d0000b2734053ce7818f114a4e8dde08f" width="60" height="60" alt="Kick" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs">Need You Tonight</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">INXS (1987)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="60" height="60" alt="Tres Hombres (Expanded 2006 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">ZZ Top (1973)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2CoMPoD8KUljU0AN7FZhur"><img src="https://i.scdn.co/image/ab67616d0000b27314103cfb997c24360a45a04d" width="60" height="60" alt="Sonic Forces Vocal Traxx On The Edge" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2CoMPoD8KUljU0AN7FZhur">Infinite</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Tyler Smyth, Andy Bane (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"><img src="https://i.scdn.co/image/ab67616d0000b273f9017bcd001d030d46850226" width="60" height="60" alt="Heading South" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd">Heading South</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Zach Bryan (2019)</span></td>
 </tr>
 </table>
 </div>
