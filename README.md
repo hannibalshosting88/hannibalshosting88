@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"><img src="https://i.scdn.co/image/ab67616d0000b273f9017bcd001d030d46850226" width="150" height="150" alt="Heading South" /></a>
+<a href="https://open.spotify.com/track/2CoMPoD8KUljU0AN7FZhur"><img src="https://i.scdn.co/image/ab67616d0000b27314103cfb997c24360a45a04d" width="150" height="150" alt="Sonic Forces Vocal Traxx On The Edge" /></a>
 
-<b><a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd">Heading South</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2CoMPoD8KUljU0AN7FZhur">Infinite</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Zach Bryan (2019)</span>
+<span style="color: #666;">Tyler Smyth, Andy Bane (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"><img src="https://i.scdn.co/image/ab67616d0000b273f9017bcd001d030d46850226" width="60" height="60" alt="Heading South" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd">Heading South</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Zach Bryan (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="60" height="60" alt="Backstreet Boys" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl">Everybody (Backstreet's Back) - Extended Version</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1996)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"><img src="https://i.scdn.co/image/ab67616d0000b273ded3790fc374ac8c641c27df" width="60" height="60" alt="Light Me Up" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN">Make Me Wanna Die</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Pretty Reckless (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk"><img src="https://i.scdn.co/image/ab67616d0000b273c86ab6207f7687c4d8c29587" width="60" height="60" alt="Transistor" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk">Beautiful Disaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">311 (1997)</span></td>
 </tr>
 </table>
 </div>
