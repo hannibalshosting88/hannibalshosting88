@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"><img src="https://i.scdn.co/image/ab67616d0000b27391b3adb195fd4017fd3d6400" width="150" height="150" alt="City of Evil" /></a>
+<a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="150" height="150" alt="Doom (Original Game Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7">Bat Country</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT">At Doom's Gate</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Avenged Sevenfold (2005)</span>
+<span style="color: #666;">Mick Gordon (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ"><img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="60" height="60" alt="EndEx" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ">Merchant of the Void</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">3TEETH, Mick Gordon (2023)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"><img src="https://i.scdn.co/image/ab67616d0000b27391b3adb195fd4017fd3d6400" width="60" height="60" alt="City of Evil" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7">Bat Country</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll">With You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"><img src="https://i.scdn.co/image/ab67616d0000b2734053ce7818f114a4e8dde08f" width="60" height="60" alt="Kick" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs">Need You Tonight</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">INXS (1987)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="60" height="60" alt="Tres Hombres (Expanded 2006 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">ZZ Top (1973)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8"><img src="https://i.scdn.co/image/ab67616d0000b2732d4439111d68acb3f3a08e16" width="60" height="60" alt="Loki: Epic Collection (Cover)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme) - Cover</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Samuel Kim (2021)</span></td>
 </tr>
 </table>
 </div>
