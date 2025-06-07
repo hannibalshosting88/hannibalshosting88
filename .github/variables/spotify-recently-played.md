@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"><img src="https://i.scdn.co/image/ab67616d0000b273fc7df879208b362bb1ce1499" width="150" height="150" alt="Purple (2019 Remaster)" /></a>
+<a href="https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="150" height="150" alt="Backstreet Boys" /></a>
 
-<b><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX">Vasoline - 2019 Remaster</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx">Quit Playing Games (With My Heart)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Stone Temple Pilots (1994)</span>
+<span style="color: #666;">Backstreet Boys (1996)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"><img src="https://i.scdn.co/image/ab67616d0000b273fc7df879208b362bb1ce1499" width="60" height="60" alt="Purple (2019 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX">Vasoline - 2019 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Temple Pilots (1994)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="60" height="60" alt="Fragile" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yes (1971)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"><img src="https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c" width="60" height="60" alt="In Utero (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa">Heart-Shaped Box</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nirvana (1993)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6tHpxFDLucR3Xs9nivuyiO"><img src="https://i.scdn.co/image/ab67616d0000b2735f6691b5c24906e0d1833ff1" width="60" height="60" alt="Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6tHpxFDLucR3Xs9nivuyiO">We Are Sex Bob-Omb</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sex Bob-Omb (2010)</span></td>
 </tr>
 </table>
 </div>
