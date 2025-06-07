@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="150" height="150" alt="INSANO (NITRO MEGA)" /></a>
+<a href="https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"><img src="https://i.scdn.co/image/ab67616d0000b27346ed4ae9343359e5965baf7b" width="150" height="150" alt="Love For The Streets" /></a>
 
-<b><a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH">BABE AND I</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV">Jerk It Out</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Kid Cudi (2024)</span>
+<span style="color: #666;">Caesars (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="60" height="60" alt="INSANO (NITRO MEGA)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH">BABE AND I</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/36DLF96pjKydN0MZtsahQz"><img src="https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0" width="60" height="60" alt="Ride The Lightning (Deluxe Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/36DLF96pjKydN0MZtsahQz">Ride The Lightning (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1984)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"><img src="https://i.scdn.co/image/ab67616d0000b273030915ffa58125ae36f13a6f" width="60" height="60" alt="The Warrior's Code" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">I'm Shipping Up To Boston</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dropkick Murphys (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x"><img src="https://i.scdn.co/image/ab67616d0000b273bb8639d1374637e0c6b47edb" width="60" height="60" alt="Call of Duty Black Ops II (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x">Adrenaline</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jack Wall, Big Giant Circles (2012)</span></td>
 </tr>
 </table>
 </div>
