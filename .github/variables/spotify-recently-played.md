@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"><img src="https://i.scdn.co/image/ab67616d0000b2736fcd1eb131172e1ad970999f" width="150" height="150" alt="Good Charlotte" /></a>
+<a href="https://open.spotify.com/track/631HQHEfc35E2YcSo6rIbl"><img src="https://i.scdn.co/image/ab67616d0000b273585ae61491dc93a722fb858a" width="150" height="150" alt="Playlist Plus" /></a>
 
-<b><a href="https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3">Little Things</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/631HQHEfc35E2YcSo6rIbl">Down South Jukin'</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Good Charlotte (2001)</span>
+<span style="color: #666;">Lynyrd Skynyrd (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"><img src="https://i.scdn.co/image/ab67616d0000b2736fcd1eb131172e1ad970999f" width="60" height="60" alt="Good Charlotte" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3">Little Things</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="60" height="60" alt="Backstreet Boys" /></a></td>
 <td><b><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy">As Long as You Love Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1996)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh"><img src="https://i.scdn.co/image/ab67616d0000b27397ea8cd106d06260c2c76cd6" width="60" height="60" alt="Sehnsucht" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh">Du hast</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rammstein (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0K6yUnIKNsFtfIpTgGtcHm"><img src="https://i.scdn.co/image/ab67616d0000b27372833c1ae3343cbfb4617073" width="60" height="60" alt="Moving Pictures (2011 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0K6yUnIKNsFtfIpTgGtcHm">Limelight</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rush (1981)</span></td>
 </tr>
 </table>
 </div>
