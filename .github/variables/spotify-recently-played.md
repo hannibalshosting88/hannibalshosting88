@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"><img src="https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c" width="150" height="150" alt="In Utero (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"><img src="https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4" width="150" height="150" alt="Poison" /></a>
 
-<b><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa">Heart-Shaped Box</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH">Poison</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Nirvana (1993)</span>
+<span style="color: #666;">Bell Biv DeVoe (1990)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"><img src="https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c" width="60" height="60" alt="In Utero (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa">Heart-Shaped Box</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nirvana (1993)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6tHpxFDLucR3Xs9nivuyiO"><img src="https://i.scdn.co/image/ab67616d0000b2735f6691b5c24906e0d1833ff1" width="60" height="60" alt="Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6tHpxFDLucR3Xs9nivuyiO">We Are Sex Bob-Omb</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sex Bob-Omb (2010)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/493xja7E57qje1iR0Pwj5K"><img src="https://i.scdn.co/image/ab67616d0000b27317240d108cc177450f8558c1" width="60" height="60" alt="California Gold" /></a></td>
 <td><b><a href="https://open.spotify.com/track/493xja7E57qje1iR0Pwj5K">Fix What You Didn't Break</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nate Smith (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1qnWg8AJDw0thggNcPLcTk"><img src="https://i.scdn.co/image/ab67616d0000b27301cb3b81385184691c2d7b5f" width="60" height="60" alt="Hen Do Classics" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1qnWg8AJDw0thggNcPLcTk">Everybody (Backstreet's Back) - Radio Edit</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (2024)</span></td>
 </tr>
 </table>
 </div>
