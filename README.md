@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs"><img src="https://i.scdn.co/image/ab67616d0000b2737bd7c7c0b0b0e4e38d2feafc" width="150" height="150" alt="The Uncanny Valley" /></a>
+<a href="https://open.spotify.com/track/0K6yUnIKNsFtfIpTgGtcHm"><img src="https://i.scdn.co/image/ab67616d0000b27372833c1ae3343cbfb4617073" width="150" height="150" alt="Moving Pictures (2011 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs">Death Squad</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0K6yUnIKNsFtfIpTgGtcHm">Limelight</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Perturbator (2016)</span>
+<span style="color: #666;">Rush (1981)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs"><img src="https://i.scdn.co/image/ab67616d0000b2737bd7c7c0b0b0e4e38d2feafc" width="60" height="60" alt="The Uncanny Valley" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs">Death Squad</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Perturbator (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e"><img src="https://i.scdn.co/image/ab67616d0000b2732b46b5b241079360e6951405" width="60" height="60" alt="AA" /></a></td>
 <td><b><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Walker Hayes (2021)</span></td>
@@ -63,11 +67,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"><img src="https://i.scdn.co/image/ab67616d0000b2737f299910191da5f9bf872dcf" width="60" height="60" alt="First Offense" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC">Sunglasses At Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Corey Hart (1983)</span></td>
+<td><b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
 </tr>
 </table>
 </div>
