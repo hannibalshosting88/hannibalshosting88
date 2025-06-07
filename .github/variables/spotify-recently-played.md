@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC"><img src="https://i.scdn.co/image/ab67616d0000b2730cc5eb834d42e68068a11e93" width="150" height="150" alt="Ultimate Big Band Collection: Glenn Miller" /></a>
+<a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl"><img src="https://i.scdn.co/image/ab67616d0000b2738c28d7443694de36c67be905" width="150" height="150" alt="Prolonging the Magic" /></a>
 
-<b><a href="https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC">In the Mood</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl">Never There</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Glenn Miller (1939)</span>
+<span style="color: #666;">CAKE (1998)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC"><img src="https://i.scdn.co/image/ab67616d0000b2730cc5eb834d42e68068a11e93" width="60" height="60" alt="Ultimate Big Band Collection: Glenn Miller" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC">In the Mood</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Glenn Miller (1939)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM"><img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="60" height="60" alt="EndEx" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM">Slum Planet</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">3TEETH, Mick Gordon (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e"><img src="https://i.scdn.co/image/ab67616d0000b2732b46b5b241079360e6951405" width="60" height="60" alt="AA" /></a></td>
 <td><b><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Walker Hayes (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT">At Doom's Gate</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
 </tr>
 </table>
 </div>
