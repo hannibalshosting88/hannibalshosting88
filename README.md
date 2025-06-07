@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"><img src="https://i.scdn.co/image/ab67616d0000b27390fef039e01409cb5a8d560c" width="150" height="150" alt="The Sufferer & The Witness" /></a>
+<a href="https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8"><img src="https://i.scdn.co/image/ab67616d0000b2734f582a7765b766fac982283a" width="150" height="150" alt="What Are We Waiting For?" /></a>
 
-<b><a href="https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72">Prayer Of The Refugee</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8">For God Is With Us</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Rise Against (2006)</span>
+<span style="color: #666;">for KING & COUNTRY (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/18Gb1gqRi5A50PYh0MDukc"><img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="60" height="60" alt="Start Static" /></a></td>
+<td><b><a href="https://open.spotify.com/track/18Gb1gqRi5A50PYh0MDukc">Stuck In America</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2001)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"><img src="https://i.scdn.co/image/ab67616d0000b27390fef039e01409cb5a8d560c" width="60" height="60" alt="The Sufferer & The Witness" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72">Prayer Of The Refugee</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rise Against (2006)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO">Brass Brothers</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2015)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"><img src="https://i.scdn.co/image/ab67616d0000b2736fcd1eb131172e1ad970999f" width="60" height="60" alt="Good Charlotte" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3">Little Things</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="60" height="60" alt="Backstreet Boys" /></a></td>
-<td><b><a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy">As Long as You Love Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1996)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl"><img src="https://i.scdn.co/image/ab67616d0000b2738c28d7443694de36c67be905" width="60" height="60" alt="Prolonging the Magic" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl">Never There</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (1998)</span></td>
 </tr>
 </table>
 </div>
