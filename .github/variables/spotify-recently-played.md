@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"><img src="https://i.scdn.co/image/ab67616d0000b27347eb3ea5a92904c19e102e54" width="150" height="150" alt="Supernatural (Remastered)" /></a>
+<a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="150" height="150" alt="Smoke + Mirrors (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW">Smooth (feat. Rob Thomas)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8">Monster</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Santana, Rob Thomas (1999)</span>
+<span style="color: #666;">Imagine Dragons (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"><img src="https://i.scdn.co/image/ab67616d0000b27347eb3ea5a92904c19e102e54" width="60" height="60" alt="Supernatural (Remastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW">Smooth (feat. Rob Thomas)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Santana, Rob Thomas (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"><img src="https://i.scdn.co/image/ab67616d0000b273f7b69bb1db06fec7f326d6f7" width="60" height="60" alt="Run" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">Run</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"><img src="https://i.scdn.co/image/ab67616d0000b27330c996f370c1a614f294765d" width="60" height="60" alt="KAMI" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu">KAMI</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DR MØB (2023)</span></td>
 </tr>
 </table>
 </div>
