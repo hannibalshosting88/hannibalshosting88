@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/61kjUpPs05L0w0YhKxolMa"><img src="https://i.scdn.co/image/ab67616d0000b27317240d108cc177450f8558c1" width="150" height="150" alt="California Gold" /></a>
+<a href="https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC"><img src="https://i.scdn.co/image/ab67616d0000b2730cc5eb834d42e68068a11e93" width="150" height="150" alt="Ultimate Big Band Collection: Glenn Miller" /></a>
 
-<b><a href="https://open.spotify.com/track/61kjUpPs05L0w0YhKxolMa">Want Me Back</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC">In the Mood</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Nate Smith (2024)</span>
+<span style="color: #666;">Glenn Miller (1939)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM"><img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="60" height="60" alt="EndEx" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM">Slum Planet</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">3TEETH, Mick Gordon (2023)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/61kjUpPs05L0w0YhKxolMa"><img src="https://i.scdn.co/image/ab67616d0000b27317240d108cc177450f8558c1" width="60" height="60" alt="California Gold" /></a></td>
+<td><b><a href="https://open.spotify.com/track/61kjUpPs05L0w0YhKxolMa">Want Me Back</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Nate Smith (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/493xja7E57qje1iR0Pwj5K"><img src="https://i.scdn.co/image/ab67616d0000b27317240d108cc177450f8558c1" width="60" height="60" alt="California Gold" /></a></td>
 <td><b><a href="https://open.spotify.com/track/493xja7E57qje1iR0Pwj5K">Fix What You Didn't Break</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nate Smith (2024)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT">At Doom's Gate</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ"><img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="60" height="60" alt="EndEx" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ">Merchant of the Void</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">3TEETH, Mick Gordon (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"><img src="https://i.scdn.co/image/ab67616d0000b27391b3adb195fd4017fd3d6400" width="60" height="60" alt="City of Evil" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7">Bat Country</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2005)</span></td>
 </tr>
 </table>
 </div>
