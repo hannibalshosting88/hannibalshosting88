@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0K6yUnIKNsFtfIpTgGtcHm"><img src="https://i.scdn.co/image/ab67616d0000b27372833c1ae3343cbfb4617073" width="150" height="150" alt="Moving Pictures (2011 Remaster)" /></a>
+<a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh"><img src="https://i.scdn.co/image/ab67616d0000b27397ea8cd106d06260c2c76cd6" width="150" height="150" alt="Sehnsucht" /></a>
 
-<b><a href="https://open.spotify.com/track/0K6yUnIKNsFtfIpTgGtcHm">Limelight</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh">Du hast</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Rush (1981)</span>
+<span style="color: #666;">Rammstein (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0K6yUnIKNsFtfIpTgGtcHm"><img src="https://i.scdn.co/image/ab67616d0000b27372833c1ae3343cbfb4617073" width="60" height="60" alt="Moving Pictures (2011 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0K6yUnIKNsFtfIpTgGtcHm">Limelight</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rush (1981)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs"><img src="https://i.scdn.co/image/ab67616d0000b2737bd7c7c0b0b0e4e38d2feafc" width="60" height="60" alt="The Uncanny Valley" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs">Death Squad</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Perturbator (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"><img src="https://i.scdn.co/image/ab67616d0000b27347eb3ea5a92904c19e102e54" width="60" height="60" alt="Supernatural (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW">Smooth (feat. Rob Thomas)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Santana, Rob Thomas (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
 </tr>
 </table>
 </div>
