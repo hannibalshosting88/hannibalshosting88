@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8"><img src="https://i.scdn.co/image/ab67616d0000b2734f582a7765b766fac982283a" width="150" height="150" alt="What Are We Waiting For?" /></a>
+<a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="150" height="150" alt="Fragile" /></a>
 
-<b><a href="https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8">For God Is With Us</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">for KING & COUNTRY (2022)</span>
+<span style="color: #666;">Yes (1971)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8"><img src="https://i.scdn.co/image/ab67616d0000b2734f582a7765b766fac982283a" width="60" height="60" alt="What Are We Waiting For?" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8">For God Is With Us</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/18Gb1gqRi5A50PYh0MDukc"><img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="60" height="60" alt="Start Static" /></a></td>
 <td><b><a href="https://open.spotify.com/track/18Gb1gqRi5A50PYh0MDukc">Stuck In America</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2001)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/631HQHEfc35E2YcSo6rIbl"><img src="https://i.scdn.co/image/ab67616d0000b273585ae61491dc93a722fb858a" width="60" height="60" alt="Playlist Plus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/631HQHEfc35E2YcSo6rIbl">Down South Jukin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lynyrd Skynyrd (2008)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"><img src="https://i.scdn.co/image/ab67616d0000b2736fcd1eb131172e1ad970999f" width="60" height="60" alt="Good Charlotte" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3">Little Things</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2001)</span></td>
 </tr>
 </table>
 </div>
