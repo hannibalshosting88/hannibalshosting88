@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/631HQHEfc35E2YcSo6rIbl"><img src="https://i.scdn.co/image/ab67616d0000b273585ae61491dc93a722fb858a" width="150" height="150" alt="Playlist Plus" /></a>
+<a href="https://open.spotify.com/track/6tHpxFDLucR3Xs9nivuyiO"><img src="https://i.scdn.co/image/ab67616d0000b2735f6691b5c24906e0d1833ff1" width="150" height="150" alt="Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/631HQHEfc35E2YcSo6rIbl">Down South Jukin'</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6tHpxFDLucR3Xs9nivuyiO">We Are Sex Bob-Omb</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Lynyrd Skynyrd (2008)</span>
+<span style="color: #666;">Sex Bob-Omb (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/631HQHEfc35E2YcSo6rIbl"><img src="https://i.scdn.co/image/ab67616d0000b273585ae61491dc93a722fb858a" width="60" height="60" alt="Playlist Plus" /></a></td>
+<td><b><a href="https://open.spotify.com/track/631HQHEfc35E2YcSo6rIbl">Down South Jukin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lynyrd Skynyrd (2008)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"><img src="https://i.scdn.co/image/ab67616d0000b2736fcd1eb131172e1ad970999f" width="60" height="60" alt="Good Charlotte" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3">Little Things</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2001)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"><img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="60" height="60" alt="Meteora" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h">Numb</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh"><img src="https://i.scdn.co/image/ab67616d0000b27397ea8cd106d06260c2c76cd6" width="60" height="60" alt="Sehnsucht" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh">Du hast</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rammstein (1997)</span></td>
 </tr>
 </table>
 </div>
