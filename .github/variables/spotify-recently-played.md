@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="150" height="150" alt="Doom (Original Game Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs"><img src="https://i.scdn.co/image/ab67616d0000b2737bd7c7c0b0b0e4e38d2feafc" width="150" height="150" alt="The Uncanny Valley" /></a>
 
-<b><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT">At Doom's Gate</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs">Death Squad</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Mick Gordon (2016)</span>
+<span style="color: #666;">Perturbator (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e"><img src="https://i.scdn.co/image/ab67616d0000b2732b46b5b241079360e6951405" width="60" height="60" alt="AA" /></a></td>
+<td><b><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Walker Hayes (2021)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT">At Doom's Gate</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ"><img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="60" height="60" alt="EndEx" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ">Merchant of the Void</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">3TEETH, Mick Gordon (2023)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"><img src="https://i.scdn.co/image/ab67616d0000b2737f299910191da5f9bf872dcf" width="60" height="60" alt="First Offense" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC">Sunglasses At Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Corey Hart (1983)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5iP1wbr72LIsChhXDDFZoO"><img src="https://i.scdn.co/image/ab67616d0000b2733e541ce9ee34a1429ad835fe" width="60" height="60" alt="Argent Hate" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5iP1wbr72LIsChhXDDFZoO">Argent Hate</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Psygnals, Dark Ovus (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"><img src="https://i.scdn.co/image/ab67616d0000b2734053ce7818f114a4e8dde08f" width="60" height="60" alt="Kick" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs">Need You Tonight</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">INXS (1987)</span></td>
 </tr>
 </table>
 </div>
