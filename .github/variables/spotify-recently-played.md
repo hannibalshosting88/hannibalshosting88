@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="150" height="150" alt="Smoke + Mirrors (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="150" height="150" alt="Hybrid Theory (Bonus Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8">Monster</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll">With You</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Imagine Dragons (2015)</span>
+<span style="color: #666;">Linkin Park (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"><img src="https://i.scdn.co/image/ab67616d0000b2737e1f85f69323acac962516c4" width="60" height="60" alt="Garage, Inc." /></a></td>
+<td><b><a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP">Whiskey In The Jar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1998)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="60" height="60" alt="Smoke + Mirrors (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8">Monster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"><img src="https://i.scdn.co/image/ab67616d0000b27347eb3ea5a92904c19e102e54" width="60" height="60" alt="Supernatural (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW">Smooth (feat. Rob Thomas)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Santana, Rob Thomas (1999)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0qb88piRhrignxmuVJssLG"><img src="https://i.scdn.co/image/ab67616d0000b2731ccecd0493c3cb25b703e50d" width="60" height="60" alt="The Only Thing They Fear Is You" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0qb88piRhrignxmuVJssLG">The Only Thing They Fear Is You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Last Bear Ender (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2lY9nKosxOxmNvLEYW3zTN"><img src="https://i.scdn.co/image/ab67616d0000b273b24c2772648d620859c071f2" width="60" height="60" alt="Antisleep, Vol. 03" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2lY9nKosxOxmNvLEYW3zTN">Transmission from Hell</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Blue Stahli (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"><img src="https://i.scdn.co/image/ab67616d0000b273f7b69bb1db06fec7f326d6f7" width="60" height="60" alt="Run" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">Run</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION (2015)</span></td>
 </tr>
 </table>
 </div>
