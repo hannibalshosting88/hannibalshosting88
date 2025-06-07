@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
+<td><b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"><img src="https://i.scdn.co/image/ab67616d0000b2737f299910191da5f9bf872dcf" width="60" height="60" alt="First Offense" /></a></td>
