@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"><img src="https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1" width="150" height="150" alt="The Black Parade" /></a>
+<a href="https://open.spotify.com/track/493xja7E57qje1iR0Pwj5K"><img src="https://i.scdn.co/image/ab67616d0000b27317240d108cc177450f8558c1" width="150" height="150" alt="California Gold" /></a>
 
-<b><a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW">Welcome to the Black Parade</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/493xja7E57qje1iR0Pwj5K">Fix What You Didn't Break</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">My Chemical Romance (2006)</span>
+<span style="color: #666;">Nate Smith (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"><img src="https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1" width="60" height="60" alt="The Black Parade" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW">Welcome to the Black Parade</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">My Chemical Romance (2006)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"><img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" width="60" height="60" alt="Aftermath" /></a></td>
 <td><b><a href="https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8">Paint It, Black</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Rolling Stones (1966)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/18Gb1gqRi5A50PYh0MDukc"><img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="60" height="60" alt="Start Static" /></a></td>
 <td><b><a href="https://open.spotify.com/track/18Gb1gqRi5A50PYh0MDukc">Stuck In America</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"><img src="https://i.scdn.co/image/ab67616d0000b27390fef039e01409cb5a8d560c" width="60" height="60" alt="The Sufferer & The Witness" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72">Prayer Of The Refugee</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rise Against (2006)</span></td>
 </tr>
 </table>
 </div>
