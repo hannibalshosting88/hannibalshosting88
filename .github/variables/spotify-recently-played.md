@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="150" height="150" alt="Fallen" /></a>
+<a href="https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5"><img src="https://i.scdn.co/image/ab67616d0000b2735b819ab33345f5e4c7092233" width="150" height="150" alt="Highwayman" /></a>
 
-<b><a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV">Tourniquet</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5">Highwayman</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Evanescence (2003)</span>
+<span style="color: #666;">The Highwaymen, Willie Nelson, Johnny Cash, Waylon Jennings, Kris Kristofferson (1985)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
+<td><b><a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV">Tourniquet</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT"><img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="60" height="60" alt="GET UP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">THE FILLER</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2022)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/110xRTiNE1koUrWiMCYnKJ"><img src="https://i.scdn.co/image/ab67616d0000b2735128fe6af0b5227bd6a6b84e" width="60" height="60" alt="The Devil (Remixes) [Deluxe Edition]" /></a></td>
 <td><b><a href="https://open.spotify.com/track/110xRTiNE1koUrWiMCYnKJ">Armageddon (Entropy Zero Remix) - Instrumental</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Blue Stahli, Entropy Zero (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX">The Warmth</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
 </tr>
 </table>
 </div>
