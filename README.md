@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="150" height="150" alt="Morning View" /></a>
+<a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ"><img src="https://i.scdn.co/image/ab67616d0000b2738ed6845745db21e6c956ab1d" width="150" height="150" alt="One Thing Right" /></a>
 
-<b><a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy">Nice to Know You</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">One Thing Right</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Incubus (2001)</span>
+<span style="color: #666;">Marshmello, Kane Brown (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7CBD8biut3IwSJDfhKHLoH"><img src="https://i.scdn.co/image/ab67616d0000b273608b7c67166e304b14c85c5c" width="60" height="60" alt="If Not Now, When?" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7CBD8biut3IwSJDfhKHLoH">Adolescents</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4omtIQq5tiL0n7KjL0ZfHm"><img src="https://i.scdn.co/image/ab67616d0000b27329e37f6d05ef931e4683c625" width="60" height="60" alt="666 Volume" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4omtIQq5tiL0n7KjL0ZfHm">666 Volume</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">HIDEOUS MORBID, SEVENTY4 (2022)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
+<td><b><a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy">Nice to Know You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World's Smallest Violin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"><img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" width="60" height="60" alt="Hozier (Expanded Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP">Take Me to Church</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Hozier (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5"><img src="https://i.scdn.co/image/ab67616d0000b2735b819ab33345f5e4c7092233" width="60" height="60" alt="Highwayman" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5">Highwayman</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Highwaymen, Willie Nelson, Johnny Cash, Waylon Jennings, Kris Kristofferson (1985)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
-<td><b><a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV">Tourniquet</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT"><img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="60" height="60" alt="GET UP" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">THE FILLER</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2022)</span></td>
 </tr>
 </table>
 </div>
