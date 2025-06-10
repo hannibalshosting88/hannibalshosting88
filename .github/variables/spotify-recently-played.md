@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"><img src="https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac" width="150" height="150" alt="Slippery When Wet" /></a>
+<a href="https://open.spotify.com/track/7Jd1bpQBw6Jc4eSfzTqEp1"><img src="https://i.scdn.co/image/ab67616d0000b273bf051e830a5f4a5f5290191e" width="150" height="150" alt="I'm Only Human After All" /></a>
 
-<b><a href="https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF">Livin' On A Prayer</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/7Jd1bpQBw6Jc4eSfzTqEp1">Human</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Bon Jovi (1986)</span>
+<span style="color: #666;">John "The Ragin Cajun" Jones (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="60" height="60" alt="Evolve" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB">Thunder</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2017)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"><img src="https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac" width="60" height="60" alt="Slippery When Wet" /></a></td>
+<td><b><a href="https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF">Livin' On A Prayer</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bon Jovi (1986)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5mfcFNV1pDNAwLguz9pFW0"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5mfcFNV1pDNAwLguz9pFW0">Anna Molly</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"><img src="https://i.scdn.co/image/ab67616d0000b2730158cbde70672dd821972907" width="60" height="60" alt="Smash" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP">Self Esteem</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Offspring (1994)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"><img src="https://i.scdn.co/image/ab67616d0000b2731a84d71391df7469c5ab8539" width="60" height="60" alt="Wish You Were Here" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1">Wish You Were Here</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1975)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY"><img src="https://i.scdn.co/image/ab67616d0000b27349440f89d229d070b504be74" width="60" height="60" alt="Sickology 101" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY">Dysfunctional</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Tech N9ne Collabos (2009)</span></td>
 </tr>
 </table>
 </div>
