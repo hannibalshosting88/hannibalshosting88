@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD"><img src="https://i.scdn.co/image/ab67616d0000b2739d8c8d4e72cab2f00e0686f5" width="150" height="150" alt="Getting Away With Murder" /></a>
+<a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"><img src="https://i.scdn.co/image/ab67616d0000b273429d8ec28f865acf2a927c2d" width="150" height="150" alt="What You See Is What You Get" /></a>
 
-<b><a href="https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD">Scars</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">Beer Never Broke My Heart</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Papa Roach (2004)</span>
+<span style="color: #666;">Luke Combs (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB"><img src="https://i.scdn.co/image/ab67616d0000b273fa78c40c54908ff02f878779" width="60" height="60" alt="Pimpin' Benjamin" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">Pimpin' Benjamin</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coast Contra (2021)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD"><img src="https://i.scdn.co/image/ab67616d0000b2739d8c8d4e72cab2f00e0686f5" width="60" height="60" alt="Getting Away With Murder" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD">Scars</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Papa Roach (2004)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"><img src="https://i.scdn.co/image/ab67616d0000b273871d85943145dde548f4ae09" width="60" height="60" alt="Wild Ones" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF">Whistle</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Flo Rida (2012)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX"><img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="60" height="60" alt="Start Static" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX">Bouncing Off The Walls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6xpDh0dXrkVp0Po1qrHUd8"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6xpDh0dXrkVp0Po1qrHUd8">Adam's Song</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ"><img src="https://i.scdn.co/image/ab67616d0000b2738ed6845745db21e6c956ab1d" width="60" height="60" alt="One Thing Right" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">One Thing Right</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown (2019)</span></td>
 </tr>
 </table>
 </div>
