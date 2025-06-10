@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK"><img src="https://i.scdn.co/image/ab67616d0000b273463986d828c59a03f2ab0a3f" width="150" height="150" alt="The House That Dirt Built" /></a>
+<a href="https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"><img src="https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed" width="150" height="150" alt="White Pony" /></a>
 
-<b><a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">How You Like Me Now</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3">Change (In the House of Flies)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">The Heavy (2009)</span>
+<span style="color: #666;">Deftones (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK"><img src="https://i.scdn.co/image/ab67616d0000b273463986d828c59a03f2ab0a3f" width="60" height="60" alt="The House That Dirt Built" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">How You Like Me Now</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Heavy (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2I4xWxEeI56caBBsVxXd6w"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2I4xWxEeI56caBBsVxXd6w">Flesh & Metal</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
 <td><b><a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy">Nice to Know You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World's Smallest Violin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
 </tr>
 </table>
 </div>
