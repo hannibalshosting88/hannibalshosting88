@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="150" height="150" alt="Disobey" /></a>
+<a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y"><img src="https://i.scdn.co/image/ab67616d0000b273bbcee29f47340197f56870e5" width="150" height="150" alt="Thug Walkin" /></a>
 
-<b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y">Whistle While You Twurk (ColliPark Mix)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Bad Wolves (2018)</span>
+<span style="color: #666;">Ying Yang Twins (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"><img src="https://i.scdn.co/image/ab67616d0000b273579b9602ae484950d95d0ab8" width="60" height="60" alt="Black Summer" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b">Black Summer</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2022)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1bTphHXspys3RvvRxfzzIc"><img src="https://i.scdn.co/image/ab67616d0000b2734ab521cf16202a5bc5f72cfe" width="60" height="60" alt="Crunk Juice" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1bTphHXspys3RvvRxfzzIc">What U Gon' Do</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Lil Scrappy (2004)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="60" height="60" alt="Disobey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Wolves (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"><img src="https://i.scdn.co/image/ab67616d0000b27359a1132f3cab22f80b2d2777" width="60" height="60" alt="Hell: The Sequel (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig">Fast Lane</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Meets Evil (2011)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"><img src="https://i.scdn.co/image/ab67616d0000b273429d8ec28f865acf2a927c2d" width="60" height="60" alt="What You See Is What You Get" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">Beer Never Broke My Heart</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Luke Combs (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB"><img src="https://i.scdn.co/image/ab67616d0000b273fa78c40c54908ff02f878779" width="60" height="60" alt="Pimpin' Benjamin" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">Pimpin' Benjamin</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coast Contra (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD"><img src="https://i.scdn.co/image/ab67616d0000b2739d8c8d4e72cab2f00e0686f5" width="60" height="60" alt="Getting Away With Murder" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD">Scars</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Papa Roach (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"><img src="https://i.scdn.co/image/ab67616d0000b273871d85943145dde548f4ae09" width="60" height="60" alt="Wild Ones" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF">Whistle</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Flo Rida (2012)</span></td>
 </tr>
 </table>
 </div>
