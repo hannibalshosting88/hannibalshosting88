@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"><img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" width="150" height="150" alt="Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)" /></a>
+<a href="https://open.spotify.com/track/3XLnsk7Xs7ONROfmWTB58u"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="150" height="150" alt="Death Magnetic" /></a>
 
-<b><a href="https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB">Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3XLnsk7Xs7ONROfmWTB58u">The Judas Kiss</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign (2016)</span>
+<span style="color: #666;">Metallica (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"><img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" width="60" height="60" alt="Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB">Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX"><img src="https://i.scdn.co/image/ab67616d0000b27379f4fe59d312938c5cecfd46" width="60" height="60" alt="SWISH" /></a></td>
 <td><b><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX">Be</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Joywave (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK"><img src="https://i.scdn.co/image/ab67616d0000b273463986d828c59a03f2ab0a3f" width="60" height="60" alt="The House That Dirt Built" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">How You Like Me Now</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Heavy (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2I4xWxEeI56caBBsVxXd6w"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2I4xWxEeI56caBBsVxXd6w">Flesh & Metal</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
 </tr>
 </table>
 </div>
