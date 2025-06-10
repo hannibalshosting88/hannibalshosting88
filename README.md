@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7Jd1bpQBw6Jc4eSfzTqEp1"><img src="https://i.scdn.co/image/ab67616d0000b273bf051e830a5f4a5f5290191e" width="150" height="150" alt="I'm Only Human After All" /></a>
+<a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H"><img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="150" height="150" alt="Dreamland" /></a>
 
-<b><a href="https://open.spotify.com/track/7Jd1bpQBw6Jc4eSfzTqEp1">Human</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">John "The Ragin Cajun" Jones (2017)</span>
+<span style="color: #666;">Glass Animals (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7Jd1bpQBw6Jc4eSfzTqEp1"><img src="https://i.scdn.co/image/ab67616d0000b273bf051e830a5f4a5f5290191e" width="60" height="60" alt="I'm Only Human After All" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7Jd1bpQBw6Jc4eSfzTqEp1">Human</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">John "The Ragin Cajun" Jones (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="60" height="60" alt="Evolve" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB">Thunder</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2017)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7rKVFhiZFCo9ghpgI7vsqx"><img src="https://i.scdn.co/image/ab67616d0000b2731ec06417ecad84de11260ddb" width="60" height="60" alt="Digital Cowboy" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7rKVFhiZFCo9ghpgI7vsqx">Diddled At Diddy's</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Biscuit Beats (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"><img src="https://i.scdn.co/image/ab67616d0000b2730158cbde70672dd821972907" width="60" height="60" alt="Smash" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP">Self Esteem</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Offspring (1994)</span></td>
 </tr>
 </table>
 </div>
