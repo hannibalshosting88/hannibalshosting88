@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/110xRTiNE1koUrWiMCYnKJ"><img src="https://i.scdn.co/image/ab67616d0000b2735128fe6af0b5227bd6a6b84e" width="150" height="150" alt="The Devil (Remixes) [Deluxe Edition]" /></a>
+<a href="https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"><img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" width="150" height="150" alt="Late Registration" /></a>
 
-<b><a href="https://open.spotify.com/track/110xRTiNE1koUrWiMCYnKJ">Armageddon (Entropy Zero Remix) - Instrumental</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ">Gold Digger</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Blue Stahli, Entropy Zero (2018)</span>
+<span style="color: #666;">Kanye West, Jamie Foxx (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a"><img src="https://i.scdn.co/image/ab67616d0000b27351853c867bd51abc84432ee5" width="60" height="60" alt="The Best Of Kansas" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kansas (1984)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/110xRTiNE1koUrWiMCYnKJ"><img src="https://i.scdn.co/image/ab67616d0000b2735128fe6af0b5227bd6a6b84e" width="60" height="60" alt="The Devil (Remixes) [Deluxe Edition]" /></a></td>
+<td><b><a href="https://open.spotify.com/track/110xRTiNE1koUrWiMCYnKJ">Armageddon (Entropy Zero Remix) - Instrumental</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Blue Stahli, Entropy Zero (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX">The Warmth</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/36DLF96pjKydN0MZtsahQz"><img src="https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0" width="60" height="60" alt="Ride The Lightning (Deluxe Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/36DLF96pjKydN0MZtsahQz">Ride The Lightning (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1984)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="60" height="60" alt="Backstreet Boys" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx">Quit Playing Games (With My Heart)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1996)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"><img src="https://i.scdn.co/image/ab67616d0000b273fc7df879208b362bb1ce1499" width="60" height="60" alt="Purple (2019 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX">Vasoline - 2019 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Temple Pilots (1994)</span></td>
 </tr>
 </table>
 </div>
