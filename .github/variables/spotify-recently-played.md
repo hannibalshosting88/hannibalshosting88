@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H"><img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="150" height="150" alt="Dreamland" /></a>
+<a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="150" height="150" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a>
 
-<b><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP">Erase Me - Main</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Glass Animals (2020)</span>
+<span style="color: #666;">Kid Cudi, Kanye West (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"><img src="https://i.scdn.co/image/ab67616d0000b2737e1f85f69323acac962516c4" width="60" height="60" alt="Garage, Inc." /></a></td>
+<td><b><a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP">Whiskey In The Jar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1998)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H"><img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="60" height="60" alt="Dreamland" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Glass Animals (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7Jd1bpQBw6Jc4eSfzTqEp1"><img src="https://i.scdn.co/image/ab67616d0000b273bf051e830a5f4a5f5290191e" width="60" height="60" alt="I'm Only Human After All" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7Jd1bpQBw6Jc4eSfzTqEp1">Human</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">John "The Ragin Cajun" Jones (2017)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry"><img src="https://i.scdn.co/image/ab67616d0000b273f884eba13ce42428430b6663" width="60" height="60" alt="Extreme Power Metal" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry">My Heart Will Go On</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DragonForce (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2eaXDQDwR1akXIIzTF5K0O"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2eaXDQDwR1akXIIzTF5K0O">Olivia's Doom (Chad Mossholder Remix)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon, Chad Mossholder (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7rKVFhiZFCo9ghpgI7vsqx"><img src="https://i.scdn.co/image/ab67616d0000b2731ec06417ecad84de11260ddb" width="60" height="60" alt="Digital Cowboy" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7rKVFhiZFCo9ghpgI7vsqx">Diddled At Diddy's</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Biscuit Beats (2024)</span></td>
 </tr>
 </table>
 </div>
