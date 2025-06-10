@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3TLhkXFenusy509GrA8RUL"><img src="https://i.scdn.co/image/ab67616d0000b273fc6d52924a3ce8a3dc034ea9" width="150" height="150" alt="Westwinds" /></a>
+<a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="150" height="150" alt="Enema Of The State" /></a>
 
-<b><a href="https://open.spotify.com/track/3TLhkXFenusy509GrA8RUL">Barrett's Privateers</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU">All The Small Things</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">The Real McKenzies (2012)</span>
+<span style="color: #666;">blink-182 (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM"><img src="https://i.scdn.co/image/ab67616d0000b273950eb267e96cd35da58b1d1c" width="60" height="60" alt="I'm Goin In" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM">I'm Goin In</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Lil Wayne, Jeezy (2009)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3TLhkXFenusy509GrA8RUL"><img src="https://i.scdn.co/image/ab67616d0000b273fc6d52924a3ce8a3dc034ea9" width="60" height="60" alt="Westwinds" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3TLhkXFenusy509GrA8RUL">Barrett's Privateers</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Real McKenzies (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"><img src="https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad" width="60" height="60" alt="Make Believe" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa">Beverly Hills</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2005)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3XLnsk7Xs7ONROfmWTB58u"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="60" height="60" alt="Death Magnetic" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3XLnsk7Xs7ONROfmWTB58u">The Judas Kiss</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (2008)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"><img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" width="60" height="60" alt="Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB">Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX"><img src="https://i.scdn.co/image/ab67616d0000b27379f4fe59d312938c5cecfd46" width="60" height="60" alt="SWISH" /></a></td>
-<td><b><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX">Be</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Joywave (2016)</span></td>
 </tr>
 </table>
 </div>
