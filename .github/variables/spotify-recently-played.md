@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="150" height="150" alt="Mercury - Acts 1 & 2" /></a>
+<a href="https://open.spotify.com/track/5mfcFNV1pDNAwLguz9pFW0"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="150" height="150" alt="The Essential Incubus" /></a>
 
-<b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/5mfcFNV1pDNAwLguz9pFW0">Anna Molly</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span>
+<span style="color: #666;">Incubus (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="60" height="60" alt="Mercury - Acts 1 & 2" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3zwmW1gM4E8FlHXV5nE16u"><img src="https://i.scdn.co/image/ab67616d0000b27307301dd5fedf5ad64cde4882" width="60" height="60" alt="Out of Exile" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3zwmW1gM4E8FlHXV5nE16u">Be Yourself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Audioslave (2005)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU">All The Small Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM"><img src="https://i.scdn.co/image/ab67616d0000b273950eb267e96cd35da58b1d1c" width="60" height="60" alt="I'm Goin In" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM">I'm Goin In</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Lil Wayne, Jeezy (2009)</span></td>
 </tr>
 </table>
 </div>
