@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="150" height="150" alt="OK ORCHESTRA" /></a>
+<a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="150" height="150" alt="Make Yourself" /></a>
 
-<b><a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d">Bang!</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX">The Warmth</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">AJR (2021)</span>
+<span style="color: #666;">Incubus (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d">Bang!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/493xja7E57qje1iR0Pwj5K"><img src="https://i.scdn.co/image/ab67616d0000b27317240d108cc177450f8558c1" width="60" height="60" alt="California Gold" /></a></td>
 <td><b><a href="https://open.spotify.com/track/493xja7E57qje1iR0Pwj5K">Fix What You Didn't Break</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nate Smith (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="60" height="60" alt="Fragile" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yes (1971)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8"><img src="https://i.scdn.co/image/ab67616d0000b2734f582a7765b766fac982283a" width="60" height="60" alt="What Are We Waiting For?" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8">For God Is With Us</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2022)</span></td>
 </tr>
 </table>
 </div>
