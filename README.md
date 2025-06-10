@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y"><img src="https://i.scdn.co/image/ab67616d0000b273bbcee29f47340197f56870e5" width="150" height="150" alt="Thug Walkin" /></a>
+<a href="https://open.spotify.com/track/3TLhkXFenusy509GrA8RUL"><img src="https://i.scdn.co/image/ab67616d0000b273fc6d52924a3ce8a3dc034ea9" width="150" height="150" alt="Westwinds" /></a>
 
-<b><a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y">Whistle While You Twurk (ColliPark Mix)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3TLhkXFenusy509GrA8RUL">Barrett's Privateers</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Ying Yang Twins (2000)</span>
+<span style="color: #666;">The Real McKenzies (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"><img src="https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad" width="60" height="60" alt="Make Believe" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa">Beverly Hills</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2005)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y"><img src="https://i.scdn.co/image/ab67616d0000b273bbcee29f47340197f56870e5" width="60" height="60" alt="Thug Walkin" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y">Whistle While You Twurk (ColliPark Mix)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"><img src="https://i.scdn.co/image/ab67616d0000b273579b9602ae484950d95d0ab8" width="60" height="60" alt="Black Summer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b">Black Summer</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2022)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX"><img src="https://i.scdn.co/image/ab67616d0000b27379f4fe59d312938c5cecfd46" width="60" height="60" alt="SWISH" /></a></td>
 <td><b><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX">Be</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Joywave (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl"><img src="https://i.scdn.co/image/ab67616d0000b2738c28d7443694de36c67be905" width="60" height="60" alt="Prolonging the Magic" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl">Never There</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (1998)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"><img src="https://i.scdn.co/image/ab67616d0000b273429d8ec28f865acf2a927c2d" width="60" height="60" alt="What You See Is What You Get" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">Beer Never Broke My Heart</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Luke Combs (2019)</span></td>
 </tr>
 </table>
 </div>
