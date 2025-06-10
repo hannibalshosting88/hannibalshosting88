@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7rKVFhiZFCo9ghpgI7vsqx"><img src="https://i.scdn.co/image/ab67616d0000b2731ec06417ecad84de11260ddb" width="150" height="150" alt="Digital Cowboy" /></a>
+<a href="https://open.spotify.com/track/2eaXDQDwR1akXIIzTF5K0O"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="150" height="150" alt="Doom (Original Game Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/7rKVFhiZFCo9ghpgI7vsqx">Diddled At Diddy's</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2eaXDQDwR1akXIIzTF5K0O">Olivia's Doom (Chad Mossholder Remix)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Biscuit Beats (2024)</span>
+<span style="color: #666;">Mick Gordon, Chad Mossholder (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7rKVFhiZFCo9ghpgI7vsqx"><img src="https://i.scdn.co/image/ab67616d0000b2731ec06417ecad84de11260ddb" width="60" height="60" alt="Digital Cowboy" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7rKVFhiZFCo9ghpgI7vsqx">Diddled At Diddy's</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Biscuit Beats (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"><img src="https://i.scdn.co/image/ab67616d0000b2730158cbde70672dd821972907" width="60" height="60" alt="Smash" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP">Self Esteem</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Offspring (1994)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"><img src="https://i.scdn.co/image/ab67616d0000b273579b9602ae484950d95d0ab8" width="60" height="60" alt="Black Summer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b">Black Summer</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1bTphHXspys3RvvRxfzzIc"><img src="https://i.scdn.co/image/ab67616d0000b2734ab521cf16202a5bc5f72cfe" width="60" height="60" alt="Crunk Juice" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1bTphHXspys3RvvRxfzzIc">What U Gon' Do</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Lil Scrappy (2004)</span></td>
 </tr>
 </table>
 </div>
