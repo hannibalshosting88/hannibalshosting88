@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry"><img src="https://i.scdn.co/image/ab67616d0000b273f884eba13ce42428430b6663" width="150" height="150" alt="Extreme Power Metal" /></a>
+<a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="150" height="150" alt="Mercury - Acts 1 & 2" /></a>
 
-<b><a href="https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry">My Heart Will Go On</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">DragonForce (2019)</span>
+<span style="color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3zwmW1gM4E8FlHXV5nE16u"><img src="https://i.scdn.co/image/ab67616d0000b27307301dd5fedf5ad64cde4882" width="60" height="60" alt="Out of Exile" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3zwmW1gM4E8FlHXV5nE16u">Be Yourself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Audioslave (2005)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry"><img src="https://i.scdn.co/image/ab67616d0000b273f884eba13ce42428430b6663" width="60" height="60" alt="Extreme Power Metal" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry">My Heart Will Go On</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DragonForce (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry"><img src="https://i.scdn.co/image/ab67616d0000b273f884eba13ce42428430b6663" width="60" height="60" alt="Extreme Power Metal" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry">My Heart Will Go On</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DragonForce (2019)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM"><img src="https://i.scdn.co/image/ab67616d0000b273950eb267e96cd35da58b1d1c" width="60" height="60" alt="I'm Goin In" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM">I'm Goin In</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Lil Wayne, Jeezy (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3TLhkXFenusy509GrA8RUL"><img src="https://i.scdn.co/image/ab67616d0000b273fc6d52924a3ce8a3dc034ea9" width="60" height="60" alt="Westwinds" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3TLhkXFenusy509GrA8RUL">Barrett's Privateers</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Real McKenzies (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"><img src="https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad" width="60" height="60" alt="Make Believe" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa">Beverly Hills</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2005)</span></td>
 </tr>
 </table>
 </div>
