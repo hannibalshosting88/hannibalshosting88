@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"><img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="150" height="150" alt="The Attractions Of Youth" /></a>
+<a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"><img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="150" height="150" alt="24K Magic" /></a>
 
-<b><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter & Gold</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P">24K Magic</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Barns Courtney (2017)</span>
+<span style="color: #666;">Bruno Mars (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"><img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="60" height="60" alt="The Attractions Of Youth" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter & Gold</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Barns Courtney (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"><img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" width="60" height="60" alt="Hozier (Expanded Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP">Take Me to Church</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Hozier (2014)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4YkAIAV4z5VJSOKYOAsS9U"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4YkAIAV4z5VJSOKYOAsS9U">Vega Core</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"><img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" width="60" height="60" alt="Late Registration" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ">Gold Digger</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West, Jamie Foxx (2005)</span></td>
 </tr>
 </table>
 </div>
