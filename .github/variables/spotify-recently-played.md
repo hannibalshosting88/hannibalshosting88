@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3XLnsk7Xs7ONROfmWTB58u"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="150" height="150" alt="Death Magnetic" /></a>
+<a href="https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"><img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" width="150" height="150" alt="Back In Black" /></a>
 
-<b><a href="https://open.spotify.com/track/3XLnsk7Xs7ONROfmWTB58u">The Judas Kiss</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj">Back In Black</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Metallica (2008)</span>
+<span style="color: #666;">AC/DC (1980)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3XLnsk7Xs7ONROfmWTB58u"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="60" height="60" alt="Death Magnetic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3XLnsk7Xs7ONROfmWTB58u">The Judas Kiss</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (2008)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"><img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" width="60" height="60" alt="Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB">Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"><img src="https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed" width="60" height="60" alt="White Pony" /></a></td>
 <td><b><a href="https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3">Change (In the House of Flies)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Deftones (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK"><img src="https://i.scdn.co/image/ab67616d0000b273463986d828c59a03f2ab0a3f" width="60" height="60" alt="The House That Dirt Built" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">How You Like Me Now</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Heavy (2009)</span></td>
 </tr>
 </table>
 </div>
