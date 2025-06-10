@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"><img src="https://i.scdn.co/image/ab67616d0000b273429d8ec28f865acf2a927c2d" width="150" height="150" alt="What You See Is What You Get" /></a>
+<a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl"><img src="https://i.scdn.co/image/ab67616d0000b2738c28d7443694de36c67be905" width="150" height="150" alt="Prolonging the Magic" /></a>
 
-<b><a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">Beer Never Broke My Heart</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl">Never There</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Luke Combs (2019)</span>
+<span style="color: #666;">CAKE (1998)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"><img src="https://i.scdn.co/image/ab67616d0000b273429d8ec28f865acf2a927c2d" width="60" height="60" alt="What You See Is What You Get" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">Beer Never Broke My Heart</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Luke Combs (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB"><img src="https://i.scdn.co/image/ab67616d0000b273fa78c40c54908ff02f878779" width="60" height="60" alt="Pimpin' Benjamin" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">Pimpin' Benjamin</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coast Contra (2021)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4">One Step Closer</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX"><img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="60" height="60" alt="Start Static" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX">Bouncing Off The Walls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2001)</span></td>
 </tr>
 </table>
 </div>
