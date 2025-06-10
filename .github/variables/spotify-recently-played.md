@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ"><img src="https://i.scdn.co/image/ab67616d0000b2738ed6845745db21e6c956ab1d" width="150" height="150" alt="One Thing Right" /></a>
+<a href="https://open.spotify.com/track/6xpDh0dXrkVp0Po1qrHUd8"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="150" height="150" alt="Enema Of The State" /></a>
 
-<b><a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">One Thing Right</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6xpDh0dXrkVp0Po1qrHUd8">Adam's Song</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Marshmello, Kane Brown (2019)</span>
+<span style="color: #666;">blink-182 (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ"><img src="https://i.scdn.co/image/ab67616d0000b2738ed6845745db21e6c956ab1d" width="60" height="60" alt="One Thing Right" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">One Thing Right</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7CBD8biut3IwSJDfhKHLoH"><img src="https://i.scdn.co/image/ab67616d0000b273608b7c67166e304b14c85c5c" width="60" height="60" alt="If Not Now, When?" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7CBD8biut3IwSJDfhKHLoH">Adolescents</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2011)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"><img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="60" height="60" alt="The Attractions Of Youth" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter & Gold</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Barns Courtney (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"><img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" width="60" height="60" alt="Hozier (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP">Take Me to Church</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Hozier (2014)</span></td>
 </tr>
 </table>
 </div>
