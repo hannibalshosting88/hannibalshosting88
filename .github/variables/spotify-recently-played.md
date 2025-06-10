@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl"><img src="https://i.scdn.co/image/ab67616d0000b2738c28d7443694de36c67be905" width="150" height="150" alt="Prolonging the Magic" /></a>
+<a href="https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"><img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" width="150" height="150" alt="Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)" /></a>
 
-<b><a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl">Never There</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB">Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">CAKE (1998)</span>
+<span style="color: #666;">Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX"><img src="https://i.scdn.co/image/ab67616d0000b27379f4fe59d312938c5cecfd46" width="60" height="60" alt="SWISH" /></a></td>
+<td><b><a href="https://open.spotify.com/track/77dUvLM6cQqrgIlj6ADkDX">Be</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Joywave (2016)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl"><img src="https://i.scdn.co/image/ab67616d0000b2738c28d7443694de36c67be905" width="60" height="60" alt="Prolonging the Magic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl">Never There</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (1998)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"><img src="https://i.scdn.co/image/ab67616d0000b273429d8ec28f865acf2a927c2d" width="60" height="60" alt="What You See Is What You Get" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">Beer Never Broke My Heart</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Luke Combs (2019)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2I4xWxEeI56caBBsVxXd6w"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2I4xWxEeI56caBBsVxXd6w">Flesh & Metal</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ"><img src="https://i.scdn.co/image/ab67616d0000b2737583749302de0d090a055381" width="60" height="60" alt="9Circles" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ">9Circles</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4">One Step Closer</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
 </tr>
 </table>
 </div>
