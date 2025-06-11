@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3f68woml3BmUrIA4tJcQ7E"><img src="https://i.scdn.co/image/ab67616d0000b273ebfecad2b3d4348bdb4aa241" width="150" height="150" alt="Hero (feat. David Shane)" /></a>
+<a href="https://open.spotify.com/track/47Wv7knmg7C9ISkSuTcxo3"><img src="https://i.scdn.co/image/ab67616d0000b273fdc4601297d7435cec8993c5" width="150" height="150" alt="Stop The Rock" /></a>
 
-<b><a href="https://open.spotify.com/track/3f68woml3BmUrIA4tJcQ7E">Hero (feat. David Shane)</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/47Wv7knmg7C9ISkSuTcxo3">Stop the Rock</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">QUIX, Vincent, David Shane (2018)</span>
+<span style="color: #666;">Apollo 440 (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3f68woml3BmUrIA4tJcQ7E"><img src="https://i.scdn.co/image/ab67616d0000b273ebfecad2b3d4348bdb4aa241" width="60" height="60" alt="Hero (feat. David Shane)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3f68woml3BmUrIA4tJcQ7E">Hero (feat. David Shane)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">QUIX, Vincent, David Shane (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6WwkNIzmdTvk4x4KNEpmGY"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6WwkNIzmdTvk4x4KNEpmGY">Harbinger</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"><img src="https://i.scdn.co/image/ab67616d0000b2739d52169c3b609d4630e04433" width="60" height="60" alt="Commodores" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P">Brick House</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Commodores (1977)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY"><img src="https://i.scdn.co/image/ab67616d0000b27323152d9337d6c57b116ed13a" width="60" height="60" alt="Death of a Bachelor" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY">Don't Threaten Me with a Good Time</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2016)</span></td>
 </tr>
 </table>
 </div>
