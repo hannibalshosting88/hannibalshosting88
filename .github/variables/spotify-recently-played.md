@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"><img src="https://i.scdn.co/image/ab67616d0000b27354ab617bc2d4974ab6ffbece" width="150" height="150" alt="Rage Against The Machine - XX (20th Anniversary Special Edition)" /></a>
+<a href="https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56"><img src="https://i.scdn.co/image/ab67616d0000b2732a327b779d23312c60697ed3" width="150" height="150" alt="Your New Morning Alarm" /></a>
 
-<b><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp">Killing In The Name</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56">Your New Morning Alarm</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Rage Against The Machine (1992)</span>
+<span style="color: #666;">Marc Rebillet (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="60" height="60" alt="Get Rich Or Die Tryin'" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">50 Cent (2003)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"><img src="https://i.scdn.co/image/ab67616d0000b27354ab617bc2d4974ab6ffbece" width="60" height="60" alt="Rage Against The Machine - XX (20th Anniversary Special Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp">Killing In The Name</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Rage Against The Machine (1992)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr">Crawling</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H"><img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="60" height="60" alt="Dreamland" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Glass Animals (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7Jd1bpQBw6Jc4eSfzTqEp1"><img src="https://i.scdn.co/image/ab67616d0000b273bf051e830a5f4a5f5290191e" width="60" height="60" alt="I'm Only Human After All" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7Jd1bpQBw6Jc4eSfzTqEp1">Human</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">John "The Ragin Cajun" Jones (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="60" height="60" alt="Evolve" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB">Thunder</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2017)</span></td>
 </tr>
 </table>
 </div>
