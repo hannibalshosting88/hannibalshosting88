@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2YjyraHHtDjveUNTSypXd3"><img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="150" height="150" alt="Thundersmack" /></a>
+<a href="https://open.spotify.com/track/6WwkNIzmdTvk4x4KNEpmGY"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="150" height="150" alt="Doom (Original Game Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/2YjyraHHtDjveUNTSypXd3">Moon Dreams</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/6WwkNIzmdTvk4x4KNEpmGY">Harbinger</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Thundersmack (2021)</span>
+<span style="color: #666;">Mick Gordon (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2YjyraHHtDjveUNTSypXd3"><img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="60" height="60" alt="Thundersmack" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2YjyraHHtDjveUNTSypXd3">Moon Dreams</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="60" height="60" alt="Kamikaze" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4">Venom - Music From The Motion Picture</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"><img src="https://i.scdn.co/image/ab67616d0000b27387459a563f92e336d282ca59" width="60" height="60" alt="Growin' Up" /></a></td>
 <td><b><a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx">The Kind of Love We Make</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Luke Combs (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"><img src="https://i.scdn.co/image/ab67616d0000b273a9bae94ddb20a71f573931c0" width="60" height="60" alt="The Young and The Hopeless" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6">Lifestyles of the Rich & Famous</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2002)</span></td>
 </tr>
 </table>
 </div>
