@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5QcSLVq30mIhTSOHlhjnCF"><img src="https://i.scdn.co/image/ab67616d0000b273fb303588ba010f01fb55774d" width="150" height="150" alt="God Hates Us All" /></a>
+<a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="150" height="150" alt="Tha Carter IV (Complete Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/5QcSLVq30mIhTSOHlhjnCF">Payback</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu">Blunt Blowin</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Slayer (2001)</span>
+<span style="color: #666;">Lil Wayne (2011)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5QcSLVq30mIhTSOHlhjnCF"><img src="https://i.scdn.co/image/ab67616d0000b273fb303588ba010f01fb55774d" width="60" height="60" alt="God Hates Us All" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5QcSLVq30mIhTSOHlhjnCF">Payback</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Slayer (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP">Erase Me - Main</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, Kanye West (2010)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3zwmW1gM4E8FlHXV5nE16u"><img src="https://i.scdn.co/image/ab67616d0000b27307301dd5fedf5ad64cde4882" width="60" height="60" alt="Out of Exile" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3zwmW1gM4E8FlHXV5nE16u">Be Yourself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Audioslave (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry"><img src="https://i.scdn.co/image/ab67616d0000b273f884eba13ce42428430b6663" width="60" height="60" alt="Extreme Power Metal" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry">My Heart Will Go On</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DragonForce (2019)</span></td>
 </tr>
 </table>
 </div>
