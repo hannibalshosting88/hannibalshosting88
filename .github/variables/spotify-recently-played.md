@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"><img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="150" height="150" alt="Blurred Lines (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="150" height="150" alt="Kamikaze" /></a>
 
-<b><a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4">Venom - Music From The Motion Picture</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Robin Thicke, T.I., Pharrell Williams (2013)</span>
+<span style="color: #666;">Eminem (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"><img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="60" height="60" alt="Blurred Lines (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Robin Thicke, T.I., Pharrell Williams (2013)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f"><img src="https://i.scdn.co/image/ab67616d0000b273dfe55128eb2aa4e87854e50f" width="60" height="60" alt="Good Luck Everybody" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f">Body Terror Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AJJ (2020)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x"><img src="https://i.scdn.co/image/ab67616d0000b273bb8639d1374637e0c6b47edb" width="60" height="60" alt="Call of Duty Black Ops II (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x">Adrenaline</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jack Wall, Big Giant Circles (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE"><img src="https://i.scdn.co/image/ab67616d0000b273b898edb5cd07a99820a33050" width="60" height="60" alt="Cyberpunk EP" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE">FCKD</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper, Mark Arn (2019)</span></td>
 </tr>
 </table>
 </div>
