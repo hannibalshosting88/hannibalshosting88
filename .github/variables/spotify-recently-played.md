@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="150" height="150" alt="Hybrid Theory (Bonus Edition)" /></a>
+<a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"><img src="https://i.scdn.co/image/ab67616d0000b27354ab617bc2d4974ab6ffbece" width="150" height="150" alt="Rage Against The Machine - XX (20th Anniversary Special Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr">Crawling</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp">Killing In The Name</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Linkin Park (2000)</span>
+<span style="color: #666;">Rage Against The Machine (1992)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr">Crawling</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2T15NZyQUjmH04GqM0ahyy"><img src="https://i.scdn.co/image/ab67616d0000b27380255b6cc3fda7dc4ad84680" width="60" height="60" alt="Wolfenstein II: The New Colossus (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2T15NZyQUjmH04GqM0ahyy">Reich Between the Eyes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="60" height="60" alt="Evolve" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB">Thunder</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"><img src="https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac" width="60" height="60" alt="Slippery When Wet" /></a></td>
-<td><b><a href="https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF">Livin' On A Prayer</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bon Jovi (1986)</span></td>
 </tr>
 </table>
 </div>
