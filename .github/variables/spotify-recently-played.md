@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f"><img src="https://i.scdn.co/image/ab67616d0000b273dfe55128eb2aa4e87854e50f" width="150" height="150" alt="Good Luck Everybody" /></a>
+<a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"><img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="150" height="150" alt="Blurred Lines (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f">Body Terror Song</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">AJJ (2020)</span>
+<span style="color: #666;">Robin Thicke, T.I., Pharrell Williams (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f"><img src="https://i.scdn.co/image/ab67616d0000b273dfe55128eb2aa4e87854e50f" width="60" height="60" alt="Good Luck Everybody" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f">Body Terror Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AJJ (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
 <td><b><a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy">Nice to Know You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE"><img src="https://i.scdn.co/image/ab67616d0000b273b898edb5cd07a99820a33050" width="60" height="60" alt="Cyberpunk EP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE">FCKD</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper, Mark Arn (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf"><img src="https://i.scdn.co/image/ab67616d0000b273f485a27298fbd17d868f7565" width="60" height="60" alt="A Crow Left Of The Murder..." /></a></td>
-<td><b><a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">Sick Sad Little World</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2004)</span></td>
 </tr>
 </table>
 </div>
