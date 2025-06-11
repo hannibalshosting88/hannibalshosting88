@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x"><img src="https://i.scdn.co/image/ab67616d0000b273bb8639d1374637e0c6b47edb" width="150" height="150" alt="Call of Duty Black Ops II (Original Game Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"><img src="https://i.scdn.co/image/ab67616d0000b273a9bae94ddb20a71f573931c0" width="150" height="150" alt="The Young and The Hopeless" /></a>
 
-<b><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x">Adrenaline</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6">Lifestyles of the Rich & Famous</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Jack Wall, Big Giant Circles (2012)</span>
+<span style="color: #666;">Good Charlotte (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x"><img src="https://i.scdn.co/image/ab67616d0000b273bb8639d1374637e0c6b47edb" width="60" height="60" alt="Call of Duty Black Ops II (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x">Adrenaline</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jack Wall, Big Giant Circles (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE"><img src="https://i.scdn.co/image/ab67616d0000b273b898edb5cd07a99820a33050" width="60" height="60" alt="Cyberpunk EP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE">FCKD</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper, Mark Arn (2019)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2T15NZyQUjmH04GqM0ahyy"><img src="https://i.scdn.co/image/ab67616d0000b27380255b6cc3fda7dc4ad84680" width="60" height="60" alt="Wolfenstein II: The New Colossus (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2T15NZyQUjmH04GqM0ahyy">Reich Between the Eyes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"><img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="60" height="60" alt="Night Visions" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a">Demons</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2012)</span></td>
 </tr>
 </table>
 </div>
