@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"><img src="https://i.scdn.co/image/ab67616d0000b27387459a563f92e336d282ca59" width="150" height="150" alt="Growin' Up" /></a>
+<a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="150" height="150" alt="INSANO (NITRO MEGA)" /></a>
 
-<b><a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx">The Kind of Love We Make</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By">WIN OR LOSE (feat. Chip Tha Ripper)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Luke Combs (2022)</span>
+<span style="color: #666;">Kid Cudi, Chip Tha Ripper (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"><img src="https://i.scdn.co/image/ab67616d0000b27387459a563f92e336d282ca59" width="60" height="60" alt="Growin' Up" /></a></td>
+<td><b><a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx">The Kind of Love We Make</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Luke Combs (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"><img src="https://i.scdn.co/image/ab67616d0000b2739d52169c3b609d4630e04433" width="60" height="60" alt="Commodores" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P">Brick House</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Commodores (1977)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="60" height="60" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2008)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56"><img src="https://i.scdn.co/image/ab67616d0000b2732a327b779d23312c60697ed3" width="60" height="60" alt="Your New Morning Alarm" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56">Your New Morning Alarm</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marc Rebillet (2023)</span></td>
 </tr>
 </table>
 </div>
