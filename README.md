@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="150" height="150" alt="Enema Of The State" /></a>
+<a href="https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL"><img src="https://i.scdn.co/image/ab67616d0000b273c68f26a3d34fbd0faed2b473" width="150" height="150" alt="FutureSex/LoveSounds Deluxe Edition" /></a>
 
-<b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL">My Love (feat. T.I.)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">blink-182 (1999)</span>
+<span style="color: #666;">Justin Timberlake, T.I. (2006)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0MvqSYPr5Wi62JB7VWvqwz"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="60" height="60" alt="Perception" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0MvqSYPr5Wi62JB7VWvqwz">Green Lights</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2017)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6WwkNIzmdTvk4x4KNEpmGY"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6WwkNIzmdTvk4x4KNEpmGY">Harbinger</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2YjyraHHtDjveUNTSypXd3"><img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="60" height="60" alt="Thundersmack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2YjyraHHtDjveUNTSypXd3">Moon Dreams</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
 </tr>
 </table>
 </div>
