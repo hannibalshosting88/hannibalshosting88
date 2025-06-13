@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL"><img src="https://i.scdn.co/image/ab67616d0000b273c68f26a3d34fbd0faed2b473" width="150" height="150" alt="FutureSex/LoveSounds Deluxe Edition" /></a>
+<a href="https://open.spotify.com/track/4Zl87UYUFG5OJNPhzMTk20"><img src="https://i.scdn.co/image/ab67616d0000b273b0222d2ff7d5f263639c9548" width="150" height="150" alt="Lies" /></a>
 
-<b><a href="https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL">My Love (feat. T.I.)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/4Zl87UYUFG5OJNPhzMTk20">Clockwork - Original Mix</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Justin Timberlake, T.I. (2006)</span>
+<span style="color: #666;">Hyper (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL"><img src="https://i.scdn.co/image/ab67616d0000b273c68f26a3d34fbd0faed2b473" width="60" height="60" alt="FutureSex/LoveSounds Deluxe Edition" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL">My Love (feat. T.I.)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake, T.I. (2006)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3f68woml3BmUrIA4tJcQ7E"><img src="https://i.scdn.co/image/ab67616d0000b273ebfecad2b3d4348bdb4aa241" width="60" height="60" alt="Hero (feat. David Shane)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3f68woml3BmUrIA4tJcQ7E">Hero (feat. David Shane)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">QUIX, Vincent, David Shane (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6WwkNIzmdTvk4x4KNEpmGY"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6WwkNIzmdTvk4x4KNEpmGY">Harbinger</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
 </tr>
 </table>
 </div>
