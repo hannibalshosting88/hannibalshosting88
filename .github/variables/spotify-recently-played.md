@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID"><img src="https://i.scdn.co/image/ab67616d0000b273f31382d7bd220e2c6b3f7f14" width="150" height="150" alt="Had Some Drinks" /></a>
+<a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb"><img src="https://i.scdn.co/image/ab67616d0000b27365d444a19f72771cba82cb00" width="150" height="150" alt="Para Mi" /></a>
 
-<b><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID">Had Some Drinks</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">Bossa No Sé (feat. Jean Carter)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Two Feet (2017)</span>
+<span style="color: #666;">Cuco, Jean Carter (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID"><img src="https://i.scdn.co/image/ab67616d0000b273f31382d7bd220e2c6b3f7f14" width="60" height="60" alt="Had Some Drinks" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID">Had Some Drinks</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip"><img src="https://i.scdn.co/image/ab67616d0000b27314d1a203158bed18a4ea7375" width="60" height="60" alt="Lil Boat" /></a></td>
 <td><b><a href="https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip">One Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Yachty (2016)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6R4jqaKXUl7Qp1QVlaMZ34"><img src="https://i.scdn.co/image/ab67616d0000b273b24c2772648d620859c071f2" width="60" height="60" alt="Antisleep, Vol. 03" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6R4jqaKXUl7Qp1QVlaMZ34">Death Hammer</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Blue Stahli (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"><img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" width="60" height="60" alt="Ten" /></a></td>
-<td><b><a href="https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o">Jeremy</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pearl Jam (1991)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"><img src="https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed" width="60" height="60" alt="1984 (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS">Panama - 2015 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Van Halen (1984)</span></td>
 </tr>
 </table>
 </div>
