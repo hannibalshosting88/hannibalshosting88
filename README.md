@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq"><img src="https://i.scdn.co/image/ab67616d0000b273aac864ff7174329862dcf0ae" width="150" height="150" alt="Duel of The Fates - Epic Version (Remastered) [Cover]" /></a>
+<a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"><img src="https://i.scdn.co/image/ab67616d0000b273618551d2d0f2d446b2b97959" width="150" height="150" alt="The Prodigal" /></a>
 
-<b><a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq">Duel of The Fates - Epic Version (Remastered) - Cover</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8">The Prodigal</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Samuel Kim (2022)</span>
+<span style="color: #666;">Josiah Queen (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95"><img src="https://i.scdn.co/image/ab67616d0000b27363bd80f6f88dd62da7ef193c" width="60" height="60" alt="OK Go" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95">Get Over It</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">OK Go (2002)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq"><img src="https://i.scdn.co/image/ab67616d0000b273aac864ff7174329862dcf0ae" width="60" height="60" alt="Duel of The Fates - Epic Version (Remastered) [Cover]" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq">Duel of The Fates - Epic Version (Remastered) - Cover</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Samuel Kim (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K">Remember the Name (feat. Styles of Beyond)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Styles Of Beyond (2005)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"><img src="https://i.scdn.co/image/ab67616d0000b273db38819ff1e73809f8be6107" width="60" height="60" alt="Dystopia" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO">Dystopia</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Megadeth (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"><img src="https://i.scdn.co/image/ab67616d0000b2731cd131e5e9ad887ad8c1ecb7" width="60" height="60" alt="Dirt (2022 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2">Rooster (2022 Remaster)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Alice In Chains (1992)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"><img src="https://i.scdn.co/image/ab67616d0000b2737d6813fd233f3bc4977cceca" width="60" height="60" alt="Dangerous: The Double Album" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3">Wasted On You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Morgan Wallen (2021)</span></td>
 </tr>
 </table>
 </div>
