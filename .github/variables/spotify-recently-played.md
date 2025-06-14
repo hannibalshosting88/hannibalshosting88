@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu"><img src="https://i.scdn.co/image/ab67616d0000b273b0222d2ff7d5f263639c9548" width="150" height="150" alt="Lies" /></a>
+<a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"><img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="150" height="150" alt="Love Is a Bitch" /></a>
 
-<b><a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu">Spoiler - Original Mix</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Hyper (2014)</span>
+<span style="color: #666;">Two Feet (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"><img src="https://i.scdn.co/image/ab67616d0000b273be54746b374358970b5e617a" width="60" height="60" alt="...And Justice for All (Remastered Deluxe Box Set)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t">One (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1988)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu"><img src="https://i.scdn.co/image/ab67616d0000b273b0222d2ff7d5f263639c9548" width="60" height="60" alt="Lies" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu">Spoiler - Original Mix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="60" height="60" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2008)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2T3w7ohdeZNs7noXuIlHrr"><img src="https://i.scdn.co/image/ab67616d0000b273d9a3b1b7041f2fdfc5de0035" width="60" height="60" alt="Crooked Teeth (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2T3w7ohdeZNs7noXuIlHrr">Born For Greatness</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Papa Roach (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd">Pts.Of.Athrty - Jay Gordon Reanimation</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/71vnTUFoXjqP9W8sCVcMQG"><img src="https://i.scdn.co/image/ab67616d0000b273568494844f19d1a29a2d54f8" width="60" height="60" alt="Solos In Stereo" /></a></td>
-<td><b><a href="https://open.spotify.com/track/71vnTUFoXjqP9W8sCVcMQG">Passing Me By - Roche Remix</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">The Pharcyde (2007)</span></td>
 </tr>
 </table>
 </div>
