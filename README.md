@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"><img src="https://i.scdn.co/image/ab67616d0000b2735e1db60a6f9214c247061d86" width="150" height="150" alt="Believer (feat. Lil Wayne)" /></a>
+<a href="https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"><img src="https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed" width="150" height="150" alt="1984 (Remastered)" /></a>
 
-<b><a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN">Believer (feat. Lil Wayne)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS">Panama - 2015 Remaster</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Imagine Dragons, Lil Wayne (2019)</span>
+<span style="color: #666;">Van Halen (1984)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"><img src="https://i.scdn.co/image/ab67616d0000b2735e1db60a6f9214c247061d86" width="60" height="60" alt="Believer (feat. Lil Wayne)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN">Believer (feat. Lil Wayne)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Lil Wayne (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"><img src="https://i.scdn.co/image/ab67616d0000b2730c5d03daf39f254bb546cf3a" width="60" height="60" alt="Religiously. The Album." /></a></td>
 <td><b><a href="https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx">Rock and A Hard Place</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bailey Zimmerman (2023)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"><img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" width="60" height="60" alt="Relapse: Refill" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX">Forever</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Kanye West, Lil Wayne, Eminem (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"><img src="https://i.scdn.co/image/ab67616d0000b273437a8cfd8293ddf6d800c384" width="60" height="60" alt="Break the Cycle" /></a></td>
-<td><b><a href="https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm">Outside</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Staind (2001)</span></td>
 </tr>
 </table>
 </div>
