@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"><img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" width="150" height="150" alt="Relapse: Refill" /></a>
+<a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"><img src="https://i.scdn.co/image/ab67616d0000b2733b7c6c5af0af9fc1a9714b36" width="150" height="150" alt="Different Man" /></a>
 
-<b><a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX">Forever</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8">Thank God</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Drake, Kanye West, Lil Wayne, Eminem (2009)</span>
+<span style="color: #666;">Kane Brown, Katelyn Brown (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"><img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" width="60" height="60" alt="Relapse: Refill" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX">Forever</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Kanye West, Lil Wayne, Eminem (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"><img src="https://i.scdn.co/image/ab67616d0000b273437a8cfd8293ddf6d800c384" width="60" height="60" alt="Break the Cycle" /></a></td>
 <td><b><a href="https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm">Outside</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Staind (2001)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu"><img src="https://i.scdn.co/image/ab67616d0000b273b0222d2ff7d5f263639c9548" width="60" height="60" alt="Lies" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu">Spoiler - Original Mix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="60" height="60" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2008)</span></td>
 </tr>
 </table>
 </div>
