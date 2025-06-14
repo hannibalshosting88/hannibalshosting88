@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"><img src="https://i.scdn.co/image/ab67616d0000b2733b7c6c5af0af9fc1a9714b36" width="150" height="150" alt="Different Man" /></a>
+<a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"><img src="https://i.scdn.co/image/ab67616d0000b273db38819ff1e73809f8be6107" width="150" height="150" alt="Dystopia" /></a>
 
-<b><a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8">Thank God</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO">Dystopia</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Kane Brown, Katelyn Brown (2022)</span>
+<span style="color: #666;">Megadeth (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1CirS5cREBtJy71CLQyKmb"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="60" height="60" alt="Galactic Empire" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1CirS5cREBtJy71CLQyKmb">Battle of The Heroes</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2017)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"><img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" width="60" height="60" alt="Katrina & The Waves" /></a></td>
+<td><b><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0">Walking On Sunshine</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Katrina & The Waves (1985)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"><img src="https://i.scdn.co/image/ab67616d0000b2733b7c6c5af0af9fc1a9714b36" width="60" height="60" alt="Different Man" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8">Thank God</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kane Brown, Katelyn Brown (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"><img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" width="60" height="60" alt="Relapse: Refill" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX">Forever</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Kanye West, Lil Wayne, Eminem (2009)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2PrGlRpPayQ4JFztXWTEx2"><img src="https://i.scdn.co/image/ab67616d0000b2733567ee8c68e23bfae8d210af" width="60" height="60" alt="Bo Burnham" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2PrGlRpPayQ4JFztXWTEx2">I'm Bo Yo</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bo Burnham (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"><img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="60" height="60" alt="Love Is a Bitch" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"><img src="https://i.scdn.co/image/ab67616d0000b273be54746b374358970b5e617a" width="60" height="60" alt="...And Justice for All (Remastered Deluxe Box Set)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t">One (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1988)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu"><img src="https://i.scdn.co/image/ab67616d0000b273b0222d2ff7d5f263639c9548" width="60" height="60" alt="Lies" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu">Spoiler - Original Mix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper (2014)</span></td>
 </tr>
 </table>
 </div>
