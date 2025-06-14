@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="150" height="150" alt="Make Yourself" /></a>
+<a href="https://open.spotify.com/track/71vnTUFoXjqP9W8sCVcMQG"><img src="https://i.scdn.co/image/ab67616d0000b273568494844f19d1a29a2d54f8" width="150" height="150" alt="Solos In Stereo" /></a>
 
-<b><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">When It Comes</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/71vnTUFoXjqP9W8sCVcMQG">Passing Me By - Roche Remix</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Incubus (1999)</span>
+<span style="color: #666;">The Pharcyde (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">When It Comes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e"><img src="https://i.scdn.co/image/ab67616d0000b2732b46b5b241079360e6951405" width="60" height="60" alt="AA" /></a></td>
 <td><b><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Walker Hayes (2021)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"><img src="https://i.scdn.co/image/ab67616d0000b2730b0fbaf16e4475ad616b41b8" width="60" height="60" alt="Blackout" /></a></td>
 <td><b><a href="https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg">No One Like You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Scorpions (1982)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR"><img src="https://i.scdn.co/image/ab67616d0000b273c61d3a663bd18fe8cd97c947" width="60" height="60" alt="Antichrist Superstar" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR">The Beautiful People</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marilyn Manson (1996)</span></td>
 </tr>
 </table>
 </div>
