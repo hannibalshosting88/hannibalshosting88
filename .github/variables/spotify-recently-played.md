@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"><img src="https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed" width="150" height="150" alt="1984 (Remastered)" /></a>
+<a href="https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"><img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" width="150" height="150" alt="Ten" /></a>
 
-<b><a href="https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS">Panama - 2015 Remaster</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o">Jeremy</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Van Halen (1984)</span>
+<span style="color: #666;">Pearl Jam (1991)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"><img src="https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed" width="60" height="60" alt="1984 (Remastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS">Panama - 2015 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Van Halen (1984)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"><img src="https://i.scdn.co/image/ab67616d0000b2735e1db60a6f9214c247061d86" width="60" height="60" alt="Believer (feat. Lil Wayne)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN">Believer (feat. Lil Wayne)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Lil Wayne (2019)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"><img src="https://i.scdn.co/image/ab67616d0000b2733b7c6c5af0af9fc1a9714b36" width="60" height="60" alt="Different Man" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8">Thank God</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kane Brown, Katelyn Brown (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"><img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" width="60" height="60" alt="Relapse: Refill" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX">Forever</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Kanye West, Lil Wayne, Eminem (2009)</span></td>
 </tr>
 </table>
 </div>
