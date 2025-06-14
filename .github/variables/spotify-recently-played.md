@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x"><img src="https://i.scdn.co/image/ab67616d0000b273bb8639d1374637e0c6b47edb" width="150" height="150" alt="Call of Duty Black Ops II (Original Game Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID"><img src="https://i.scdn.co/image/ab67616d0000b273f31382d7bd220e2c6b3f7f14" width="150" height="150" alt="Had Some Drinks" /></a>
 
-<b><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x">Adrenaline</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID">Had Some Drinks</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Jack Wall, Big Giant Circles (2012)</span>
+<span style="color: #666;">Two Feet (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip"><img src="https://i.scdn.co/image/ab67616d0000b27314d1a203158bed18a4ea7375" width="60" height="60" alt="Lil Boat" /></a></td>
+<td><b><a href="https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip">One Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Yachty (2016)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x"><img src="https://i.scdn.co/image/ab67616d0000b273bb8639d1374637e0c6b47edb" width="60" height="60" alt="Call of Duty Black Ops II (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x">Adrenaline</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jack Wall, Big Giant Circles (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV"><img src="https://i.scdn.co/image/ab67616d0000b27304b1454aabded3ebe9cf3c01" width="60" height="60" alt="B-Sides and Rarities" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">War Pigs</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2007)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"><img src="https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed" width="60" height="60" alt="1984 (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS">Panama - 2015 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Van Halen (1984)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"><img src="https://i.scdn.co/image/ab67616d0000b2735e1db60a6f9214c247061d86" width="60" height="60" alt="Believer (feat. Lil Wayne)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN">Believer (feat. Lil Wayne)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Lil Wayne (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"><img src="https://i.scdn.co/image/ab67616d0000b2730c5d03daf39f254bb546cf3a" width="60" height="60" alt="Religiously. The Album." /></a></td>
-<td><b><a href="https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx">Rock and A Hard Place</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bailey Zimmerman (2023)</span></td>
 </tr>
 </table>
 </div>
