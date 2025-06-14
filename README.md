@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"><img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" width="150" height="150" alt="At Last!" /></a>
+<a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4"><img src="https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6" width="150" height="150" alt="The Fat of the Land" /></a>
 
-<b><a href="https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx">At Last</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4">Firestarter</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Etta James (1960)</span>
+<span style="color: #666;">The Prodigy (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"><img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" width="60" height="60" alt="At Last!" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx">At Last</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Etta James (1960)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV"><img src="https://i.scdn.co/image/ab67616d0000b27304b1454aabded3ebe9cf3c01" width="60" height="60" alt="B-Sides and Rarities" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">War Pigs</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt">Take A Look Around</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
 </tr>
 </table>
 </div>
