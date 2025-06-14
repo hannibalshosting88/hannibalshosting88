@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="150" height="150" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a>
+<a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu"><img src="https://i.scdn.co/image/ab67616d0000b273b0222d2ff7d5f263639c9548" width="150" height="150" alt="Lies" /></a>
 
-<b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu">Spoiler - Original Mix</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Atmosphere, Slug, Ant (2008)</span>
+<span style="color: #666;">Hyper (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="60" height="60" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2008)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs"><img src="https://i.scdn.co/image/ab67616d0000b273559769036607549f92579d08" width="60" height="60" alt="Rocky III: Music From The Motion Picture" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs">Gonna Fly Now</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bill Conti (1982)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/71vnTUFoXjqP9W8sCVcMQG"><img src="https://i.scdn.co/image/ab67616d0000b273568494844f19d1a29a2d54f8" width="60" height="60" alt="Solos In Stereo" /></a></td>
 <td><b><a href="https://open.spotify.com/track/71vnTUFoXjqP9W8sCVcMQG">Passing Me By - Roche Remix</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">The Pharcyde (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">When It Comes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
 </tr>
 </table>
 </div>
