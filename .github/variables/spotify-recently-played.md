@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1CirS5cREBtJy71CLQyKmb"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="150" height="150" alt="Galactic Empire" /></a>
+<a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"><img src="https://i.scdn.co/image/ab67616d0000b273db38819ff1e73809f8be6107" width="150" height="150" alt="Dystopia" /></a>
 
-<b><a href="https://open.spotify.com/track/1CirS5cREBtJy71CLQyKmb">Battle of The Heroes</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO">Dystopia</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Galactic Empire (2017)</span>
+<span style="color: #666;">Megadeth (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1CirS5cREBtJy71CLQyKmb"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="60" height="60" alt="Galactic Empire" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1CirS5cREBtJy71CLQyKmb">Battle of The Heroes</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"><img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" width="60" height="60" alt="Katrina & The Waves" /></a></td>
 <td><b><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0">Walking On Sunshine</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Katrina & The Waves (1985)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2PrGlRpPayQ4JFztXWTEx2"><img src="https://i.scdn.co/image/ab67616d0000b2733567ee8c68e23bfae8d210af" width="60" height="60" alt="Bo Burnham" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2PrGlRpPayQ4JFztXWTEx2">I'm Bo Yo</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bo Burnham (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"><img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="60" height="60" alt="Love Is a Bitch" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
 </tr>
 </table>
 </div>
