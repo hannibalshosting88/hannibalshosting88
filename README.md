@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/05rWggLwQ2weA4D2cRAt55"><img src="https://i.scdn.co/image/ab67616d0000b273bad7e941f557e06019b87fd4" width="150" height="150" alt="All The Right Reasons (15th Anniversary Expanded Edition)" /></a>
+<a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4"><img src="https://i.scdn.co/image/ab67616d0000b2738d44b1a977afb85b4e507cef" width="150" height="150" alt="Watsky" /></a>
 
-<b><a href="https://open.spotify.com/track/05rWggLwQ2weA4D2cRAt55">Far Away - 2020 Remaster</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4">Headphones</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Nickelback (2005)</span>
+<span style="color: #666;">Watsky (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"><img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" width="60" height="60" alt="Appetite For Destruction" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5">Paradise City</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Guns N' Roses (1987)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/05rWggLwQ2weA4D2cRAt55"><img src="https://i.scdn.co/image/ab67616d0000b273bad7e941f557e06019b87fd4" width="60" height="60" alt="All The Right Reasons (15th Anniversary Expanded Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/05rWggLwQ2weA4D2cRAt55">Far Away - 2020 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nickelback (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6R4jqaKXUl7Qp1QVlaMZ34"><img src="https://i.scdn.co/image/ab67616d0000b273b24c2772648d620859c071f2" width="60" height="60" alt="Antisleep, Vol. 03" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6R4jqaKXUl7Qp1QVlaMZ34">Death Hammer</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Blue Stahli (2012)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"><img src="https://i.scdn.co/image/ab67616d0000b27330c996f370c1a614f294765d" width="60" height="60" alt="KAMI" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu">KAMI</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DR MØB (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"><img src="https://i.scdn.co/image/ab67616d0000b273db38819ff1e73809f8be6107" width="60" height="60" alt="Dystopia" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO">Dystopia</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Megadeth (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1CirS5cREBtJy71CLQyKmb"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="60" height="60" alt="Galactic Empire" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1CirS5cREBtJy71CLQyKmb">Battle of The Heroes</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2017)</span></td>
 </tr>
 </table>
 </div>
