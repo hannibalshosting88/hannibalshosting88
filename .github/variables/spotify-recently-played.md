@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2PrGlRpPayQ4JFztXWTEx2"><img src="https://i.scdn.co/image/ab67616d0000b2733567ee8c68e23bfae8d210af" width="150" height="150" alt="Bo Burnham" /></a>
+<a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr"><img src="https://i.scdn.co/image/ab67616d0000b27395741aa186187b05e0653245" width="150" height="150" alt="Satellite (U.S. Version)" /></a>
 
-<b><a href="https://open.spotify.com/track/2PrGlRpPayQ4JFztXWTEx2">I'm Bo Yo</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr">Alive - Chris Lord-Alge Mix</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Bo Burnham (2009)</span>
+<span style="color: #666;">P.O.D. (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/32RRGRH38k9vgBdAXCTAB7"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
+<td><b><a href="https://open.spotify.com/track/32RRGRH38k9vgBdAXCTAB7">Got the Funk</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2015)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2PrGlRpPayQ4JFztXWTEx2"><img src="https://i.scdn.co/image/ab67616d0000b2733567ee8c68e23bfae8d210af" width="60" height="60" alt="Bo Burnham" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2PrGlRpPayQ4JFztXWTEx2">I'm Bo Yo</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bo Burnham (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"><img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="60" height="60" alt="Love Is a Bitch" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq"><img src="https://i.scdn.co/image/ab67616d0000b273aac864ff7174329862dcf0ae" width="60" height="60" alt="Duel of The Fates - Epic Version (Remastered) [Cover]" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq">Duel of The Fates - Epic Version (Remastered) - Cover</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Samuel Kim (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K">Remember the Name (feat. Styles of Beyond)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Styles Of Beyond (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="60" height="60" alt="Is This It" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Strokes (2001)</span></td>
 </tr>
 </table>
 </div>
