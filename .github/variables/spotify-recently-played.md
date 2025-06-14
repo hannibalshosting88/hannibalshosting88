@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"><img src="https://i.scdn.co/image/ab67616d0000b27381c8341abbed9421975ca71d" width="150" height="150" alt="Best Kind Of Mess" /></a>
+<a href="https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"><img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" width="150" height="150" alt="At Last!" /></a>
 
-<b><a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC">Sarcasm</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx">At Last</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Get Scared (2010)</span>
+<span style="color: #666;">Etta James (1960)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"><img src="https://i.scdn.co/image/ab67616d0000b27381c8341abbed9421975ca71d" width="60" height="60" alt="Best Kind Of Mess" /></a></td>
+<td><b><a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC">Sarcasm</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Get Scared (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ">Enter Sandman (Remastered)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt">Take A Look Around</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4"><img src="https://i.scdn.co/image/ab67616d0000b2738d44b1a977afb85b4e507cef" width="60" height="60" alt="Watsky" /></a></td>
-<td><b><a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4">Headphones</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"><img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" width="60" height="60" alt="Appetite For Destruction" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5">Paradise City</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Guns N' Roses (1987)</span></td>
 </tr>
 </table>
 </div>
