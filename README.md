@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"><img src="https://i.scdn.co/image/ab67616d0000b273618551d2d0f2d446b2b97959" width="150" height="150" alt="The Prodigal" /></a>
+<a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu"><img src="https://i.scdn.co/image/ab67616d0000b273b0222d2ff7d5f263639c9548" width="150" height="150" alt="Lies" /></a>
 
-<b><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8">The Prodigal</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu">Spoiler - Original Mix</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Josiah Queen (2023)</span>
+<span style="color: #666;">Hyper (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="60" height="60" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2008)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs"><img src="https://i.scdn.co/image/ab67616d0000b273559769036607549f92579d08" width="60" height="60" alt="Rocky III: Music From The Motion Picture" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs">Gonna Fly Now</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bill Conti (1982)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"><img src="https://i.scdn.co/image/ab67616d0000b273618551d2d0f2d446b2b97959" width="60" height="60" alt="The Prodigal" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8">The Prodigal</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Josiah Queen (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95"><img src="https://i.scdn.co/image/ab67616d0000b27363bd80f6f88dd62da7ef193c" width="60" height="60" alt="OK Go" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95">Get Over It</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">OK Go (2002)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/71vnTUFoXjqP9W8sCVcMQG"><img src="https://i.scdn.co/image/ab67616d0000b273568494844f19d1a29a2d54f8" width="60" height="60" alt="Solos In Stereo" /></a></td>
 <td><b><a href="https://open.spotify.com/track/71vnTUFoXjqP9W8sCVcMQG">Passing Me By - Roche Remix</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">The Pharcyde (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">When It Comes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e"><img src="https://i.scdn.co/image/ab67616d0000b2732b46b5b241079360e6951405" width="60" height="60" alt="AA" /></a></td>
-<td><b><a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Walker Hayes (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"><img src="https://i.scdn.co/image/ab67616d0000b273db38819ff1e73809f8be6107" width="60" height="60" alt="Dystopia" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO">Dystopia</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Megadeth (2016)</span></td>
 </tr>
 </table>
 </div>
