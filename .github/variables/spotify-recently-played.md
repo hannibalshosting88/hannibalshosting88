@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"><img src="https://i.scdn.co/image/ab67616d0000b2732e49046fecfba5be6bc7b92a" width="150" height="150" alt="True Story" /></a>
+<a href="https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="150" height="150" alt="One By One (Expanded Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI">Lean Back</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF">Times Like These</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Terror Squad, Fat Joe, Remy Ma, remy (2004)</span>
+<span style="color: #666;">Foo Fighters (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"><img src="https://i.scdn.co/image/ab67616d0000b2732e49046fecfba5be6bc7b92a" width="60" height="60" alt="True Story" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI">Lean Back</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Terror Squad, Fat Joe, Remy Ma, remy (2004)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"><img src="https://i.scdn.co/image/ab67616d0000b27330c996f370c1a614f294765d" width="60" height="60" alt="KAMI" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu">KAMI</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DR MØB (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2"><img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" width="60" height="60" alt="American Beauty/American Psycho" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2">Immortals</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr"><img src="https://i.scdn.co/image/ab67616d0000b27395741aa186187b05e0653245" width="60" height="60" alt="Satellite (U.S. Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr">Alive - Chris Lord-Alge Mix</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">P.O.D. (2001)</span></td>
 </tr>
 </table>
 </div>
