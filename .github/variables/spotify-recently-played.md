@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"><img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="150" height="150" alt="Love Is a Bitch" /></a>
+<a href="https://open.spotify.com/track/2PrGlRpPayQ4JFztXWTEx2"><img src="https://i.scdn.co/image/ab67616d0000b2733567ee8c68e23bfae8d210af" width="150" height="150" alt="Bo Burnham" /></a>
 
-<b><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2PrGlRpPayQ4JFztXWTEx2">I'm Bo Yo</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Two Feet (2017)</span>
+<span style="color: #666;">Bo Burnham (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"><img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="60" height="60" alt="Love Is a Bitch" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"><img src="https://i.scdn.co/image/ab67616d0000b273be54746b374358970b5e617a" width="60" height="60" alt="...And Justice for All (Remastered Deluxe Box Set)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t">One (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1988)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="60" height="60" alt="Is This It" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Strokes (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2T3w7ohdeZNs7noXuIlHrr"><img src="https://i.scdn.co/image/ab67616d0000b273d9a3b1b7041f2fdfc5de0035" width="60" height="60" alt="Crooked Teeth (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2T3w7ohdeZNs7noXuIlHrr">Born For Greatness</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Papa Roach (2017)</span></td>
 </tr>
 </table>
 </div>
