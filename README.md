@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA"><img src="https://i.scdn.co/image/ab67616d0000b2730a3eb7ef6df5732fc6fa77ec" width="150" height="150" alt="Load" /></a>
+<a href="https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"><img src="https://i.scdn.co/image/ab67616d0000b27372833c1ae3343cbfb4617073" width="150" height="150" alt="Moving Pictures (2011 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA">King Nothing</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D">Tom Sawyer</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Metallica (1996)</span>
+<span style="color: #666;">Rush (1981)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA"><img src="https://i.scdn.co/image/ab67616d0000b2730a3eb7ef6df5732fc6fa77ec" width="60" height="60" alt="Load" /></a></td>
+<td><b><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA">King Nothing</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1996)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="60" height="60" alt="Mercury - Acts 1 & 2" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC"><img src="https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380" width="60" height="60" alt="Reload" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC">Fuel</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i">Going Under</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
 </tr>
 </table>
 </div>
