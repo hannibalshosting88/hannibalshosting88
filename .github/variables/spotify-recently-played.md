@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX"><img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="150" height="150" alt="Start Static" /></a>
+<a href="https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ"><img src="https://i.scdn.co/image/ab67616d0000b273fdff0e4ec273827627487f39" width="150" height="150" alt="Whitey Ford Sings the Blues" /></a>
 
-<b><a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX">Bouncing Off The Walls</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ">What It's Like</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Sugarcult (2001)</span>
+<span style="color: #666;">Everlast (1998)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX"><img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="60" height="60" alt="Start Static" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX">Bouncing Off The Walls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="60" height="60" alt="Infinity On High" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2007)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"><img src="https://i.scdn.co/image/ab67616d0000b27381c8341abbed9421975ca71d" width="60" height="60" alt="Best Kind Of Mess" /></a></td>
 <td><b><a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC">Sarcasm</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Get Scared (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ">Enter Sandman (Remastered)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
 </tr>
 </table>
 </div>
