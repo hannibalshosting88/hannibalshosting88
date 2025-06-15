@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="150" height="150" alt="Pray for the Wicked" /></a>
+<a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="150" height="150" alt="Mercury - Acts 1 & 2" /></a>
 
-<b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Panic! At The Disco (2018)</span>
+<span style="color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6"><img src="https://i.scdn.co/image/ab67616d0000b27315f032e426133c995e725423" width="60" height="60" alt="Crosses and Crossroads" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6">Love the Heartless</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2019)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="60" height="60" alt="Pray for the Wicked" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6"><img src="https://i.scdn.co/image/ab67616d0000b273a883e26f90ab617c91b90e56" width="60" height="60" alt="Inception (Music from the Motion Picture)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6">Dream Is Collapsing</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Hans Zimmer (2010)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"><img src="https://i.scdn.co/image/ab67616d0000b273cf1fee2a55e98e22bf358512" width="60" height="60" alt="Reckless (30th Anniversary / Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV">Run To You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bryan Adams (1984)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ"><img src="https://i.scdn.co/image/ab67616d0000b273fdff0e4ec273827627487f39" width="60" height="60" alt="Whitey Ford Sings the Blues" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ">What It's Like</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Everlast (1998)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX"><img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="60" height="60" alt="Start Static" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX">Bouncing Off The Walls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2001)</span></td>
 </tr>
 </table>
 </div>
