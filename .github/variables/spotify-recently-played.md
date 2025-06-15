@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4"><img src="https://i.scdn.co/image/ab67616d0000b2738d44b1a977afb85b4e507cef" width="150" height="150" alt="Watsky" /></a>
+<a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX"><img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="150" height="150" alt="Start Static" /></a>
 
-<b><a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4">Headphones</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX">Bouncing Off The Walls</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Watsky (2009)</span>
+<span style="color: #666;">Sugarcult (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="60" height="60" alt="Infinity On High" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2007)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4"><img src="https://i.scdn.co/image/ab67616d0000b2738d44b1a977afb85b4e507cef" width="60" height="60" alt="Watsky" /></a></td>
+<td><b><a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4">Headphones</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"><img src="https://i.scdn.co/image/ab67616d0000b273f3a8d3033666a6bbafdfa845" width="60" height="60" alt="How Do You Feel Now?" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo">Tongues</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Joywave, KOPPS (2015)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ">Enter Sandman (Remastered)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb"><img src="https://i.scdn.co/image/ab67616d0000b27365d444a19f72771cba82cb00" width="60" height="60" alt="Para Mi" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">Bossa No Sé (feat. Jean Carter)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cuco, Jean Carter (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
 </tr>
 </table>
 </div>
