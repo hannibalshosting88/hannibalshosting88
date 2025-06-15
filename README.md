@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="150" height="150" alt="Invaders Must Die" /></a>
+<a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc"><img src="https://i.scdn.co/image/ab67616d0000b2739c42c35d57212a5920c42f6c" width="150" height="150" alt="Fight With Tools" /></a>
 
-<b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">Handlebars</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">The Prodigy (2009)</span>
+<span style="color: #666;">Flobots (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="60" height="60" alt="Invaders Must Die" /></a></td>
+<td><b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"><img src="https://i.scdn.co/image/ab67616d0000b27372833c1ae3343cbfb4617073" width="60" height="60" alt="Moving Pictures (2011 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D">Tom Sawyer</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rush (1981)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"><img src="https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4" width="60" height="60" alt="Franz Ferdinand" /></a></td>
-<td><b><a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">Take Me Out</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Franz Ferdinand (2004)</span></td>
 </tr>
 </table>
 </div>
