@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="150" height="150" alt="Mercury - Acts 1 & 2" /></a>
+<a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA"><img src="https://i.scdn.co/image/ab67616d0000b2730a3eb7ef6df5732fc6fa77ec" width="150" height="150" alt="Load" /></a>
 
-<b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA">King Nothing</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span>
+<span style="color: #666;">Metallica (1996)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="60" height="60" alt="Mercury - Acts 1 & 2" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6"><img src="https://i.scdn.co/image/ab67616d0000b27315f032e426133c995e725423" width="60" height="60" alt="Crosses and Crossroads" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6">Love the Heartless</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2019)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i">Going Under</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"><img src="https://i.scdn.co/image/ab67616d0000b273cf1fee2a55e98e22bf358512" width="60" height="60" alt="Reckless (30th Anniversary / Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV">Run To You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bryan Adams (1984)</span></td>
 </tr>
 </table>
 </div>
