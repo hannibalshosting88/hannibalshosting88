@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="150" height="150" alt="Origins (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6"><img src="https://i.scdn.co/image/ab67616d0000b273a883e26f90ab617c91b90e56" width="150" height="150" alt="Inception (Music from the Motion Picture)" /></a>
 
-<b><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6">Dream Is Collapsing</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Imagine Dragons (2018)</span>
+<span style="color: #666;">Hans Zimmer (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"><img src="https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550" width="60" height="60" alt="Take Care (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa">The Motto</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Lil Wayne (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"><img src="https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163" width="60" height="60" alt="AM" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst">Do I Wanna Know?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Arctic Monkeys (2013)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"><img src="https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4" width="60" height="60" alt="Franz Ferdinand" /></a></td>
 <td><b><a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">Take Me Out</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Franz Ferdinand (2004)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="60" height="60" alt="Infinity On High" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4"><img src="https://i.scdn.co/image/ab67616d0000b2738d44b1a977afb85b4e507cef" width="60" height="60" alt="Watsky" /></a></td>
-<td><b><a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4">Headphones</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"><img src="https://i.scdn.co/image/ab67616d0000b273f3a8d3033666a6bbafdfa845" width="60" height="60" alt="How Do You Feel Now?" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo">Tongues</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Joywave, KOPPS (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="60" height="60" alt="This Is Why" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M">This Is Why</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Paramore (2023)</span></td>
 </tr>
 </table>
 </div>
