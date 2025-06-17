@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"><img src="https://i.scdn.co/image/ab67616d0000b273604f8ac39f15d287e251f193" width="150" height="150" alt="Don't Kill the Magic" /></a>
+<a href="https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"><img src="https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390" width="150" height="150" alt="Good News" /></a>
 
-<b><a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp">Rude</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt">Good News</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">MAGIC! (2014)</span>
+<span style="color: #666;">Shaboozey (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"><img src="https://i.scdn.co/image/ab67616d0000b273604f8ac39f15d287e251f193" width="60" height="60" alt="Don't Kill the Magic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp">Rude</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">MAGIC! (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM"><img src="https://i.scdn.co/image/ab67616d0000b2736dfdabd8d791c3fc94baf463" width="60" height="60" alt="PUNK TACTICS" /></a></td>
 <td><b><a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM">KILL BILL</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Joey Valence & Brae (2023)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6"><img src="https://i.scdn.co/image/ab67616d0000b273a883e26f90ab617c91b90e56" width="60" height="60" alt="Inception (Music from the Motion Picture)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6">Dream Is Collapsing</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Hans Zimmer (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"><img src="https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550" width="60" height="60" alt="Take Care (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa">The Motto</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Lil Wayne (2011)</span></td>
 </tr>
 </table>
 </div>
