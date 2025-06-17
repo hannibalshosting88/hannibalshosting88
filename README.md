@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM"><img src="https://i.scdn.co/image/ab67616d0000b2736dfdabd8d791c3fc94baf463" width="150" height="150" alt="PUNK TACTICS" /></a>
+<a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"><img src="https://i.scdn.co/image/ab67616d0000b273604f8ac39f15d287e251f193" width="150" height="150" alt="Don't Kill the Magic" /></a>
 
-<b><a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM">KILL BILL</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp">Rude</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Joey Valence & Brae (2023)</span>
+<span style="color: #666;">MAGIC! (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM"><img src="https://i.scdn.co/image/ab67616d0000b2736dfdabd8d791c3fc94baf463" width="60" height="60" alt="PUNK TACTICS" /></a></td>
+<td><b><a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM">KILL BILL</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Joey Valence & Brae (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc"><img src="https://i.scdn.co/image/ab67616d0000b2739c42c35d57212a5920c42f6c" width="60" height="60" alt="Fight With Tools" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">Handlebars</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Flobots (2008)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"><img src="https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550" width="60" height="60" alt="Take Care (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa">The Motto</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Lil Wayne (2011)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"><img src="https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163" width="60" height="60" alt="AM" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst">Do I Wanna Know?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Arctic Monkeys (2013)</span></td>
 </tr>
 </table>
 </div>
