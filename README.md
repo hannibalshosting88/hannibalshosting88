@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"><img src="https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390" width="150" height="150" alt="Good News" /></a>
+<a href="https://open.spotify.com/track/20hs5uYcsZa1BsZafOid24"><img src="https://i.scdn.co/image/ab67616d0000b2734e6d4b04614202f0452f2e20" width="150" height="150" alt="Nature's Ignition" /></a>
 
-<b><a href="https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt">Good News</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/20hs5uYcsZa1BsZafOid24">I Ain't Gay</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Shaboozey (2024)</span>
+<span style="color: #666;">Biscuit Beats (2025)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"><img src="https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390" width="60" height="60" alt="Good News" /></a></td>
+<td><b><a href="https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt">Good News</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Shaboozey (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"><img src="https://i.scdn.co/image/ab67616d0000b273604f8ac39f15d287e251f193" width="60" height="60" alt="Don't Kill the Magic" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp">Rude</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">MAGIC! (2014)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="60" height="60" alt="Pray for the Wicked" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6"><img src="https://i.scdn.co/image/ab67616d0000b273a883e26f90ab617c91b90e56" width="60" height="60" alt="Inception (Music from the Motion Picture)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6">Dream Is Collapsing</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Hans Zimmer (2010)</span></td>
 </tr>
 </table>
 </div>
