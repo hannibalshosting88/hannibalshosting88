@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe"><img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="150" height="150" alt="X-Men Theme" /></a>
+<a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="150" height="150" alt="Miles On It (Remixes)" /></a>
 
-<b><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Galactic Empire (2024)</span>
+<span style="color: #666;">Marshmello, Kane Brown, Ely Oaks (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="60" height="60" alt="Miles On It (Remixes)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown, Ely Oaks (2024)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe"><img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="60" height="60" alt="X-Men Theme" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">No Warm Up</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1Gtm7PM9GPrSvWEzsk7rzD"><img src="https://i.scdn.co/image/ab67616d0000b273a22bba104ccff8471949d76e" width="60" height="60" alt="The Frozen Tears of Angels" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1Gtm7PM9GPrSvWEzsk7rzD">Reign of Terror</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Rhapsody Of Fire (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP"><img src="https://i.scdn.co/image/ab67616d0000b2731025ac991316d6cbac978373" width="60" height="60" alt="The Hamilton Mixtape" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP">An Open Letter (feat. Shockwave) - Interlude</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky, Shockwave (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"><img src="https://i.scdn.co/image/ab67616d0000b27348295fd4144b8ce6b437d682" width="60" height="60" alt="Kane Brown" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W">What Ifs (feat. Lauren Alaina)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kane Brown, Lauren Alaina (2016)</span></td>
 </tr>
 </table>
 </div>
