@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"><img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="150" height="150" alt="The Attractions Of Youth" /></a>
+<a href="https://open.spotify.com/track/4wwRROf47MXBX5u5Knwixx"><img src="https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7" width="150" height="150" alt="Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)" /></a>
 
-<b><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter & Gold</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4wwRROf47MXBX5u5Knwixx">We Trying to Stay Alive (feat. John Forté & Pras)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Barns Courtney (2017)</span>
+<span style="color: #666;">Wyclef Jean, John Forte, Pras (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"><img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="60" height="60" alt="The Attractions Of Youth" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter & Gold</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Barns Courtney (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1Gtm7PM9GPrSvWEzsk7rzD"><img src="https://i.scdn.co/image/ab67616d0000b273a22bba104ccff8471949d76e" width="60" height="60" alt="The Frozen Tears of Angels" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1Gtm7PM9GPrSvWEzsk7rzD">Reign of Terror</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Rhapsody Of Fire (2010)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF"><img src="https://i.scdn.co/image/ab67616d0000b2733f1e89b0450823d6f0f54cf4" width="60" height="60" alt="Video Game Guitar Covers, Vol. 6" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF">The Only Thing They Fear is You (From "Doom: Eternal")</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">FamilyJules (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8"><img src="https://i.scdn.co/image/ab67616d0000b2732d4439111d68acb3f3a08e16" width="60" height="60" alt="Loki: Epic Collection (Cover)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme) - Cover</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Samuel Kim (2021)</span></td>
 </tr>
 </table>
 </div>
