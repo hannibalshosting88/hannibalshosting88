@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP"><img src="https://i.scdn.co/image/ab67616d0000b2731025ac991316d6cbac978373" width="150" height="150" alt="The Hamilton Mixtape" /></a>
+<a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"><img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="150" height="150" alt="The Attractions Of Youth" /></a>
 
-<b><a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP">An Open Letter (feat. Shockwave) - Interlude</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter & Gold</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Watsky, Shockwave (2016)</span>
+<span style="color: #666;">Barns Courtney (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1Gtm7PM9GPrSvWEzsk7rzD"><img src="https://i.scdn.co/image/ab67616d0000b273a22bba104ccff8471949d76e" width="60" height="60" alt="The Frozen Tears of Angels" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Gtm7PM9GPrSvWEzsk7rzD">Reign of Terror</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Rhapsody Of Fire (2010)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP"><img src="https://i.scdn.co/image/ab67616d0000b2731025ac991316d6cbac978373" width="60" height="60" alt="The Hamilton Mixtape" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP">An Open Letter (feat. Shockwave) - Interlude</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky, Shockwave (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"><img src="https://i.scdn.co/image/ab67616d0000b27348295fd4144b8ce6b437d682" width="60" height="60" alt="Kane Brown" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W">What Ifs (feat. Lauren Alaina)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kane Brown, Lauren Alaina (2016)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8"><img src="https://i.scdn.co/image/ab67616d0000b2732d4439111d68acb3f3a08e16" width="60" height="60" alt="Loki: Epic Collection (Cover)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme) - Cover</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Samuel Kim (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN"><img src="https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf" width="60" height="60" alt="The Wall" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN">Hey You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1979)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF">Remember the Name (feat. Styles of Beyond)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Styles Of Beyond (2005)</span></td>
 </tr>
 </table>
 </div>
