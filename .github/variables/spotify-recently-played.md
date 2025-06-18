@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX"><img src="https://i.scdn.co/image/ab67616d0000b273743060d488780164928a20b2" width="150" height="150" alt="Sultans of Swing - the Very Best of Dire Straits" /></a>
+<a href="https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"><img src="https://i.scdn.co/image/ab67616d0000b273a9bae94ddb20a71f573931c0" width="150" height="150" alt="The Young and The Hopeless" /></a>
 
-<b><a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX">Money for Nothing</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu">The Anthem</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Dire Straits (1998)</span>
+<span style="color: #666;">Good Charlotte (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC"><img src="https://i.scdn.co/image/ab67616d0000b27374be78bd14d095c8d76943a0" width="60" height="60" alt="The Click (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC">Burn The House Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX"><img src="https://i.scdn.co/image/ab67616d0000b273743060d488780164928a20b2" width="60" height="60" alt="Sultans of Swing - the Very Best of Dire Straits" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX">Money for Nothing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Dire Straits (1998)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4wwRROf47MXBX5u5Knwixx"><img src="https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7" width="60" height="60" alt="Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4wwRROf47MXBX5u5Knwixx">We Trying to Stay Alive (feat. John Forté & Pras)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Wyclef Jean, John Forte, Pras (1997)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL"><img src="https://i.scdn.co/image/ab67616d0000b273a320d7e9efd7602648fb78e3" width="60" height="60" alt="Neotheater" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">100 Bad Days</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4l9onvb8TO7Rodj7pl2WX8"><img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="60" height="60" alt="Thundersmack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4l9onvb8TO7Rodj7pl2WX8">The Gardens</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"><img src="https://i.scdn.co/image/ab67616d0000b273bce034d651da4d21e43c8a19" width="60" height="60" alt="Come Together" /></a></td>
-<td><b><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU">Come Together</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Gary Clark Jr., Junkie XL (2017)</span></td>
 </tr>
 </table>
 </div>
