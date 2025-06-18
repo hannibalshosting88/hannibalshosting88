@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="150" height="150" alt="One Long Dream" /></a>
+<a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe"><img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="150" height="150" alt="X-Men Theme" /></a>
 
-<b><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">No Warm Up</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">SonReal (2016)</span>
+<span style="color: #666;">Galactic Empire (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">No Warm Up</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3A7YqqDeCV4FcYipIvN3a2"><img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="60" height="60" alt="Thundersmack" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3A7YqqDeCV4FcYipIvN3a2">Slap</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"><img src="https://i.scdn.co/image/ab67616d0000b27348295fd4144b8ce6b437d682" width="60" height="60" alt="Kane Brown" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W">What Ifs (feat. Lauren Alaina)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kane Brown, Lauren Alaina (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"><img src="https://i.scdn.co/image/ab67616d0000b2730f6ce5c138493ac768d9afc8" width="60" height="60" alt="The Essential Journey" /></a></td>
-<td><b><a href="https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg">Don't Stop Believin'</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Journey (2001)</span></td>
 </tr>
 </table>
 </div>
