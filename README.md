@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/20hs5uYcsZa1BsZafOid24"><img src="https://i.scdn.co/image/ab67616d0000b2734e6d4b04614202f0452f2e20" width="150" height="150" alt="Nature's Ignition" /></a>
+<a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL"><img src="https://i.scdn.co/image/ab67616d0000b273a320d7e9efd7602648fb78e3" width="150" height="150" alt="Neotheater" /></a>
 
-<b><a href="https://open.spotify.com/track/20hs5uYcsZa1BsZafOid24">I Ain't Gay</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">100 Bad Days</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Biscuit Beats (2025)</span>
+<span style="color: #666;">AJR (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"><img src="https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390" width="60" height="60" alt="Good News" /></a></td>
-<td><b><a href="https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt">Good News</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Shaboozey (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4l9onvb8TO7Rodj7pl2WX8"><img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="60" height="60" alt="Thundersmack" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4l9onvb8TO7Rodj7pl2WX8">The Gardens</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"><img src="https://i.scdn.co/image/ab67616d0000b273604f8ac39f15d287e251f193" width="60" height="60" alt="Don't Kill the Magic" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp">Rude</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">MAGIC! (2014)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"><img src="https://i.scdn.co/image/ab67616d0000b273bce034d651da4d21e43c8a19" width="60" height="60" alt="Come Together" /></a></td>
+<td><b><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU">Come Together</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Gary Clark Jr., Junkie XL (2017)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM"><img src="https://i.scdn.co/image/ab67616d0000b2736dfdabd8d791c3fc94baf463" width="60" height="60" alt="PUNK TACTICS" /></a></td>
-<td><b><a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM">KILL BILL</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Joey Valence & Brae (2023)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF"><img src="https://i.scdn.co/image/ab67616d0000b2733f1e89b0450823d6f0f54cf4" width="60" height="60" alt="Video Game Guitar Covers, Vol. 6" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF">The Only Thing They Fear is You (From "Doom: Eternal")</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">FamilyJules (2022)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc"><img src="https://i.scdn.co/image/ab67616d0000b2739c42c35d57212a5920c42f6c" width="60" height="60" alt="Fight With Tools" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">Handlebars</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Flobots (2008)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8"><img src="https://i.scdn.co/image/ab67616d0000b2732d4439111d68acb3f3a08e16" width="60" height="60" alt="Loki: Epic Collection (Cover)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme) - Cover</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Samuel Kim (2021)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="60" height="60" alt="Invaders Must Die" /></a></td>
-<td><b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (2009)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN"><img src="https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf" width="60" height="60" alt="The Wall" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN">Hey You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1979)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"><img src="https://i.scdn.co/image/ab67616d0000b27372833c1ae3343cbfb4617073" width="60" height="60" alt="Moving Pictures (2011 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D">Tom Sawyer</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rush (1981)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF">Remember the Name (feat. Styles of Beyond)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Styles Of Beyond (2005)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA"><img src="https://i.scdn.co/image/ab67616d0000b2730a3eb7ef6df5732fc6fa77ec" width="60" height="60" alt="Load" /></a></td>
-<td><b><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA">King Nothing</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1996)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv"><img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="60" height="60" alt="Sleep With the Lights On" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Wanton Bishops (2015)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="60" height="60" alt="Mercury - Acts 1 & 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"><img src="https://i.scdn.co/image/ab67616d0000b273c72cc4087da2190116857f37" width="60" height="60" alt="Every Six Seconds" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">Click Click Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Saliva (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6"><img src="https://i.scdn.co/image/ab67616d0000b27315f032e426133c995e725423" width="60" height="60" alt="Crosses and Crossroads" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6">Love the Heartless</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2019)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m"><img src="https://i.scdn.co/image/ab67616d0000b2734e7be339cee55cf14e6bc50f" width="60" height="60" alt="The Maze To Nowhere" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m">Acid Rain</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lorn (2015)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="60" height="60" alt="Pray for the Wicked" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2018)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3f68woml3BmUrIA4tJcQ7E"><img src="https://i.scdn.co/image/ab67616d0000b273ebfecad2b3d4348bdb4aa241" width="60" height="60" alt="Hero (feat. David Shane)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3f68woml3BmUrIA4tJcQ7E">Hero (feat. David Shane)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">QUIX, Vincent, David Shane (2018)</span></td>
 </tr>
 </table>
 </div>
