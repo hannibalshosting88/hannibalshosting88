@@ -12,6 +12,10 @@
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="60" height="60" alt="Miles On It (Remixes)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown, Ely Oaks (2024)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe"><img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="60" height="60" alt="X-Men Theme" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2024)</span></td>
 </tr>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1Gtm7PM9GPrSvWEzsk7rzD"><img src="https://i.scdn.co/image/ab67616d0000b273a22bba104ccff8471949d76e" width="60" height="60" alt="The Frozen Tears of Angels" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1Gtm7PM9GPrSvWEzsk7rzD">Reign of Terror</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Rhapsody Of Fire (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP"><img src="https://i.scdn.co/image/ab67616d0000b2731025ac991316d6cbac978373" width="60" height="60" alt="The Hamilton Mixtape" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP">An Open Letter (feat. Shockwave) - Interlude</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky, Shockwave (2016)</span></td>
 </tr>
 </table>
 </div>
