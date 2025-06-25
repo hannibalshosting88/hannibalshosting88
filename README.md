@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="150" height="150" alt="Light Grenades" /></a>
+<a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="150" height="150" alt="Smoke + Mirrors (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ">Dig</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8">Monster</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Incubus (2006)</span>
+<span style="color: #666;">Imagine Dragons (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ">Dig</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ">Dig</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
@@ -60,10 +64,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5dL0kSGq7V5QQVPac5AkTK"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5dL0kSGq7V5QQVPac5AkTK">Right Now (feat. Black Thought & Styles of Beyond)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Black Thought, Styles Of Beyond (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="60" height="60" alt="Miles On It (Remixes)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marshmello, Kane Brown, Ely Oaks (2024)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr"><img src="https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a" width="60" height="60" alt="Miles On It (Remixes)" /></a></td>
