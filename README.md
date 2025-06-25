@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb"><img src="https://i.scdn.co/image/ab67616d0000b27365d444a19f72771cba82cb00" width="150" height="150" alt="Para Mi" /></a>
+<a href="https://open.spotify.com/track/5N9d1MhLj7eO0gFXlusyji"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="150" height="150" alt="The Essential Incubus" /></a>
 
-<b><a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">Bossa No Sé (feat. Jean Carter)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5N9d1MhLj7eO0gFXlusyji">Wish You Were Here</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Cuco, Jean Carter (2019)</span>
+<span style="color: #666;">Incubus (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4epSzmo6Xw01vTgGoYb2KR"><img src="https://i.scdn.co/image/ab67616d0000b273c91a4b0ef97d3b1eac3f326a" width="60" height="60" alt="People Who Eat People Are The Luckiest People In The World" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4epSzmo6Xw01vTgGoYb2KR">Brave as a Noun</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AJJ (2007)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0gEaeqVRHPzRc7HMXtOKc7"><img src="https://i.scdn.co/image/ab67616d0000b273810168d54f85d48f07389237" width="60" height="60" alt="Animals" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0gEaeqVRHPzRc7HMXtOKc7">Pigs (Three Different Ones)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1977)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb"><img src="https://i.scdn.co/image/ab67616d0000b27365d444a19f72771cba82cb00" width="60" height="60" alt="Para Mi" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">Bossa No Sé (feat. Jean Carter)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cuco, Jean Carter (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="60" height="60" alt="Smoke + Mirrors (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8">Monster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2015)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"><img src="https://i.scdn.co/image/ab67616d0000b273437a8cfd8293ddf6d800c384" width="60" height="60" alt="Break the Cycle" /></a></td>
 <td><b><a href="https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm">Outside</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Staind (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq">A Favor House Atlantic</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"><img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="60" height="60" alt="Enemy (from the series Arcane League of Legends)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Arcane, League of Legends (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv"><img src="https://i.scdn.co/image/ab67616d0000b273ed9531fd3add18804cd6d7c1" width="60" height="60" alt="Pronounced 'Leh-'Nérd 'Skin-'Nérd (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv">Poison Whiskey</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lynyrd Skynyrd (1973)</span></td>
 </tr>
 </table>
 </div>
