@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="150" height="150" alt="Smoke + Mirrors (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb"><img src="https://i.scdn.co/image/ab67616d0000b27365d444a19f72771cba82cb00" width="150" height="150" alt="Para Mi" /></a>
 
-<b><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8">Monster</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">Bossa No Sé (feat. Jean Carter)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Imagine Dragons (2015)</span>
+<span style="color: #666;">Cuco, Jean Carter (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="60" height="60" alt="Smoke + Mirrors (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8">Monster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="60" height="60" alt="Smoke + Mirrors (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8">Monster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2015)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv"><img src="https://i.scdn.co/image/ab67616d0000b273ed9531fd3add18804cd6d7c1" width="60" height="60" alt="Pronounced 'Leh-'Nérd 'Skin-'Nérd (Expanded Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv">Poison Whiskey</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lynyrd Skynyrd (1973)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW"><img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="60" height="60" alt="Thrifty x Spooky Raccoon" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">Thrifty</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
 </tr>
 </table>
 </div>
