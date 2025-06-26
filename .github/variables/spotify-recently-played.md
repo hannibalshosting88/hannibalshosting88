@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"><img src="https://i.scdn.co/image/ab67616d0000b27320292e6cce666a69ba5a86fb" width="150" height="150" alt="Kill 'Em All (Remastered)" /></a>
+<a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ"><img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" width="150" height="150" alt="The Marshall Mathers LP2 (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">Seek & Destroy (Remastered)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ">Berzerk</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Metallica (1983)</span>
+<span style="color: #666;">Eminem (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"><img src="https://i.scdn.co/image/ab67616d0000b27320292e6cce666a69ba5a86fb" width="60" height="60" alt="Kill 'Em All (Remastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">Seek & Destroy (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1983)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3Mer21XmsC6gBqVTLIVnrq"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" height="60" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3Mer21XmsC6gBqVTLIVnrq">Concrete for Miles</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="60" height="60" alt="The Lion King" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN">Hakuna Matata</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nathan Lane, Ernie Sabella, Jason Weaver, Joseph Williams (1994)</span></td>
 </tr>
 </table>
 </div>
