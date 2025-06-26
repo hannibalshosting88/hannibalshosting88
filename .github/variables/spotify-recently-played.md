@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/74L5svVVhDZ9FCpP0Gzvd4"><img src="https://i.scdn.co/image/ab67616d0000b2736bd737b67b944c97e20f6543" width="150" height="150" alt="Mighty Morphin Power Rangers: Go Go Power Rangers: Main Theme" /></a>
+<a href="https://open.spotify.com/track/343YBumqHu19cGoGARUTsd"><img src="https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700" width="150" height="150" alt="More Life" /></a>
 
-<b><a href="https://open.spotify.com/track/74L5svVVhDZ9FCpP0Gzvd4">Mighty Morphin Power Rangers: Go Go Power Rangers: Main Theme</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/343YBumqHu19cGoGARUTsd">Fake Love</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Geek Music (2019)</span>
+<span style="color: #666;">Drake (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/74L5svVVhDZ9FCpP0Gzvd4"><img src="https://i.scdn.co/image/ab67616d0000b2736bd737b67b944c97e20f6543" width="60" height="60" alt="Mighty Morphin Power Rangers: Go Go Power Rangers: Main Theme" /></a></td>
+<td><b><a href="https://open.spotify.com/track/74L5svVVhDZ9FCpP0Gzvd4">Mighty Morphin Power Rangers: Go Go Power Rangers: Main Theme</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Geek Music (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"><img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" width="60" height="60" alt="Appetite For Destruction" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8">Welcome To The Jungle</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Guns N' Roses (1987)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0gEaeqVRHPzRc7HMXtOKc7"><img src="https://i.scdn.co/image/ab67616d0000b273810168d54f85d48f07389237" width="60" height="60" alt="Animals" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0gEaeqVRHPzRc7HMXtOKc7">Pigs (Three Different Ones)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1977)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb"><img src="https://i.scdn.co/image/ab67616d0000b27365d444a19f72771cba82cb00" width="60" height="60" alt="Para Mi" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">Bossa No Sé (feat. Jean Carter)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cuco, Jean Carter (2019)</span></td>
 </tr>
 </table>
 </div>
