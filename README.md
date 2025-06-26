@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/343YBumqHu19cGoGARUTsd"><img src="https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700" width="150" height="150" alt="More Life" /></a>
+<a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="150" height="150" alt="One By One (Expanded Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/343YBumqHu19cGoGARUTsd">Fake Love</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Drake (2017)</span>
+<span style="color: #666;">Foo Fighters (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"><img src="https://i.scdn.co/image/ab67616d0000b273c72cc4087da2190116857f37" width="60" height="60" alt="Every Six Seconds" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">Click Click Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Saliva (2001)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/343YBumqHu19cGoGARUTsd"><img src="https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700" width="60" height="60" alt="More Life" /></a></td>
+<td><b><a href="https://open.spotify.com/track/343YBumqHu19cGoGARUTsd">Fake Love</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/74L5svVVhDZ9FCpP0Gzvd4"><img src="https://i.scdn.co/image/ab67616d0000b2736bd737b67b944c97e20f6543" width="60" height="60" alt="Mighty Morphin Power Rangers: Go Go Power Rangers: Main Theme" /></a></td>
 <td><b><a href="https://open.spotify.com/track/74L5svVVhDZ9FCpP0Gzvd4">Mighty Morphin Power Rangers: Go Go Power Rangers: Main Theme</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Geek Music (2019)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2kE4qkaDNvNhXGLoArQDct"><img src="https://i.scdn.co/image/ab67616d0000b27303ca6a733d655fe982326c6b" width="60" height="60" alt="Four Wheel Drive" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2kE4qkaDNvNhXGLoArQDct">Hey You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bachman-Turner Overdrive (1975)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5N9d1MhLj7eO0gFXlusyji"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5N9d1MhLj7eO0gFXlusyji">Wish You Were Here</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4epSzmo6Xw01vTgGoYb2KR"><img src="https://i.scdn.co/image/ab67616d0000b273c91a4b0ef97d3b1eac3f326a" width="60" height="60" alt="People Who Eat People Are The Luckiest People In The World" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4epSzmo6Xw01vTgGoYb2KR">Brave as a Noun</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AJJ (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0gEaeqVRHPzRc7HMXtOKc7"><img src="https://i.scdn.co/image/ab67616d0000b273810168d54f85d48f07389237" width="60" height="60" alt="Animals" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0gEaeqVRHPzRc7HMXtOKc7">Pigs (Three Different Ones)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1977)</span></td>
 </tr>
 </table>
 </div>
