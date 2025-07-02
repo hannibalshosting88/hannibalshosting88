@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"><img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="150" height="150" alt="Americana" /></a>
+<a href="https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"><img src="https://i.scdn.co/image/ab67616d0000b2737b8aabae10ab5bbe7c7f11c5" width="150" height="150" alt="The Open Door" /></a>
 
-<b><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">The Kids Aren't Alright</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M">Call Me When You're Sober</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">The Offspring (1998)</span>
+<span style="color: #666;">Evanescence (2006)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"><img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="60" height="60" alt="Americana" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">The Kids Aren't Alright</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Offspring (1998)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3"><img src="https://i.scdn.co/image/ab67616d0000b273f68df0d2e33a7c96a30a7847" width="60" height="60" alt="Dead Air" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3">Dead Air</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6R4jqaKXUl7Qp1QVlaMZ34"><img src="https://i.scdn.co/image/ab67616d0000b273b24c2772648d620859c071f2" width="60" height="60" alt="Antisleep, Vol. 03" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6R4jqaKXUl7Qp1QVlaMZ34">Death Hammer</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Blue Stahli (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"><img src="https://i.scdn.co/image/ab67616d0000b273d7d4922d7d2b7e596084075e" width="60" height="60" alt="The Essential Kansas" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kansas (2010)</span></td>
 </tr>
 </table>
 </div>
