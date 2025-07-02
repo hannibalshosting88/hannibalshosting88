@@ -30,6 +30,14 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc">Frgt/10 (Alchemist Reanimation) [feat. Chali 2na]</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park, Chali 2na, The Alchemist (2002)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc">Frgt/10 (Alchemist Reanimation) [feat. Chali 2na]</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park, Chali 2na, The Alchemist (2002)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"><img src="https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2" width="60" height="60" alt="A Bar Song (Tipsy)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">A Bar Song (Tipsy)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Shaboozey (2024)</span></td>
 </tr>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"><img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="60" height="60" alt="Night Visions" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a">Demons</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"><img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="60" height="60" alt="Night Visions" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a">Demons</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C"><img src="https://i.scdn.co/image/ab67616d0000b27302a999c3a283b5392e57737d" width="60" height="60" alt="Tha Carter III (MTV Bonus Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C">A Milli</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2008)</span></td>
 </tr>
 </table>
 </div>
