@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"><img src="https://i.scdn.co/image/ab67616d0000b273781369aabc39c792cc55604f" width="150" height="150" alt="10,000 Days" /></a>
+<a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C"><img src="https://i.scdn.co/image/ab67616d0000b27302a999c3a283b5392e57737d" width="150" height="150" alt="Tha Carter III (MTV Bonus Version)" /></a>
 
-<b><a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3">The Pot</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C">A Milli</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">TOOL (2006)</span>
+<span style="color: #666;">Lil Wayne (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"><img src="https://i.scdn.co/image/ab67616d0000b273781369aabc39c792cc55604f" width="60" height="60" alt="10,000 Days" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3">The Pot</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">TOOL (2006)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ"><img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" width="60" height="60" alt="The Marshall Mathers LP2 (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ">Berzerk</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2013)</span></td>
@@ -60,10 +64,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"><img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" width="60" height="60" alt="Appetite For Destruction" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8">Welcome To The Jungle</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Guns N' Roses (1987)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/21nIvBom9DY0oPtZ66GbXI"><img src="https://i.scdn.co/image/ab67616d0000b2734ec1e22d543a10afa818fbdc" width="60" height="60" alt="Forged in Gunfire" /></a></td>
-<td><b><a href="https://open.spotify.com/track/21nIvBom9DY0oPtZ66GbXI">Forged in Gunfire</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/21nIvBom9DY0oPtZ66GbXI"><img src="https://i.scdn.co/image/ab67616d0000b2734ec1e22d543a10afa818fbdc" width="60" height="60" alt="Forged in Gunfire" /></a></td>
