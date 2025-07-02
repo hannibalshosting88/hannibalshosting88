@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" width="150" height="150" alt="Millennium" /></a>
+<a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"><img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="150" height="150" alt="Americana" /></a>
 
-<b><a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya">I Want It That Way</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">The Kids Aren't Alright</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Backstreet Boys (1999)</span>
+<span style="color: #666;">The Offspring (1998)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3"><img src="https://i.scdn.co/image/ab67616d0000b273f68df0d2e33a7c96a30a7847" width="60" height="60" alt="Dead Air" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3">Dead Air</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" width="60" height="60" alt="Millennium" /></a></td>
+<td><b><a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya">I Want It That Way</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="60" height="60" alt="A Little Bit of Mambo" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lou Bega (1999)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"><img src="https://i.scdn.co/image/ab67616d0000b273d7d4922d7d2b7e596084075e" width="60" height="60" alt="The Essential Kansas" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kansas (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC">By Myself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="60" height="60" alt="YOUNG GENIUS" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp">BIG DOG SH*T (feat. Lil RT)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Mabu, Lil RT (2024)</span></td>
 </tr>
 </table>
 </div>
