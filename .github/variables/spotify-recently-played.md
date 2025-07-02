@@ -12,6 +12,14 @@
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"><img src="https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef" width="60" height="60" alt="The Getaway" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt">Dark Necessities</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2016)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"><img src="https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef" width="60" height="60" alt="The Getaway" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt">Dark Necessities</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2016)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe"><img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="60" height="60" alt="COMPLAINT" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2019)</span></td>
 </tr>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4"><img src="https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6" width="60" height="60" alt="The Fat of the Land" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4">Firestarter</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO">Brass Brothers</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"><img src="https://i.scdn.co/image/ab67616d0000b27354ab617bc2d4974ab6ffbece" width="60" height="60" alt="Rage Against The Machine - XX (20th Anniversary Special Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp">Killing In The Name</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Rage Against The Machine (1992)</span></td>
 </tr>
 </table>
 </div>
