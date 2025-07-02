@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7GW60PhudhlW2zwBFStTNX"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="150" height="150" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/1Epb6Kfe3GTgKrrWs1Y4Wy"><img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="150" height="150" alt="U.S.A. (United State of Atlanta)" /></a>
 
-<b><a href="https://open.spotify.com/track/7GW60PhudhlW2zwBFStTNX">Grave Throbbing</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/1Epb6Kfe3GTgKrrWs1Y4Wy">Badd</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Danny Baranowsky (2015)</span>
+<span style="color: #666;">Ying Yang Twins, Mike Jones, Mr. Collipark (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7GW60PhudhlW2zwBFStTNX"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7GW60PhudhlW2zwBFStTNX">Grave Throbbing</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1zmdFR7JiwWzbrmblbMLXU"><img src="https://i.scdn.co/image/ab67616d0000b2735c86463730ede1350f2628f0" width="60" height="60" alt="Uncovered" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1zmdFR7JiwWzbrmblbMLXU">The Final Countdown</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Damned Anthem (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" width="60" height="60" alt="Millennium" /></a></td>
 <td><b><a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya">I Want It That Way</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="60" height="60" alt="A Little Bit of Mambo" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lou Bega (1999)</span></td>
 </tr>
 </table>
 </div>
