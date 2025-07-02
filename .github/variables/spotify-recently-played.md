@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"><img src="https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef" width="150" height="150" alt="The Getaway" /></a>
+<a href="https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56"><img src="https://i.scdn.co/image/ab67616d0000b2732a327b779d23312c60697ed3" width="150" height="150" alt="Your New Morning Alarm" /></a>
 
-<b><a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt">Dark Necessities</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56">Your New Morning Alarm</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Red Hot Chili Peppers (2016)</span>
+<span style="color: #666;">Marc Rebillet (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh"><img src="https://i.scdn.co/image/ab67616d0000b2736f4f62da3d811b6501a69ffa" width="60" height="60" alt="American IV: The Man Comes Around" /></a></td>
+<td><b><a href="https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh">Hurt</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2002)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"><img src="https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef" width="60" height="60" alt="The Getaway" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt">Dark Necessities</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"><img src="https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef" width="60" height="60" alt="The Getaway" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt">Dark Necessities</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2016)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1zmdFR7JiwWzbrmblbMLXU"><img src="https://i.scdn.co/image/ab67616d0000b2735c86463730ede1350f2628f0" width="60" height="60" alt="Uncovered" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1zmdFR7JiwWzbrmblbMLXU">The Final Countdown</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Damned Anthem (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"><img src="https://i.scdn.co/image/ab67616d0000b273a1e05e1048e2cf2737adf742" width="60" height="60" alt="Hot Space (Deluxe Remastered Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw">Under Pressure - Remastered 2011</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Queen, David Bowie (1982)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4"><img src="https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6" width="60" height="60" alt="The Fat of the Land" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4">Firestarter</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (1997)</span></td>
 </tr>
 </table>
 </div>
