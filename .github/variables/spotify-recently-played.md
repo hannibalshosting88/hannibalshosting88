@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="150" height="150" alt="YOUNG GENIUS" /></a>
+<a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="150" height="150" alt="Hybrid Theory (Bonus Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp">BIG DOG SH*T (feat. Lil RT)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC">By Myself</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lil Mabu, Lil RT (2024)</span>
+<span style="color: #666;">Linkin Park (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="60" height="60" alt="YOUNG GENIUS" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp">BIG DOG SH*T (feat. Lil RT)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Mabu, Lil RT (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"><img src="https://i.scdn.co/image/ab67616d0000b27367ff87e2839c5c93bb6e6a6a" width="60" height="60" alt="Lunatic" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO">Come with Me Now</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">KONGOS (2014)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"><img src="https://i.scdn.co/image/ab67616d0000b273c72cc4087da2190116857f37" width="60" height="60" alt="Every Six Seconds" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">Click Click Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Saliva (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
 </tr>
 </table>
 </div>
