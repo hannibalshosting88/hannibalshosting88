@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="150" height="150" alt="Hybrid Theory (Bonus Edition)" /></a>
+<a href="https://open.spotify.com/track/6R4jqaKXUl7Qp1QVlaMZ34"><img src="https://i.scdn.co/image/ab67616d0000b273b24c2772648d620859c071f2" width="150" height="150" alt="Antisleep, Vol. 03" /></a>
 
-<b><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC">By Myself</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6R4jqaKXUl7Qp1QVlaMZ34">Death Hammer</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Linkin Park (2000)</span>
+<span style="color: #666;">Blue Stahli (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"><img src="https://i.scdn.co/image/ab67616d0000b273d7d4922d7d2b7e596084075e" width="60" height="60" alt="The Essential Kansas" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kansas (2010)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC">By Myself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="60" height="60" alt="YOUNG GENIUS" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp">BIG DOG SH*T (feat. Lil RT)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Mabu, Lil RT (2024)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"><img src="https://i.scdn.co/image/ab67616d0000b27320292e6cce666a69ba5a86fb" width="60" height="60" alt="Kill 'Em All (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">Seek & Destroy (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1983)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"><img src="https://i.scdn.co/image/ab67616d0000b273c72cc4087da2190116857f37" width="60" height="60" alt="Every Six Seconds" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">Click Click Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Saliva (2001)</span></td>
 </tr>
 </table>
 </div>
