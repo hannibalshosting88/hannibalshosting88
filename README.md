@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe"><img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="150" height="150" alt="COMPLAINT" /></a>
+<a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"><img src="https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef" width="150" height="150" alt="The Getaway" /></a>
 
-<b><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt">Dark Necessities</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Watsky (2019)</span>
+<span style="color: #666;">Red Hot Chili Peppers (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe"><img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="60" height="60" alt="COMPLAINT" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5qGizZYD1lbhGFdTR1yoFv"><img src="https://i.scdn.co/image/ab67616d0000b27395d5d85909d5deb5cee9f311" width="60" height="60" alt="Mansion" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5qGizZYD1lbhGFdTR1yoFv">Motivated</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2015)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"><img src="https://i.scdn.co/image/ab67616d0000b27354ab617bc2d4974ab6ffbece" width="60" height="60" alt="Rage Against The Machine - XX (20th Anniversary Special Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp">Killing In The Name</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Rage Against The Machine (1992)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"><img src="https://i.scdn.co/image/ab67616d0000b2737b8aabae10ab5bbe7c7f11c5" width="60" height="60" alt="The Open Door" /></a></td>
-<td><b><a href="https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M">Call Me When You're Sober</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2006)</span></td>
 </tr>
 </table>
 </div>
