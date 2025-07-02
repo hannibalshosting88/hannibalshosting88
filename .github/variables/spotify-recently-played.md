@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="150" height="150" alt="A Little Bit of Mambo" /></a>
+<a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" width="150" height="150" alt="Millennium" /></a>
 
-<b><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya">I Want It That Way</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Lou Bega (1999)</span>
+<span style="color: #666;">Backstreet Boys (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="60" height="60" alt="A Little Bit of Mambo" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lou Bega (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
 <td><b><a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc">Frgt/10 (Alchemist Reanimation) [feat. Chali 2na]</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park, Chali 2na, The Alchemist (2002)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp"><img src="https://i.scdn.co/image/ab67616d0000b273f40dbf8b8daf2f1399111b43" width="60" height="60" alt="YOUNG GENIUS" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0wk5MUuj9QByeibr8Ji8Wp">BIG DOG SH*T (feat. Lil RT)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Mabu, Lil RT (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"><img src="https://i.scdn.co/image/ab67616d0000b27367ff87e2839c5c93bb6e6a6a" width="60" height="60" alt="Lunatic" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO">Come with Me Now</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">KONGOS (2014)</span></td>
 </tr>
 </table>
 </div>
