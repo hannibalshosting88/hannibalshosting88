@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="150" height="150" alt="Reanimation" /></a>
+<a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="150" height="150" alt="A Little Bit of Mambo" /></a>
 
-<b><a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc">Frgt/10 (Alchemist Reanimation) [feat. Chali 2na]</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Linkin Park, Chali 2na, The Alchemist (2002)</span>
+<span style="color: #666;">Lou Bega (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc">Frgt/10 (Alchemist Reanimation) [feat. Chali 2na]</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park, Chali 2na, The Alchemist (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
 <td><b><a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc">Frgt/10 (Alchemist Reanimation) [feat. Chali 2na]</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park, Chali 2na, The Alchemist (2002)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"><img src="https://i.scdn.co/image/ab67616d0000b27367ff87e2839c5c93bb6e6a6a" width="60" height="60" alt="Lunatic" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO">Come with Me Now</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">KONGOS (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"><img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="60" height="60" alt="Night Visions" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a">Demons</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2012)</span></td>
 </tr>
 </table>
 </div>
