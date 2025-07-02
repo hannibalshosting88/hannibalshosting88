@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ"><img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" width="150" height="150" alt="The Marshall Mathers LP2 (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"><img src="https://i.scdn.co/image/ab67616d0000b273781369aabc39c792cc55604f" width="150" height="150" alt="10,000 Days" /></a>
 
-<b><a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ">Berzerk</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3">The Pot</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Eminem (2013)</span>
+<span style="color: #666;">TOOL (2006)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ"><img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" width="60" height="60" alt="The Marshall Mathers LP2 (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ">Berzerk</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2013)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"><img src="https://i.scdn.co/image/ab67616d0000b27320292e6cce666a69ba5a86fb" width="60" height="60" alt="Kill 'Em All (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">Seek & Destroy (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1983)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/21nIvBom9DY0oPtZ66GbXI"><img src="https://i.scdn.co/image/ab67616d0000b2734ec1e22d543a10afa818fbdc" width="60" height="60" alt="Forged in Gunfire" /></a></td>
 <td><b><a href="https://open.spotify.com/track/21nIvBom9DY0oPtZ66GbXI">Forged in Gunfire</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3Mer21XmsC6gBqVTLIVnrq"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" height="60" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Mer21XmsC6gBqVTLIVnrq">Concrete for Miles</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
 </tr>
 </table>
 </div>
