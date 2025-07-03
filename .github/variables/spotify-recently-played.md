@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="150" height="150" alt="Origins (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ"><img src="https://i.scdn.co/image/ab67616d0000b273622422043b91c9785ede378e" width="150" height="150" alt="Heaven on Hold" /></a>
 
-<b><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ">Horns</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Imagine Dragons (2018)</span>
+<span style="color: #666;">Bryce Fox (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y"><img src="https://i.scdn.co/image/ab67616d0000b273bbcee29f47340197f56870e5" width="60" height="60" alt="Thug Walkin" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y">Whistle While You Twurk (ColliPark Mix)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6OpfVzM7bX74yBugaeL2x3"><img src="https://i.scdn.co/image/ab67616d0000b273b7ab0807d7b2787c8755ef07" width="60" height="60" alt="Ahgainst the Grain" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6OpfVzM7bX74yBugaeL2x3">Gunther Mackett (Addiction)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">The Stixxx (2012)</span></td>
 </tr>
 </table>
 </div>
