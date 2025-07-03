@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2"><img src="https://i.scdn.co/image/ab67616d0000b273d4db245afb190263a38b52f1" width="150" height="150" alt="Famous" /></a>
+<a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="150" height="150" alt="Sublime" /></a>
 
-<b><a href="https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2">Psycho</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Puddle Of Mudd (2007)</span>
+<span style="color: #666;">Sublime (1996)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2"><img src="https://i.scdn.co/image/ab67616d0000b273d4db245afb190263a38b52f1" width="60" height="60" alt="Famous" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2">Psycho</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="60" height="60" alt="Disobey" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Wolves (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk"><img src="https://i.scdn.co/image/ab67616d0000b27389fc85fb1ba584958c2cb040" width="60" height="60" alt="Tough People" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk">Tough People</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drew Baldridge (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"><img src="https://i.scdn.co/image/ab67616d0000b273a9bae94ddb20a71f573931c0" width="60" height="60" alt="The Young and The Hopeless" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu">The Anthem</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2002)</span></td>
 </tr>
 </table>
 </div>
