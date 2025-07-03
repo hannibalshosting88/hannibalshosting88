@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" width="150" height="150" alt="No Strings Attached" /></a>
+<a href="https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"><img src="https://i.scdn.co/image/ab67616d0000b273a9bae94ddb20a71f573931c0" width="150" height="150" alt="The Young and The Hopeless" /></a>
 
-<b><a href="https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA">It's Gonna Be Me</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu">The Anthem</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">*NSYNC (2000)</span>
+<span style="color: #666;">Good Charlotte (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ"><img src="https://i.scdn.co/image/ab67616d0000b27354585a427218bf9bddbd6a3f" width="60" height="60" alt="Smells Like Children" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ">Sweet Dreams (Are Made Of This)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marilyn Manson (1995)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" width="60" height="60" alt="No Strings Attached" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA">It's Gonna Be Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">*NSYNC (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"><img src="https://i.scdn.co/image/ab67616d0000b273c418220159462cdd7cfeb9a1" width="60" height="60" alt="Finding Beauty In Negative Spaces (Bonus Track Version)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0">Fake It</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seether (2007)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5qGizZYD1lbhGFdTR1yoFv"><img src="https://i.scdn.co/image/ab67616d0000b27395d5d85909d5deb5cee9f311" width="60" height="60" alt="Mansion" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5qGizZYD1lbhGFdTR1yoFv">Motivated</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw">Wish You Were Here</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1Epb6Kfe3GTgKrrWs1Y4Wy"><img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="60" height="60" alt="U.S.A. (United State of Atlanta)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1Epb6Kfe3GTgKrrWs1Y4Wy">Badd</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins, Mike Jones, Mr. Collipark (2005)</span></td>
 </tr>
 </table>
 </div>
