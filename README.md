@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ"><img src="https://i.scdn.co/image/ab67616d0000b273622422043b91c9785ede378e" width="150" height="150" alt="Heaven on Hold" /></a>
+<a href="https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" width="150" height="150" alt="Millennium" /></a>
 
-<b><a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ">Horns</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T">Show Me the Meaning of Being Lonely</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Bryce Fox (2017)</span>
+<span style="color: #666;">Backstreet Boys (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ"><img src="https://i.scdn.co/image/ab67616d0000b273622422043b91c9785ede378e" width="60" height="60" alt="Heaven on Hold" /></a></td>
+<td><b><a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ">Horns</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bryce Fox (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo"><img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" width="60" height="60" alt="Overexposed (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo">One More Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Maroon 5 (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y"><img src="https://i.scdn.co/image/ab67616d0000b273bbcee29f47340197f56870e5" width="60" height="60" alt="Thug Walkin" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y">Whistle While You Twurk (ColliPark Mix)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins (2000)</span></td>
 </tr>
 </table>
 </div>
