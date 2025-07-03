@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo"><img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" width="150" height="150" alt="Overexposed (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc"><img src="https://i.scdn.co/image/ab67616d0000b2739c42c35d57212a5920c42f6c" width="150" height="150" alt="Fight With Tools" /></a>
 
-<b><a href="https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo">One More Night</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">Handlebars</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Maroon 5 (2012)</span>
+<span style="color: #666;">Flobots (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo"><img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" width="60" height="60" alt="Overexposed (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo">One More Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Maroon 5 (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo"><img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" width="60" height="60" alt="Overexposed (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo">One More Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Maroon 5 (2012)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56"><img src="https://i.scdn.co/image/ab67616d0000b2732a327b779d23312c60697ed3" width="60" height="60" alt="Your New Morning Alarm" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56">Your New Morning Alarm</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marc Rebillet (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh"><img src="https://i.scdn.co/image/ab67616d0000b2736f4f62da3d811b6501a69ffa" width="60" height="60" alt="American IV: The Man Comes Around" /></a></td>
-<td><b><a href="https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh">Hurt</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2002)</span></td>
 </tr>
 </table>
 </div>
