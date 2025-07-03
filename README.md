@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"><img src="https://i.scdn.co/image/ab67616d0000b273a9bae94ddb20a71f573931c0" width="150" height="150" alt="The Young and The Hopeless" /></a>
+<a href="https://open.spotify.com/track/6OpfVzM7bX74yBugaeL2x3"><img src="https://i.scdn.co/image/ab67616d0000b273b7ab0807d7b2787c8755ef07" width="150" height="150" alt="Ahgainst the Grain" /></a>
 
-<b><a href="https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu">The Anthem</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6OpfVzM7bX74yBugaeL2x3">Gunther Mackett (Addiction)</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Good Charlotte (2002)</span>
+<span style="color: #666;">The Stixxx (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk"><img src="https://i.scdn.co/image/ab67616d0000b27389fc85fb1ba584958c2cb040" width="60" height="60" alt="Tough People" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk">Tough People</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drew Baldridge (2024)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"><img src="https://i.scdn.co/image/ab67616d0000b273a9bae94ddb20a71f573931c0" width="60" height="60" alt="The Young and The Hopeless" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu">The Anthem</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ"><img src="https://i.scdn.co/image/ab67616d0000b27354585a427218bf9bddbd6a3f" width="60" height="60" alt="Smells Like Children" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ">Sweet Dreams (Are Made Of This)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marilyn Manson (1995)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"><img src="https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef" width="60" height="60" alt="The Getaway" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt">Dark Necessities</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe"><img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="60" height="60" alt="COMPLAINT" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5qGizZYD1lbhGFdTR1yoFv"><img src="https://i.scdn.co/image/ab67616d0000b27395d5d85909d5deb5cee9f311" width="60" height="60" alt="Mansion" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5qGizZYD1lbhGFdTR1yoFv">Motivated</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2015)</span></td>
 </tr>
 </table>
 </div>
