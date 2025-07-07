@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1VsxaE5MxzgtmKe50P1kRK"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="150" height="150" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a>
+<a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"><img src="https://i.scdn.co/image/ab67616d0000b27381c8341abbed9421975ca71d" width="150" height="150" alt="Best Kind Of Mess" /></a>
 
-<b><a href="https://open.spotify.com/track/1VsxaE5MxzgtmKe50P1kRK">14 Years</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC">Sarcasm</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Mick Gordon (2014)</span>
+<span style="color: #666;">Get Scared (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk"><img src="https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886" width="60" height="60" alt="Tha Carter V" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk">Uproar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Swizz Beatz (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1VsxaE5MxzgtmKe50P1kRK"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" height="60" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1VsxaE5MxzgtmKe50P1kRK">14 Years</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"><img src="https://i.scdn.co/image/ab67616d0000b2733ebc5b9d8942069d3b920550" width="60" height="60" alt="Bigger Than Both Of Us" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX">Rich Girl</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Daryl Hall & John Oates (1976)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="60" height="60" alt="Disobey" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Wolves (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6nonTdcZbN2pmyiN032MXw"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6nonTdcZbN2pmyiN032MXw">Intro 2</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">Papercut</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
 </tr>
 </table>
 </div>
