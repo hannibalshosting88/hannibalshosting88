@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"><img src="https://i.scdn.co/image/ab67616d0000b27381c8341abbed9421975ca71d" width="150" height="150" alt="Best Kind Of Mess" /></a>
+<a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"><img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="150" height="150" alt="Audioslave" /></a>
 
-<b><a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC">Sarcasm</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo">Show Me How to Live</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Get Scared (2010)</span>
+<span style="color: #666;">Audioslave (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"><img src="https://i.scdn.co/image/ab67616d0000b27381c8341abbed9421975ca71d" width="60" height="60" alt="Best Kind Of Mess" /></a></td>
+<td><b><a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC">Sarcasm</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Get Scared (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk"><img src="https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886" width="60" height="60" alt="Tha Carter V" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk">Uproar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Swizz Beatz (2018)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2"><img src="https://i.scdn.co/image/ab67616d0000b273d4db245afb190263a38b52f1" width="60" height="60" alt="Famous" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2">Psycho</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"><img src="https://i.scdn.co/image/ab67616d0000b2730fa217105897ecfc5242b600" width="60" height="60" alt="Disobey" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Wolves (2018)</span></td>
 </tr>
 </table>
 </div>
