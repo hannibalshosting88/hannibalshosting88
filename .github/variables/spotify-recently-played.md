@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4J864J5ywQb5xGcr9tsOdr"><img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="150" height="150" alt="Cyberpunk 2077 - Original Score" /></a>
+<a href="https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="150" height="150" alt="Make Yourself" /></a>
 
-<b><a href="https://open.spotify.com/track/4J864J5ywQb5xGcr9tsOdr">Мусорщики</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8">Pardon Me</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">P.T. Adamczyk (2020)</span>
+<span style="color: #666;">Incubus (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4J864J5ywQb5xGcr9tsOdr"><img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" height="60" alt="Cyberpunk 2077 - Original Score" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4J864J5ywQb5xGcr9tsOdr">Мусорщики</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">P.T. Adamczyk (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"><img src="https://i.scdn.co/image/ab67616d0000b2731aa2474909c648492bcf27ce" width="60" height="60" alt="Life" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh">Die MF Die</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dope (2001)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"><img src="https://i.scdn.co/image/ab67616d0000b2733ebc5b9d8942069d3b920550" width="60" height="60" alt="Bigger Than Both Of Us" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX">Rich Girl</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Daryl Hall & John Oates (1976)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv"><img src="https://i.scdn.co/image/ab67616d0000b273bfe4b1f5943476f199f5b666" width="60" height="60" alt="A B Y S S" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv">A B Y S S</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">1788-L, TYNAN (2018)</span></td>
 </tr>
 </table>
 </div>
