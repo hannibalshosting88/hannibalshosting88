@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"><img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" width="150" height="150" alt="Led Zeppelin IV (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX"><img src="https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0" width="150" height="150" alt="F-1 Trillion" /></a>
 
-<b><a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD">Rock and Roll - Remaster</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX">Losers (Feat. Jelly Roll)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Led Zeppelin (1971)</span>
+<span style="color: #666;">Post Malone, Jelly Roll (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q"><img src="https://i.scdn.co/image/ab67616d0000b2730f9d33cae4a0275e8fd28b93" width="60" height="60" alt="Megalithic Symphony (10th Anniversary Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q">Sail - Unlimited Gravity Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION, Unlimited Gravity (2021)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"><img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" width="60" height="60" alt="Led Zeppelin IV (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD">Rock and Roll - Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Led Zeppelin (1971)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"><img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="60" height="60" alt="Audioslave" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo">Show Me How to Live</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Audioslave (2002)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ"><img src="https://i.scdn.co/image/ab67616d0000b273622422043b91c9785ede378e" width="60" height="60" alt="Heaven on Hold" /></a></td>
 <td><b><a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ">Horns</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bryce Fox (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
 </tr>
 </table>
 </div>
