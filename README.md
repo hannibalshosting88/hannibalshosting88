@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="150" height="150" alt="Make Yourself" /></a>
+<a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="150" height="150" alt="Metallica (Remastered)" /></a>
 
-<b><a href="https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8">Pardon Me</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi">Sad But True (Remastered)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Incubus (1999)</span>
+<span style="color: #666;">Metallica (1991)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ"><img src="https://i.scdn.co/image/ab67616d0000b273efbcab3253cf66cc8ca42172" width="60" height="60" alt="No Stranger to Shame" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ">Drift Away</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Uncle Kracker (2002)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1Gtm7PM9GPrSvWEzsk7rzD"><img src="https://i.scdn.co/image/ab67616d0000b273a22bba104ccff8471949d76e" width="60" height="60" alt="The Frozen Tears of Angels" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Gtm7PM9GPrSvWEzsk7rzD">Reign of Terror</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Rhapsody Of Fire (2010)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8">Pardon Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4J864J5ywQb5xGcr9tsOdr"><img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" height="60" alt="Cyberpunk 2077 - Original Score" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4J864J5ywQb5xGcr9tsOdr">Мусорщики</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">P.T. Adamczyk (2020)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"><img src="https://i.scdn.co/image/ab67616d0000b27381c8341abbed9421975ca71d" width="60" height="60" alt="Best Kind Of Mess" /></a></td>
 <td><b><a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC">Sarcasm</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Get Scared (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk"><img src="https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886" width="60" height="60" alt="Tha Carter V" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk">Uproar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Swizz Beatz (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1VsxaE5MxzgtmKe50P1kRK"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" height="60" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1VsxaE5MxzgtmKe50P1kRK">14 Years</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"><img src="https://i.scdn.co/image/ab67616d0000b2733ebc5b9d8942069d3b920550" width="60" height="60" alt="Bigger Than Both Of Us" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX">Rich Girl</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Daryl Hall & John Oates (1976)</span></td>
 </tr>
 </table>
 </div>
