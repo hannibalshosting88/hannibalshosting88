@@ -16,6 +16,10 @@
 <td><b><a href="https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul">Brown Eyed Girl</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Van Morrison (1967)</span></td>
 </tr>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"><img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" width="60" height="60" alt="Blowin' Your Mind!" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul">Brown Eyed Girl</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Van Morrison (1967)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi">Sad But True (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
 </tr>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q"><img src="https://i.scdn.co/image/ab67616d0000b2730f9d33cae4a0275e8fd28b93" width="60" height="60" alt="Megalithic Symphony (10th Anniversary Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q">Sail - Unlimited Gravity Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION, Unlimited Gravity (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"><img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" width="60" height="60" alt="Led Zeppelin IV (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD">Rock and Roll - Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Led Zeppelin (1971)</span></td>
 </tr>
 </table>
 </div>
