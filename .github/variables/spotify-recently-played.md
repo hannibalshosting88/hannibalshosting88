@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="150" height="150" alt="Metallica (Remastered)" /></a>
+<a href="https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"><img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" width="150" height="150" alt="Blowin' Your Mind!" /></a>
 
-<b><a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi">Sad But True (Remastered)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul">Brown Eyed Girl</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Metallica (1991)</span>
+<span style="color: #666;">Van Morrison (1967)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi">Sad But True (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ"><img src="https://i.scdn.co/image/ab67616d0000b273efbcab3253cf66cc8ca42172" width="60" height="60" alt="No Stranger to Shame" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ">Drift Away</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Uncle Kracker (2002)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"><img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="60" height="60" alt="Audioslave" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo">Show Me How to Live</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Audioslave (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"><img src="https://i.scdn.co/image/ab67616d0000b27381c8341abbed9421975ca71d" width="60" height="60" alt="Best Kind Of Mess" /></a></td>
-<td><b><a href="https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC">Sarcasm</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Get Scared (2010)</span></td>
 </tr>
 </table>
 </div>
