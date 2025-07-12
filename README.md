@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"><img src="https://i.scdn.co/image/ab67616d0000b27321a706c06719ec096876afec" width="150" height="150" alt="BRELAND & Friends: Vol. 1 (Live)" /></a>
+<a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe"><img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="150" height="150" alt="COMPLAINT" /></a>
 
-<b><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">Praise the Lord (feat. Thomas Rhett) - Live</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">BRELAND, Thomas Rhett (2024)</span>
+<span style="color: #666;">Watsky (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"><img src="https://i.scdn.co/image/ab67616d0000b27321a706c06719ec096876afec" width="60" height="60" alt="BRELAND & Friends: Vol. 1 (Live)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">Praise the Lord (feat. Thomas Rhett) - Live</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">BRELAND, Thomas Rhett (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv"><img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="60" height="60" alt="Sleep With the Lights On" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Wanton Bishops (2015)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3"><img src="https://i.scdn.co/image/ab67616d0000b273f68df0d2e33a7c96a30a7847" width="60" height="60" alt="Dead Air" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3">Dead Air</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1wpRglLhQ092N1rftlDMD3"><img src="https://i.scdn.co/image/ab67616d0000b2735053c9e335609a8de97e5669" width="60" height="60" alt="Styx II" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1wpRglLhQ092N1rftlDMD3">Lady</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1973)</span></td>
 </tr>
 </table>
 </div>
