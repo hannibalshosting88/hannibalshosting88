@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c"><img src="https://i.scdn.co/image/ab67616d0000b27334666061eea81fa4b36ba2b9" width="150" height="150" alt="PARALLAX" /></a>
+<a href="https://open.spotify.com/track/3qVi8CAtE0ms9uxKOKb9Vv"><img src="https://i.scdn.co/image/ab67616d0000b273e6be838bb048fe829001845b" width="150" height="150" alt="SCP Foundation Creature Examination" /></a>
 
-<b><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c">Warbringer</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3qVi8CAtE0ms9uxKOKb9Vv">SCP Foundation Creature Examination 030 Pt.1</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">TheFatRat, Everen Maxwell, Lindsey Stirling (2021)</span>
+<span style="color: #666;">ASMR Shanny (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c"><img src="https://i.scdn.co/image/ab67616d0000b27334666061eea81fa4b36ba2b9" width="60" height="60" alt="PARALLAX" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c">Warbringer</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">TheFatRat, Everen Maxwell, Lindsey Stirling (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"><img src="https://i.scdn.co/image/ab67616d0000b2738b344822c35025ba9439f004" width="60" height="60" alt="Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw">Duel of the Fates</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">John Williams, London Symphony Orchestra (1999)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC"><img src="https://i.scdn.co/image/ab67616d0000b27374be78bd14d095c8d76943a0" width="60" height="60" alt="The Click (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC">Burn The House Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"><img src="https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World's Smallest Violin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
 </tr>
 </table>
 </div>
