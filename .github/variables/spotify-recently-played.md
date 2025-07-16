@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2wDB0JHGcLgoNgUF9u7G9Q"><img src="https://i.scdn.co/image/ab67616d0000b273e6be838bb048fe829001845b" width="150" height="150" alt="SCP Foundation Creature Examination" /></a>
+<a href="https://open.spotify.com/track/7obFyvseldmTj6l3QBeBYh"><img src="https://i.scdn.co/image/ab67616d0000b273e6be838bb048fe829001845b" width="150" height="150" alt="SCP Foundation Creature Examination" /></a>
 
-<b><a href="https://open.spotify.com/track/2wDB0JHGcLgoNgUF9u7G9Q">SCP Foundation Creature Examination 030 Pt.3</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/7obFyvseldmTj6l3QBeBYh">SCP Foundation Creature Examination 030 Pt.4</a></b><span style="color: gold;"> ★</span>
 
 <span style="color: #666;">ASMR Shanny (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2wDB0JHGcLgoNgUF9u7G9Q"><img src="https://i.scdn.co/image/ab67616d0000b273e6be838bb048fe829001845b" width="60" height="60" alt="SCP Foundation Creature Examination" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2wDB0JHGcLgoNgUF9u7G9Q">SCP Foundation Creature Examination 030 Pt.3</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">ASMR Shanny (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1tfY2cW2QsNn2bsAFjBpuP"><img src="https://i.scdn.co/image/ab67616d0000b273e6be838bb048fe829001845b" width="60" height="60" alt="SCP Foundation Creature Examination" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1tfY2cW2QsNn2bsAFjBpuP">SCP Foundation Creature Examination 030 Pt.2</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">ASMR Shanny (2021)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="60" height="60" alt="Fragile" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yes (1971)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL"><img src="https://i.scdn.co/image/ab67616d0000b273a320d7e9efd7602648fb78e3" width="60" height="60" alt="Neotheater" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">100 Bad Days</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2019)</span></td>
 </tr>
 </table>
 </div>
