@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7obFyvseldmTj6l3QBeBYh"><img src="https://i.scdn.co/image/ab67616d0000b273e6be838bb048fe829001845b" width="150" height="150" alt="SCP Foundation Creature Examination" /></a>
+<a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb"><img src="https://i.scdn.co/image/ab67616d0000b27365d444a19f72771cba82cb00" width="150" height="150" alt="Para Mi" /></a>
 
-<b><a href="https://open.spotify.com/track/7obFyvseldmTj6l3QBeBYh">SCP Foundation Creature Examination 030 Pt.4</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">Bossa No Sé (feat. Jean Carter)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">ASMR Shanny (2021)</span>
+<span style="color: #666;">Cuco, Jean Carter (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y"><img src="https://i.scdn.co/image/ab67616d0000b2731e869a1d333210eaa2bfe670" width="60" height="60" alt="Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y">The Imperial March (Darth Vader's Theme)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">John Williams, London Symphony Orchestra (1980)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7obFyvseldmTj6l3QBeBYh"><img src="https://i.scdn.co/image/ab67616d0000b273e6be838bb048fe829001845b" width="60" height="60" alt="SCP Foundation Creature Examination" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7obFyvseldmTj6l3QBeBYh">SCP Foundation Creature Examination 030 Pt.4</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">ASMR Shanny (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2wDB0JHGcLgoNgUF9u7G9Q"><img src="https://i.scdn.co/image/ab67616d0000b273e6be838bb048fe829001845b" width="60" height="60" alt="SCP Foundation Creature Examination" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2wDB0JHGcLgoNgUF9u7G9Q">SCP Foundation Creature Examination 030 Pt.3</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">ASMR Shanny (2021)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv"><img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="60" height="60" alt="Sleep With the Lights On" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Wanton Bishops (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="60" height="60" alt="Fragile" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yes (1971)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="60" height="60" alt="Fragile" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yes (1971)</span></td>
 </tr>
 </table>
 </div>
