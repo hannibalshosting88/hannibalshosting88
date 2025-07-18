@@ -30,6 +30,10 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="60" height="60" alt="Tha Carter IV (Complete Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu">Blunt Blowin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2011)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV"><img src="https://i.scdn.co/image/ab67616d0000b27304b1454aabded3ebe9cf3c01" width="60" height="60" alt="B-Sides and Rarities" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">War Pigs</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2007)</span></td>
 </tr>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1tfY2cW2QsNn2bsAFjBpuP"><img src="https://i.scdn.co/image/ab67616d0000b273e6be838bb048fe829001845b" width="60" height="60" alt="SCP Foundation Creature Examination" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1tfY2cW2QsNn2bsAFjBpuP">SCP Foundation Creature Examination 030 Pt.2</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">ASMR Shanny (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3qVi8CAtE0ms9uxKOKb9Vv"><img src="https://i.scdn.co/image/ab67616d0000b273e6be838bb048fe829001845b" width="60" height="60" alt="SCP Foundation Creature Examination" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3qVi8CAtE0ms9uxKOKb9Vv">SCP Foundation Creature Examination 030 Pt.1</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">ASMR Shanny (2021)</span></td>
 </tr>
 </table>
 </div>
