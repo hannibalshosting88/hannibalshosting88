@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3h5oLl45QiuHRviHKLlY5f"><img src="https://i.scdn.co/image/ab67616d0000b273aa6e150dc94e33fbc8571656" width="150" height="150" alt="The Kahoot Rap (Kahoot Star)" /></a>
+<a href="https://open.spotify.com/track/31Fqwz0E7NMUGNMxLDUd2H"><img src="https://i.scdn.co/image/ab67616d0000b2737ebf975ef634d061ab5b265b" width="150" height="150" alt="LALALove" /></a>
 
-<b><a href="https://open.spotify.com/track/3h5oLl45QiuHRviHKLlY5f">The Kahoot Rap (Kahoot Star)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/31Fqwz0E7NMUGNMxLDUd2H">LALALove</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Kyle Exum (2020)</span>
+<span style="color: #666;">CG5, Kyle Exum (2025)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3h5oLl45QiuHRviHKLlY5f"><img src="https://i.scdn.co/image/ab67616d0000b273aa6e150dc94e33fbc8571656" width="60" height="60" alt="The Kahoot Rap (Kahoot Star)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3h5oLl45QiuHRviHKLlY5f">The Kahoot Rap (Kahoot Star)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/56NcJjokTRvptj7JT7STXC"><img src="https://i.scdn.co/image/ab67616d0000b27322a6542f02b76adac0848f8b" width="60" height="60" alt="Woody Walk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/56NcJjokTRvptj7JT7STXC">Woody Walk</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2023)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"><img src="https://i.scdn.co/image/ab67616d0000b27330c996f370c1a614f294765d" width="60" height="60" alt="KAMI" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu">KAMI</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DR MØB (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"><img src="https://i.scdn.co/image/ab67616d0000b273c23dd8ed5abc2dff6f62aa14" width="60" height="60" alt="Awake" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX">Awake</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Godsmack (2000)</span></td>
 </tr>
 </table>
 </div>
