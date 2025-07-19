@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="150" height="150" alt="The Essential Incubus" /></a>
+<a href="https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc"><img src="https://i.scdn.co/image/ab67616d0000b273d283768954643034b25fde78" width="150" height="150" alt="Crazy Frog presents Crazy Hits" /></a>
 
-<b><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL">A Certain Shade of Green</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc">Axel F</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Incubus (2012)</span>
+<span style="color: #666;">Crazy Frog (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL">A Certain Shade of Green</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1IaPZBgCaDSES5Wm3UXFcv"><img src="https://i.scdn.co/image/ab67616d0000b2736e9cf8e3aa085136f6d1132a" width="60" height="60" alt="The Rebirth Of Vulgarcadia" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1IaPZBgCaDSES5Wm3UXFcv">Cute/Crooked</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Astrid Haven (2010)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"><img src="https://i.scdn.co/image/ab67616d0000b2732bc58e4de7c41e84aeacee40" width="60" height="60" alt="Listen" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB">Bad Habit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Kooks (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb"><img src="https://i.scdn.co/image/ab67616d0000b27365d444a19f72771cba82cb00" width="60" height="60" alt="Para Mi" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">Bossa No Sé (feat. Jean Carter)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cuco, Jean Carter (2019)</span></td>
 </tr>
 </table>
 </div>
