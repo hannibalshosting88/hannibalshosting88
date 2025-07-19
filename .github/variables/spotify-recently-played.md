@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO"><img src="https://i.scdn.co/image/ab67616d0000b273b76b58c63e4dfc40e55a3bb0" width="150" height="150" alt="The Exum Household" /></a>
+<a href="https://open.spotify.com/track/3h5oLl45QiuHRviHKLlY5f"><img src="https://i.scdn.co/image/ab67616d0000b273aa6e150dc94e33fbc8571656" width="150" height="150" alt="The Kahoot Rap (Kahoot Star)" /></a>
 
-<b><a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO">Trap 3 Little Pigs</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3h5oLl45QiuHRviHKLlY5f">The Kahoot Rap (Kahoot Star)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Kyle Exum (2019)</span>
+<span style="color: #666;">Kyle Exum (2020)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/56NcJjokTRvptj7JT7STXC"><img src="https://i.scdn.co/image/ab67616d0000b27322a6542f02b76adac0848f8b" width="60" height="60" alt="Woody Walk" /></a></td>
+<td><b><a href="https://open.spotify.com/track/56NcJjokTRvptj7JT7STXC">Woody Walk</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2023)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO"><img src="https://i.scdn.co/image/ab67616d0000b273b76b58c63e4dfc40e55a3bb0" width="60" height="60" alt="The Exum Household" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO">Trap 3 Little Pigs</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4"><img src="https://i.scdn.co/image/ab67616d0000b273cdf16453ba15c8f97644e630" width="60" height="60" alt="Come on!" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4">Come on!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2024)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"><img src="https://i.scdn.co/image/ab67616d0000b273c23dd8ed5abc2dff6f62aa14" width="60" height="60" alt="Awake" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX">Awake</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Godsmack (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc"><img src="https://i.scdn.co/image/ab67616d0000b273d283768954643034b25fde78" width="60" height="60" alt="Crazy Frog presents Crazy Hits" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc">Axel F</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Crazy Frog (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL">A Certain Shade of Green</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
 </tr>
 </table>
 </div>
