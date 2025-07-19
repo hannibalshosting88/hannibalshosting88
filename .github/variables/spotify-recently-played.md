@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc"><img src="https://i.scdn.co/image/ab67616d0000b273d283768954643034b25fde78" width="150" height="150" alt="Crazy Frog presents Crazy Hits" /></a>
+<a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"><img src="https://i.scdn.co/image/ab67616d0000b27330c996f370c1a614f294765d" width="150" height="150" alt="KAMI" /></a>
 
-<b><a href="https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc">Axel F</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu">KAMI</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Crazy Frog (2005)</span>
+<span style="color: #666;">DR MØB (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"><img src="https://i.scdn.co/image/ab67616d0000b273c23dd8ed5abc2dff6f62aa14" width="60" height="60" alt="Awake" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX">Awake</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Godsmack (2000)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc"><img src="https://i.scdn.co/image/ab67616d0000b273d283768954643034b25fde78" width="60" height="60" alt="Crazy Frog presents Crazy Hits" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc">Axel F</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Crazy Frog (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL">A Certain Shade of Green</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1CirS5cREBtJy71CLQyKmb"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="60" height="60" alt="Galactic Empire" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1CirS5cREBtJy71CLQyKmb">Battle of The Heroes</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2wK1agkJ4rmgAD9pkufVAd"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2wK1agkJ4rmgAD9pkufVAd">Fungal Funk</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"><img src="https://i.scdn.co/image/ab67616d0000b2732bc58e4de7c41e84aeacee40" width="60" height="60" alt="Listen" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB">Bad Habit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Kooks (2014)</span></td>
 </tr>
 </table>
 </div>
