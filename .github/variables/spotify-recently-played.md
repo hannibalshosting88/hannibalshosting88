@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="150" height="150" alt="Tha Carter IV (Complete Edition)" /></a>
+<a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7"><img src="https://i.scdn.co/image/ab67616d0000b2735cc5b5a10eaab8bea0206376" width="150" height="150" alt="A Twist In My Story" /></a>
 
-<b><a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH">6 Foot 7 Foot</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7">Fall For You</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lil Wayne, Cory Gunz (2011)</span>
+<span style="color: #666;">Secondhand Serenade (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="60" height="60" alt="Tha Carter IV (Complete Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH">6 Foot 7 Foot</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Cory Gunz (2011)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"><img src="https://i.scdn.co/image/ab67616d0000b27330c996f370c1a614f294765d" width="60" height="60" alt="KAMI" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu">KAMI</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DR MØB (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="60" height="60" alt="Tha Carter IV (Complete Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu">Blunt Blowin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2011)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV"><img src="https://i.scdn.co/image/ab67616d0000b27304b1454aabded3ebe9cf3c01" width="60" height="60" alt="B-Sides and Rarities" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">War Pigs</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2007)</span></td>
 </tr>
 </table>
 </div>
