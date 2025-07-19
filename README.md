@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7"><img src="https://i.scdn.co/image/ab67616d0000b2735cc5b5a10eaab8bea0206376" width="150" height="150" alt="A Twist In My Story" /></a>
+<a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"><img src="https://i.scdn.co/image/ab67616d0000b273c16d23f23fbb8145368515f9" width="150" height="150" alt="Beautiful Soul" /></a>
 
-<b><a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7">Fall For You</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS">Beautiful Soul</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Secondhand Serenade (2008)</span>
+<span style="color: #666;">Jesse McCartney (2004)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7"><img src="https://i.scdn.co/image/ab67616d0000b2735cc5b5a10eaab8bea0206376" width="60" height="60" alt="A Twist In My Story" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7">Fall For You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Secondhand Serenade (2008)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="60" height="60" alt="Tha Carter IV (Complete Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH">6 Foot 7 Foot</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Cory Gunz (2011)</span></td>
@@ -60,10 +64,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4a2uqVlpRChHj32EjJLu7G"><img src="https://i.scdn.co/image/ab67616d0000b273ab7a2287bd2c3b20b27e4342" width="60" height="60" alt="Tyler Childers | OurVinyl Sessions" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4a2uqVlpRChHj32EjJLu7G">Nose On The Grindstone (OurVinyl Sessions)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler Childers, OurVinyl (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="60" height="60" alt="Tha Carter IV (Complete Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu">Blunt Blowin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2011)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="60" height="60" alt="Tha Carter IV (Complete Edition)" /></a></td>
