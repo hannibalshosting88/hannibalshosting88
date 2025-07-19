@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="150" height="150" alt="Tha Carter IV (Complete Edition)" /></a>
+<a href="https://open.spotify.com/track/4a2uqVlpRChHj32EjJLu7G"><img src="https://i.scdn.co/image/ab67616d0000b273ab7a2287bd2c3b20b27e4342" width="150" height="150" alt="Tyler Childers | OurVinyl Sessions" /></a>
 
-<b><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu">Blunt Blowin</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4a2uqVlpRChHj32EjJLu7G">Nose On The Grindstone (OurVinyl Sessions)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lil Wayne (2011)</span>
+<span style="color: #666;">Tyler Childers, OurVinyl (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="60" height="60" alt="Tha Carter IV (Complete Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu">Blunt Blowin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2011)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="60" height="60" alt="Tha Carter IV (Complete Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu">Blunt Blowin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2011)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2wDB0JHGcLgoNgUF9u7G9Q"><img src="https://i.scdn.co/image/ab67616d0000b273e6be838bb048fe829001845b" width="60" height="60" alt="SCP Foundation Creature Examination" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2wDB0JHGcLgoNgUF9u7G9Q">SCP Foundation Creature Examination 030 Pt.3</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">ASMR Shanny (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1tfY2cW2QsNn2bsAFjBpuP"><img src="https://i.scdn.co/image/ab67616d0000b273e6be838bb048fe829001845b" width="60" height="60" alt="SCP Foundation Creature Examination" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1tfY2cW2QsNn2bsAFjBpuP">SCP Foundation Creature Examination 030 Pt.2</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">ASMR Shanny (2021)</span></td>
 </tr>
 </table>
 </div>
