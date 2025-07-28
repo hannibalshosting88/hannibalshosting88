@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"><img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="150" height="150" alt="Night Visions" /></a>
+<a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"><img src="https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5" width="150" height="150" alt="2001" /></a>
 
-<b><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a">Demons</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC">The Next Episode</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Imagine Dragons (2012)</span>
+<span style="color: #666;">Dr. Dre, Snoop Dogg (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"><img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="60" height="60" alt="Night Visions" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a">Demons</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/68C0nwbmfUVXMGazJRRPM5"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
 <td><b><a href="https://open.spotify.com/track/68C0nwbmfUVXMGazJRRPM5">Head Start</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2015)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3h5oLl45QiuHRviHKLlY5f"><img src="https://i.scdn.co/image/ab67616d0000b273aa6e150dc94e33fbc8571656" width="60" height="60" alt="The Kahoot Rap (Kahoot Star)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3h5oLl45QiuHRviHKLlY5f">The Kahoot Rap (Kahoot Star)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/56NcJjokTRvptj7JT7STXC"><img src="https://i.scdn.co/image/ab67616d0000b27322a6542f02b76adac0848f8b" width="60" height="60" alt="Woody Walk" /></a></td>
-<td><b><a href="https://open.spotify.com/track/56NcJjokTRvptj7JT7STXC">Woody Walk</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2023)</span></td>
 </tr>
 </table>
 </div>
