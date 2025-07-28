@@ -43,7 +43,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4"><img src="https://i.scdn.co/image/ab67616d0000b273cdf16453ba15c8f97644e630" width="60" height="60" alt="Come on!" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4">Come on!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2024)</span></td>
+<td><b><a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4">Come on!</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2024)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX"><img src="https://i.scdn.co/image/ab67616d0000b273eb558bedbd91c3c81f5b8210" width="60" height="60" alt="Bassthoven" /></a></td>
