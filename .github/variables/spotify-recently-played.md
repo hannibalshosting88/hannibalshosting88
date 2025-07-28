@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE"><img src="https://i.scdn.co/image/ab67616d0000b273b898edb5cd07a99820a33050" width="150" height="150" alt="Cyberpunk EP" /></a>
+<a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="150" height="150" alt="Is This It" /></a>
 
-<b><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE">FCKD</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Hyper, Mark Arn (2019)</span>
+<span style="color: #666;">The Strokes (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"><img src="https://i.scdn.co/image/ab67616d0000b273604f8ac39f15d287e251f193" width="60" height="60" alt="Don't Kill the Magic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp">Rude</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">MAGIC! (2014)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE"><img src="https://i.scdn.co/image/ab67616d0000b273b898edb5cd07a99820a33050" width="60" height="60" alt="Cyberpunk EP" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE">FCKD</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper, Mark Arn (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX"><img src="https://i.scdn.co/image/ab67616d0000b273eb558bedbd91c3c81f5b8210" width="60" height="60" alt="Bassthoven" /></a></td>
 <td><b><a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">Bassthoven</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum, Shawn Wasabi (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX"><img src="https://i.scdn.co/image/ab67616d0000b273eb558bedbd91c3c81f5b8210" width="60" height="60" alt="Bassthoven" /></a></td>
-<td><b><a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">Bassthoven</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum, Shawn Wasabi (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"><img src="https://i.scdn.co/image/ab67616d0000b273c16d23f23fbb8145368515f9" width="60" height="60" alt="Beautiful Soul" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS">Beautiful Soul</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jesse McCartney (2004)</span></td>
 </tr>
 </table>
 </div>
