@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="150" height="150" alt="Is This It" /></a>
+<a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"><img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="150" height="150" alt="Night Visions" /></a>
 
-<b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a">Demons</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">The Strokes (2001)</span>
+<span style="color: #666;">Imagine Dragons (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/68C0nwbmfUVXMGazJRRPM5"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
+<td><b><a href="https://open.spotify.com/track/68C0nwbmfUVXMGazJRRPM5">Head Start</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2015)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp">Bring Me To Life</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="60" height="60" alt="Is This It" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Strokes (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"><img src="https://i.scdn.co/image/ab67616d0000b273604f8ac39f15d287e251f193" width="60" height="60" alt="Don't Kill the Magic" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp">Rude</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">MAGIC! (2014)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/56NcJjokTRvptj7JT7STXC"><img src="https://i.scdn.co/image/ab67616d0000b27322a6542f02b76adac0848f8b" width="60" height="60" alt="Woody Walk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/56NcJjokTRvptj7JT7STXC">Woody Walk</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO"><img src="https://i.scdn.co/image/ab67616d0000b273b76b58c63e4dfc40e55a3bb0" width="60" height="60" alt="The Exum Household" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO">Trap 3 Little Pigs</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4"><img src="https://i.scdn.co/image/ab67616d0000b273cdf16453ba15c8f97644e630" width="60" height="60" alt="Come on!" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4">Come on!</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX"><img src="https://i.scdn.co/image/ab67616d0000b273eb558bedbd91c3c81f5b8210" width="60" height="60" alt="Bassthoven" /></a></td>
-<td><b><a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">Bassthoven</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum, Shawn Wasabi (2020)</span></td>
 </tr>
 </table>
 </div>
