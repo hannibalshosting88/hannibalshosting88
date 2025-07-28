@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/68C0nwbmfUVXMGazJRRPM5"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="150" height="150" alt="Brasshopper" /></a>
+<a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"><img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="150" height="150" alt="Night Visions" /></a>
 
-<b><a href="https://open.spotify.com/track/68C0nwbmfUVXMGazJRRPM5">Head Start</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a">Demons</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Broken Brass (2015)</span>
+<span style="color: #666;">Imagine Dragons (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/68C0nwbmfUVXMGazJRRPM5"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
+<td><b><a href="https://open.spotify.com/track/68C0nwbmfUVXMGazJRRPM5">Head Start</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp">Bring Me To Life</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/56NcJjokTRvptj7JT7STXC"><img src="https://i.scdn.co/image/ab67616d0000b27322a6542f02b76adac0848f8b" width="60" height="60" alt="Woody Walk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/56NcJjokTRvptj7JT7STXC">Woody Walk</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO"><img src="https://i.scdn.co/image/ab67616d0000b273b76b58c63e4dfc40e55a3bb0" width="60" height="60" alt="The Exum Household" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO">Trap 3 Little Pigs</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2019)</span></td>
 </tr>
 </table>
 </div>
