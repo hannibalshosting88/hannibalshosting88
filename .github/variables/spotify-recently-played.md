@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="150" height="150" alt="In Keeping Secrets Of Silent Earth: 3" /></a>
+<a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE"><img src="https://i.scdn.co/image/ab67616d0000b273b898edb5cd07a99820a33050" width="150" height="150" alt="Cyberpunk EP" /></a>
 
-<b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE">FCKD</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Coheed and Cambria (2003)</span>
+<span style="color: #666;">Hyper, Mark Arn (2019)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0aJHZeX4rMCOXpo1LXXfBl"><img src="https://i.scdn.co/image/ab67616d0000b2736b6e2a3e067c42a91fde14da" width="60" height="60" alt="Evangeline vs. The Machine" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0aJHZeX4rMCOXpo1LXXfBl">Hands Of Time</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Eric Church (2025)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"><img src="https://i.scdn.co/image/ab67616d0000b273c16d23f23fbb8145368515f9" width="60" height="60" alt="Beautiful Soul" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS">Beautiful Soul</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jesse McCartney (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7"><img src="https://i.scdn.co/image/ab67616d0000b2735cc5b5a10eaab8bea0206376" width="60" height="60" alt="A Twist In My Story" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7">Fall For You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Secondhand Serenade (2008)</span></td>
 </tr>
 </table>
 </div>
