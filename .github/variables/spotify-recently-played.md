@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="150" height="150" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a>
+<a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="150" height="150" alt="Kamikaze" /></a>
 
-<b><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt">Take A Look Around</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4">Venom - Music From The Motion Picture</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Limp Bizkit (2000)</span>
+<span style="color: #666;">Eminem (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt">Take A Look Around</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0xcGLYbvIiQAcvjRZizdIv"><img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="60" height="60" alt="GET UP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0xcGLYbvIiQAcvjRZizdIv">BATTLE AXE</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2022)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE"><img src="https://i.scdn.co/image/ab67616d0000b273b898edb5cd07a99820a33050" width="60" height="60" alt="Cyberpunk EP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE">FCKD</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper, Mark Arn (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
 </tr>
 </table>
 </div>
