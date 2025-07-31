@@ -22,13 +22,29 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5"><img src="https://i.scdn.co/image/ab67616d0000b273866c0774471b4d4a5129bb83" width="150" height="150" alt="Get Born (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"><img src="https://i.scdn.co/image/ab67616d0000b273cd3978ebe35d93a07249b97f" width="150" height="150" alt="One Of The Boys" /></a>
 
-<b><a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5">Are You Gonna Be My Girl</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9">I Kissed A Girl</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Jet (2003)</span>
+<span style="color: #666;">Katy Perry (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56"><img src="https://i.scdn.co/image/ab67616d0000b2732a327b779d23312c60697ed3" width="60" height="60" alt="Your New Morning Alarm" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56">Your New Morning Alarm</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marc Rebillet (2023)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5mnAnW0sYLKj5ixIuYZgRU"><img src="https://i.scdn.co/image/ab67616d0000b273c1caa4b5400d7452375d5bbd" width="60" height="60" alt="Joy" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5mnAnW0sYLKj5ixIuYZgRU">Rock Me Amadeus</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Amadeus (2020)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd"><img src="https://i.scdn.co/image/ab67616d0000b27316d9cd79b60c6062036bfadc" width="60" height="60" alt="Jordan Belfort" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd">Jordan Belfort</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Wes Walker, Dyl (2015)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5"><img src="https://i.scdn.co/image/ab67616d0000b273866c0774471b4d4a5129bb83" width="60" height="60" alt="Get Born (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5">Are You Gonna Be My Girl</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jet (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="60" height="60" alt="INSANO (NITRO MEGA)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5zJc7HaHSABElZcL4WT3By">WIN OR LOSE (feat. Chip Tha Ripper)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, Chip Tha Ripper (2024)</span></td>
@@ -52,22 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="60" height="60" alt="A Little Bit of Mambo" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lou Bega (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"><img src="https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f" width="60" height="60" alt="METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB">Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metro Boomin, Swae Lee, Lil Wayne, Offset (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass, Ruben Hein (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4uM83YX23YN8VDhZfxyop9"><img src="https://i.scdn.co/image/ab67616d0000b27377763526db121b0eb18b2eb3" width="60" height="60" alt="Cardboard Castles" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4uM83YX23YN8VDhZfxyop9">Sloppy Seconds</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"><img src="https://i.scdn.co/image/ab67616d0000b27334cbf7013afccc7df67fa43f" width="60" height="60" alt="Blur: The Best Of" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK">Song 2</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Blur (2000)</span></td>
 </tr>
 </table>
 </div>
