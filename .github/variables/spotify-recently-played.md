@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"><img src="https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f" width="150" height="150" alt="METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)" /></a>
+<a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="150" height="150" alt="A Little Bit of Mambo" /></a>
 
-<b><a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB">Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Metro Boomin, Swae Lee, Lil Wayne, Offset (2023)</span>
+<span style="color: #666;">Lou Bega (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"><img src="https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f" width="60" height="60" alt="METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB">Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metro Boomin, Swae Lee, Lil Wayne, Offset (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass, Ruben Hein (2015)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="60" height="60" alt="Kamikaze" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4">Venom - Music From The Motion Picture</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt">Take A Look Around</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
 </tr>
 </table>
 </div>
