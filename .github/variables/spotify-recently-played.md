@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"><img src="https://i.scdn.co/image/ab67616d0000b2732b222dcd5c4fcac7c0e81da2" width="150" height="150" alt="The Sickness" /></a>
+<a href="https://open.spotify.com/track/6DzJEJWgB01jimMAemKxfn"><img src="https://i.scdn.co/image/ab67616d0000b273e61b7557ae9fde3f23f5efa9" width="150" height="150" alt="Valley of the Damned (2010 Remastered Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v">Down with the Sickness</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6DzJEJWgB01jimMAemKxfn">Valley of the Damned - 2010 Remastered Edition</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Disturbed (2000)</span>
+<span style="color: #666;">DragonForce (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"><img src="https://i.scdn.co/image/ab67616d0000b2732b222dcd5c4fcac7c0e81da2" width="60" height="60" alt="The Sickness" /></a></td>
+<td><b><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v">Down with the Sickness</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Disturbed (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"><img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" width="60" height="60" alt="Aftermath" /></a></td>
 <td><b><a href="https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8">Paint It, Black</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Rolling Stones (1966)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/497nos7LG28Sv5b24P2fW7"><img src="https://i.scdn.co/image/ab67616d0000b2734124006ed30cce44b73ba44a" width="60" height="60" alt="Sinking Ship" /></a></td>
 <td><b><a href="https://open.spotify.com/track/497nos7LG28Sv5b24P2fW7">Sinking Ship</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"><img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" width="60" height="60" alt="Blurryface" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4">Tear in My Heart</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Twenty One Pilots (2015)</span></td>
 </tr>
 </table>
 </div>
