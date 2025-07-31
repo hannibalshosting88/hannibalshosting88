@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"><img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" width="150" height="150" alt="Katrina & The Waves" /></a>
+<a href="https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"><img src="https://i.scdn.co/image/ab67616d0000b27334cbf7013afccc7df67fa43f" width="150" height="150" alt="Blur: The Best Of" /></a>
 
-<b><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0">Walking On Sunshine</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK">Song 2</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Katrina & The Waves (1985)</span>
+<span style="color: #666;">Blur (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"><img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" width="60" height="60" alt="Katrina & The Waves" /></a></td>
+<td><b><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0">Walking On Sunshine</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Katrina & The Waves (1985)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3cSuhzV7wKX5diQ8hos78P"><img src="https://i.scdn.co/image/ab67616d0000b273cad1e37b4b31b5484325acd3" width="60" height="60" alt="We Are Young Money" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3cSuhzV7wKX5diQ8hos78P">Steady Mobbin</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Young Money, Gucci Mane (2009)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"><img src="https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5" width="60" height="60" alt="2001" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC">The Next Episode</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Dr. Dre, Snoop Dogg (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"><img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="60" height="60" alt="Night Visions" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a">Demons</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2012)</span></td>
 </tr>
 </table>
 </div>
