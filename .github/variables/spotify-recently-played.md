@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"><img src="https://i.scdn.co/image/ab67616d0000b27334cbf7013afccc7df67fa43f" width="150" height="150" alt="Blur: The Best Of" /></a>
+<a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="150" height="150" alt="Brasshopper" /></a>
 
-<b><a href="https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK">Song 2</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Blur (2000)</span>
+<span style="color: #666;">Broken Brass, Ruben Hein (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4uM83YX23YN8VDhZfxyop9"><img src="https://i.scdn.co/image/ab67616d0000b27377763526db121b0eb18b2eb3" width="60" height="60" alt="Cardboard Castles" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4uM83YX23YN8VDhZfxyop9">Sloppy Seconds</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2013)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"><img src="https://i.scdn.co/image/ab67616d0000b27334cbf7013afccc7df67fa43f" width="60" height="60" alt="Blur: The Best Of" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK">Song 2</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Blur (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"><img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" width="60" height="60" alt="Katrina & The Waves" /></a></td>
 <td><b><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0">Walking On Sunshine</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Katrina & The Waves (1985)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0xcGLYbvIiQAcvjRZizdIv"><img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="60" height="60" alt="GET UP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0xcGLYbvIiQAcvjRZizdIv">BATTLE AXE</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="60" height="60" alt="Graduation" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"><img src="https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5" width="60" height="60" alt="2001" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC">The Next Episode</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Dr. Dre, Snoop Dogg (1999)</span></td>
 </tr>
 </table>
 </div>
