@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"><img src="https://i.scdn.co/image/ab67616d0000b273e122d21b6026da241cd33997" width="150" height="150" alt="Bobby Darin" /></a>
+<a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"><img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" width="150" height="150" alt="Voices" /></a>
 
-<b><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG">Splish Splash</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk">You Make My Dreams (Come True)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Bobby Darin (1958)</span>
+<span style="color: #666;">Daryl Hall & John Oates (1980)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"><img src="https://i.scdn.co/image/ab67616d0000b273e122d21b6026da241cd33997" width="60" height="60" alt="Bobby Darin" /></a></td>
+<td><b><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG">Splish Splash</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bobby Darin (1958)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG"><img src="https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94" width="60" height="60" alt="One of These Nights (2013 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">Journey of the Sorcerer - 2013 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Eagles (1975)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd"><img src="https://i.scdn.co/image/ab67616d0000b27316d9cd79b60c6062036bfadc" width="60" height="60" alt="Jordan Belfort" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd">Jordan Belfort</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Wes Walker, Dyl (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5"><img src="https://i.scdn.co/image/ab67616d0000b273866c0774471b4d4a5129bb83" width="60" height="60" alt="Get Born (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5">Are You Gonna Be My Girl</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jet (2003)</span></td>
 </tr>
 </table>
 </div>
