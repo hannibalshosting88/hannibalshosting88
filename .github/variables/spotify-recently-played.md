@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK"><img src="https://i.scdn.co/image/ab67616d0000b273e59abdd41c728e2745b0e715" width="150" height="150" alt="Mindwalkers" /></a>
+<a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"><img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="150" height="150" alt="Americana" /></a>
 
-<b><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK">Mindwalkers</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">The Kids Aren't Alright</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Psygnals (2023)</span>
+<span style="color: #666;">The Offspring (1998)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2gsNpSn7VvvJuSrIDfRoYy"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="60" height="60" alt="Kamikaze" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2gsNpSn7VvvJuSrIDfRoYy">Kamikaze</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK"><img src="https://i.scdn.co/image/ab67616d0000b273e59abdd41c728e2745b0e715" width="60" height="60" alt="Mindwalkers" /></a></td>
+<td><b><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK">Mindwalkers</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN">Chop Suey!</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG"><img src="https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94" width="60" height="60" alt="One of These Nights (2013 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">Journey of the Sorcerer - 2013 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Eagles (1975)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="60" height="60" alt="Hypnotize" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"><img src="https://i.scdn.co/image/ab67616d0000b273a69f71a8794e2d867a52f98f" width="60" height="60" alt="Elephant" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">Seven Nation Army</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The White Stripes (2003)</span></td>
 </tr>
 </table>
 </div>
