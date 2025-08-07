@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6VefT0jLDsYCQtlVFhPkic"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="150" height="150" alt="Unearthed" /></a>
+<a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc"><img src="https://i.scdn.co/image/ab67616d0000b2739c42c35d57212a5920c42f6c" width="150" height="150" alt="Fight With Tools" /></a>
 
-<b><a href="https://open.spotify.com/track/6VefT0jLDsYCQtlVFhPkic">Long Black Veil</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">Handlebars</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Johnny Cash (2003)</span>
+<span style="color: #666;">Flobots (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6VefT0jLDsYCQtlVFhPkic"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="60" height="60" alt="Unearthed" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6VefT0jLDsYCQtlVFhPkic">Long Black Veil</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"><img src="https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d" width="60" height="60" alt="Pablo Honey" /></a></td>
 <td><b><a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r">Creep</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Radiohead (1993)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN">Chop Suey!</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ"><img src="https://i.scdn.co/image/ab67616d0000b2737583749302de0d090a055381" width="60" height="60" alt="9Circles" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ">9Circles</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
 </tr>
 </table>
 </div>
