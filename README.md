@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"><img src="https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d" width="150" height="150" alt="Pablo Honey" /></a>
+<a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc"><img src="https://i.scdn.co/image/ab67616d0000b2739c42c35d57212a5920c42f6c" width="150" height="150" alt="Fight With Tools" /></a>
 
-<b><a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r">Creep</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">Handlebars</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Radiohead (1993)</span>
+<span style="color: #666;">Flobots (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6VefT0jLDsYCQtlVFhPkic"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="60" height="60" alt="Unearthed" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6VefT0jLDsYCQtlVFhPkic">Long Black Veil</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2003)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"><img src="https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d" width="60" height="60" alt="Pablo Honey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r">Creep</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Radiohead (1993)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="60" height="60" alt="The Lion King" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8">Circle of Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Carmen Twillie, Lebo M. (1994)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN">Chop Suey!</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ"><img src="https://i.scdn.co/image/ab67616d0000b2737583749302de0d090a055381" width="60" height="60" alt="9Circles" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ">9Circles</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"><img src="https://i.scdn.co/image/ab67616d0000b2733af62364692dcf47b6e2c1d5" width="60" height="60" alt="El Sapo" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb">La Bomba</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Azul Azul (2000)</span></td>
 </tr>
 </table>
 </div>
