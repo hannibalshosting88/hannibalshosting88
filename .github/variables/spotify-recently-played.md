@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc"><img src="https://i.scdn.co/image/ab67616d0000b2739c42c35d57212a5920c42f6c" width="150" height="150" alt="Fight With Tools" /></a>
+<a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"><img src="https://i.scdn.co/image/ab67616d0000b27349573d027983b1423b238773" width="150" height="150" alt="OK ORCHESTRA" /></a>
 
-<b><a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">Handlebars</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World's Smallest Violin</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Flobots (2008)</span>
+<span style="color: #666;">AJR (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc"><img src="https://i.scdn.co/image/ab67616d0000b2739c42c35d57212a5920c42f6c" width="60" height="60" alt="Fight With Tools" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">Handlebars</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Flobots (2008)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6VefT0jLDsYCQtlVFhPkic"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="60" height="60" alt="Unearthed" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6VefT0jLDsYCQtlVFhPkic">Long Black Veil</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2003)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK"><img src="https://i.scdn.co/image/ab67616d0000b273e59abdd41c728e2745b0e715" width="60" height="60" alt="Mindwalkers" /></a></td>
 <td><b><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK">Mindwalkers</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN">Chop Suey!</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
 </tr>
 </table>
 </div>
