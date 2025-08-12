@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"><img src="https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7" width="150" height="150" alt="Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)" /></a>
+<a href="https://open.spotify.com/track/4dcUque6026WExzwJYWG7H"><img src="https://i.scdn.co/image/ab67616d0000b273a9250e237a834437fa7d8739" width="150" height="150" alt="Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness" /></a>
 
-<b><a href="https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI">Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4dcUque6026WExzwJYWG7H">The Suffering</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Wyclef Jean, Ms. Lauryn Hill, Celia Cruz, Jeni Fujita (1997)</span>
+<span style="color: #666;">Coheed and Cambria (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"><img src="https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7" width="60" height="60" alt="Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI">Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Wyclef Jean, Ms. Lauryn Hill, Celia Cruz, Jeni Fujita (1997)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"><img src="https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7" width="60" height="60" alt="Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI">Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Wyclef Jean, Ms. Lauryn Hill, Celia Cruz, Jeni Fujita (1997)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"><img src="https://i.scdn.co/image/ab67616d0000b273fe3a12c23f04549cef0fbe84" width="60" height="60" alt="A 20 Something Fuck" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1">I Feel Like I'm Drowning</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7iEAXxrT1jn6AVa6hLRZ7m"><img src="https://i.scdn.co/image/ab67616d0000b2739f5c2a5bdc4a8030e3997d6e" width="60" height="60" alt="Warp Speed Warriors" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7iEAXxrT1jn6AVa6hLRZ7m">Power of the Triforce</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DragonForce (2024)</span></td>
 </tr>
 </table>
 </div>
