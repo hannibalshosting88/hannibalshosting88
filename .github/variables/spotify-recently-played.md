@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/59vLdGpgNy142mI9258pv8"><img src="https://i.scdn.co/image/ab67616d0000b273b05549005cd6596966a74824" width="150" height="150" alt="Leo Metal, Vol. 31" /></a>
+<a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"><img src="https://i.scdn.co/image/ab67616d0000b27311b3df35e2e46d91f585afd9" width="150" height="150" alt="This Is All Yours" /></a>
 
-<b><a href="https://open.spotify.com/track/59vLdGpgNy142mI9258pv8">WAP (Metal Version)</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN">Left Hand Free</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Leo (2020)</span>
+<span style="color: #666;">alt-J (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/59vLdGpgNy142mI9258pv8"><img src="https://i.scdn.co/image/ab67616d0000b273b05549005cd6596966a74824" width="60" height="60" alt="Leo Metal, Vol. 31" /></a></td>
+<td><b><a href="https://open.spotify.com/track/59vLdGpgNy142mI9258pv8">WAP (Metal Version)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Leo (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"><img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" width="60" height="60" alt="Hot Fuss" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v">Somebody Told Me</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Killers (2004)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6VefT0jLDsYCQtlVFhPkic"><img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="60" height="60" alt="Unearthed" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6VefT0jLDsYCQtlVFhPkic">Long Black Veil</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"><img src="https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d" width="60" height="60" alt="Pablo Honey" /></a></td>
-<td><b><a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r">Creep</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Radiohead (1993)</span></td>
 </tr>
 </table>
 </div>
