@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq"><img src="https://i.scdn.co/image/ab67616d0000b273dfd165103fba4a50789afc91" width="150" height="150" alt="Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"><img src="https://i.scdn.co/image/ab67616d0000b2733c2579a4f8cacd5b95b8fa68" width="150" height="150" alt="The Battle Of Los Angeles" /></a>
 
-<b><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq">Anakin vs. Obi-Wan</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk">Testify</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">John Williams, London Symphony Orchestra (2005)</span>
+<span style="color: #666;">Rage Against The Machine (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"><img src="https://i.scdn.co/image/ab67616d0000b2736a21b97de47168df4f0c1993" width="60" height="60" alt="El Camino" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1">Gold on the Ceiling</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Black Keys (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq"><img src="https://i.scdn.co/image/ab67616d0000b273dfd165103fba4a50789afc91" width="60" height="60" alt="Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq">Anakin vs. Obi-Wan</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">John Williams, London Symphony Orchestra (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0HPO4omVPNcTEIUe9FgBwY"><img src="https://i.scdn.co/image/ab67616d0000b2730fdc1dac24c105de35a522cb" width="60" height="60" alt="Live in Chattanooga" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0HPO4omVPNcTEIUe9FgBwY">Fuck the Po-Po - Live</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Corey Smith (2012)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"><img src="https://i.scdn.co/image/ab67616d0000b27311b3df35e2e46d91f585afd9" width="60" height="60" alt="This Is All Yours" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN">Left Hand Free</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">alt-J (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/59vLdGpgNy142mI9258pv8"><img src="https://i.scdn.co/image/ab67616d0000b273b05549005cd6596966a74824" width="60" height="60" alt="Leo Metal, Vol. 31" /></a></td>
-<td><b><a href="https://open.spotify.com/track/59vLdGpgNy142mI9258pv8">WAP (Metal Version)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Leo (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"><img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" width="60" height="60" alt="Hot Fuss" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v">Somebody Told Me</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Killers (2004)</span></td>
 </tr>
 </table>
 </div>
