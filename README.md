@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"><img src="https://i.scdn.co/image/ab67616d0000b2733c2579a4f8cacd5b95b8fa68" width="150" height="150" alt="The Battle Of Los Angeles" /></a>
+<a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"><img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" width="150" height="150" alt="Diana Ross Presents The Jackson 5" /></a>
 
-<b><a href="https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk">Testify</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S">I Want You Back</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Rage Against The Machine (1999)</span>
+<span style="color: #666;">The Jackson 5 (1969)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"><img src="https://i.scdn.co/image/ab67616d0000b2733c2579a4f8cacd5b95b8fa68" width="60" height="60" alt="The Battle Of Los Angeles" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk">Testify</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rage Against The Machine (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"><img src="https://i.scdn.co/image/ab67616d0000b2736a21b97de47168df4f0c1993" width="60" height="60" alt="El Camino" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1">Gold on the Ceiling</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Black Keys (2011)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0"><img src="https://i.scdn.co/image/ab67616d0000b27369093fb84e986e05679a9869" width="60" height="60" alt="Graham Central Station" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0">Hair</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Graham Central Station (1973)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"><img src="https://i.scdn.co/image/ab67616d0000b27311b3df35e2e46d91f585afd9" width="60" height="60" alt="This Is All Yours" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN">Left Hand Free</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">alt-J (2014)</span></td>
 </tr>
 </table>
 </div>
