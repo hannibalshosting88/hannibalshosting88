@@ -6,7 +6,7 @@
 
 <a href="https://open.spotify.com/track/10WlYJJ6dOEfrbplErVMqv"><img src="https://i.scdn.co/image/ab67616d0000b27391d74c93fda62ae2682e67be" width="150" height="150" alt="Good Morning U.S.A. (From "American Dad!"/Main Title Theme)" /></a>
 
-<b><a href="https://open.spotify.com/track/10WlYJJ6dOEfrbplErVMqv">Good Morning U.S.A. - From "American Dad!"/Main Title Theme</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/10WlYJJ6dOEfrbplErVMqv">Good Morning U.S.A. - From "American Dad!"/Main Title Theme</a></b><span style="color: gold;"> ★★</span>
 
 <span style="color: #666;">American Dad! Cast (2005)</span>
 
