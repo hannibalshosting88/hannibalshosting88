@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/10WlYJJ6dOEfrbplErVMqv"><img src="https://i.scdn.co/image/ab67616d0000b27391d74c93fda62ae2682e67be" width="150" height="150" alt="Good Morning U.S.A. (From "American Dad!"/Main Title Theme)" /></a>
+<a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"><img src="https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53" width="150" height="150" alt="The Anthology" /></a>
 
-<b><a href="https://open.spotify.com/track/10WlYJJ6dOEfrbplErVMqv">Good Morning U.S.A. - From "American Dad!"/Main Title Theme</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">Electric Relaxation</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">American Dad! Cast (2005)</span>
+<span style="color: #666;">A Tribe Called Quest (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"><img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" width="60" height="60" alt="Diana Ross Presents The Jackson 5" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S">I Want You Back</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Jackson 5 (1969)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"><img src="https://i.scdn.co/image/ab67616d0000b27339808230102049beb62fdd7b" width="60" height="60" alt="Ain't No Love In Oklahoma (From Twisters: The Album)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">Ain't No Love In Oklahoma (From Twisters: The Album)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Luke Combs (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"><img src="https://i.scdn.co/image/ab67616d0000b2733c2579a4f8cacd5b95b8fa68" width="60" height="60" alt="The Battle Of Los Angeles" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk">Testify</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rage Against The Machine (1999)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"><img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" width="60" height="60" alt="Doo-Wops & Hooligans" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS">The Lazy Song</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2010)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"><img src="https://i.scdn.co/image/ab67616d0000b2736a21b97de47168df4f0c1993" width="60" height="60" alt="El Camino" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1">Gold on the Ceiling</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Black Keys (2011)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5">Boomerang</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq"><img src="https://i.scdn.co/image/ab67616d0000b273dfd165103fba4a50789afc91" width="60" height="60" alt="Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq">Anakin vs. Obi-Wan</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">John Williams, London Symphony Orchestra (2005)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI"><img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="60" height="60" alt="Times Square" /></a></td>
+<td><b><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don't Wait</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2023)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0HPO4omVPNcTEIUe9FgBwY"><img src="https://i.scdn.co/image/ab67616d0000b2730fdc1dac24c105de35a522cb" width="60" height="60" alt="Live in Chattanooga" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0HPO4omVPNcTEIUe9FgBwY">Fuck the Po-Po - Live</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Corey Smith (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf"><img src="https://i.scdn.co/image/ab67616d0000b273f485a27298fbd17d868f7565" width="60" height="60" alt="A Crow Left Of The Murder..." /></a></td>
+<td><b><a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">Sick Sad Little World</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2004)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"><img src="https://i.scdn.co/image/ab67616d0000b273e207a14471e5356294146e9d" width="60" height="60" alt="All Or Nothing" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE">Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jay Sean, Lil Wayne (2009)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5BCauVWQQ9IDbtVn2C7o3k"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="60" height="60" alt="Galactic Empire" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5BCauVWQQ9IDbtVn2C7o3k">The Imperial March</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2017)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG"><img src="https://i.scdn.co/image/ab67616d0000b273d9c7516258eb58d793d49e2e" width="60" height="60" alt="I Wanna Get Better" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG">I Wanna Get Better</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bleachers (2014)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"><img src="https://i.scdn.co/image/ab67616d0000b2731bf5cfb4ddbbd12b4c1297e5" width="60" height="60" alt="Fear of the Dark (2015 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Iron Maiden (1992)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY"><img src="https://i.scdn.co/image/ab67616d0000b27349440f89d229d070b504be74" width="60" height="60" alt="Sickology 101" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY">Dysfunctional</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Tech N9ne Collabos (2009)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"><img src="https://i.scdn.co/image/ab67616d0000b273a496dc8c33ca6d10668b3157" width="60" height="60" alt="Berry Is On Top" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2">Johnny B. Goode</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chuck Berry (1959)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5j7gLuOsBOyqooruGxX4nx"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5j7gLuOsBOyqooruGxX4nx">Taking Over Me</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo"><img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" width="60" height="60" alt="Overexposed (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo">One More Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Maroon 5 (2012)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">Scott Mescudi Vs. The World</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, CeeLo Green (2010)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ"><img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" width="60" height="60" alt="Elephunk" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ">Where Is The Love?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2003)</span></td>
 </tr>
 </table>
 </div>
