@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/48ebD1GIO56qH8nYBLWQna"><img src="https://i.scdn.co/image/ab67616d0000b273aaecbc943b8593a1233b98c5" width="150" height="150" alt="XXL" /></a>
+<a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="150" height="150" alt="Invaders Must Die" /></a>
 
-<b><a href="https://open.spotify.com/track/48ebD1GIO56qH8nYBLWQna">The Jazz Police</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Gordon Goodwin's Big Phat Band (2003)</span>
+<span style="color: #666;">The Prodigy (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/48ebD1GIO56qH8nYBLWQna"><img src="https://i.scdn.co/image/ab67616d0000b273aaecbc943b8593a1233b98c5" width="60" height="60" alt="XXL" /></a></td>
+<td><b><a href="https://open.spotify.com/track/48ebD1GIO56qH8nYBLWQna">The Jazz Police</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Gordon Goodwin's Big Phat Band (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"><img src="https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53" width="60" height="60" alt="The Anthology" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">Electric Relaxation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">A Tribe Called Quest (1999)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"><img src="https://i.scdn.co/image/ab67616d0000b273a496dc8c33ca6d10668b3157" width="60" height="60" alt="Berry Is On Top" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2">Johnny B. Goode</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chuck Berry (1959)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo"><img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" width="60" height="60" alt="Overexposed (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo">One More Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Maroon 5 (2012)</span></td>
 </tr>
 </table>
 </div>
