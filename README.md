@@ -22,13 +22,33 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="150" height="150" alt="Invaders Must Die" /></a>
+<a href="https://open.spotify.com/track/63OHQ5zebkOIllF9O3372c"><img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" width="150" height="150" alt="The Muppets (Original Motion Picture Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/63OHQ5zebkOIllF9O3372c">Life's A Happy Song</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">The Prodigy (2009)</span>
+<span style="color: #666;">Mickey Rooney, Feist, Amy Adams, Jason Segel, Walter (2011)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/63OHQ5zebkOIllF9O3372c"><img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" width="60" height="60" alt="The Muppets (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/63OHQ5zebkOIllF9O3372c">Life's A Happy Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mickey Rooney, Feist, Amy Adams, Jason Segel, Walter (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1mxnywNGNeSYvMQdNJ4Fy7"><img src="https://i.scdn.co/image/ab67616d0000b273e8b83a879e062cdc0d0aef39" width="60" height="60" alt="Muppets: The Green Album" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1mxnywNGNeSYvMQdNJ4Fy7">Mahna Mahna</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">The Fray (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2fFnUnsRZ11zSqJoZalmxq"><img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" width="60" height="60" alt="The Muppets (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2fFnUnsRZ11zSqJoZalmxq">The Muppet Show Theme</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Muppets, Joanna Newsom (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB"><img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" width="60" height="60" alt="The Muppets (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB">Man Or Muppet</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jason Segel, Walter (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="60" height="60" alt="Invaders Must Die" /></a></td>
+<td><b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/48ebD1GIO56qH8nYBLWQna"><img src="https://i.scdn.co/image/ab67616d0000b273aaecbc943b8593a1233b98c5" width="60" height="60" alt="XXL" /></a></td>
 <td><b><a href="https://open.spotify.com/track/48ebD1GIO56qH8nYBLWQna">The Jazz Police</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Gordon Goodwin's Big Phat Band (2003)</span></td>
@@ -48,26 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5">Boomerang</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI"><img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="60" height="60" alt="Times Square" /></a></td>
-<td><b><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don't Wait</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf"><img src="https://i.scdn.co/image/ab67616d0000b273f485a27298fbd17d868f7565" width="60" height="60" alt="A Crow Left Of The Murder..." /></a></td>
-<td><b><a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">Sick Sad Little World</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5BCauVWQQ9IDbtVn2C7o3k"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="60" height="60" alt="Galactic Empire" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5BCauVWQQ9IDbtVn2C7o3k">The Imperial March</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"><img src="https://i.scdn.co/image/ab67616d0000b2731bf5cfb4ddbbd12b4c1297e5" width="60" height="60" alt="Fear of the Dark (2015 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Iron Maiden (1992)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"><img src="https://i.scdn.co/image/ab67616d0000b273a496dc8c33ca6d10668b3157" width="60" height="60" alt="Berry Is On Top" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2">Johnny B. Goode</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chuck Berry (1959)</span></td>
 </tr>
 </table>
 </div>
