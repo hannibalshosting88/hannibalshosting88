@@ -34,6 +34,10 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <td><b><a href="https://open.spotify.com/track/63OHQ5zebkOIllF9O3372c">Life's A Happy Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mickey Rooney, Feist, Amy Adams, Jason Segel, Walter (2011)</span></td>
 </tr>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/63OHQ5zebkOIllF9O3372c"><img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" width="60" height="60" alt="The Muppets (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/63OHQ5zebkOIllF9O3372c">Life's A Happy Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mickey Rooney, Feist, Amy Adams, Jason Segel, Walter (2011)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/1mxnywNGNeSYvMQdNJ4Fy7"><img src="https://i.scdn.co/image/ab67616d0000b273e8b83a879e062cdc0d0aef39" width="60" height="60" alt="Muppets: The Green Album" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1mxnywNGNeSYvMQdNJ4Fy7">Mahna Mahna</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">The Fray (2011)</span></td>
 </tr>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"><img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" width="60" height="60" alt="Doo-Wops & Hooligans" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS">The Lazy Song</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5">Boomerang</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
 </tr>
 </table>
 </div>
