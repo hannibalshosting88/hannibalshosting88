@@ -34,6 +34,10 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <td><b><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v">Down with the Sickness</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Disturbed (2000)</span></td>
 </tr>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"><img src="https://i.scdn.co/image/ab67616d0000b2732b222dcd5c4fcac7c0e81da2" width="60" height="60" alt="The Sickness" /></a></td>
+<td><b><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v">Down with the Sickness</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Disturbed (2000)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/1XxRYmDKuABtbtCozx3pA2"><img src="https://i.scdn.co/image/ab67616d0000b273f9a22792e0a707a36f8e187f" width="60" height="60" alt="Good Times! (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1XxRYmDKuABtbtCozx3pA2">Me & Magdalena</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Monkees (2016)</span></td>
 </tr>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou"><img src="https://i.scdn.co/image/ab67616d0000b273e9a18c4792e88f34bd17bbaf" width="60" height="60" alt="Riot On An Empty Street" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou">Homesick</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kings of Convenience (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1DrirX7vAJMDAoz37ZbSeA"><img src="https://i.scdn.co/image/ab67616d0000b27344a8aa7ac5c2e2defbfd702b" width="60" height="60" alt="Sounds Of Silence" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1DrirX7vAJMDAoz37ZbSeA">Leaves That Are Green</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Simon & Garfunkel (1966)</span></td>
 </tr>
 </table>
 </div>
