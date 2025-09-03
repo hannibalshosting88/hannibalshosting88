@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"><img src="https://i.scdn.co/image/ab67616d0000b2732b222dcd5c4fcac7c0e81da2" width="150" height="150" alt="The Sickness" /></a>
+<a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"><img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" width="150" height="150" alt="Katrina & The Waves" /></a>
 
-<b><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v">Down with the Sickness</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0">Walking On Sunshine</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Disturbed (2000)</span>
+<span style="color: #666;">Katrina & The Waves (1985)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"><img src="https://i.scdn.co/image/ab67616d0000b2732b222dcd5c4fcac7c0e81da2" width="60" height="60" alt="The Sickness" /></a></td>
+<td><b><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v">Down with the Sickness</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Disturbed (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"><img src="https://i.scdn.co/image/ab67616d0000b2732b222dcd5c4fcac7c0e81da2" width="60" height="60" alt="The Sickness" /></a></td>
 <td><b><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v">Down with the Sickness</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Disturbed (2000)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0dzbfio3qTYG9uk40SJNcr"><img src="https://i.scdn.co/image/ab67616d0000b273fb107b5a07df183f1836d9cb" width="60" height="60" alt="Parsley, Sage, Rosemary And Thyme" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0dzbfio3qTYG9uk40SJNcr">The 59th Street Bridge Song (Feelin' Groovy)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Simon & Garfunkel (1966)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/51FeytYQARk2UoFCDBZ3RG"><img src="https://i.scdn.co/image/ab67616d0000b2734bbad2e5c0f436dcfa1480fb" width="60" height="60" alt="A Summer Song" /></a></td>
-<td><b><a href="https://open.spotify.com/track/51FeytYQARk2UoFCDBZ3RG">A Summer Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Chad & Jeremy (1965)</span></td>
 </tr>
 </table>
 </div>
