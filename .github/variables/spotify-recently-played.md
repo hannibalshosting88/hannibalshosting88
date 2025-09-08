@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"><img src="https://i.scdn.co/image/ab67616d0000b273d3e0bbf8ae9add83ee42d9cf" width="150" height="150" alt="Revenge" /></a>
+<a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"><img src="https://i.scdn.co/image/ab67616d0000b27304422c5d997bfa6c750a12f1" width="150" height="150" alt="Wolfmother" /></a>
 
-<b><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n">Domino</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa">Joker And The Thief</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">KISS (1992)</span>
+<span style="color: #666;">Wolfmother (2006)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"><img src="https://i.scdn.co/image/ab67616d0000b273d3e0bbf8ae9add83ee42d9cf" width="60" height="60" alt="Revenge" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n">Domino</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">KISS (1992)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"><img src="https://i.scdn.co/image/ab67616d0000b273d3e0bbf8ae9add83ee42d9cf" width="60" height="60" alt="Revenge" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n">Domino</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">KISS (1992)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2OiiuuLFGgoj73vd1gJ8Wa"><img src="https://i.scdn.co/image/ab67616d0000b2738378a7f212e7b5ad9a47bb1d" width="60" height="60" alt="Guard Dog" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2OiiuuLFGgoj73vd1gJ8Wa">Walk Me Home</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Searows (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87"><img src="https://i.scdn.co/image/ab67616d0000b2731b294adabd6d71954413e1a7" width="60" height="60" alt="Year In The Kingdom" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87">Howling Light</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">J. Tillman (2009)</span></td>
 </tr>
 </table>
 </div>
