@@ -4,13 +4,25 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="150" height="150" alt="Doom (Original Game Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"><img src="https://i.scdn.co/image/ab67616d0000b2736c52084ed1f1748f213783b3" width="150" height="150" alt="There Is Nothing Left To Lose" /></a>
 
-<b><a href="https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P">Rip & Tear</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT">Learn to Fly</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Mick Gordon (2016)</span>
+<span style="color: #666;">Foo Fighters (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"><img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="60" height="60" alt="Nevermind (Remastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7">Lithium</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nirvana (1991)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r"><img src="https://i.scdn.co/image/ab67616d0000b273385b6c04e953808acf3964ec" width="60" height="60" alt="Never Land" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">You Can't Stop Me</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andy Mineo (2014)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P">Rip & Tear</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"><img src="https://i.scdn.co/image/ab67616d0000b27359a1132f3cab22f80b2d2777" width="60" height="60" alt="Hell: The Sequel (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig">Fast Lane</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Meets Evil (2011)</span></td>
@@ -38,18 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2xrRBqEanoBaA0tOgYy18V"><img src="https://i.scdn.co/image/ab67616d0000b2739f613468da45d75bac9cb546" width="60" height="60" alt="The Hands That Thieve" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2xrRBqEanoBaA0tOgYy18V">The Three of Us</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Streetlight Manifesto (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"><img src="https://i.scdn.co/image/ab67616d0000b27304422c5d997bfa6c750a12f1" width="60" height="60" alt="Wolfmother" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa">Joker And The Thief</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Wolfmother (2006)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"><img src="https://i.scdn.co/image/ab67616d0000b273d3e0bbf8ae9add83ee42d9cf" width="60" height="60" alt="Revenge" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n">Domino</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">KISS (1992)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"><img src="https://i.scdn.co/image/ab67616d0000b273d3e0bbf8ae9add83ee42d9cf" width="60" height="60" alt="Revenge" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n">Domino</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">KISS (1992)</span></td>
 </tr>
 </table>
 </div>
