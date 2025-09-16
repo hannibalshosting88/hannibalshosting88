@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"><img src="https://i.scdn.co/image/ab67616d0000b2736c52084ed1f1748f213783b3" width="150" height="150" alt="There Is Nothing Left To Lose" /></a>
+<a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"><img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" width="150" height="150" alt="My Beautiful Dark Twisted Fantasy" /></a>
 
-<b><a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT">Learn to Fly</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds">Runaway</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Foo Fighters (1999)</span>
+<span style="color: #666;">Kanye West, Pusha T (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"><img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="60" height="60" alt="Nevermind (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7">Lithium</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nirvana (1991)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">No Warm Up</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r"><img src="https://i.scdn.co/image/ab67616d0000b273385b6c04e953808acf3964ec" width="60" height="60" alt="Never Land" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">You Can't Stop Me</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andy Mineo (2014)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO"><img src="https://i.scdn.co/image/ab67616d0000b273b76b58c63e4dfc40e55a3bb0" width="60" height="60" alt="The Exum Household" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO">Trap 3 Little Pigs</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum (2019)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P">Rip & Tear</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0i7iKf20LYEqAlHkUWn8oD"><img src="https://i.scdn.co/image/ab67616d0000b2737eb2a5fd42c0fc0cfae1fee3" width="60" height="60" alt="Start a War" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0i7iKf20LYEqAlHkUWn8oD">War Machine</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Entropy Zero, Cliff Lin (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"><img src="https://i.scdn.co/image/ab67616d0000b27359a1132f3cab22f80b2d2777" width="60" height="60" alt="Hell: The Sequel (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig">Fast Lane</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Meets Evil (2011)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/50gP4chKGGnfW84nhrXW64"><img src="https://i.scdn.co/image/ab67616d0000b273a753256f56abf3382f7b65a1" width="60" height="60" alt="Tears Of Blood <<3FOOLZ MIXX>> #BLXXDMONEYKREW" /></a></td>
+<td><b><a href="https://open.spotify.com/track/50gP4chKGGnfW84nhrXW64">Tears Of Blood <<3FOOLZ MIXX>> #BLXXDMONEYKREW</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">lowgoldjay x 3foolz (2022)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"><img src="https://i.scdn.co/image/ab67616d0000b27320292e6cce666a69ba5a86fb" width="60" height="60" alt="Kill 'Em All (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">Seek & Destroy (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1983)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5p8WbMGPsP2TmcsInVn44u"><img src="https://i.scdn.co/image/ab67616d0000b2734beb66f56871bbde37f6892d" width="60" height="60" alt="Sad Clown Bad Year (#9-#12 Collection)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5p8WbMGPsP2TmcsInVn44u">Sunshine</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="60" height="60" alt="Mercury - Acts 1 & 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="60" height="60" alt="Perception" /></a></td>
+<td><b><a href="https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL">Let You Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2017)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg"><img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="60" height="60" alt="Smoke + Mirrors (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg">Battle Cry</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2015)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"><img src="https://i.scdn.co/image/ab67616d0000b273d6d00d67b73e53c333ca552e" width="60" height="60" alt="Good Charlotte" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3">Little Things</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"><img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" width="60" height="60" alt="American Beauty/American Psycho" /></a></td>
-<td><b><a href="https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq">Centuries</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2015)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1w6YG5OeqiuKptaql5zCKa"><img src="https://i.scdn.co/image/ab67616d0000b27372971f5767a756ddfedc9e86" width="60" height="60" alt="Little Plastic Castle" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1w6YG5OeqiuKptaql5zCKa">Fuel</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Ani DiFranco (1998)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7poA10I15kvSUH6m44fQkS"><img src="https://i.scdn.co/image/ab67616d0000b273a074883ebc3e301b377b27c0" width="60" height="60" alt="Last Resort (The Rework)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7poA10I15kvSUH6m44fQkS">Last Resort - The Rework</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Papa Roach, Kayzo (2018)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2xrRBqEanoBaA0tOgYy18V"><img src="https://i.scdn.co/image/ab67616d0000b2739f613468da45d75bac9cb546" width="60" height="60" alt="The Hands That Thieve" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2xrRBqEanoBaA0tOgYy18V">The Three of Us</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Streetlight Manifesto (2013)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"><img src="https://i.scdn.co/image/ab67616d0000b273026adcf853fad0af470a9fbb" width="60" height="60" alt="Whitsitt Chapel" /></a></td>
+<td><b><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM">Save Me - with Lainey Wilson</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll, Lainey Wilson (2023)</span></td>
 </tr>
 </table>
 </div>
