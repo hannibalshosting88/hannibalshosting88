@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3XLnsk7Xs7ONROfmWTB58u"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="150" height="150" alt="Death Magnetic" /></a>
+<a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"><img src="https://i.scdn.co/image/ab67616d0000b27357ebfccbef07ebff2a495843" width="150" height="150" alt="A Million In Prizes: Iggy Pop Anthology (Edited Version)" /></a>
 
-<b><a href="https://open.spotify.com/track/3XLnsk7Xs7ONROfmWTB58u">The Judas Kiss</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH">The Passenger</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Metallica (2008)</span>
+<span style="color: #666;">Iggy Pop (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"><img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" width="60" height="60" alt="Relapse: Refill" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX">Forever</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drake, Kanye West, Lil Wayne, Eminem (2009)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"><img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" width="60" height="60" alt="American Beauty/American Psycho" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr">Uma Thurman</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2015)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU">All The Small Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"><img src="https://i.scdn.co/image/ab67616d0000b273e895ebededd1f73a2c875ce6" width="60" height="60" alt="Wish You Were Here" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1">Wish You Were Here</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1975)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/77WoTKHdCMnT2hA9iMnoft"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
-<td><b><a href="https://open.spotify.com/track/77WoTKHdCMnT2hA9iMnoft">Megalomaniac</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs"><img src="https://i.scdn.co/image/ab67616d0000b27370d9fedb964ec02475a25b83" width="60" height="60" alt="We Control" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs">We Control</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper (2006)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3etBKtXGFG3hzS6UE7xlBW"><img src="https://i.scdn.co/image/ab67616d0000b2732bdf20efaf4b308ba0defa70" width="60" height="60" alt="With a Vengeance" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3etBKtXGFG3hzS6UE7xlBW">Rockatansky</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2018)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p"><img src="https://i.scdn.co/image/ab67616d0000b273d736b2c5f252f84ad45d5be6" width="60" height="60" alt="Life Is Killing Me" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p">I Don't Wanna Be Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Type O Negative (2003)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"><img src="https://i.scdn.co/image/ab67616d0000b273926764eed4da16a86b9ce33e" width="60" height="60" alt="Love At First Sting" /></a></td>
-<td><b><a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX">Rock You Like A Hurricane</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Scorpions (1984)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"><img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="60" height="60" alt="Man On The Moon: The End Of Day" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c">Day 'N' Nite (nightmare)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2009)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0wydxbEaB3KSKJstJVhTG5"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0wydxbEaB3KSKJstJVhTG5">Crypteque</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi">Sad But True (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN">Chop Suey!</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF"><img src="https://i.scdn.co/image/ab67616d0000b273bfff163b0602156a983fa079" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF">Times Like These</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN">Chop Suey!</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"><img src="https://i.scdn.co/image/ab67616d0000b273a14b08b9a6616e121df5e8b0" width="60" height="60" alt="Talking Book" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ">Superstition</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stevie Wonder (1972)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4gVyorALWmcCHlycskndCR"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" height="60" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4gVyorALWmcCHlycskndCR">Kill Everyone</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"><img src="https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8" width="60" height="60" alt="In The Groove" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw">I Heard It Through The Grapevine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marvin Gaye (1968)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0jsewWZyADoEa4Fc5rtGpL">A Certain Shade of Green</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby's Gone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass, Ruben Hein (2015)</span></td>
 </tr>
 </table>
 </div>
