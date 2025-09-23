@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="150" height="150" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="150" height="150" alt="Graduation" /></a>
 
-<b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">ZAYN, Taylor Swift (2017)</span>
+<span style="color: #666;">Kanye West (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="60" height="60" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">ZAYN, Taylor Swift (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"><img src="https://i.scdn.co/image/ab67616d0000b27353cf4c30b11cf78c7bf6b793" width="60" height="60" alt="Come Clean" /></a></td>
 <td><b><a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF">Control</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj"><img src="https://i.scdn.co/image/ab67616d0000b273c10f473ce20bef8d799fe8a9" width="60" height="60" alt="Never Take Friendship Personal" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj">The Feel Good Drag</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Anberlin (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1GntyY59f0uKNoOCqe1kcS"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" height="60" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1GntyY59f0uKNoOCqe1kcS">Herr Faust</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon, Fredrik Thordendal (2014)</span></td>
 </tr>
 </table>
 </div>
