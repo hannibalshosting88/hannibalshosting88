@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT"><img src="https://i.scdn.co/image/ab67616d0000b2734f1dab8c832d312591947bf9" width="150" height="150" alt="Ill Mind of Hopsin 5 - Single" /></a>
+<a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB"><img src="https://i.scdn.co/image/ab67616d0000b273fa78c40c54908ff02f878779" width="150" height="150" alt="Pimpin' Benjamin" /></a>
 
-<b><a href="https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT">Ill Mind of Hopsin 5</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">Pimpin' Benjamin</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Hopsin (2012)</span>
+<span style="color: #666;">Coast Contra (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4xyWJM4kscTROV2RESdwpd"><img src="https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa" width="60" height="60" alt="Master of Puppets (Remastered Deluxe Box Set)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4xyWJM4kscTROV2RESdwpd">Orion (Remastered)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1986)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT"><img src="https://i.scdn.co/image/ab67616d0000b2734f1dab8c832d312591947bf9" width="60" height="60" alt="Ill Mind of Hopsin 5 - Single" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT">Ill Mind of Hopsin 5</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hopsin (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"><img src="https://i.scdn.co/image/ab67616d0000b273ec4d79e8035ed2803ecfe2b3" width="60" height="60" alt="Sparkle And Fade" /></a></td>
 <td><b><a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI">Santa Monica</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Everclear (1995)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5eHsf6qj6p9kOuXdk4T59f"><img src="https://i.scdn.co/image/ab67616d0000b273380d5118df49f97a6dca031e" width="60" height="60" alt="Eternal Wrath" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5eHsf6qj6p9kOuXdk4T59f">Eternal Wrath</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"><img src="https://i.scdn.co/image/ab67616d0000b273c0ddb38854cde41708d606a1" width="60" height="60" alt="Only One Flo (Part 1)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y">Club Can't Handle Me (feat. David Guetta)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Flo Rida, David Guetta (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"><img src="https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5" width="60" height="60" alt="Scorpion" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn">God's Plan</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Drake (2018)</span></td>
 </tr>
 </table>
 </div>
