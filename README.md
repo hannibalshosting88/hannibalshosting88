@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4"><img src="https://i.scdn.co/image/ab67616d0000b273eac125ae834b76b7d15b3014" width="150" height="150" alt="All Alone" /></a>
+<a href="https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"><img src="https://i.scdn.co/image/ab67616d0000b273e9c3c16b480e1c5a84d7b188" width="150" height="150" alt="Them Vs. You Vs. Me (Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4">All Alone</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb">Paralyzer</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Freddie Dredd (2019)</span>
+<span style="color: #666;">Finger Eleven (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4"><img src="https://i.scdn.co/image/ab67616d0000b273eac125ae834b76b7d15b3014" width="60" height="60" alt="All Alone" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4">All Alone</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2019)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k"><img src="https://i.scdn.co/image/ab67616d0000b273d2a85ebbfd9f834dafacaa8a" width="60" height="60" alt="Pecan Pie" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">Pecan Pie</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Nine and Dex (2024)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF"><img src="https://i.scdn.co/image/ab67616d0000b2733f1e89b0450823d6f0f54cf4" width="60" height="60" alt="Video Game Guitar Covers, Vol. 6" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF">The Only Thing They Fear is You (From "Doom: Eternal")</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">FamilyJules (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ"><img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" width="60" height="60" alt="Elephunk" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ">Where Is The Love?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2003)</span></td>
 </tr>
 </table>
 </div>
