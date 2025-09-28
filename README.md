@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"><img src="https://i.scdn.co/image/ab67616d0000b2730b6dc73f100159537dae26f4" width="150" height="150" alt="Hi-Lo (feat. Lindsey Stirling)" /></a>
+<a href="https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="150" height="150" alt="Backstreet Boys" /></a>
 
-<b><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni">Hi-Lo - feat. Lindsey Stirling</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx">Quit Playing Games (With My Heart)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Evanescence, Lindsey Stirling (2018)</span>
+<span style="color: #666;">Backstreet Boys (1996)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"><img src="https://i.scdn.co/image/ab67616d0000b2730b6dc73f100159537dae26f4" width="60" height="60" alt="Hi-Lo (feat. Lindsey Stirling)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni">Hi-Lo - feat. Lindsey Stirling</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Evanescence, Lindsey Stirling (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/05c6dW6jQY0NqMev1bR7WF"><img src="https://i.scdn.co/image/ab67616d0000b273587ee8fe8951ad48e7ddb616" width="60" height="60" alt="Nolan Ryan" /></a></td>
 <td><b><a href="https://open.spotify.com/track/05c6dW6jQY0NqMev1bR7WF">Nolan Ryan</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Hoodie Allen (2014)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"><img src="https://i.scdn.co/image/ab67616d0000b273e9c3c16b480e1c5a84d7b188" width="60" height="60" alt="Them Vs. You Vs. Me (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb">Paralyzer</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Finger Eleven (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4"><img src="https://i.scdn.co/image/ab67616d0000b273eac125ae834b76b7d15b3014" width="60" height="60" alt="All Alone" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4">All Alone</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2019)</span></td>
 </tr>
 </table>
 </div>
