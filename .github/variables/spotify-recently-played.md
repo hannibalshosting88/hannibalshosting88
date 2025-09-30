@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM"><img src="https://i.scdn.co/image/ab67616d0000b2736dfdabd8d791c3fc94baf463" width="150" height="150" alt="PUNK TACTICS" /></a>
+<a href="https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="150" height="150" alt="Origins (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM">KILL BILL</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi">Zero - From the Original Motion Picture "Ralph Breaks The Internet"</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Joey Valence & Brae (2023)</span>
+<span style="color: #666;">Imagine Dragons (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM"><img src="https://i.scdn.co/image/ab67616d0000b2736dfdabd8d791c3fc94baf463" width="60" height="60" alt="PUNK TACTICS" /></a></td>
+<td><b><a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM">KILL BILL</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Joey Valence & Brae (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8"><img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="60" height="60" alt="The Click" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">Weak</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2017)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4omtIQq5tiL0n7KjL0ZfHm"><img src="https://i.scdn.co/image/ab67616d0000b27329e37f6d05ef931e4683c625" width="60" height="60" alt="666 Volume" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4omtIQq5tiL0n7KjL0ZfHm">666 Volume</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">HIDEOUS MORBID, SEVENTY4 (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3zwmW1gM4E8FlHXV5nE16u"><img src="https://i.scdn.co/image/ab67616d0000b27307301dd5fedf5ad64cde4882" width="60" height="60" alt="Out of Exile" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3zwmW1gM4E8FlHXV5nE16u">Be Yourself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Audioslave (2005)</span></td>
 </tr>
 </table>
 </div>
