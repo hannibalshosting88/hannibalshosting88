@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="150" height="150" alt="Origins (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"><img src="https://i.scdn.co/image/ab67616d0000b2730158cbde70672dd821972907" width="150" height="150" alt="Smash" /></a>
 
-<b><a href="https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi">Zero - From the Original Motion Picture "Ralph Breaks The Internet"</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP">Self Esteem</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Imagine Dragons (2018)</span>
+<span style="color: #666;">The Offspring (1994)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM"><img src="https://i.scdn.co/image/ab67616d0000b2736dfdabd8d791c3fc94baf463" width="60" height="60" alt="PUNK TACTICS" /></a></td>
-<td><b><a href="https://open.spotify.com/track/70JcC8MS87GZyUASx6epCM">KILL BILL</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Joey Valence & Brae (2023)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF"><img src="https://i.scdn.co/image/ab67616d0000b27380aee3216dbae96c8d21c452" width="60" height="60" alt="Don't Look Back" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF">Don't Look Back</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Boston (1978)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8"><img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="60" height="60" alt="The Click" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">Weak</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2017)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/445h7RCWJNo6NwJx9yZjuJ"><img src="https://i.scdn.co/image/ab67616d0000b273d31e71a1bf12201f1167e888" width="60" height="60" alt="Against the Wide Sky" /></a></td>
+<td><b><a href="https://open.spotify.com/track/445h7RCWJNo6NwJx9yZjuJ">Loch Lomond</a></b> <span style="color: gold;"></span><br><span style="font-size: 12px; color: #666;">The Jolly Beggars (2017)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1NnBOnFPFdYJdauawQt5bN"><img src="https://i.scdn.co/image/ab67616d0000b2735d7d966732bd44ac2a13b614" width="60" height="60" alt="It's Time" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1NnBOnFPFdYJdauawQt5bN">Save the Last Dance for Me</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Michael Bublé (2005)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273bfff163b0602156a983fa079" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3Vqbj9yPHBTIRhTDJHPQMq"><img src="https://i.scdn.co/image/ab67616d0000b273e4b1ceef0cf245119a4081a3" width="60" height="60" alt="Nostalgia in Times Square" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Vqbj9yPHBTIRhTDJHPQMq">Moanin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mingus Big Band (1993)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs"><img src="https://i.scdn.co/image/ab67616d0000b27370d9fedb964ec02475a25b83" width="60" height="60" alt="We Control" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs">We Control</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper (2006)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="60" height="60" alt="Minutes to Midnight" /></a></td>
-<td><b><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">What I've Done</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2007)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"><img src="https://i.scdn.co/image/ab67616d0000b2730b6dc73f100159537dae26f4" width="60" height="60" alt="Hi-Lo (feat. Lindsey Stirling)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni">Hi-Lo - feat. Lindsey Stirling</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Evanescence, Lindsey Stirling (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"><img src="https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c" width="60" height="60" alt="In Utero (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa">Heart-Shaped Box</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nirvana (1993)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3KLAVrzY77ZlbQ3GOLZ8CX"><img src="https://i.scdn.co/image/ab67616d0000b273d7775702b925245900375b34" width="60" height="60" alt="Chaos 93'" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3KLAVrzY77ZlbQ3GOLZ8CX">Walkin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ocean Wisdom (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"><img src="https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c" width="60" height="60" alt="In Utero (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa">Heart-Shaped Box</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nirvana (1993)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5uVPusxasdyv3Mwf3m6zAF"><img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" height="60" alt="Cyberpunk 2077 - Original Score" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5uVPusxasdyv3Mwf3m6zAF">Patri(di)ots</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marcin Przybyłowicz (2020)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"><img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" width="60" height="60" alt="Songs About Jane: 10th Anniversary Edition" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF">This Love</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Maroon 5 (2002)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2FpEXjGqe2dJJ9oB8c8Io2"><img src="https://i.scdn.co/image/ab67616d0000b2730f8c0fdf86cf7c079347dea0" width="60" height="60" alt="Unity - 10th Anniversary Compilation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2FpEXjGqe2dJJ9oB8c8Io2">Unity</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">TheFatRat (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="60" height="60" alt="Minutes to Midnight" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5">Given Up</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2007)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"><img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" width="60" height="60" alt="LIVING THINGS" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I">BURN IT DOWN</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2012)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4omtIQq5tiL0n7KjL0ZfHm"><img src="https://i.scdn.co/image/ab67616d0000b27329e37f6d05ef931e4683c625" width="60" height="60" alt="666 Volume" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4omtIQq5tiL0n7KjL0ZfHm">666 Volume</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">HIDEOUS MORBID, SEVENTY4 (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"><img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" width="60" height="60" alt="Unorthodox Jukebox" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh">Locked out of Heaven</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Bruno Mars (2012)</span></td>
 </tr>
 </table>
 </div>
