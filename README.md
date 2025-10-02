@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" width="150" height="150" alt="No Strings Attached" /></a>
+<a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"><img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="150" height="150" alt="Man On The Moon: The End Of Day" /></a>
 
-<b><a href="https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA">It's Gonna Be Me</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c">Day 'N' Nite (nightmare)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">*NSYNC (2000)</span>
+<span style="color: #666;">Kid Cudi (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4"><img src="https://i.scdn.co/image/ab67616d0000b2738bcc97e71e05b475077bdf4b" width="60" height="60" alt="Good Religion" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4">I Got the Juice</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dream Junkies, Beleaf, Ruslan, John Givez (2016)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip"><img src="https://i.scdn.co/image/ab67616d0000b27314d1a203158bed18a4ea7375" width="60" height="60" alt="Lil Boat" /></a></td>
+<td><b><a href="https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip">One Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Yachty (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4"><img src="https://i.scdn.co/image/ab67616d0000b2738bcc97e71e05b475077bdf4b" width="60" height="60" alt="Good Religion" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4">I Got the Juice</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dream Junkies, Beleaf, Ruslan, John Givez (2016)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl"><img src="https://i.scdn.co/image/ab67616d0000b273c63cd31653491e102712ee1a" width="60" height="60" alt="From Chaos" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl">Amber</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">311 (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4"><img src="https://i.scdn.co/image/ab67616d0000b2738bcc97e71e05b475077bdf4b" width="60" height="60" alt="Good Religion" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4">I Got the Juice</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dream Junkies, Beleaf, Ruslan, John Givez (2016)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"><img src="https://i.scdn.co/image/ab67616d0000b27353cf4c30b11cf78c7bf6b793" width="60" height="60" alt="Come Clean" /></a></td>
+<td><b><a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF">Control</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9"><img src="https://i.scdn.co/image/ab67616d0000b2737a1ca67982b45f4e3e8387d6" width="60" height="60" alt="Now And Forever" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9">Fight Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sister Sin (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4gVyorALWmcCHlycskndCR"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" height="60" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4gVyorALWmcCHlycskndCR">Kill Everyone</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6e56CkYWD3JO6ovFZBA8po"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="60" height="60" alt="Perception" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6e56CkYWD3JO6ovFZBA8po">Intro III</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2017)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"><img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="60" height="60" alt="The Attractions Of Youth" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter & Gold</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Barns Courtney (2017)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"><img src="https://i.scdn.co/image/ab67616d0000b2730ea1ecb2d5271c2db402b0c2" width="60" height="60" alt="Hail to the King" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo">Hail to the King</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2013)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5j7gLuOsBOyqooruGxX4nx"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5j7gLuOsBOyqooruGxX4nx">Taking Over Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT">Natural</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP"><img src="https://i.scdn.co/image/ab67616d0000b2731025ac991316d6cbac978373" width="60" height="60" alt="The Hamilton Mixtape" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP">An Open Letter (feat. Shockwave) - Interlude</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Watsky, Shockwave (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="60" height="60" alt="Burn The Ships" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi">joy.</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2018)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3MeWtNojyZQXLG1q2KEzth"><img src="https://i.scdn.co/image/ab67616d0000b2733a27d535d5f109a113442d08" width="60" height="60" alt="Triumphant Hearts" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3MeWtNojyZQXLG1q2KEzth">Valley Of Fire</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Jason Becker, The Magnificent 13, Steve Vai, Joe Bonamassa, Marty Friedman, Michael Lee Firkins, Paul Gilbert, Neal Schon, Mattias IA Eklundh, Greg Howe, Jeff Loomis, Richie Kotzen, Gus G., Steve Hunter, Ben Woods (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="60" height="60" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl">Fix My Eyes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2015)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd">Pts.Of.Athrty - Jay Gordon Reanimation</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2002)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX"><img src="https://i.scdn.co/image/ab67616d0000b273eb558bedbd91c3c81f5b8210" width="60" height="60" alt="Bassthoven" /></a></td>
-<td><b><a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">Bassthoven</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kyle Exum, Shawn Wasabi (2020)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"><img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="60" height="60" alt="Love Is a Bitch" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
 </tr>
 </table>
 </div>
