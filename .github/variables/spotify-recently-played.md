@@ -4,13 +4,33 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="150" height="150" alt="Graduation" /></a>
+<a href="https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R"><img src="https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6" width="150" height="150" alt="The Fat of the Land" /></a>
 
-<b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R">Smack My Bitch Up</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Kanye West (2007)</span>
+<span style="color: #666;">The Prodigy (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="60" height="60" alt="Mercury - Acts 1 & 2" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX"><img src="https://i.scdn.co/image/ab67616d0000b273743060d488780164928a20b2" width="60" height="60" alt="Sultans of Swing - the Very Best of Dire Straits" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX">Money for Nothing</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dire Straits (1998)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5n2kK9GDI47ob1uFcFnR8k"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5n2kK9GDI47ob1uFcFnR8k">Slip Out the Back (feat. Mr. Hahn)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Mr. Hahn (2005)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2xrRBqEanoBaA0tOgYy18V"><img src="https://i.scdn.co/image/ab67616d0000b2739f613468da45d75bac9cb546" width="60" height="60" alt="The Hands That Thieve" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2xrRBqEanoBaA0tOgYy18V">The Three of Us</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Streetlight Manifesto (2013)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="60" height="60" alt="Graduation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="60" height="60" alt="Graduation" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2007)</span></td>
@@ -30,26 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"><img src="https://i.scdn.co/image/ab67616d0000b273c418220159462cdd7cfeb9a1" width="60" height="60" alt="Finding Beauty In Negative Spaces (Bonus Track Version)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0">Fake It</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seether (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC"><img src="https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380" width="60" height="60" alt="Reload" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC">Fuel</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5luPAeKNtumGDUsCMIiRcd"><img src="https://i.scdn.co/image/ab67616d0000b2739286f5d4e99717a652bc31fa" width="60" height="60" alt="Doom of the Fates" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5luPAeKNtumGDUsCMIiRcd">Doom of the Fates</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5luPAeKNtumGDUsCMIiRcd"><img src="https://i.scdn.co/image/ab67616d0000b2739286f5d4e99717a652bc31fa" width="60" height="60" alt="Doom of the Fates" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5luPAeKNtumGDUsCMIiRcd">Doom of the Fates</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI"><img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="60" height="60" alt="JoJo's Theme (Doom Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo's Theme (Doom Version)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Aahiden, Aaron F. Bianchi Jupiter (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7"><img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" width="60" height="60" alt="Straight Outta Compton" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">Fuck Tha Police</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">N.W.A. (1988)</span></td>
 </tr>
 </table>
 </div>
