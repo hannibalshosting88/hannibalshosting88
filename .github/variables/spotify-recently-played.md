@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"><img src="https://i.scdn.co/image/ab67616d0000b273bd01ceabd584855b2edd838d" width="150" height="150" alt="HUMBLE. (SKRILLEX REMIX)" /></a>
+<a href="https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"><img src="https://i.scdn.co/image/ab67616d0000b273d8b51e7394e2c2c1aa6eb0cb" width="150" height="150" alt="Road to Ruin (Expanded 2005 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ">HUMBLE. - SKRILLEX REMIX</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF">I Wanna Be Sedated - 1999 Remaster</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Skrillex, Kendrick Lamar (2017)</span>
+<span style="color: #666;">Ramones (1978)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"><img src="https://i.scdn.co/image/ab67616d0000b273d8b51e7394e2c2c1aa6eb0cb" width="60" height="60" alt="Road to Ruin (Expanded 2005 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF">I Wanna Be Sedated - 1999 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ramones (1978)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"><img src="https://i.scdn.co/image/ab67616d0000b273bd01ceabd584855b2edd838d" width="60" height="60" alt="HUMBLE. (SKRILLEX REMIX)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ">HUMBLE. - SKRILLEX REMIX</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Skrillex, Kendrick Lamar (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"><img src="https://i.scdn.co/image/ab67616d0000b273bd01ceabd584855b2edd838d" width="60" height="60" alt="HUMBLE. (SKRILLEX REMIX)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ">HUMBLE. - SKRILLEX REMIX</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Skrillex, Kendrick Lamar (2017)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1BvpEyyfLyHySRMxsnGnXv"><img src="https://i.scdn.co/image/ab67616d0000b2736df6fdf9f4b543ece378828b" width="60" height="60" alt="Rocky II: Music From The Motion Picture" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1BvpEyyfLyHySRMxsnGnXv">Redemption (Theme From Rocky II)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bill Conti (1979)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="60" height="60" alt="Pray for the Wicked" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"><img src="https://i.scdn.co/image/ab67616d0000b273a4e8fa1ec0e1d0cf4f8e1d26" width="60" height="60" alt="Tonight The Stars Revolt" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My">When Worlds Collide</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Powerman 5000 (1999)</span></td>
 </tr>
 </table>
 </div>
