@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"><img src="https://i.scdn.co/image/ab67616d0000b273d8b51e7394e2c2c1aa6eb0cb" width="150" height="150" alt="Road to Ruin (Expanded 2005 Remaster)" /></a>
+<a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="150" height="150" alt="Kamikaze" /></a>
 
-<b><a href="https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF">I Wanna Be Sedated - 1999 Remaster</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4">Venom - Music From The Motion Picture</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Ramones (1978)</span>
+<span style="color: #666;">Eminem (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"><img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" width="60" height="60" alt="American Beauty/American Psycho" /></a></td>
+<td><b><a href="https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq">Centuries</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2015)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="60" height="60" alt="Burn The Ships" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi">joy.</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"><img src="https://i.scdn.co/image/ab67616d0000b273d8b51e7394e2c2c1aa6eb0cb" width="60" height="60" alt="Road to Ruin (Expanded 2005 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF">I Wanna Be Sedated - 1999 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ramones (1978)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"><img src="https://i.scdn.co/image/ab67616d0000b273d8b51e7394e2c2c1aa6eb0cb" width="60" height="60" alt="Road to Ruin (Expanded 2005 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF">I Wanna Be Sedated - 1999 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ramones (1978)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1eb1ADsizGY0d7xnzeZrlc"><img src="https://i.scdn.co/image/ab67616d0000b273258a50aa1d9a6cfa722eab5a" width="60" height="60" alt="Loose Canon, Vol. 2" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1eb1ADsizGY0d7xnzeZrlc">Motivation (feat. Social Club)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Canon, Social Club Misfits (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"><img src="https://i.scdn.co/image/ab67616d0000b273c34064a3c5e4a25892a091f3" width="60" height="60" alt="Nightmare" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8">Nightmare</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3"><img src="https://i.scdn.co/image/ab67616d0000b273240501e829a9a109600cedd2" width="60" height="60" alt="CREED: Original Motion Picture Soundtrack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3">Last Breath</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Future (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1BvpEyyfLyHySRMxsnGnXv"><img src="https://i.scdn.co/image/ab67616d0000b2736df6fdf9f4b543ece378828b" width="60" height="60" alt="Rocky II: Music From The Motion Picture" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1BvpEyyfLyHySRMxsnGnXv">Redemption (Theme From Rocky II)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bill Conti (1979)</span></td>
 </tr>
 </table>
 </div>
