@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6nonTdcZbN2pmyiN032MXw"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="150" height="150" alt="Therapy Session" /></a>
+<a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"><img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" width="150" height="150" alt="The Eminem Show" /></a>
 
-<b><a href="https://open.spotify.com/track/6nonTdcZbN2pmyiN032MXw">Intro 2</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS">Till I Collapse</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">NF (2016)</span>
+<span style="color: #666;">Eminem, Nate Dogg (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0WKpYDw1WNmQbFiEURDgeI"><img src="https://i.scdn.co/image/ab67616d0000b27379abdfdbe029582f32fe0b94" width="60" height="60" alt="Rocky (Original Motion Picture Score)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0WKpYDw1WNmQbFiEURDgeI">Going The Distance - From "Rocky" Soundtrack / Remastered 2006</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bill Conti (1976)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"><img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="60" height="60" alt="Enemy (from the series Arcane League of Legends)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Arcane, League of Legends (2021)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0WKpYDw1WNmQbFiEURDgeI"><img src="https://i.scdn.co/image/ab67616d0000b27379abdfdbe029582f32fe0b94" width="60" height="60" alt="Rocky (Original Motion Picture Score)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0WKpYDw1WNmQbFiEURDgeI">Going The Distance - From "Rocky" Soundtrack / Remastered 2006</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bill Conti (1976)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273bfff163b0602156a983fa079" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0WKpYDw1WNmQbFiEURDgeI"><img src="https://i.scdn.co/image/ab67616d0000b27379abdfdbe029582f32fe0b94" width="60" height="60" alt="Rocky (Original Motion Picture Score)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0WKpYDw1WNmQbFiEURDgeI">Going The Distance - From "Rocky" Soundtrack / Remastered 2006</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bill Conti (1976)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1"><img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" width="60" height="60" alt="Paranoid (Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1">War Pigs / Luke's Wall - 2012 - Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Black Sabbath (1970)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"><img src="https://i.scdn.co/image/ab67616d0000b2738399047ff71200928f5b6508" width="60" height="60" alt="The Razors Edge" /></a></td>
-<td><b><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">AC/DC (1990)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="60" height="60" alt="Power Rangers Redux" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5BiTv8eMvZXMvVP1lgpwbm">Go Go Power Rangers (Redux)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ron Wasserman (2012)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"><img src="https://i.scdn.co/image/ab67616d0000b2734e2755e7a96ec5e062c76aac" width="60" height="60" alt="Eye Of The Tiger" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e">Eye of the Tiger</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Survivor (1982)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"><img src="https://i.scdn.co/image/ab67616d0000b2730ea1ecb2d5271c2db402b0c2" width="60" height="60" alt="Hail to the King" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo">Hail to the King</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2013)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"><img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" width="60" height="60" alt="DAMN." /></a></td>
-<td><b><a href="https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS">HUMBLE.</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kendrick Lamar (2017)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh"><img src="https://i.scdn.co/image/ab67616d0000b27397ea8cd106d06260c2c76cd6" width="60" height="60" alt="Sehnsucht" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh">Du hast</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rammstein (1997)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"><img src="https://i.scdn.co/image/ab67616d0000b273ade9ee0ae7f33fbb979d6bfe" width="60" height="60" alt="Ace of Spades (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO">Ace of Spades</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Motörhead (1980)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"><img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="60" height="60" alt="Hang-Ups" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Goldfinger (1998)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9"><img src="https://i.scdn.co/image/ab67616d0000b2737a1ca67982b45f4e3e8387d6" width="60" height="60" alt="Now And Forever" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9">Fight Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sister Sin (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5n2kK9GDI47ob1uFcFnR8k"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5n2kK9GDI47ob1uFcFnR8k">Slip Out the Back (feat. Mr. Hahn)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Mr. Hahn (2005)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="60" height="60" alt="Power Rangers Redux" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5">Go Go Power Rangers (Instrumental Redux)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Ron Wasserman (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf"><img src="https://i.scdn.co/image/ab67616d0000b273a9250e237a834437fa7d8739" width="60" height="60" alt="Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf">Ten Speed (Of God's Blood & Burial)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2005)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"><img src="https://i.scdn.co/image/ab67616d0000b273f7b69bb1db06fec7f326d6f7" width="60" height="60" alt="Run" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">Run</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION (2015)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf"><img src="https://i.scdn.co/image/ab67616d0000b273a9250e237a834437fa7d8739" width="60" height="60" alt="Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf">Ten Speed (Of God's Blood & Burial)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2005)</span></td>
 </tr>
 </table>
 </div>
