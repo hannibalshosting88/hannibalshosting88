@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"><img src="https://i.scdn.co/image/ab67616d0000b273bd01ceabd584855b2edd838d" width="150" height="150" alt="HUMBLE. (SKRILLEX REMIX)" /></a>
+<a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="150" height="150" alt="Power Rangers Redux" /></a>
 
-<b><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ">HUMBLE. - SKRILLEX REMIX</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5">Go Go Power Rangers (Instrumental Redux)</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Skrillex, Kendrick Lamar (2017)</span>
+<span style="color: #666;">Ron Wasserman (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"><img src="https://i.scdn.co/image/ab67616d0000b273c72cc4087da2190116857f37" width="60" height="60" alt="Every Six Seconds" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">Click Click Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Saliva (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5yn8iZezcZ6aAhDKAYcN0o"><img src="https://i.scdn.co/image/ab67616d0000b273aaf90aa36f04a09551ff70f2" width="60" height="60" alt="Warriors" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5yn8iZezcZ6aAhDKAYcN0o">Warriors</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">League of Legends, 2WEI, Edda Hayes (2020)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx">Therapy Session</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"><img src="https://i.scdn.co/image/ab67616d0000b2738399047ff71200928f5b6508" width="60" height="60" alt="The Razors Edge" /></a></td>
+<td><b><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">AC/DC (1990)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6Adzt6bQpqLFYFGUj1Slba"><img src="https://i.scdn.co/image/ab67616d0000b273b63b17c8fde0990b667b4306" width="60" height="60" alt="Bo Burnham" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6Adzt6bQpqLFYFGUj1Slba">I'm Bo Yo</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Bo Burnham (2008)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="60" height="60" alt="Mercury - Acts 1 & 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4OLa2mTkpFTHiFOlGIfYim"><img src="https://i.scdn.co/image/ab67616d0000b2735eadcfa5913566735715a2b3" width="60" height="60" alt="Time Stands Still" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4OLa2mTkpFTHiFOlGIfYim">BZRK</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Family Force 5 (2014)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"><img src="https://i.scdn.co/image/ab67616d0000b27359a1132f3cab22f80b2d2777" width="60" height="60" alt="Hell: The Sequel (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig">Fast Lane</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Meets Evil (2011)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K">Remember the Name (feat. Styles of Beyond)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Styles Of Beyond (2005)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="60" height="60" alt="Death Magnetic" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (2008)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/69CjL1kr0muXIraytXdbf5"><img src="https://i.scdn.co/image/ab67616d0000b273578c188da2134feca51fd42c" width="60" height="60" alt="American Capitalist" /></a></td>
+<td><b><a href="https://open.spotify.com/track/69CjL1kr0muXIraytXdbf5">Coming Down</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Five Finger Death Punch (2011)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="60" height="60" alt="Death Magnetic" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (2008)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7eqTIIO0CB21bY0Born2hw"><img src="https://i.scdn.co/image/ab67616d0000b27335dcf5f95d258e30906d8714" width="60" height="60" alt="Who Do You Trust? (Deluxe Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7eqTIIO0CB21bY0Born2hw">Elevate</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Papa Roach (2019)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/46QazXxQS0B31CnbRCy8CV"><img src="https://i.scdn.co/image/ab67616d0000b2739f2023d391c3bd4acf4d51c6" width="60" height="60" alt="Comeblack" /></a></td>
+<td><b><a href="https://open.spotify.com/track/46QazXxQS0B31CnbRCy8CV">Rock You Like a Hurricane - 2011</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Scorpions (2011)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"><img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" width="60" height="60" alt="The Eminem Show" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS">Till I Collapse</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem, Nate Dogg (2002)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z"><img src="https://i.scdn.co/image/ab67616d0000b273c4e2c0dacbae3e342ac21944" width="60" height="60" alt="Believers" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z">Last One Standing</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">¡MAYDAY!, Tech N9ne (2013)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"><img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="60" height="60" alt="Enemy (from the series Arcane League of Legends)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Arcane, League of Legends (2021)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z"><img src="https://i.scdn.co/image/ab67616d0000b273c4e2c0dacbae3e342ac21944" width="60" height="60" alt="Believers" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z">Last One Standing</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">¡MAYDAY!, Tech N9ne (2013)</span></td>
 </tr>
 </table>
 </div>
