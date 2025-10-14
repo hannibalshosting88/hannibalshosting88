@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="150" height="150" alt="Power Rangers Redux" /></a>
+<a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"><img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="150" height="150" alt="Enemy (from the series Arcane League of Legends)" /></a>
 
-<b><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5">Go Go Power Rangers (Instrumental Redux)</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Ron Wasserman (2012)</span>
+<span style="color: #666;">Imagine Dragons, Arcane, League of Legends (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="60" height="60" alt="Power Rangers Redux" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5">Go Go Power Rangers (Instrumental Redux)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Ron Wasserman (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5yn8iZezcZ6aAhDKAYcN0o"><img src="https://i.scdn.co/image/ab67616d0000b273aaf90aa36f04a09551ff70f2" width="60" height="60" alt="Warriors" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5yn8iZezcZ6aAhDKAYcN0o">Warriors</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">League of Legends, 2WEI, Edda Hayes (2020)</span></td>
@@ -42,10 +46,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/46QazXxQS0B31CnbRCy8CV"><img src="https://i.scdn.co/image/ab67616d0000b2739f2023d391c3bd4acf4d51c6" width="60" height="60" alt="Comeblack" /></a></td>
 <td><b><a href="https://open.spotify.com/track/46QazXxQS0B31CnbRCy8CV">Rock You Like a Hurricane - 2011</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Scorpions (2011)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z"><img src="https://i.scdn.co/image/ab67616d0000b273c4e2c0dacbae3e342ac21944" width="60" height="60" alt="Believers" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z">Last One Standing</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">¡MAYDAY!, Tech N9ne (2013)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z"><img src="https://i.scdn.co/image/ab67616d0000b273c4e2c0dacbae3e342ac21944" width="60" height="60" alt="Believers" /></a></td>
