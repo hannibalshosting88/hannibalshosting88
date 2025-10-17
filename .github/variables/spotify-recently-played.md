@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="150" height="150" alt="Fragile" /></a>
+<a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf"><img src="https://i.scdn.co/image/ab67616d0000b273a9250e237a834437fa7d8739" width="150" height="150" alt="Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness" /></a>
 
-<b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf">Ten Speed (Of God's Blood & Burial)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Yes (1971)</span>
+<span style="color: #666;">Coheed and Cambria (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="60" height="60" alt="Fragile" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yes (1971)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC"><img src="https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380" width="60" height="60" alt="Reload" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC">Fuel</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1997)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="60" height="60" alt="Kamikaze" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4">Venom - Music From The Motion Picture</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"><img src="https://i.scdn.co/image/ab67616d0000b2730ea1ecb2d5271c2db402b0c2" width="60" height="60" alt="Hail to the King" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo">Hail to the King</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2013)</span></td>
 </tr>
 </table>
 </div>
