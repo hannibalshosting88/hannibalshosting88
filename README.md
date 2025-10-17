@@ -22,13 +22,41 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf"><img src="https://i.scdn.co/image/ab67616d0000b273a9250e237a834437fa7d8739" width="150" height="150" alt="Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness" /></a>
+<a href="https://open.spotify.com/track/6xrdxmGZnnpScIck7YxCnd"><img src="https://i.scdn.co/image/ab67616d0000b273a47d777eacab80613fdde21e" width="150" height="150" alt="The Best That I Could Do 1978 - 1988" /></a>
 
-<b><a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf">Ten Speed (Of God's Blood & Burial)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6xrdxmGZnnpScIck7YxCnd">Jack & Diane</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Coheed and Cambria (2005)</span>
+<span style="color: #666;">John Mellencamp (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1GHqc0e7PQ6aEyGlvfSJzS"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1GHqc0e7PQ6aEyGlvfSJzS">Where'd You Go (feat. Holly Brook & Jonah Matranga)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Holly Brook, Jonah Matranga (2005)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"><img src="https://i.scdn.co/image/ab67616d0000b273a5d1c06a8172d4861367953c" width="60" height="60" alt="Franz Ferdinand" /></a></td>
+<td><b><a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">Take Me Out</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Franz Ferdinand (2004)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv"><img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="60" height="60" alt="Sleep With the Lights On" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Wanton Bishops (2015)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"><img src="https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8" width="60" height="60" alt="In The Groove" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw">I Heard It Through The Grapevine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marvin Gaye (1968)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"><img src="https://i.scdn.co/image/ab67616d0000b27350d216aebaf98e8ac9947fd5" width="60" height="60" alt="Follow The Leader" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu">Freak On a Leash</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (1998)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2LFwEGnf1YLJYiNdd0lhze"><img src="https://i.scdn.co/image/ab67616d0000b273f07d56f7e8d92d50e77c45f1" width="60" height="60" alt="x Infinity" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2LFwEGnf1YLJYiNdd0lhze">Talking to Myself</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2016)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf"><img src="https://i.scdn.co/image/ab67616d0000b273a9250e237a834437fa7d8739" width="60" height="60" alt="Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf">Ten Speed (Of God's Blood & Burial)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="60" height="60" alt="Fragile" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yes (1971)</span></td>
@@ -40,34 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj">Renegade</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7nuBN1pCPvpOFBn6CZ4bun"><img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="60" height="60" alt="Therapy Session" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7nuBN1pCPvpOFBn6CZ4bun">All I Do</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273bfff163b0602156a983fa079" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV"><img src="https://i.scdn.co/image/ab67616d0000b27304b1454aabded3ebe9cf3c01" width="60" height="60" alt="B-Sides and Rarities" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">War Pigs</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="60" height="60" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2008)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r"><img src="https://i.scdn.co/image/ab67616d0000b273385b6c04e953808acf3964ec" width="60" height="60" alt="Never Land" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">You Can't Stop Me</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andy Mineo (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2NxDe3U8ZZscl72aMmkDGP"><img src="https://i.scdn.co/image/ab67616d0000b273c3186d19122acbec3291aeb1" width="60" height="60" alt="Hungry Ghosts" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2NxDe3U8ZZscl72aMmkDGP">Turn Up the Radio</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">OK Go (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="60" height="60" alt="Kamikaze" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4">Venom - Music From The Motion Picture</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2018)</span></td>
 </tr>
 </table>
 </div>
