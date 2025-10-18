@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"><img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" width="150" height="150" alt="Paranoid (Remaster)" /></a>
+<a href="https://open.spotify.com/track/2JKlf0IYz5oWsT3OCLyjpO"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="150" height="150" alt="Sublime" /></a>
 
-<b><a href="https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9">Iron Man - 2012 - Remaster</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2JKlf0IYz5oWsT3OCLyjpO">Caress Me Down</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Black Sabbath (1970)</span>
+<span style="color: #666;">Sublime (1996)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"><img src="https://i.scdn.co/image/ab67616d0000b273d1d1f3d8dd3684ee3d75385b" width="60" height="60" alt="Shadows On The Sun" /></a></td>
-<td><b><a href="https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ">Forest Whitiker</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Brother Ali (2003)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"><img src="https://i.scdn.co/image/ab67616d0000b273699a422d25adc550dc5aa11c" width="60" height="60" alt="Silver Side Up" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf">How You Remind Me</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nickelback (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1Cypi3PfQ2WtlrrGmIspOH"><img src="https://i.scdn.co/image/ab67616d0000b273466fc9a7637da16e7aa4cc6e" width="60" height="60" alt="Team America" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1Cypi3PfQ2WtlrrGmIspOH">Team America</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">66samus (2015)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk"><img src="https://i.scdn.co/image/ab67616d0000b2739d9468ab048a4110a71eeab7" width="60" height="60" alt="Somewhere in the Between" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk">We Will Fall Together</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Streetlight Manifesto (2007)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/47Wv7knmg7C9ISkSuTcxo3"><img src="https://i.scdn.co/image/ab67616d0000b273fdc4601297d7435cec8993c5" width="60" height="60" alt="Stop The Rock" /></a></td>
-<td><b><a href="https://open.spotify.com/track/47Wv7knmg7C9ISkSuTcxo3">Stop the Rock</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Apollo 440 (1997)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"><img src="https://i.scdn.co/image/ab67616d0000b273a9250e237a834437fa7d8739" width="60" height="60" alt="Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness" /></a></td>
+<td><b><a href="https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO">Welcome Home</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2005)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7uax1a1G4cg1GgokfakTnN"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="60" height="60" alt="Perception" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7uax1a1G4cg1GgokfakTnN">Outro</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2017)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"><img src="https://i.scdn.co/image/ab67616d0000b273a9250e237a834437fa7d8739" width="60" height="60" alt="Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness" /></a></td>
+<td><b><a href="https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO">Welcome Home</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2005)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4"><img src="https://i.scdn.co/image/ab67616d0000b2738bcc97e71e05b475077bdf4b" width="60" height="60" alt="Good Religion" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4">I Got the Juice</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dream Junkies, Beleaf, Ruslan, John Givez (2016)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/14daOroAa2CmxeT1prZnOE"><img src="https://i.scdn.co/image/ab67616d0000b2736fede82146181a73665793d8" width="60" height="60" alt="The Devil You Know" /></a></td>
+<td><b><a href="https://open.spotify.com/track/14daOroAa2CmxeT1prZnOE">The Highland Street Incident</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Todd Snider (2006)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/187Dg87SGCQsLad3M7IuRL"><img src="https://i.scdn.co/image/ab67616d0000b27354a6d19f48fbb502c87422bd" width="60" height="60" alt="The Warm Up" /></a></td>
-<td><b><a href="https://open.spotify.com/track/187Dg87SGCQsLad3M7IuRL">The Warm Up</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Canon (2015)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3PlbcjgixqLPoN3ZyJHBk6"><img src="https://i.scdn.co/image/ab67616d0000b27377763526db121b0eb18b2eb3" width="60" height="60" alt="Cardboard Castles" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3PlbcjgixqLPoN3ZyJHBk6">Strong As an Oak</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2013)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="60" height="60" alt="Evolve" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">Believer</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2017)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ">ATWA</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5n2kK9GDI47ob1uFcFnR8k"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5n2kK9GDI47ob1uFcFnR8k">Slip Out the Back (feat. Mr. Hahn)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Mr. Hahn (2005)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="60" height="60" alt="The College Dropout" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo">Through The Wire</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2004)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48"><img src="https://i.scdn.co/image/ab67616d0000b2735001f28f54683843c80129bf" width="60" height="60" alt="bad times friend..." /></a></td>
-<td><b><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">By the Sword</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">iamjakehill (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"><img src="https://i.scdn.co/image/ab67616d0000b2732bc58e4de7c41e84aeacee40" width="60" height="60" alt="Listen" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB">Bad Habit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Kooks (2014)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="60" height="60" alt="Tres Hombres (Expanded 2006 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">ZZ Top (1973)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"><img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" width="60" height="60" alt="Appetite For Destruction" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5">Paradise City</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Guns N' Roses (1987)</span></td>
 </tr>
 </table>
 </div>
