@@ -22,13 +22,33 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2JKlf0IYz5oWsT3OCLyjpO"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="150" height="150" alt="Sublime" /></a>
+<a href="https://open.spotify.com/track/4T4EV1pVMENruO0CbOUWFU"><img src="https://i.scdn.co/image/ab67616d0000b273b0f99ffe5dc9c2b310070f42" width="150" height="150" alt="dance!" /></a>
 
-<b><a href="https://open.spotify.com/track/2JKlf0IYz5oWsT3OCLyjpO">Caress Me Down</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4T4EV1pVMENruO0CbOUWFU">dance!</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Sublime (1996)</span>
+<span style="color: #666;">deyluvkirby, eddyoetty, фрози (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">Scott Mescudi Vs. The World</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, CeeLo Green (2010)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0wydxbEaB3KSKJstJVhTG5"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0wydxbEaB3KSKJstJVhTG5">Crypteque</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="60" height="60" alt="Palm Trees and Power Lines" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2004)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5M67k54BVUDADZPryaqV1y"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5M67k54BVUDADZPryaqV1y">Aqueous Transmission</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2JKlf0IYz5oWsT3OCLyjpO"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2JKlf0IYz5oWsT3OCLyjpO">Caress Me Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"><img src="https://i.scdn.co/image/ab67616d0000b273699a422d25adc550dc5aa11c" width="60" height="60" alt="Silver Side Up" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf">How You Remind Me</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nickelback (2001)</span></td>
@@ -48,26 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/14daOroAa2CmxeT1prZnOE"><img src="https://i.scdn.co/image/ab67616d0000b2736fede82146181a73665793d8" width="60" height="60" alt="The Devil You Know" /></a></td>
 <td><b><a href="https://open.spotify.com/track/14daOroAa2CmxeT1prZnOE">The Highland Street Incident</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Todd Snider (2006)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3PlbcjgixqLPoN3ZyJHBk6"><img src="https://i.scdn.co/image/ab67616d0000b27377763526db121b0eb18b2eb3" width="60" height="60" alt="Cardboard Castles" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3PlbcjgixqLPoN3ZyJHBk6">Strong As an Oak</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ">ATWA</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="60" height="60" alt="The College Dropout" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo">Through The Wire</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"><img src="https://i.scdn.co/image/ab67616d0000b2732bc58e4de7c41e84aeacee40" width="60" height="60" alt="Listen" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB">Bad Habit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Kooks (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"><img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" width="60" height="60" alt="Appetite For Destruction" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5">Paradise City</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Guns N' Roses (1987)</span></td>
 </tr>
 </table>
 </div>
