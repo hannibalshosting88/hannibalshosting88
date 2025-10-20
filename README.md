@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX"><img src="https://i.scdn.co/image/ab67616d0000b273a5ea3573e8f48f5485760e2e" width="150" height="150" alt="Professional Rapper" /></a>
+<a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"><img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="150" height="150" alt="Mercury - Acts 1 & 2" /></a>
 
-<b><a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX">$ave Dat Money (feat. Fetty Wap & Rich Homie Quan)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lil Dicky, Fetty Wap, Rich Homie Quan (2015)</span>
+<span style="color: #666;">Imagine Dragons, JID, Arcane, League of Legends (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3FLPAAlQNb570TtFQ50RwR"><img src="https://i.scdn.co/image/ab67616d0000b273145454b151d01ca3305bbd60" width="60" height="60" alt="Curtain Call 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3FLPAAlQNb570TtFQ50RwR">Kings Never Die (feat. Gwen Stefani)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Eminem, Gwen Stefani (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi"><img src="https://i.scdn.co/image/ab67616d0000b273fca6a26d626b192b9ffe4ae5" width="60" height="60" alt="Odyssey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi">Rising Force</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yngwie Malmsteen (1988)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
-<td><b><a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV">Tourniquet</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"><img src="https://i.scdn.co/image/ab67616d0000b273bd01ceabd584855b2edd838d" width="60" height="60" alt="HUMBLE. (SKRILLEX REMIX)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ">HUMBLE. - SKRILLEX REMIX</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Skrillex, Kendrick Lamar (2017)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"><img src="https://i.scdn.co/image/ab67616d0000b273a65df73c4011b6a9357c89f0" width="60" height="60" alt="Drops Of Jupiter" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA">Drops of Jupiter (Tell Me)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Train (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5"><img src="https://i.scdn.co/image/ab67616d0000b273f041979ddf9a834eaf417346" width="60" height="60" alt="Power Rangers Redux" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6DUlAlZiogrNBxCVCFhRO5">Go Go Power Rangers (Instrumental Redux)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Ron Wasserman (2012)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4T4EV1pVMENruO0CbOUWFU"><img src="https://i.scdn.co/image/ab67616d0000b273b0f99ffe5dc9c2b310070f42" width="60" height="60" alt="dance!" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4T4EV1pVMENruO0CbOUWFU">dance!</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">deyluvkirby, eddyoetty, фрози (2023)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4"><img src="https://i.scdn.co/image/ab67616d0000b2737bb4dd1d02346ec2321a41d6" width="60" height="60" alt="The Fat of the Land" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4">Firestarter</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (1997)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">Scott Mescudi Vs. The World</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, CeeLo Green (2010)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="60" height="60" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2008)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0wydxbEaB3KSKJstJVhTG5"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0wydxbEaB3KSKJstJVhTG5">Crypteque</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"><img src="https://i.scdn.co/image/ab67616d0000b273801cf8805673d07eb26da351" width="60" height="60" alt="Rebirth" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">Drop The World</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Eminem (2009)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="60" height="60" alt="Palm Trees and Power Lines" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2004)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"><img src="https://i.scdn.co/image/ab67616d0000b273c72cc4087da2190116857f37" width="60" height="60" alt="Every Six Seconds" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">Click Click Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Saliva (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5M67k54BVUDADZPryaqV1y"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5M67k54BVUDADZPryaqV1y">Aqueous Transmission</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"><img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" width="60" height="60" alt="When It's Dark Out" /></a></td>
+<td><b><a href="https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC">Me, Myself & I</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">G-Eazy, Bebe Rexha (2015)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2JKlf0IYz5oWsT3OCLyjpO"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2JKlf0IYz5oWsT3OCLyjpO">Caress Me Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7poA10I15kvSUH6m44fQkS"><img src="https://i.scdn.co/image/ab67616d0000b273a074883ebc3e301b377b27c0" width="60" height="60" alt="Last Resort (The Rework)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7poA10I15kvSUH6m44fQkS">Last Resort - The Rework</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Papa Roach, Kayzo (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"><img src="https://i.scdn.co/image/ab67616d0000b273699a422d25adc550dc5aa11c" width="60" height="60" alt="Silver Side Up" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf">How You Remind Me</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nickelback (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5v93SfimQcZTllzKhvnUld"><img src="https://i.scdn.co/image/ab67616d0000b273513aa527f469f17089b34a72" width="60" height="60" alt="Clear the Heir" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5v93SfimQcZTllzKhvnUld">Time Out</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Christon Gray (2018)</span></td>
 </tr>
 </table>
 </div>
