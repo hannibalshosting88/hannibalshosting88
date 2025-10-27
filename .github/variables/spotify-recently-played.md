@@ -4,13 +4,25 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"><img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" width="150" height="150" alt="Ten" /></a>
+<a href="https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"><img src="https://i.scdn.co/image/ab67616d0000b273d1fd8f264564d9eef7617a45" width="150" height="150" alt="Ocean Avenue" /></a>
 
-<b><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx">Ocean Avenue</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Pearl Jam (1991)</span>
+<span style="color: #666;">Yellowcard (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl"><img src="https://i.scdn.co/image/ab67616d0000b2738c28d7443694de36c67be905" width="60" height="60" alt="Prolonging the Magic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl">Never There</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (1998)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6a6SHtQrsfzEhp7siarZkD"><img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="60" height="60" alt="Good Company" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6a6SHtQrsfzEhp7siarZkD">Honey You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Dead South (2014)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"><img src="https://i.scdn.co/image/ab67616d0000b273d400d27cba05bb0545533864" width="60" height="60" alt="Ten" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pearl Jam (1991)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H"><img src="https://i.scdn.co/image/ab67616d0000b273eba2acd1d78fc80ed234af0b" width="60" height="60" alt="The All-American Rejects" /></a></td>
 <td><b><a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H">Swing, Swing</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The All-American Rejects (2002)</span></td>
@@ -38,18 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00"><img src="https://i.scdn.co/image/ab67616d0000b2736b275d72474c508ce2b405a4" width="60" height="60" alt="S&M" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00">No Leaf Clover - Live with the SFSO</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT"><img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="60" height="60" alt="GET UP" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">THE FILLER</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1BvpEyyfLyHySRMxsnGnXv"><img src="https://i.scdn.co/image/ab67616d0000b2736df6fdf9f4b543ece378828b" width="60" height="60" alt="Rocky II: Music From The Motion Picture" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1BvpEyyfLyHySRMxsnGnXv">Redemption (Theme From Rocky II)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bill Conti (1979)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="60" height="60" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2008)</span></td>
 </tr>
 </table>
 </div>
