@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"><img src="https://i.scdn.co/image/ab67616d0000b2730ea1ecb2d5271c2db402b0c2" width="150" height="150" alt="Hail to the King" /></a>
+<a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="150" height="150" alt="Fallen" /></a>
 
-<b><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo">Hail to the King</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV">Tourniquet</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Avenged Sevenfold (2013)</span>
+<span style="color: #666;">Evanescence (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"><img src="https://i.scdn.co/image/ab67616d0000b2730ea1ecb2d5271c2db402b0c2" width="60" height="60" alt="Hail to the King" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo">Hail to the King</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2013)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/47Wv7knmg7C9ISkSuTcxo3"><img src="https://i.scdn.co/image/ab67616d0000b273fdc4601297d7435cec8993c5" width="60" height="60" alt="Stop The Rock" /></a></td>
 <td><b><a href="https://open.spotify.com/track/47Wv7knmg7C9ISkSuTcxo3">Stop the Rock</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Apollo 440 (1997)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"><img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="60" height="60" alt="Enemy (from the series Arcane League of Legends)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Arcane, League of Legends (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K">Remember the Name (feat. Styles of Beyond)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Styles Of Beyond (2005)</span></td>
 </tr>
 </table>
 </div>
