@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"><img src="https://i.scdn.co/image/ab67616d0000b27397e3ca5aecb464f021c601d5" width="150" height="150" alt="Boulevard of Broken Dreams" /></a>
+<a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="150" height="150" alt="Death Magnetic" /></a>
 
-<b><a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw">Boulevard of Broken Dreams</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Green Day (2004)</span>
+<span style="color: #666;">Metallica (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"><img src="https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8" width="60" height="60" alt="Only By The Night" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45">Sex on Fire</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kings of Leon (2008)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn"><img src="https://i.scdn.co/image/ab67616d0000b27338515ef670537d024a158646" width="60" height="60" alt="Hotline Miami: The Takedown EP" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn">Knock Knock</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Scattle (2012)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl">Anna Molly</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"><img src="https://i.scdn.co/image/ab67616d0000b273a65df73c4011b6a9357c89f0" width="60" height="60" alt="Drops Of Jupiter" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA">Drops of Jupiter (Tell Me)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Train (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"><img src="https://i.scdn.co/image/ab67616d0000b273b424aeb510016daa1bc0251c" width="60" height="60" alt="Come What(ever) May [10th Anniversary Edition]" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c">Through Glass</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Sour (2006)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="60" height="60" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2008)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"><img src="https://i.scdn.co/image/ab67616d0000b27320292e6cce666a69ba5a86fb" width="60" height="60" alt="Kill 'Em All (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">Seek & Destroy (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1983)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"><img src="https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c" width="60" height="60" alt="Kiss (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx">Call Me Maybe</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Carly Rae Jepsen (2012)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/175WI4qV4AAPg6PnqrGq12"><img src="https://i.scdn.co/image/ab67616d0000b2734b1b552018a7e22fd85cb365" width="60" height="60" alt="Extermination//Extinction" /></a></td>
-<td><b><a href="https://open.spotify.com/track/175WI4qV4AAPg6PnqrGq12">Extermination//Extinction</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0sHW1jXe6Sou3437gJQNGA"><img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" width="60" height="60" alt="Recovery" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0sHW1jXe6Sou3437gJQNGA">Space Bound</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem (2010)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry"><img src="https://i.scdn.co/image/ab67616d0000b273f884eba13ce42428430b6663" width="60" height="60" alt="Extreme Power Metal" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry">My Heart Will Go On</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">DragonForce (2019)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk"><img src="https://i.scdn.co/image/ab67616d0000b27389fc85fb1ba584958c2cb040" width="60" height="60" alt="Tough People" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk">Tough People</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Drew Baldridge (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0c3yfC8zMRJGvmqphczhZb"><img src="https://i.scdn.co/image/ab67616d0000b273888241dbe5fdf3de9cb3d12f" width="60" height="60" alt="Science & Faith (US Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0c3yfC8zMRJGvmqphczhZb">Nothing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Script (2011)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"><img src="https://i.scdn.co/image/ab67616d0000b27365a9e11c89449998ac3da930" width="60" height="60" alt="So Much For The Afterglow" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN">Father Of Mine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Everclear (1997)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0c3yfC8zMRJGvmqphczhZb"><img src="https://i.scdn.co/image/ab67616d0000b273888241dbe5fdf3de9cb3d12f" width="60" height="60" alt="Science & Faith (US Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0c3yfC8zMRJGvmqphczhZb">Nothing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Script (2011)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="60" height="60" alt="Origins (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5">Boomerang</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f"><img src="https://i.scdn.co/image/ab67616d0000b273dfe55128eb2aa4e87854e50f" width="60" height="60" alt="Good Luck Everybody" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f">Body Terror Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AJJ (2020)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H"><img src="https://i.scdn.co/image/ab67616d0000b273eba2acd1d78fc80ed234af0b" width="60" height="60" alt="The All-American Rejects" /></a></td>
+<td><b><a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H">Swing, Swing</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The All-American Rejects (2002)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"><img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" width="60" height="60" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z">Bullet With Butterfly Wings - Remastered 2012</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Smashing Pumpkins (1995)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn"><img src="https://i.scdn.co/image/ab67616d0000b2731f52a7e9b573959c8e430974" width="60" height="60" alt="Me & My Brother" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn">Salt Shaker</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins, Lil Jon & The East Side Boyz (2003)</span></td>
 </tr>
 </table>
 </div>
