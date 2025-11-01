@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"><img src="https://i.scdn.co/image/ab67616d0000b27372649ad8e79d1e8bdd54c929" width="150" height="150" alt="Happy Together" /></a>
+<a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"><img src="https://i.scdn.co/image/ab67616d0000b273db38819ff1e73809f8be6107" width="150" height="150" alt="Dystopia" /></a>
 
-<b><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0">Happy Together</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO">Dystopia</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">The Turtles (1967)</span>
+<span style="color: #666;">Megadeth (2016)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"><img src="https://i.scdn.co/image/ab67616d0000b27372649ad8e79d1e8bdd54c929" width="60" height="60" alt="Happy Together" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0">Happy Together</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Turtles (1967)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="60" height="60" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl">Fix My Eyes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2015)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT"><img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="60" height="60" alt="GET UP" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">THE FILLER</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"><img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" width="60" height="60" alt="Bleed American" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">The Middle</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jimmy Eat World (2001)</span></td>
 </tr>
 </table>
 </div>
