@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="150" height="150" alt="Death Magnetic" /></a>
+<a href="https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG"><img src="https://i.scdn.co/image/ab67616d0000b273c3b34cc2e76e11b6b6e112e6" width="150" height="150" alt="Tonight" /></a>
 
-<b><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG">No You Girls</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Metallica (2008)</span>
+<span style="color: #666;">Franz Ferdinand (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG"><img src="https://i.scdn.co/image/ab67616d0000b273c3b34cc2e76e11b6b6e112e6" width="60" height="60" alt="Tonight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG">No You Girls</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Franz Ferdinand (2009)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG"><img src="https://i.scdn.co/image/ab67616d0000b273c3b34cc2e76e11b6b6e112e6" width="60" height="60" alt="Tonight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG">No You Girls</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Franz Ferdinand (2009)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="60" height="60" alt="Death Magnetic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (2008)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/346SDYQBCcUqcyt7JcMdCV"><img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="60" height="60" alt="Thundersmack" /></a></td>
 <td><b><a href="https://open.spotify.com/track/346SDYQBCcUqcyt7JcMdCV">Coney Island</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2021)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"><img src="https://i.scdn.co/image/ab67616d0000b2738328645e58684d8770a8475f" width="60" height="60" alt="House of Gold & Bones, Part 1" /></a></td>
 <td><b><a href="https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb">Absolute Zero</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Sour (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1GqlvSEtMx5xbGptxOTTyk"><img src="https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694" width="60" height="60" alt="Boston" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1GqlvSEtMx5xbGptxOTTyk">Peace of Mind</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Boston (1976)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah">REVOFEV</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7729ua6iVsOL0GCr1Exo1g"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7729ua6iVsOL0GCr1Exo1g">Knight to C-Sharp</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
 </tr>
 </table>
 </div>
