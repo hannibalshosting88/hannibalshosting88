@@ -4,13 +4,33 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5mfcFNV1pDNAwLguz9pFW0"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="150" height="150" alt="The Essential Incubus" /></a>
+<a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"><img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="150" height="150" alt="Nevermind (Remastered)" /></a>
 
-<b><a href="https://open.spotify.com/track/5mfcFNV1pDNAwLguz9pFW0">Anna Molly</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7">Lithium</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Incubus (2012)</span>
+<span style="color: #666;">Nirvana (1991)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD"><img src="https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74" width="60" height="60" alt="Man On The Moon: The End Of Day (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD">Pursuit Of Happiness (Nightmare)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, MGMT, Ratatat (2009)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"><img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" width="60" height="60" alt="David Bowie (aka Space Oddity) [2015 Remaster]" /></a></td>
+<td><b><a href="https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG">Space Oddity - 2015 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">David Bowie (1969)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF">What I Got</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">No Warm Up</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5mfcFNV1pDNAwLguz9pFW0"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5mfcFNV1pDNAwLguz9pFW0">Anna Molly</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC"><img src="https://i.scdn.co/image/ab67616d0000b27316e4a73d53b47d825ff09f08" width="60" height="60" alt="Fight Club" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC">No Squids</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Ocean Wisdom, K Koke (2024)</span></td>
@@ -30,26 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ"><img src="https://i.scdn.co/image/ab67616d0000b273622422043b91c9785ede378e" width="60" height="60" alt="Heaven on Hold" /></a></td>
-<td><b><a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ">Horns</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bryce Fox (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7tTRFVlFzk6yTnoMcParmi"><img src="https://i.scdn.co/image/ab67616d0000b273e0783b9378aa3857b8a9d24d" width="60" height="60" alt="CLOUDS (THE MIXTAPE)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7tTRFVlFzk6yTnoMcParmi">JUST LIKE YOU</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ"><img src="https://i.scdn.co/image/ab67616d0000b273ec0a9eea5aa9110401cebaf4" width="60" height="60" alt="You Want Some of This?" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2KldK81uQyPpbJLwEekaLQ">Everyday Normal Guy</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jon Lajoie (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4a2uqVlpRChHj32EjJLu7G"><img src="https://i.scdn.co/image/ab67616d0000b273ab7a2287bd2c3b20b27e4342" width="60" height="60" alt="Tyler Childers | OurVinyl Sessions" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4a2uqVlpRChHj32EjJLu7G">Nose On The Grindstone (OurVinyl Sessions)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Tyler Childers, OurVinyl (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"><img src="https://i.scdn.co/image/ab67616d0000b2732b222dcd5c4fcac7c0e81da2" width="60" height="60" alt="The Sickness" /></a></td>
-<td><b><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v">Down with the Sickness</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Disturbed (2000)</span></td>
 </tr>
 </table>
 </div>
