@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"><img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="150" height="150" alt="Nevermind (Remastered)" /></a>
+<a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="150" height="150" alt="Is This It" /></a>
 
-<b><a href="https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7">Lithium</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Nirvana (1991)</span>
+<span style="color: #666;">The Strokes (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD"><img src="https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74" width="60" height="60" alt="Man On The Moon: The End Of Day (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD">Pursuit Of Happiness (Nightmare)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, MGMT, Ratatat (2009)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj"><img src="https://i.scdn.co/image/ab67616d0000b27370772b281a0ec089721df570" width="60" height="60" alt="Fast & Furious 6" /></a></td>
+<td><b><a href="https://open.spotify.com/track/00QyLmjxaSEE8qIZQjBXBj">We Own It (Fast & Furious)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">2 Chainz, Wiz Khalifa (2013)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"><img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" width="60" height="60" alt="David Bowie (aka Space Oddity) [2015 Remaster]" /></a></td>
-<td><b><a href="https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG">Space Oddity - 2015 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">David Bowie (1969)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w"><img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="60" height="60" alt="Mezmerize" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">Question!</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF">What I Got</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5QcSLVq30mIhTSOHlhjnCF"><img src="https://i.scdn.co/image/ab67616d0000b273fb303588ba010f01fb55774d" width="60" height="60" alt="God Hates Us All" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5QcSLVq30mIhTSOHlhjnCF">Payback</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Slayer (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">No Warm Up</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"><img src="https://i.scdn.co/image/ab67616d0000b273fe3a12c23f04549cef0fbe84" width="60" height="60" alt="A 20 Something Fuck" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1">I Feel Like I'm Drowning</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5mfcFNV1pDNAwLguz9pFW0"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5mfcFNV1pDNAwLguz9pFW0">Anna Molly</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX"><img src="https://i.scdn.co/image/ab67616d0000b273a5ea3573e8f48f5485760e2e" width="60" height="60" alt="Professional Rapper" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX">$ave Dat Money (feat. Fetty Wap & Rich Homie Quan)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Dicky, Fetty Wap, Rich Homie Quan (2015)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC"><img src="https://i.scdn.co/image/ab67616d0000b27316e4a73d53b47d825ff09f08" width="60" height="60" alt="Fight Club" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7Gwy4LqMJ1mjQ5cGZCeCnC">No Squids</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Ocean Wisdom, K Koke (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt">Take A Look Around</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/28UKSTXNVOJJBmaAXAGt01"><img src="https://i.scdn.co/image/ab67616d0000b2735ce2cbcfd78c94c0f70bb1b6" width="60" height="60" alt="Meathook" /></a></td>
-<td><b><a href="https://open.spotify.com/track/28UKSTXNVOJJBmaAXAGt01">Meathook</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Andrew Baena, Cooper Lagace (2021)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt">Take A Look Around</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="60" height="60" alt="Infinity On High" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2007)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"><img src="https://i.scdn.co/image/ab67616d0000b27391b3adb195fd4017fd3d6400" width="60" height="60" alt="City of Evil" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7">Bat Country</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2005)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"><img src="https://i.scdn.co/image/ab67616d0000b27353cf4c30b11cf78c7bf6b793" width="60" height="60" alt="Come Clean" /></a></td>
-<td><b><a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF">Control</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB"><img src="https://i.scdn.co/image/ab67616d0000b2731a2e4290b83a4c810d019fcd" width="60" height="60" alt="The End Is Where We Begin" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB">Courtesy Call</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Thousand Foot Krutch (2012)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"><img src="https://i.scdn.co/image/ab67616d0000b27344971d48c21dbd132f2d506e" width="60" height="60" alt="Results May Vary" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj">Behind Blue Eyes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2003)</span></td>
 </tr>
 </table>
 </div>
