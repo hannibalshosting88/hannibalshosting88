@@ -4,13 +4,37 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf"><img src="https://i.scdn.co/image/ab67616d0000b27391b3adb195fd4017fd3d6400" width="150" height="150" alt="City of Evil" /></a>
+<a href="https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX"><img src="https://i.scdn.co/image/ab67616d0000b273f142205e336ec0af3e1a4eb0" width="150" height="150" alt="Singles (2016 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf">Seize the Day</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX">Blue Monday - 2016 Remaster</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Avenged Sevenfold (2005)</span>
+<span style="color: #666;">New Order (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2fssIzMtXzohm6UYZL8R1R"><img src="https://i.scdn.co/image/ab67616d0000b27328b8e471ff4de594b713d743" width="60" height="60" alt="The Reminder (Deluxe Version)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2fssIzMtXzohm6UYZL8R1R">1234</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Feist (2008)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"><img src="https://i.scdn.co/image/ab67616d0000b27308c18e8a38e47817b6e9aed8" width="60" height="60" alt="Greatest Hits" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI">Killing Me Softly With His Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fugees, Ms. Lauryn Hill, Wyclef Jean, Pras (2003)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"><img src="https://i.scdn.co/image/ab67616d0000b27308c18e8a38e47817b6e9aed8" width="60" height="60" alt="Greatest Hits" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI">Killing Me Softly With His Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fugees, Ms. Lauryn Hill, Wyclef Jean, Pras (2003)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"><img src="https://i.scdn.co/image/ab67616d0000b273fe3a12c23f04549cef0fbe84" width="60" height="60" alt="A 20 Something Fuck" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1">I Feel Like I'm Drowning</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE"><img src="https://i.scdn.co/image/ab67616d0000b273226f3db2f0de0bf60616527f" width="60" height="60" alt="Scousematic 2" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE">Kop That Shit</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Aystar (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf"><img src="https://i.scdn.co/image/ab67616d0000b27391b3adb195fd4017fd3d6400" width="60" height="60" alt="City of Evil" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf">Seize the Day</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf"><img src="https://i.scdn.co/image/ab67616d0000b27391b3adb195fd4017fd3d6400" width="60" height="60" alt="City of Evil" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf">Seize the Day</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2005)</span></td>
@@ -26,30 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b27388f43dfa46119115be9712dc" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5nGkMHDKE3HOjjxk4WoqoA">Knocking on Wood</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC">By Myself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5BoIP8Eha5hwmRVURkC2Us"><img src="https://i.scdn.co/image/ab67616d0000b273eb3092620e6816700d502bb8" width="60" height="60" alt="Jason Derulo" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5BoIP8Eha5hwmRVURkC2Us">In My Head</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jason Derulo (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k"><img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="60" height="60" alt="Man On The Moon: The End Of Day" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k">Pursuit Of Happiness (Nightmare)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, MGMT, Ratatat (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1qm9MfTAoEixNPSqshHqfV"><img src="https://i.scdn.co/image/ab67616d0000b273ff95d6da36363251247978a4" width="60" height="60" alt="Papi Gordo" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1qm9MfTAoEixNPSqshHqfV">Toca (feat. Timmy Trumpet & KSHMR)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Carnage, Timmy Trumpet, KSHMR (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ"><img src="https://i.scdn.co/image/ab67616d0000b273fe7908b7666690bf4e83ce14" width="60" height="60" alt="Pursuit Of Happiness [Extended Steve Aoki Remix (Explicit)]" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ">Pursuit Of Happiness - Extended Steve Aoki Remix</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, MGMT, Ratatat, Steve Aoki (2012)</span></td>
 </tr>
 </table>
 </div>
