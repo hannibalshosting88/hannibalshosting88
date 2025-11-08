@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"><img src="https://i.scdn.co/image/ab67616d0000b273df4dfaff5c996b7998d6c34e" width="150" height="150" alt="Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)" /></a>
+<a href="https://open.spotify.com/track/6BUb5Ti1FO4B1i2iaY7IQQ"><img src="https://i.scdn.co/image/ab67616d0000b273d50b2dcb415302b5864fc07b" width="150" height="150" alt="Ultra Beatdown" /></a>
 
-<b><a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR">That's Amore</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/6BUb5Ti1FO4B1i2iaY7IQQ">Heroes of Our Time</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Dean Martin (1954)</span>
+<span style="color: #666;">DragonForce (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"><img src="https://i.scdn.co/image/ab67616d0000b273df4dfaff5c996b7998d6c34e" width="60" height="60" alt="Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR">That's Amore</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Dean Martin (1954)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P"><img src="https://i.scdn.co/image/ab67616d0000b273d77299e3d29f44495cd7fbcb" width="60" height="60" alt="40oz. To Freedom" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P">Waiting For My Ruca</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1992)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
 <td><b><a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV">Tourniquet</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5"><img src="https://i.scdn.co/image/ab67616d0000b273bc02d6e90da76957899eee36" width="60" height="60" alt="Concrete and Gold" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5">The Sky Is A Neighborhood</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2017)</span></td>
 </tr>
 </table>
 </div>
