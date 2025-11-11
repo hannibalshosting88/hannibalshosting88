@@ -22,13 +22,33 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="150" height="150" alt="Pieces Of Eight" /></a>
+<a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR"><img src="https://i.scdn.co/image/ab67616d0000b273c61d3a663bd18fe8cd97c947" width="150" height="150" alt="Antichrist Superstar" /></a>
 
-<b><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj">Renegade</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR">The Beautiful People</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Styx (1978)</span>
+<span style="color: #666;">Marilyn Manson (1996)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"><img src="https://i.scdn.co/image/ab67616d0000b2738328645e58684d8770a8475f" width="60" height="60" alt="House of Gold & Bones, Part 1" /></a></td>
+<td><b><a href="https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb">Absolute Zero</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Sour (2012)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4qL9VYPB4XwJKAOq4xn2Mh"><img src="https://i.scdn.co/image/ab67616d0000b273966507d369a0de6da093d5f1" width="60" height="60" alt="Dance, Dance, Dance: The Best of Chic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4qL9VYPB4XwJKAOq4xn2Mh">Le Freak</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">CHIC (1991)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4"><img src="https://i.scdn.co/image/ab67616d0000b273502c8b939032d419e06550e9" width="60" height="60" alt="Welcome Back" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4">Welcome Back</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mase (2005)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"><img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="60" height="60" alt="Freddie's Inferno" /></a></td>
+<td><b><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2022)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj">Renegade</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"><img src="https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905" width="60" height="60" alt="Too Rye Ay" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm">Come On Eileen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dexys Midnight Runners (1982)</span></td>
@@ -48,26 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2InG1WrLizDf1KUKYLnmIw"><img src="https://i.scdn.co/image/ab67616d0000b27333ffb7d27fd57a1ad2903de7" width="60" height="60" alt="No Que No" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2InG1WrLizDf1KUKYLnmIw">El Mariachi Loco</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Pedro Fernández (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"><img src="https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee" width="60" height="60" alt="Justified" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5">Cry Me a River</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"><img src="https://i.scdn.co/image/ab67616d0000b27372649ad8e79d1e8bdd54c929" width="60" height="60" alt="Happy Together" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0">Happy Together</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Turtles (1967)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n"><img src="https://i.scdn.co/image/ab67616d0000b27353cf4c30b11cf78c7bf6b793" width="60" height="60" alt="Come Clean" /></a></td>
-<td><b><a href="https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n">She Hates Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"><img src="https://i.scdn.co/image/ab67616d0000b273699a422d25adc550dc5aa11c" width="60" height="60" alt="Silver Side Up" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf">How You Remind Me</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Nickelback (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp"><img src="https://i.scdn.co/image/ab67616d0000b2733c2bba46b66a3c8a83a53015" width="60" height="60" alt="Come Clean" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp">Blurry</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
 </tr>
 </table>
 </div>
