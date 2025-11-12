@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR"><img src="https://i.scdn.co/image/ab67616d0000b273c61d3a663bd18fe8cd97c947" width="150" height="150" alt="Antichrist Superstar" /></a>
+<a href="https://open.spotify.com/track/27cyWPYManSTHiwMreSuGB"><img src="https://i.scdn.co/image/ab67616d0000b2730606154f9f54be70de84cc03" width="150" height="150" alt="Any Port in a Storm (Special Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR">The Beautiful People</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/27cyWPYManSTHiwMreSuGB">Lay Me Down (feat. Rome)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Marilyn Manson (1996)</span>
+<span style="color: #666;">Dirty Heads, ROME (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"><img src="https://i.scdn.co/image/ab67616d0000b2738328645e58684d8770a8475f" width="60" height="60" alt="House of Gold & Bones, Part 1" /></a></td>
-<td><b><a href="https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb">Absolute Zero</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Sour (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs"><img src="https://i.scdn.co/image/ab67616d0000b2737bd7c7c0b0b0e4e38d2feafc" width="60" height="60" alt="The Uncanny Valley" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5Pzy7ts3FbpKU5pD7XmkHs">Death Squad</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Perturbator (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4qL9VYPB4XwJKAOq4xn2Mh"><img src="https://i.scdn.co/image/ab67616d0000b273966507d369a0de6da093d5f1" width="60" height="60" alt="Dance, Dance, Dance: The Best of Chic" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4qL9VYPB4XwJKAOq4xn2Mh">Le Freak</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">CHIC (1991)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"><img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="60" height="60" alt="Blurred Lines (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Robin Thicke, T.I., Pharrell Williams (2013)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4"><img src="https://i.scdn.co/image/ab67616d0000b273502c8b939032d419e06550e9" width="60" height="60" alt="Welcome Back" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4">Welcome Back</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mase (2005)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3KLAVrzY77ZlbQ3GOLZ8CX"><img src="https://i.scdn.co/image/ab67616d0000b273d7775702b925245900375b34" width="60" height="60" alt="Chaos 93'" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3KLAVrzY77ZlbQ3GOLZ8CX">Walkin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ocean Wisdom (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"><img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="60" height="60" alt="Freddie's Inferno" /></a></td>
-<td><b><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0NsgYTRJIoYH39b8w5O6zY"><img src="https://i.scdn.co/image/ab67616d0000b2736045d67194bcdd287ec23e63" width="60" height="60" alt="BANJO BLOODBATH" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0NsgYTRJIoYH39b8w5O6zY">Screamin' & Hollerin' of Souls - Bluegrass Metal</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Appalachian Anarchy (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj">Renegade</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi"><img src="https://i.scdn.co/image/ab67616d0000b27350ea433465b51df6d43194fd" width="60" height="60" alt="Burn The Ships" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi">joy.</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"><img src="https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905" width="60" height="60" alt="Too Rye Ay" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm">Come On Eileen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dexys Midnight Runners (1982)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8"><img src="https://i.scdn.co/image/ab67616d0000b2732d4439111d68acb3f3a08e16" width="60" height="60" alt="Loki: Epic Collection (Cover)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme) - Cover</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Samuel Kim (2021)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"><img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="60" height="60" alt="Enemy (from the series Arcane League of Legends)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Arcane, League of Legends (2021)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7MRi0RjfVnUEY2g9DPcXre"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7MRi0RjfVnUEY2g9DPcXre">Bouncing Off the Walls</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2015)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL"><img src="https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954" width="60" height="60" alt="this is what ____ feels like (Vol. 1-4)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL">this is what falling in love feels like</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">JVKE (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"><img src="https://i.scdn.co/image/ab67616d0000b273229411bccce65156241b6190" width="60" height="60" alt="I Am Not A Human Being" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP">Right Above It</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Drake (2010)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"><img src="https://i.scdn.co/image/ab67616d0000b2734053ce7818f114a4e8dde08f" width="60" height="60" alt="Kick" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs">Need You Tonight</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">INXS (1987)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5mnAnW0sYLKj5ixIuYZgRU"><img src="https://i.scdn.co/image/ab67616d0000b273c1caa4b5400d7452375d5bbd" width="60" height="60" alt="Joy" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5mnAnW0sYLKj5ixIuYZgRU">Rock Me Amadeus</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Amadeus (2020)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2InG1WrLizDf1KUKYLnmIw"><img src="https://i.scdn.co/image/ab67616d0000b27333ffb7d27fd57a1ad2903de7" width="60" height="60" alt="No Que No" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2InG1WrLizDf1KUKYLnmIw">El Mariachi Loco</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Pedro Fernández (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"><img src="https://i.scdn.co/image/ab67616d0000b273f3a8d3033666a6bbafdfa845" width="60" height="60" alt="How Do You Feel Now?" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo">Tongues</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Joywave, KOPPS (2015)</span></td>
 </tr>
 </table>
 </div>
