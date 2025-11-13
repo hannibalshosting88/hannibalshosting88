@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"><img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="150" height="150" alt="Americana" /></a>
+<a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"><img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" width="150" height="150" alt="My Beautiful Dark Twisted Fantasy" /></a>
 
-<b><a href="https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA">Pretty Fly (For A White Guy)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds">Runaway</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">The Offspring (1998)</span>
+<span style="color: #666;">Kanye West, Pusha T (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"><img src="https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d" width="60" height="60" alt="Pablo Honey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r">Creep</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Radiohead (1993)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"><img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="60" height="60" alt="Americana" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA">Pretty Fly (For A White Guy)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Offspring (1998)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"><img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="60" height="60" alt="Americana" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA">Pretty Fly (For A White Guy)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Offspring (1998)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"><img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" width="60" height="60" alt="Appetite For Destruction" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5">Paradise City</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Guns N' Roses (1987)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA"><img src="https://i.scdn.co/image/ab67616d0000b2730a3eb7ef6df5732fc6fa77ec" width="60" height="60" alt="Load" /></a></td>
 <td><b><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA">King Nothing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1996)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"><img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="60" height="60" alt="Audioslave" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo">Show Me How to Live</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Audioslave (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2qzl10bAolDzYE505AWfIV"><img src="https://i.scdn.co/image/ab67616d0000b273ddff645014fd90c003c6dab1" width="60" height="60" alt="Cinematic Songs (Vol. 3)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2qzl10bAolDzYE505AWfIV">Only One King</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Tommee Profitt, Jung Youth (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6"><img src="https://i.scdn.co/image/ab67616d0000b273a883e26f90ab617c91b90e56" width="60" height="60" alt="Inception (Music from the Motion Picture)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6">Dream Is Collapsing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hans Zimmer (2010)</span></td>
 </tr>
 </table>
 </div>
