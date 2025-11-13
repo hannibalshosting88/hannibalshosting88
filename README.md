@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"><img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" width="150" height="150" alt="Appetite For Destruction" /></a>
+<a href="https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"><img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="150" height="150" alt="Americana" /></a>
 
-<b><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5">Paradise City</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA">Pretty Fly (For A White Guy)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Guns N' Roses (1987)</span>
+<span style="color: #666;">The Offspring (1998)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"><img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" width="60" height="60" alt="Appetite For Destruction" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5">Paradise City</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Guns N' Roses (1987)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4wwRROf47MXBX5u5Knwixx"><img src="https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7" width="60" height="60" alt="Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4wwRROf47MXBX5u5Knwixx">We Trying to Stay Alive (feat. John Forté & Pras)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Wyclef Jean, John Forte, Pras (1997)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6"><img src="https://i.scdn.co/image/ab67616d0000b273a883e26f90ab617c91b90e56" width="60" height="60" alt="Inception (Music from the Motion Picture)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6">Dream Is Collapsing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hans Zimmer (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5Xevyftg9SENov82JYXlYQ"><img src="https://i.scdn.co/image/ab67616d0000b273229f132702470af1740b7bf4" width="60" height="60" alt="The Power Within (Special Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5Xevyftg9SENov82JYXlYQ">Cry Thunder</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DragonForce (2012)</span></td>
 </tr>
 </table>
 </div>
