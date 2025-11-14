@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"><img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" width="150" height="150" alt="My Beautiful Dark Twisted Fantasy" /></a>
+<a href="https://open.spotify.com/track/0MvqSYPr5Wi62JB7VWvqwz"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="150" height="150" alt="Perception" /></a>
 
-<b><a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds">Runaway</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0MvqSYPr5Wi62JB7VWvqwz">Green Lights</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Kanye West, Pusha T (2010)</span>
+<span style="color: #666;">NF (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"><img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" width="60" height="60" alt="My Beautiful Dark Twisted Fantasy" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds">Runaway</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West, Pusha T (2010)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"><img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" width="60" height="60" alt="My Beautiful Dark Twisted Fantasy" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds">Runaway</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West, Pusha T (2010)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6WwkNIzmdTvk4x4KNEpmGY"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6WwkNIzmdTvk4x4KNEpmGY">Harbinger</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"><img src="https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf" width="60" height="60" alt="Beautiful Things" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9">Beautiful Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Benson Boone (2024)</span></td>
 </tr>
 </table>
 </div>
