@@ -12,6 +12,10 @@
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"><img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" width="60" height="60" alt="My Beautiful Dark Twisted Fantasy" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds">Runaway</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West, Pusha T (2010)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"><img src="https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d" width="60" height="60" alt="Pablo Honey" /></a></td>
 <td><b><a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r">Creep</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Radiohead (1993)</span></td>
 </tr>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"><img src="https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf" width="60" height="60" alt="Beautiful Things" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9">Beautiful Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Benson Boone (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA"><img src="https://i.scdn.co/image/ab67616d0000b2730a3eb7ef6df5732fc6fa77ec" width="60" height="60" alt="Load" /></a></td>
-<td><b><a href="https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA">King Nothing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1996)</span></td>
 </tr>
 </table>
 </div>
