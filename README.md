@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1RFbeuPJ3RtIoXgUvZCgww"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="150" height="150" alt="Doom (Original Game Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"><img src="https://i.scdn.co/image/ab67616d0000b2730fe330862c62782c7044f044" width="150" height="150" alt="Never Enough" /></a>
 
-<b><a href="https://open.spotify.com/track/1RFbeuPJ3RtIoXgUvZCgww">6_idkill.Vega.Cih</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW">Burn It Down</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Mick Gordon, Chris Hite (2016)</span>
+<span style="color: #666;">Parker McCollum (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1RFbeuPJ3RtIoXgUvZCgww"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1RFbeuPJ3RtIoXgUvZCgww">6_idkill.Vega.Cih</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon, Chris Hite (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"><img src="https://i.scdn.co/image/ab67616d0000b273fc7df879208b362bb1ce1499" width="60" height="60" alt="Purple (2019 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX">Vasoline - 2019 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Temple Pilots (1994)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" width="60" height="60" alt="No Strings Attached" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA">It's Gonna Be Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">*NSYNC (2000)</span></td>
 </tr>
 </table>
 </div>
