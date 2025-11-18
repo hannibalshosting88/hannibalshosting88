@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr"><img src="https://i.scdn.co/image/ab67616d0000b273d19b2b5d0bd2ac50f24e09db" width="150" height="150" alt="Sci-Fi Crimes" /></a>
+<a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3"><img src="https://i.scdn.co/image/ab67616d0000b273f68df0d2e33a7c96a30a7847" width="150" height="150" alt="Dead Air" /></a>
 
-<b><a href="https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr">Jars</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4k87AXjXSNbDcNu9m0BgM3">Dead Air</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Chevelle (2009)</span>
+<span style="color: #666;">Psygnals (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="60" height="60" alt="From Under The Cork Tree" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">Sugar, We're Goin Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2005)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"><img src="https://i.scdn.co/image/ab67616d0000b2730fe330862c62782c7044f044" width="60" height="60" alt="Never Enough" /></a></td>
-<td><b><a href="https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW">Burn It Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Parker McCollum (2023)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1RFbeuPJ3RtIoXgUvZCgww"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1RFbeuPJ3RtIoXgUvZCgww">6_idkill.Vega.Cih</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon, Chris Hite (2016)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE"><img src="https://i.scdn.co/image/ab67616d0000b273226f3db2f0de0bf60616527f" width="60" height="60" alt="Scousematic 2" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE">Kop That Shit</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Aystar (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24">Haunted</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl"><img src="https://i.scdn.co/image/ab67616d0000b2738c28d7443694de36c67be905" width="60" height="60" alt="Prolonging the Magic" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl">Never There</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">CAKE (1998)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"><img src="https://i.scdn.co/image/ab67616d0000b273c418220159462cdd7cfeb9a1" width="60" height="60" alt="Finding Beauty In Negative Spaces (Bonus Track Version)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0">Fake It</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seether (2007)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6R4jqaKXUl7Qp1QVlaMZ34"><img src="https://i.scdn.co/image/ab67616d0000b273b24c2772648d620859c071f2" width="60" height="60" alt="Antisleep, Vol. 03" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6R4jqaKXUl7Qp1QVlaMZ34">Death Hammer</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Blue Stahli (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1QF0gucRbjYxmwBy9ZP48m"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="60" height="60" alt="INSANO (NITRO MEGA)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1QF0gucRbjYxmwBy9ZP48m">CHUNKY</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/66h8hB4In6t725WtAPL23J"><img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" width="60" height="60" alt="Recovery" /></a></td>
-<td><b><a href="https://open.spotify.com/track/66h8hB4In6t725WtAPL23J">Talkin’ 2 Myself</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Eminem, Kobe Honeycutt (2010)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"><img src="https://i.scdn.co/image/ab67616d0000b27353cf4c30b11cf78c7bf6b793" width="60" height="60" alt="Come Clean" /></a></td>
+<td><b><a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF">Control</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"><img src="https://i.scdn.co/image/ab67616d0000b273bce034d651da4d21e43c8a19" width="60" height="60" alt="Come Together" /></a></td>
-<td><b><a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU">Come Together</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Gary Clark Jr., Junkie XL (2017)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG"><img src="https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94" width="60" height="60" alt="One of These Nights (2013 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">Journey of the Sorcerer - 2013 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Eagles (1975)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"><img src="https://i.scdn.co/image/ab67616d0000b273753c41c7fdc5e78ba017bbf5" width="60" height="60" alt="Fire And Water" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1gcESexgftSuLuML57Y69q">All Right Now</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Free (1970)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"><img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" width="60" height="60" alt="Songs About Jane: 10th Anniversary Edition" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF">This Love</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Maroon 5 (2002)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j"><img src="https://i.scdn.co/image/ab67616d0000b27318170cbe68cd3e6d26be4a74" width="60" height="60" alt="A Bigger Bang (2009 Re-Mastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j">Laugh, I Nearly Died - Remastered</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Rolling Stones (2005)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4TCeFZNjGNQIpCuZmJkkE2"><img src="https://i.scdn.co/image/ab67616d0000b273acf99661b45380007ad598cb" width="60" height="60" alt="Fully Loaded: God's Country" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4TCeFZNjGNQIpCuZmJkkE2">God's Country</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Blake Shelton (2019)</span></td>
 </tr>
 </table>
 </div>
