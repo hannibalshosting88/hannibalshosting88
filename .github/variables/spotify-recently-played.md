@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq"><img src="https://i.scdn.co/image/ab67616d0000b273aac864ff7174329862dcf0ae" width="150" height="150" alt="Duel of The Fates - Epic Version (Remastered) [Cover]" /></a>
+<a href="https://open.spotify.com/track/78GAQZUGa11v6f8ozhGqbM"><img src="https://i.scdn.co/image/ab67616d0000b273861d5b1470e2d95fe9aeba7c" width="150" height="150" alt="Negative Spaces" /></a>
 
-<b><a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq">Duel of The Fates - Epic Version (Remastered) - Cover</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/78GAQZUGa11v6f8ozhGqbM">new way out</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Samuel Kim (2022)</span>
+<span style="color: #666;">Poppy (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq"><img src="https://i.scdn.co/image/ab67616d0000b273aac864ff7174329862dcf0ae" width="60" height="60" alt="Duel of The Fates - Epic Version (Remastered) [Cover]" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq">Duel of The Fates - Epic Version (Remastered) - Cover</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Samuel Kim (2022)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"><img src="https://i.scdn.co/image/ab67616d0000b273f67a8d19b2c7130f0437887b" width="60" height="60" alt="GTG" /></a></td>
 <td><b><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">GTG</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2018)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"><img src="https://i.scdn.co/image/ab67616d0000b2735627aa0842d6287bbb223cbf" width="60" height="60" alt="Double Vision (Expanded)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH">Hot Blooded</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foreigner (1978)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P"><img src="https://i.scdn.co/image/ab67616d0000b273d77299e3d29f44495cd7fbcb" width="60" height="60" alt="40oz. To Freedom" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P">Waiting For My Ruca</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1992)</span></td>
 </tr>
 </table>
 </div>
