@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"><img src="https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af" width="150" height="150" alt="Asia" /></a>
+<a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"><img src="https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf" width="150" height="150" alt="Beautiful Things" /></a>
 
-<b><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp">Heat Of The Moment</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9">Beautiful Things</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Asia (1982)</span>
+<span style="color: #666;">Benson Boone (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"><img src="https://i.scdn.co/image/ab67616d0000b2732186eb1b0b5436f858c0508c" width="60" height="60" alt="Tom's Diner" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP">Tom's Diner</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AnnenMayKantereit, Giant Rooks (2019)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"><img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" width="60" height="60" alt="Blurryface" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn">Stressed Out</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Twenty One Pilots (2015)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/01fZMMJLOtLKymmTNAGwsF"><img src="https://i.scdn.co/image/ab67616d0000b2738f0fa3e43932e3e146ec37c0" width="60" height="60" alt="The Irish Rovers 50 Years - Vol. 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/01fZMMJLOtLKymmTNAGwsF">Rare Ould Mountain Dew</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">The Irish Rovers (2014)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="60" height="60" alt="Is This It" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Strokes (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3XxItD7JwghG475aDe8yL2"><img src="https://i.scdn.co/image/ab67616d0000b273eece10ee539479b08711a839" width="60" height="60" alt="Ghostrunner (Original Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3XxItD7JwghG475aDe8yL2">Infiltrator</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Daniel Deluxe (2020)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"><img src="https://i.scdn.co/image/ab67616d0000b2732e94b668c60b06deb1c3a05c" width="60" height="60" alt="GEMINI" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE">Glorious (feat. Skylar Grey)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Macklemore, Skylar Grey (2017)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"><img src="https://i.scdn.co/image/ab67616d0000b273a8045b6cc934e134e99eddd6" width="60" height="60" alt="Death By Rock And Roll" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV">Death By Rock And Roll</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Pretty Reckless (2021)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"><img src="https://i.scdn.co/image/ab67616d0000b2730b6dc73f100159537dae26f4" width="60" height="60" alt="Hi-Lo (feat. Lindsey Stirling)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni">Hi-Lo - feat. Lindsey Stirling</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Evanescence, Lindsey Stirling (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1PKyxZQMGrjEHcLmGiMAL5"><img src="https://i.scdn.co/image/ab67616d0000b273699599750974684ca0a6cc8a" width="60" height="60" alt="Outlaw Nation, Vol. 1" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1PKyxZQMGrjEHcLmGiMAL5">Welcome to My House</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Nu Breed, Jesse Howard (2021)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4cquf5gVfvvyH7JW2mX6eO"><img src="https://i.scdn.co/image/ab67616d0000b273fa9a28730a2b850342e1e757" width="60" height="60" alt="Perspective" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4cquf5gVfvvyH7JW2mX6eO">Primal</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Jason Becker (1996)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/493xja7E57qje1iR0Pwj5K"><img src="https://i.scdn.co/image/ab67616d0000b273d3f2540061827b1801b226a2" width="60" height="60" alt="California Gold" /></a></td>
-<td><b><a href="https://open.spotify.com/track/493xja7E57qje1iR0Pwj5K">Fix What You Didn't Break</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nate Smith (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="60" height="60" alt="The College Dropout" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo">Through The Wire</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2004)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/65aeHyw8GdHFwmEvdSns21"><img src="https://i.scdn.co/image/ab67616d0000b273a186a985ccf9ac0215f937f8" width="60" height="60" alt="Thirds" /></a></td>
-<td><b><a href="https://open.spotify.com/track/65aeHyw8GdHFwmEvdSns21">Walk Away</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">James Gang (1971)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2VKf0uS37dsb6D4AOBpI0p"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2VKf0uS37dsb6D4AOBpI0p">Transistor Fist</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P"><img src="https://i.scdn.co/image/ab67616d0000b273d77299e3d29f44495cd7fbcb" width="60" height="60" alt="40oz. To Freedom" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P">Waiting For My Ruca</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1992)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp">Bring Me To Life</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"><img src="https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee" width="60" height="60" alt="Justified" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT">Rock Your Body</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Justin Timberlake (2002)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="60" height="60" alt="Infinity On High" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp">This Ain't A Scene, It's An Arms Race</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2007)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo"><img src="https://i.scdn.co/image/ab67616d0000b273a1af94a40da71e8999941844" width="60" height="60" alt="wutiwant" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo">wutiwant</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">saraunh0ly (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM"><img src="https://i.scdn.co/image/ab67616d0000b273f26e16c256f7042d8f6a814b" width="60" height="60" alt="Dangerous: The Double Album" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM">Wasted On You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Morgan Wallen (2021)</span></td>
 </tr>
 </table>
 </div>
