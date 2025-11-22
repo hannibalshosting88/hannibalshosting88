@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"><img src="https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf" width="150" height="150" alt="Beautiful Things" /></a>
+<a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"><img src="https://i.scdn.co/image/ab67616d0000b27357ebfccbef07ebff2a495843" width="150" height="150" alt="A Million In Prizes: Iggy Pop Anthology (Edited Version)" /></a>
 
-<b><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9">Beautiful Things</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH">The Passenger</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Benson Boone (2024)</span>
+<span style="color: #666;">Iggy Pop (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"><img src="https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf" width="60" height="60" alt="Beautiful Things" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9">Beautiful Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Benson Boone (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"><img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" width="60" height="60" alt="Blurryface" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn">Stressed Out</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Twenty One Pilots (2015)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="60" height="60" alt="Infinity On High" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp">This Ain't A Scene, It's An Arms Race</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM"><img src="https://i.scdn.co/image/ab67616d0000b273f26e16c256f7042d8f6a814b" width="60" height="60" alt="Dangerous: The Double Album" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM">Wasted On You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Morgan Wallen (2021)</span></td>
 </tr>
 </table>
 </div>
