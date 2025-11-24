@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"><img src="https://i.scdn.co/image/ab67616d0000b27357ebfccbef07ebff2a495843" width="150" height="150" alt="A Million In Prizes: Iggy Pop Anthology (Edited Version)" /></a>
+<a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"><img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" width="150" height="150" alt="Katrina & The Waves" /></a>
 
-<b><a href="https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH">The Passenger</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0">Walking On Sunshine</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Iggy Pop (2005)</span>
+<span style="color: #666;">Katrina & The Waves (1985)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"><img src="https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf" width="60" height="60" alt="Beautiful Things" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9">Beautiful Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Benson Boone (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5"><img src="https://i.scdn.co/image/ab67616d0000b273866c0774471b4d4a5129bb83" width="60" height="60" alt="Get Born (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5">Are You Gonna Be My Girl</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jet (2003)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"><img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" width="60" height="60" alt="Blurryface" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn">Stressed Out</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Twenty One Pilots (2015)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7rKVFhiZFCo9ghpgI7vsqx"><img src="https://i.scdn.co/image/ab67616d0000b2731ec06417ecad84de11260ddb" width="60" height="60" alt="Digital Cowboy" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7rKVFhiZFCo9ghpgI7vsqx">Diddled At Diddy's</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Biscuit Beats (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="60" height="60" alt="Is This It" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Strokes (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh"><img src="https://i.scdn.co/image/ab67616d0000b273ced01b7001a88f0784e7f74f" width="60" height="60" alt="Gangster Sh**" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">Gangster Sh**</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Pete & Bas (2023)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"><img src="https://i.scdn.co/image/ab67616d0000b2732e94b668c60b06deb1c3a05c" width="60" height="60" alt="GEMINI" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE">Glorious (feat. Skylar Grey)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Macklemore, Skylar Grey (2017)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1jL3GXbqzXEDla7fQ94AgZ"><img src="https://i.scdn.co/image/ab67616d0000b2732a6e37f28c2ab73198072d56" width="60" height="60" alt="Real American (Hulk Hogan's WWE Theme)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1jL3GXbqzXEDla7fQ94AgZ">Real American (Hulk Hogan's WWE Theme)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">It Lives, It Breathes (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"><img src="https://i.scdn.co/image/ab67616d0000b2730b6dc73f100159537dae26f4" width="60" height="60" alt="Hi-Lo (feat. Lindsey Stirling)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni">Hi-Lo - feat. Lindsey Stirling</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Evanescence, Lindsey Stirling (2018)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"><img src="https://i.scdn.co/image/ab67616d0000b27332f1572738340ddc9569c54b" width="60" height="60" alt="Megalithic Symphony" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">Sail</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION (2011)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4cquf5gVfvvyH7JW2mX6eO"><img src="https://i.scdn.co/image/ab67616d0000b273fa9a28730a2b850342e1e757" width="60" height="60" alt="Perspective" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4cquf5gVfvvyH7JW2mX6eO">Primal</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Jason Becker (1996)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q"><img src="https://i.scdn.co/image/ab67616d0000b2730f9d33cae4a0275e8fd28b93" width="60" height="60" alt="Megalithic Symphony (10th Anniversary Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q">Sail - Unlimited Gravity Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION, Unlimited Gravity (2021)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="60" height="60" alt="The College Dropout" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo">Through The Wire</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2004)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">I Don't Give A...</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Mystikal, Krayzie Bone (2002)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2VKf0uS37dsb6D4AOBpI0p"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2VKf0uS37dsb6D4AOBpI0p">Transistor Fist</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"><img src="https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905" width="60" height="60" alt="Too Rye Ay" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm">Come On Eileen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dexys Midnight Runners (1982)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp">Bring Me To Life</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"><img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" width="60" height="60" alt="Paranoid (Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc">Paranoid - 2012 - Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Black Sabbath (1970)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"><img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="60" height="60" alt="Infinity On High" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp">This Ain't A Scene, It's An Arms Race</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2007)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/67tgIGwcQvhungN7013EoM"><img src="https://i.scdn.co/image/ab67616d0000b27326f401c31ac9944252d66fab" width="60" height="60" alt="Carry On" /></a></td>
+<td><b><a href="https://open.spotify.com/track/67tgIGwcQvhungN7013EoM">Glory</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Score (2020)</span></td>
 </tr>
 </table>
 </div>
