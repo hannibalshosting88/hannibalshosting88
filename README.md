@@ -22,13 +22,45 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd"><img src="https://i.scdn.co/image/ab67616d0000b27316d9cd79b60c6062036bfadc" width="150" height="150" alt="Jordan Belfort" /></a>
+<a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="150" height="150" alt="Toxicity" /></a>
 
-<b><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd">Jordan Belfort</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ">ATWA</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Wes Walker, Dyl (2015)</span>
+<span style="color: #666;">System Of A Down (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"><img src="https://i.scdn.co/image/ab67616d0000b273cf765b975a3c64713fbf2176" width="60" height="60" alt="Different Man" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8">Thank God</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kane Brown, Katelyn Brown (2022)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl"><img src="https://i.scdn.co/image/ab67616d0000b273e77ae7296a791597f64e4ea1" width="60" height="60" alt="Awkward Encounters While Walking My Dog" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">I've No More ... To Give</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Thomas Benjamin Wild Esq, Damian Clark (2018)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3Vxe2VGjH1bk5PMe9FCtrh">Kenji</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor (2005)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5"><img src="https://i.scdn.co/image/ab67616d0000b2738248914bbbcdcba2d154c8de" width="60" height="60" alt="Labcabincalifornia (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5">Runnin'</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Pharcyde (1995)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">Make Yourself</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3P8sJJKgiWJ7gChayLBJ7I"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3P8sJJKgiWJ7gChayLBJ7I">Grammy Song</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/24z528iI9kZu5LbkLainjI"><img src="https://i.scdn.co/image/ab67616d0000b273985bf5ede2fe4a048ee85f28" width="60" height="60" alt="Infest" /></a></td>
+<td><b><a href="https://open.spotify.com/track/24z528iI9kZu5LbkLainjI">Between Angels And Insects</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Papa Roach (2000)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd"><img src="https://i.scdn.co/image/ab67616d0000b27316d9cd79b60c6062036bfadc" width="60" height="60" alt="Jordan Belfort" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd">Jordan Belfort</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Wes Walker, Dyl (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"><img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" width="60" height="60" alt="Katrina & The Waves" /></a></td>
 <td><b><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0">Walking On Sunshine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Katrina & The Waves (1985)</span></td>
@@ -36,38 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5"><img src="https://i.scdn.co/image/ab67616d0000b273866c0774471b4d4a5129bb83" width="60" height="60" alt="Get Born (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5">Are You Gonna Be My Girl</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jet (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7rKVFhiZFCo9ghpgI7vsqx"><img src="https://i.scdn.co/image/ab67616d0000b2731ec06417ecad84de11260ddb" width="60" height="60" alt="Digital Cowboy" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7rKVFhiZFCo9ghpgI7vsqx">Diddled At Diddy's</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Biscuit Beats (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh"><img src="https://i.scdn.co/image/ab67616d0000b273ced01b7001a88f0784e7f74f" width="60" height="60" alt="Gangster Sh**" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">Gangster Sh**</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Pete & Bas (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1jL3GXbqzXEDla7fQ94AgZ"><img src="https://i.scdn.co/image/ab67616d0000b2732a6e37f28c2ab73198072d56" width="60" height="60" alt="Real American (Hulk Hogan's WWE Theme)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1jL3GXbqzXEDla7fQ94AgZ">Real American (Hulk Hogan's WWE Theme)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">It Lives, It Breathes (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"><img src="https://i.scdn.co/image/ab67616d0000b27332f1572738340ddc9569c54b" width="60" height="60" alt="Megalithic Symphony" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">Sail</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION (2011)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q"><img src="https://i.scdn.co/image/ab67616d0000b2730f9d33cae4a0275e8fd28b93" width="60" height="60" alt="Megalithic Symphony (10th Anniversary Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q">Sail - Unlimited Gravity Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION, Unlimited Gravity (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">I Don't Give A...</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Mystikal, Krayzie Bone (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"><img src="https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905" width="60" height="60" alt="Too Rye Ay" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm">Come On Eileen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dexys Midnight Runners (1982)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"><img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" width="60" height="60" alt="Paranoid (Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc">Paranoid - 2012 - Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Black Sabbath (1970)</span></td>
 </tr>
 </table>
 </div>
