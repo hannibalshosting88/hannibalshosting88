@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"><img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" width="150" height="150" alt="Katrina & The Waves" /></a>
+<a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd"><img src="https://i.scdn.co/image/ab67616d0000b27316d9cd79b60c6062036bfadc" width="150" height="150" alt="Jordan Belfort" /></a>
 
-<b><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0">Walking On Sunshine</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd">Jordan Belfort</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Katrina & The Waves (1985)</span>
+<span style="color: #666;">Wes Walker, Dyl (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"><img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" width="60" height="60" alt="Katrina & The Waves" /></a></td>
+<td><b><a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0">Walking On Sunshine</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Katrina & The Waves (1985)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5"><img src="https://i.scdn.co/image/ab67616d0000b273866c0774471b4d4a5129bb83" width="60" height="60" alt="Get Born (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5">Are You Gonna Be My Girl</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jet (2003)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"><img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" width="60" height="60" alt="Paranoid (Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc">Paranoid - 2012 - Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Black Sabbath (1970)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/67tgIGwcQvhungN7013EoM"><img src="https://i.scdn.co/image/ab67616d0000b27326f401c31ac9944252d66fab" width="60" height="60" alt="Carry On" /></a></td>
-<td><b><a href="https://open.spotify.com/track/67tgIGwcQvhungN7013EoM">Glory</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Score (2020)</span></td>
 </tr>
 </table>
 </div>
