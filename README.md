@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="150" height="150" alt="Make Yourself" /></a>
+<a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="150" height="150" alt="The Rising Tied" /></a>
 
-<b><a href="https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8">Pardon Me</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA">High Road (feat. John Legend)</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Incubus (1999)</span>
+<span style="color: #666;">Fort Minor, John Legend (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2L7E2IsUbGiGqT9aSehkID"><img src="https://i.scdn.co/image/ab67616d0000b2732a565b188a0ad858cee9928f" width="60" height="60" alt="Chicago - Music From The Miramax Motion Picture" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2L7E2IsUbGiGqT9aSehkID">We Both Reached For The Gun</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Christine Baranski, Cleve Asbury, Shaun Amyot, Rick Negron, Taye Diggs (2002)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q"><img src="https://i.scdn.co/image/ab67616d0000b27311079bb97e1f95d1a917ce0b" width="60" height="60" alt="Fly By Night" /></a></td>
+<td><b><a href="https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q">Fly By Night</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Rush (1975)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem">My Way</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1kyTf6EuKSuMyLZSFaQ80s"><img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="60" height="60" alt="Brasshopper" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1kyTf6EuKSuMyLZSFaQ80s">I'll Fly Away</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass, Harmen Ridderbos (2015)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0MnJ73xPk7rQDw0lIu8kBh"><img src="https://i.scdn.co/image/ab67616d0000b2736dfdabd8d791c3fc94baf463" width="60" height="60" alt="PUNK TACTICS" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0MnJ73xPk7rQDw0lIu8kBh">STARTAFIGHT</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Joey Valence & Brae (2023)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j"><img src="https://i.scdn.co/image/ab67616d0000b27318170cbe68cd3e6d26be4a74" width="60" height="60" alt="A Bigger Bang (2009 Re-Mastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j">Laugh, I Nearly Died - Remastered</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Rolling Stones (2005)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq"><img src="https://i.scdn.co/image/ab67616d0000b2732bdf20efaf4b308ba0defa70" width="60" height="60" alt="With a Vengeance" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">Quaid</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2018)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3XLnsk7Xs7ONROfmWTB58u"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="60" height="60" alt="Death Magnetic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3XLnsk7Xs7ONROfmWTB58u">The Judas Kiss</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Metallica (2008)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1jLmVI46Yf0jzQkugZReIn"><img src="https://i.scdn.co/image/ab67616d0000b273bbd54b6904a458f8912bff7f" width="60" height="60" alt="The Elder Scrolls V: Skyrim (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1jLmVI46Yf0jzQkugZReIn">Dragonborn</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jeremy Soule, The Elder Scrolls (2011)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"><img src="https://i.scdn.co/image/ab67616d0000b2734e492e787ed64de43c3a3a21" width="60" height="60" alt="Follow The Leader" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu">Freak On a Leash</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (1998)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="60" height="60" alt="Pray for the Wicked" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2018)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"><img src="https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830" width="60" height="60" alt="Ready to Die (The Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww">Big Poppa - 2005 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Notorious B.I.G. (1994)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273bfff163b0602156a983fa079" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"><img src="https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8" width="60" height="60" alt="Only By The Night" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45">Sex on Fire</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kings of Leon (2008)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"><img src="https://i.scdn.co/image/ab67616d0000b2733cf83c82a8e976d7b51e2d00" width="60" height="60" alt="Facelift" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F">Man in the Box</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Alice In Chains (1990)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6FuvavdApbDC1pG5jldehp"><img src="https://i.scdn.co/image/ab67616d0000b273e5bc3516872cdd2fc66ca105" width="60" height="60" alt="Reaching into Infinity (Special Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6FuvavdApbDC1pG5jldehp">Ashes of the Dawn</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">DragonForce (2017)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX"><img src="https://i.scdn.co/image/ab67616d0000b273f142205e336ec0af3e1a4eb0" width="60" height="60" alt="Singles (2016 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX">Blue Monday - 2016 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">New Order (2005)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"><img src="https://i.scdn.co/image/ab67616d0000b273d7d4922d7d2b7e596084075e" width="60" height="60" alt="The Essential Kansas" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kansas (2010)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK"><img src="https://i.scdn.co/image/ab67616d0000b273463986d828c59a03f2ab0a3f" width="60" height="60" alt="The House That Dirt Built" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">How You Like Me Now</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Heavy (2009)</span></td>
 </tr>
 </table>
 </div>
