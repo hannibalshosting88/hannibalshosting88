@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2L7E2IsUbGiGqT9aSehkID"><img src="https://i.scdn.co/image/ab67616d0000b2732a565b188a0ad858cee9928f" width="150" height="150" alt="Chicago - Music From The Miramax Motion Picture" /></a>
+<a href="https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="150" height="150" alt="Make Yourself" /></a>
 
-<b><a href="https://open.spotify.com/track/2L7E2IsUbGiGqT9aSehkID">We Both Reached For The Gun</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8">Pardon Me</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Christine Baranski, Cleve Asbury, Shaun Amyot, Rick Negron, Taye Diggs (2002)</span>
+<span style="color: #666;">Incubus (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2L7E2IsUbGiGqT9aSehkID"><img src="https://i.scdn.co/image/ab67616d0000b2732a565b188a0ad858cee9928f" width="60" height="60" alt="Chicago - Music From The Miramax Motion Picture" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2L7E2IsUbGiGqT9aSehkID">We Both Reached For The Gun</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Christine Baranski, Cleve Asbury, Shaun Amyot, Rick Negron, Taye Diggs (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem">My Way</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"><img src="https://i.scdn.co/image/ab67616d0000b273d7d4922d7d2b7e596084075e" width="60" height="60" alt="The Essential Kansas" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kansas (2010)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0FH8B5hZaNWY6SB3Ju5HMb"><img src="https://i.scdn.co/image/ab67616d0000b2738607fe1752b57d7154a15d3b" width="60" height="60" alt="Ahgainst the Grain" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0FH8B5hZaNWY6SB3Ju5HMb">Gunther Mackett</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">The Stixxx (2012)</span></td>
 </tr>
 </table>
 </div>
