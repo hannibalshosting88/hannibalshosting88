@@ -22,13 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1lQWXZVauveHPcWblubhCo"><img src="https://i.scdn.co/image/ab67616d0000b2734cf98aca337959b506fb25ac" width="150" height="150" alt="Unbreakable" /></a>
+<a href="https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"><img src="https://i.scdn.co/image/ab67616d0000b273fc7df879208b362bb1ce1499" width="150" height="150" alt="Purple (2019 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/1lQWXZVauveHPcWblubhCo">Strike</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3">Interstate Love Song - 2019 Remaster</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Primal Fear (2012)</span>
+<span style="color: #666;">Stone Temple Pilots (1994)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"><img src="https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4" width="60" height="60" alt="Poison" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH">Poison</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bell Biv DeVoe (1990)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"><img src="https://i.scdn.co/image/ab67616d0000b273bd01ceabd584855b2edd838d" width="60" height="60" alt="HUMBLE. (SKRILLEX REMIX)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ">HUMBLE. - SKRILLEX REMIX</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Skrillex, Kendrick Lamar (2017)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5QcSLVq30mIhTSOHlhjnCF"><img src="https://i.scdn.co/image/ab67616d0000b273fb303588ba010f01fb55774d" width="60" height="60" alt="God Hates Us All" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5QcSLVq30mIhTSOHlhjnCF">Payback</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Slayer (2001)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="60" height="60" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2008)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW"><img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="60" height="60" alt="When Life Gives You Lemons, You Paint That Shit Gold" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant (2008)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1lQWXZVauveHPcWblubhCo"><img src="https://i.scdn.co/image/ab67616d0000b2734cf98aca337959b506fb25ac" width="60" height="60" alt="Unbreakable" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1lQWXZVauveHPcWblubhCo">Strike</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Primal Fear (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q"><img src="https://i.scdn.co/image/ab67616d0000b2730f9d33cae4a0275e8fd28b93" width="60" height="60" alt="Megalithic Symphony (10th Anniversary Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q">Sail - Unlimited Gravity Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION, Unlimited Gravity (2021)</span></td>
@@ -44,30 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3TIOuRZP0evRRBodoOG5Dx"><img src="https://i.scdn.co/image/ab67616d0000b273bbc576d9b58b7b6ad4ba31e8" width="60" height="60" alt="No Shame" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3TIOuRZP0evRRBodoOG5Dx">Ill Mind of Hopsin 9</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hopsin (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"><img src="https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed" width="60" height="60" alt="White Pony" /></a></td>
-<td><b><a href="https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3">Change (In the House of Flies)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Deftones (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" width="60" height="60" alt="Is This It" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv">Last Nite</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Strokes (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1BmdqDrBU5eohtRwHBls6C"><img src="https://i.scdn.co/image/ab67616d0000b27365f75a324229390511bec07e" width="60" height="60" alt="joy. (R3HAB Remix)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1BmdqDrBU5eohtRwHBls6C">joy. (R3HAB Remix)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY, R3HAB (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5mfcFNV1pDNAwLguz9pFW0"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5mfcFNV1pDNAwLguz9pFW0">Anna Molly</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0i7iKf20LYEqAlHkUWn8oD"><img src="https://i.scdn.co/image/ab67616d0000b2737eb2a5fd42c0fc0cfae1fee3" width="60" height="60" alt="Start a War" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0i7iKf20LYEqAlHkUWn8oD">War Machine</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Entropy Zero, Cliff Lin (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA">High Road (feat. John Legend)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, John Legend (2005)</span></td>
 </tr>
 </table>
 </div>
