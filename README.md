@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX"><img src="https://i.scdn.co/image/ab67616d0000b273a5ea3573e8f48f5485760e2e" width="150" height="150" alt="Professional Rapper" /></a>
+<a href="https://open.spotify.com/track/2osYucU0wCd95ppZXDZhF7"><img src="https://i.scdn.co/image/ab67616d0000b273591e4932468b37feeb378830" width="150" height="150" alt="22 Grand" /></a>
 
-<b><a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX">$ave Dat Money (feat. Fetty Wap & Rich Homie Quan)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2osYucU0wCd95ppZXDZhF7">22 Grand</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lil Dicky, Fetty Wap, Rich Homie Quan (2015)</span>
+<span style="color: #666;">DigBar (2025)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX"><img src="https://i.scdn.co/image/ab67616d0000b273a5ea3573e8f48f5485760e2e" width="60" height="60" alt="Professional Rapper" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX">$ave Dat Money (feat. Fetty Wap & Rich Homie Quan)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Dicky, Fetty Wap, Rich Homie Quan (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw"><img src="https://i.scdn.co/image/ab67616d0000b2738fc454734a3d19585bc12dd1" width="60" height="60" alt="System Of A Down" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">Spiders</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (1998)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5VEl0gJ8azv3o7d5BZGy9g"><img src="https://i.scdn.co/image/ab67616d0000b2736a198dc2aec6b77d96667644" width="60" height="60" alt="Bootleg" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5VEl0gJ8azv3o7d5BZGy9g">Bootleg</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Tom O'Connor (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1h4TPhdEOl6FPmMHIU74vc"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="60" height="60" alt="Galactic Empire" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1h4TPhdEOl6FPmMHIU74vc">Cantina Band</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2017)</span></td>
 </tr>
 </table>
 </div>
