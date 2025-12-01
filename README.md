@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2osYucU0wCd95ppZXDZhF7"><img src="https://i.scdn.co/image/ab67616d0000b273591e4932468b37feeb378830" width="150" height="150" alt="22 Grand" /></a>
+<a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r"><img src="https://i.scdn.co/image/ab67616d0000b273385b6c04e953808acf3964ec" width="150" height="150" alt="Never Land" /></a>
 
-<b><a href="https://open.spotify.com/track/2osYucU0wCd95ppZXDZhF7">22 Grand</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">You Can't Stop Me</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">DigBar (2025)</span>
+<span style="color: #666;">Andy Mineo (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX"><img src="https://i.scdn.co/image/ab67616d0000b273a5ea3573e8f48f5485760e2e" width="60" height="60" alt="Professional Rapper" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX">$ave Dat Money (feat. Fetty Wap & Rich Homie Quan)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Dicky, Fetty Wap, Rich Homie Quan (2015)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID"><img src="https://i.scdn.co/image/ab67616d0000b273f31382d7bd220e2c6b3f7f14" width="60" height="60" alt="Had Some Drinks" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID">Had Some Drinks</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw"><img src="https://i.scdn.co/image/ab67616d0000b2738fc454734a3d19585bc12dd1" width="60" height="60" alt="System Of A Down" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">Spiders</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (1998)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="60" height="60" alt="Invaders Must Die" /></a></td>
+<td><b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (2009)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC"><img src="https://i.scdn.co/image/ab67616d0000b27374be78bd14d095c8d76943a0" width="60" height="60" alt="The Click (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC">Burn The House Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2018)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"><img src="https://i.scdn.co/image/ab67616d0000b27334cbf7013afccc7df67fa43f" width="60" height="60" alt="Blur: The Best Of" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK">Song 2</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Blur (2000)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5W5riPbci6HLF2TkTd2VyA"><img src="https://i.scdn.co/image/ab67616d0000b27311b32ec8f429d5bcfbc8bd21" width="60" height="60" alt="Legendary Years (Re-Recorded)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5W5riPbci6HLF2TkTd2VyA">Dawn of Victory - Re-Recorded</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Rhapsody Of Fire (2017)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz"><img src="https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c" width="60" height="60" alt="Significant Other" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz">9 Teen 90 Nine</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (1999)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s"><img src="https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890" width="60" height="60" alt="Wonder What's Next (Expanded Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s">Send the Pain Below</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Chevelle (2002)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0rYvxOJ6hbTLJg2DLe3xYC"><img src="https://i.scdn.co/image/ab67616d0000b27380d00bda36629fe9fa469afe" width="60" height="60" alt="Brothers Grimm" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0rYvxOJ6hbTLJg2DLe3xYC">Jimmy Recard</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Drapht (2008)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT">At Doom's Gate</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0MnJ73xPk7rQDw0lIu8kBh"><img src="https://i.scdn.co/image/ab67616d0000b2736dfdabd8d791c3fc94baf463" width="60" height="60" alt="PUNK TACTICS" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0MnJ73xPk7rQDw0lIu8kBh">STARTAFIGHT</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Joey Valence & Brae (2023)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu"><img src="https://i.scdn.co/image/ab67616d0000b273c8daee787d1de4a14406f5eb" width="60" height="60" alt="Lies" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu">Spoiler - Original Mix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper (2014)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4"><img src="https://i.scdn.co/image/ab67616d0000b273186b235052f031900c5cb282" width="60" height="60" alt="'N Sync UK Version" /></a></td>
+<td><b><a href="https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4">Tearin' up My Heart - Radio Edit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">*NSYNC (1997)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0"><img src="https://i.scdn.co/image/ab67616d0000b27360c84f44c080824ce336e1a1" width="60" height="60" alt="Save Rock And Roll" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0">My Songs Know What You Did In The Dark (Light Em Up)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2013)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ"><img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="60" height="60" alt="Light Grenades" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5wvYib82q05wiNjLElD8GJ">Dig</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2006)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"><img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" width="60" height="60" alt="Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB">Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign (2016)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="60" height="60" alt="Hypnotize" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5VEl0gJ8azv3o7d5BZGy9g"><img src="https://i.scdn.co/image/ab67616d0000b2736a198dc2aec6b77d96667644" width="60" height="60" alt="Bootleg" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5VEl0gJ8azv3o7d5BZGy9g">Bootleg</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Tom O'Connor (2020)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"><img src="https://i.scdn.co/image/ab67616d0000b2735695a657aef0e81bde0c6001" width="60" height="60" alt="Once Upon A Time (Super Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9">Don't You (Forget About Me)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Simple Minds (1985)</span></td>
 </tr>
 </table>
 </div>
