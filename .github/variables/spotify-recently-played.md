@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r"><img src="https://i.scdn.co/image/ab67616d0000b273385b6c04e953808acf3964ec" width="150" height="150" alt="Never Land" /></a>
+<a href="https://open.spotify.com/track/1GHqc0e7PQ6aEyGlvfSJzS"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="150" height="150" alt="The Rising Tied (Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">You Can't Stop Me</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1GHqc0e7PQ6aEyGlvfSJzS">Where'd You Go (feat. Holly Brook & Jonah Matranga)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Andy Mineo (2014)</span>
+<span style="color: #666;">Fort Minor, Holly Brook, Jonah Matranga (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r"><img src="https://i.scdn.co/image/ab67616d0000b273385b6c04e953808acf3964ec" width="60" height="60" alt="Never Land" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">You Can't Stop Me</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Andy Mineo (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID"><img src="https://i.scdn.co/image/ab67616d0000b273f31382d7bd220e2c6b3f7f14" width="60" height="60" alt="Had Some Drinks" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6gGBL1uMBcNUOzSYfKreID">Had Some Drinks</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Two Feet (2017)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="60" height="60" alt="Hypnotize" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"><img src="https://i.scdn.co/image/ab67616d0000b2735695a657aef0e81bde0c6001" width="60" height="60" alt="Once Upon A Time (Super Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9">Don't You (Forget About Me)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Simple Minds (1985)</span></td>
 </tr>
 </table>
 </div>
