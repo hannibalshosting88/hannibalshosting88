@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273bfff163b0602156a983fa079" width="150" height="150" alt="One By One (Expanded Edition)" /></a>
+<a href="https://open.spotify.com/track/3yrvQHw6pQemsrCQEpMnKv"><img src="https://i.scdn.co/image/ab67616d0000b273fa94e7d8d2480cc906ba4441" width="150" height="150" alt="Paramore (Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3yrvQHw6pQemsrCQEpMnKv">Ain't It Fun</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Foo Fighters (2002)</span>
+<span style="color: #666;">Paramore (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273bfff163b0602156a983fa079" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"><img src="https://i.scdn.co/image/ab67616d0000b2737e1f85f69323acac962516c4" width="60" height="60" alt="Garage, Inc." /></a></td>
 <td><b><a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP">Whiskey In The Jar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1998)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9"><img src="https://i.scdn.co/image/ab67616d0000b2737a1ca67982b45f4e3e8387d6" width="60" height="60" alt="Now And Forever" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9">Fight Song</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sister Sin (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"><img src="https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f" width="60" height="60" alt="METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB">Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metro Boomin, Swae Lee, Lil Wayne, Offset (2023)</span></td>
 </tr>
 </table>
 </div>
