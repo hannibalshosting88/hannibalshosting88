@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ"><img src="https://i.scdn.co/image/ab67616d0000b273efbcab3253cf66cc8ca42172" width="150" height="150" alt="No Stranger to Shame" /></a>
+<a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q"><img src="https://i.scdn.co/image/ab67616d0000b2730f9d33cae4a0275e8fd28b93" width="150" height="150" alt="Megalithic Symphony (10th Anniversary Deluxe Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ">Drift Away</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q">Sail - Unlimited Gravity Remix</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Uncle Kracker (2002)</span>
+<span style="color: #666;">AWOLNATION, Unlimited Gravity (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1JTZqN0snbMSNtp59zveTs"><img src="https://i.scdn.co/image/ab67616d0000b2736a0b17b302637c4094433f09" width="60" height="60" alt="All 6's And 7's" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1JTZqN0snbMSNtp59zveTs">Am I A Psycho</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Tech N9ne (2011)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT">Get By</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3TxsVS9zyHvlymql2upaXM"><img src="https://i.scdn.co/image/ab67616d0000b27379cf55bfe841cd6d64895a33" width="60" height="60" alt="Like A Prayer (From "Deadpool & Wolverine Trailer")" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3TxsVS9zyHvlymql2upaXM">Like A Prayer (From "Deadpool & Wolverine Trailer")</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Geek Music (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT">Get By</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"><img src="https://i.scdn.co/image/ab67616d0000b2731a0278d4109c0f974821aa33" width="60" height="60" alt="Drops Of Jupiter" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA">Drops of Jupiter (Tell Me)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Train (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6ft2eVtvt4okD58OvpPXIk"><img src="https://i.scdn.co/image/ab67616d0000b273784706138cf16da58822b58b" width="60" height="60" alt="Late To Work" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6ft2eVtvt4okD58OvpPXIk">Late To Work</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marc Rebillet (2023)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq"><img src="https://i.scdn.co/image/ab67616d0000b273dfd165103fba4a50789afc91" width="60" height="60" alt="Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq">Anakin vs. Obi-Wan</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">John Williams, London Symphony Orchestra (2005)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"><img src="https://i.scdn.co/image/ab67616d0000b273c34064a3c5e4a25892a091f3" width="60" height="60" alt="Nightmare" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8">Nightmare</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2010)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"><img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" width="60" height="60" alt="Bleed American" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">The Middle</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Jimmy Eat World (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48"><img src="https://i.scdn.co/image/ab67616d0000b2735001f28f54683843c80129bf" width="60" height="60" alt="bad times friend..." /></a></td>
+<td><b><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">By the Sword</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">iamjakehill (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"><img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" width="60" height="60" alt="Bleed American" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">The Middle</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Jimmy Eat World (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"><img src="https://i.scdn.co/image/ab67616d0000b2731e0dc5baaabda304b0ad1815" width="60" height="60" alt="Weezer" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn">Hash Pipe</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1lQWXZVauveHPcWblubhCo"><img src="https://i.scdn.co/image/ab67616d0000b2734cf98aca337959b506fb25ac" width="60" height="60" alt="Unbreakable" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1lQWXZVauveHPcWblubhCo">Strike</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Primal Fear (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C"><img src="https://i.scdn.co/image/ab67616d0000b27302a999c3a283b5392e57737d" width="60" height="60" alt="Tha Carter III (MTV Bonus Version)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C">A Milli</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2008)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"><img src="https://i.scdn.co/image/ab67616d0000b27353cf4c30b11cf78c7bf6b793" width="60" height="60" alt="Come Clean" /></a></td>
-<td><b><a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF">Control</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C"><img src="https://i.scdn.co/image/ab67616d0000b27302a999c3a283b5392e57737d" width="60" height="60" alt="Tha Carter III (MTV Bonus Version)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C">A Milli</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2008)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"><img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" width="60" height="60" alt="Led Zeppelin IV (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD">Rock and Roll - Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Led Zeppelin (1971)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"><img src="https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af" width="60" height="60" alt="Asia" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp">Heat Of The Moment</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Asia (1982)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"><img src="https://i.scdn.co/image/ab67616d0000b27379ac84696fa8624e97684d27" width="60" height="60" alt="Mother's Milk" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl">Higher Ground - Remastered 2003</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (1989)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ"><img src="https://i.scdn.co/image/ab67616d0000b273efbcab3253cf66cc8ca42172" width="60" height="60" alt="No Stranger to Shame" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ">Drift Away</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Uncle Kracker (2002)</span></td>
 </tr>
 </table>
 </div>
