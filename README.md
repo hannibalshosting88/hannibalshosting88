@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5Tm9At0xeFb0MtlV8uI3eY"><img src="https://i.scdn.co/image/ab67616d0000b2735c8d9ad991d2a23eb039d8dd" width="150" height="150" alt="Passion, Pain & Demon Slayin'" /></a>
+<a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="150" height="150" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/5Tm9At0xeFb0MtlV8uI3eY">Releaser</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Kid Cudi (2016)</span>
+<span style="color: #666;">ZAYN, Taylor Swift (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q"><img src="https://i.scdn.co/image/ab67616d0000b2730f9d33cae4a0275e8fd28b93" width="60" height="60" alt="Megalithic Symphony (10th Anniversary Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3kX6cdhy9XQBPL81GvEt0Q">Sail - Unlimited Gravity Remix</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">AWOLNATION, Unlimited Gravity (2021)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT">Get By</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5">Runaway</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT">Get By</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"><img src="https://i.scdn.co/image/ab67616d0000b2732b222dcd5c4fcac7c0e81da2" width="60" height="60" alt="The Sickness" /></a></td>
+<td><b><a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v">Down with the Sickness</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Disturbed (2000)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6ft2eVtvt4okD58OvpPXIk"><img src="https://i.scdn.co/image/ab67616d0000b273784706138cf16da58822b58b" width="60" height="60" alt="Late To Work" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6ft2eVtvt4okD58OvpPXIk">Late To Work</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marc Rebillet (2023)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0K3nNsPaNxLXSgbLnbumbv"><img src="https://i.scdn.co/image/ab67616d0000b27379f4fe59d312938c5cecfd46" width="60" height="60" alt="SWISH" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0K3nNsPaNxLXSgbLnbumbv">Be (part 2)</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Joywave (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"><img src="https://i.scdn.co/image/ab67616d0000b273c34064a3c5e4a25892a091f3" width="60" height="60" alt="Nightmare" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8">Nightmare</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Avenged Sevenfold (2010)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco">Aerials</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48"><img src="https://i.scdn.co/image/ab67616d0000b2735001f28f54683843c80129bf" width="60" height="60" alt="bad times friend..." /></a></td>
-<td><b><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">By the Sword</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">iamjakehill (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3"><img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="60" height="60" alt="The Essential Incubus" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">Black Heart Inertia</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Incubus (2012)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"><img src="https://i.scdn.co/image/ab67616d0000b2731e0dc5baaabda304b0ad1815" width="60" height="60" alt="Weezer" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn">Hash Pipe</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"><img src="https://i.scdn.co/image/ab67616d0000b273db38819ff1e73809f8be6107" width="60" height="60" alt="Dystopia" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO">Dystopia</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Megadeth (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C"><img src="https://i.scdn.co/image/ab67616d0000b27302a999c3a283b5392e57737d" width="60" height="60" alt="Tha Carter III (MTV Bonus Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C">A Milli</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2008)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU">All The Small Things</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C"><img src="https://i.scdn.co/image/ab67616d0000b27302a999c3a283b5392e57737d" width="60" height="60" alt="Tha Carter III (MTV Bonus Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C">A Milli</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2008)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1q3mkNYqBIzPnD1F9F4msm"><img src="https://i.scdn.co/image/ab67616d0000b27380255b6cc3fda7dc4ad84680" width="60" height="60" alt="Wolfenstein II: The New Colossus (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1q3mkNYqBIzPnD1F9F4msm">Gettin' ready</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp"><img src="https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af" width="60" height="60" alt="Asia" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp">Heat Of The Moment</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Asia (1982)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC">By Myself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
 </tr>
 </table>
 </div>
