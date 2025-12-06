@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="150" height="150" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="150" height="150" alt="Get Rich Or Die Tryin'" /></a>
 
-<b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">ZAYN, Taylor Swift (2017)</span>
+<span style="color: #666;">50 Cent (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="60" height="60" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">ZAYN, Taylor Swift (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="60" height="60" alt="Enema Of The State" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What's My Age Again?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">blink-182 (1999)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1q3mkNYqBIzPnD1F9F4msm"><img src="https://i.scdn.co/image/ab67616d0000b27380255b6cc3fda7dc4ad84680" width="60" height="60" alt="Wolfenstein II: The New Colossus (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1q3mkNYqBIzPnD1F9F4msm">Gettin' ready</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC">By Myself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
 </tr>
 </table>
 </div>
