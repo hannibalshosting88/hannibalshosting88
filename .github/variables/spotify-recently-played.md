@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="150" height="150" alt="The College Dropout" /></a>
+<a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="150" height="150" alt="Hypnotize" /></a>
 
-<b><a href="https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx">Jesus Walks</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Kanye West (2004)</span>
+<span style="color: #666;">System Of A Down (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"><img src="https://i.scdn.co/image/ab67616d0000b2735695a657aef0e81bde0c6001" width="60" height="60" alt="Once Upon A Time (Super Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9">Don't You (Forget About Me)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Simple Minds (1985)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"><img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" width="60" height="60" alt="Stadium Arcadium" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO">Snow (Hey Oh)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2006)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00"><img src="https://i.scdn.co/image/ab67616d0000b2736b275d72474c508ce2b405a4" width="60" height="60" alt="S&M" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00">No Leaf Clover - Live with the SFSO</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1999)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI"><img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="60" height="60" alt="Times Square" /></a></td>
+<td><b><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don't Wait</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2023)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" width="60" height="60" alt="Millennium" /></a></td>
-<td><b><a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya">I Want It That Way</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1999)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7y2yESom4cfYmlhDlY9SiF"><img src="https://i.scdn.co/image/ab67616d0000b273d1d1f3d8dd3684ee3d75385b" width="60" height="60" alt="Shadows On The Sun" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7y2yESom4cfYmlhDlY9SiF">Dorian</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Brother Ali (2003)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"><img src="https://i.scdn.co/image/ab67616d0000b2736a21b97de47168df4f0c1993" width="60" height="60" alt="El Camino" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI">Lonely Boy</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Black Keys (2011)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="60" height="60" alt="This Is Why" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M">This Is Why</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Paramore (2023)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7yOJdvFCcdc3WySZm4XYMO"><img src="https://i.scdn.co/image/ab67616d0000b27378e7d5b0537b966717af3197" width="60" height="60" alt="We Ride" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7yOJdvFCcdc3WySZm4XYMO">We Ride</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bryan Martin (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5VwbG9KiOvJIsykNJeBSuk"><img src="https://i.scdn.co/image/ab67616d0000b2736045d67194bcdd287ec23e63" width="60" height="60" alt="BANJO BLOODBATH" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5VwbG9KiOvJIsykNJeBSuk">HELLbilly Inferno - Insane Bluegrass Metal</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Appalachian Anarchy (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/50gP4chKGGnfW84nhrXW64"><img src="https://i.scdn.co/image/ab67616d0000b273a753256f56abf3382f7b65a1" width="60" height="60" alt="Tears Of Blood <<3FOOLZ MIXX>> #BLXXDMONEYKREW" /></a></td>
-<td><b><a href="https://open.spotify.com/track/50gP4chKGGnfW84nhrXW64">Tears Of Blood <<3FOOLZ MIXX>> #BLXXDMONEYKREW</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">lowgoldjay x 3foolz (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7eY8T4XpsgiEvTq7uWcYnO"><img src="https://i.scdn.co/image/ab67616d0000b273748b7fd7c5e73fc3bb85c1bd" width="60" height="60" alt="Flammable Grammar" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7eY8T4XpsgiEvTq7uWcYnO">Hand's Up</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Antix (2010)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9"><img src="https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d" width="60" height="60" alt="The Heist" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9">Thrift Shop (feat. Wanz)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Wanz (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp"><img src="https://i.scdn.co/image/ab67616d0000b2733c2bba46b66a3c8a83a53015" width="60" height="60" alt="Come Clean" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp">Blurry</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9"><img src="https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d" width="60" height="60" alt="The Heist" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9">Thrift Shop (feat. Wanz)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Wanz (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT">Get By</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"><img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" width="60" height="60" alt="Californication (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1">Scar Tissue</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (1999)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z"><img src="https://i.scdn.co/image/ab67616d0000b273e074af9f5663eda06c5341ac" width="60" height="60" alt="And You Are Me" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z">Keep The Wolves Away</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Uncle Lucius (2012)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco">Aerials</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc"><img src="https://i.scdn.co/image/ab67616d0000b273d183a2d842ee145f55c4e9df" width="60" height="60" alt="Face the Music" /></a></td>
+<td><b><a href="https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc">Evil Woman</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Electric Light Orchestra (1975)</span></td>
 </tr>
 </table>
 </div>
