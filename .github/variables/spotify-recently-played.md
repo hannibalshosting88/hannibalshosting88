@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr"><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="150" height="150" alt="Hypnotize" /></a>
+<a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="150" height="150" alt="Hybrid Theory (Bonus Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5">Runaway</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">System Of A Down (2005)</span>
+<span style="color: #666;">Linkin Park (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"><img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" width="60" height="60" alt="Stadium Arcadium" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO">Snow (Hey Oh)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2006)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="60" height="60" alt="Palm Trees and Power Lines" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2004)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI"><img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="60" height="60" alt="Times Square" /></a></td>
-<td><b><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don't Wait</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2023)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"><img src="https://i.scdn.co/image/ab67616d0000b27380c91854d34b84773786f12d" width="60" height="60" alt="The Ritual" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs">Return to Serenity</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Testament (1992)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7y2yESom4cfYmlhDlY9SiF"><img src="https://i.scdn.co/image/ab67616d0000b273d1d1f3d8dd3684ee3d75385b" width="60" height="60" alt="Shadows On The Sun" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7y2yESom4cfYmlhDlY9SiF">Dorian</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Brother Ali (2003)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl"><img src="https://i.scdn.co/image/ab67616d0000b273e77ae7296a791597f64e4ea1" width="60" height="60" alt="Awkward Encounters While Walking My Dog" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">I've No More ... To Give</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Thomas Benjamin Wild Esq, Damian Clark (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"><img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" width="60" height="60" alt="This Is Why" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M">This Is Why</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Paramore (2023)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m"><img src="https://i.scdn.co/image/ab67616d0000b2734e7be339cee55cf14e6bc50f" width="60" height="60" alt="The Maze To Nowhere" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m">Acid Rain</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lorn (2015)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5VwbG9KiOvJIsykNJeBSuk"><img src="https://i.scdn.co/image/ab67616d0000b2736045d67194bcdd287ec23e63" width="60" height="60" alt="BANJO BLOODBATH" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5VwbG9KiOvJIsykNJeBSuk">HELLbilly Inferno - Insane Bluegrass Metal</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Appalachian Anarchy (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0Jur3mZsQba3vqSpcmsOPm"><img src="https://i.scdn.co/image/ab67616d0000b273d77299e3d29f44495cd7fbcb" width="60" height="60" alt="40oz. To Freedom" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0Jur3mZsQba3vqSpcmsOPm">Smoke Two Joints</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1992)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7eY8T4XpsgiEvTq7uWcYnO"><img src="https://i.scdn.co/image/ab67616d0000b273748b7fd7c5e73fc3bb85c1bd" width="60" height="60" alt="Flammable Grammar" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7eY8T4XpsgiEvTq7uWcYnO">Hand's Up</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Antix (2010)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"><img src="https://i.scdn.co/image/ab67616d0000b273026adcf853fad0af470a9fbb" width="60" height="60" alt="Whitsitt Chapel" /></a></td>
+<td><b><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM">Save Me - with Lainey Wilson</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll, Lainey Wilson (2023)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp"><img src="https://i.scdn.co/image/ab67616d0000b2733c2bba46b66a3c8a83a53015" width="60" height="60" alt="Come Clean" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp">Blurry</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj">Renegade</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT">Get By</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6YhHNjufxyIPVA0VDKkAWV"><img src="https://i.scdn.co/image/ab67616d0000b273865ec2574cb13cb4d4964b03" width="60" height="60" alt="Cause of the Righteous" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6YhHNjufxyIPVA0VDKkAWV">Cause of the Righteous</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z"><img src="https://i.scdn.co/image/ab67616d0000b273e074af9f5663eda06c5341ac" width="60" height="60" alt="And You Are Me" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z">Keep The Wolves Away</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Uncle Lucius (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"><img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="60" height="60" alt="Mezmerize" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md">B.Y.O.B.</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2005)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc"><img src="https://i.scdn.co/image/ab67616d0000b273d183a2d842ee145f55c4e9df" width="60" height="60" alt="Face the Music" /></a></td>
-<td><b><a href="https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc">Evil Woman</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Electric Light Orchestra (1975)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"><img src="https://i.scdn.co/image/ab67616d0000b2734ed9d73e67487029a9edb633" width="60" height="60" alt="Kane Brown" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W">What Ifs (feat. Lauren Alaina)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kane Brown, Lauren Alaina (2016)</span></td>
 </tr>
 </table>
 </div>
