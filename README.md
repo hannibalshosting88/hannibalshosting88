@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc"><img src="https://i.scdn.co/image/ab67616d0000b273d283768954643034b25fde78" width="150" height="150" alt="Crazy Frog presents Crazy Hits" /></a>
+<a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="150" height="150" alt="Hybrid Theory (Bonus Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc">Axel F</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC">By Myself</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Crazy Frog (2005)</span>
+<span style="color: #666;">Linkin Park (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="60" height="60" alt="Licensed To Ill" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Beastie Boys (1986)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="60" height="60" alt="Licensed To Ill" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Beastie Boys (1986)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD"><img src="https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74" width="60" height="60" alt="Man On The Moon: The End Of Day (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD">Pursuit Of Happiness (Nightmare)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, MGMT, Ratatat (2009)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5">Runaway</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"><img src="https://i.scdn.co/image/ab67616d0000b273f67a8d19b2c7130f0437887b" width="60" height="60" alt="GTG" /></a></td>
+<td><b><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">GTG</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="60" height="60" alt="Palm Trees and Power Lines" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2004)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/03GeqQTzKXeOH6wXYTkfdI"><img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="60" height="60" alt="One Long Dream" /></a></td>
+<td><b><a href="https://open.spotify.com/track/03GeqQTzKXeOH6wXYTkfdI">Go Play</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">SonReal (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"><img src="https://i.scdn.co/image/ab67616d0000b27380c91854d34b84773786f12d" width="60" height="60" alt="The Ritual" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs">Return to Serenity</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Testament (1992)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"><img src="https://i.scdn.co/image/ab67616d0000b273a14b08b9a6616e121df5e8b0" width="60" height="60" alt="Talking Book" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ">Superstition</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stevie Wonder (1972)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl"><img src="https://i.scdn.co/image/ab67616d0000b273e77ae7296a791597f64e4ea1" width="60" height="60" alt="Awkward Encounters While Walking My Dog" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">I've No More ... To Give</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Thomas Benjamin Wild Esq, Damian Clark (2018)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/75yE3kEbL9HcMu6US7iEaL"><img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="60" height="60" alt="GET UP" /></a></td>
+<td><b><a href="https://open.spotify.com/track/75yE3kEbL9HcMu6US7iEaL">GET UP</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2022)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m"><img src="https://i.scdn.co/image/ab67616d0000b2734e7be339cee55cf14e6bc50f" width="60" height="60" alt="The Maze To Nowhere" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m">Acid Rain</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lorn (2015)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO"><img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="60" height="60" alt="The Audacity! (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO">Gee Willikers</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Spose (2012)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0Jur3mZsQba3vqSpcmsOPm"><img src="https://i.scdn.co/image/ab67616d0000b273d77299e3d29f44495cd7fbcb" width="60" height="60" alt="40oz. To Freedom" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0Jur3mZsQba3vqSpcmsOPm">Smoke Two Joints</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1992)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"><img src="https://i.scdn.co/image/ab67616d0000b27372833c1ae3343cbfb4617073" width="60" height="60" alt="Moving Pictures (2011 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D">Tom Sawyer</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rush (1981)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"><img src="https://i.scdn.co/image/ab67616d0000b273026adcf853fad0af470a9fbb" width="60" height="60" alt="Whitsitt Chapel" /></a></td>
-<td><b><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM">Save Me - with Lainey Wilson</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll, Lainey Wilson (2023)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh"><img src="https://i.scdn.co/image/ab67616d0000b2736f4f62da3d811b6501a69ffa" width="60" height="60" alt="American IV: The Man Comes Around" /></a></td>
+<td><b><a href="https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh">Hurt</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2002)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj">Renegade</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"><img src="https://i.scdn.co/image/ab67616d0000b27346ed4ae9343359e5965baf7b" width="60" height="60" alt="Love For The Streets" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV">Jerk It Out</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Caesars (2002)</span></td>
 </tr>
 </table>
 </div>
