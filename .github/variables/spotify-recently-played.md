@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="150" height="150" alt="Licensed To Ill" /></a>
+<a href="https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc"><img src="https://i.scdn.co/image/ab67616d0000b273d283768954643034b25fde78" width="150" height="150" alt="Crazy Frog presents Crazy Hits" /></a>
 
-<b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc">Axel F</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Beastie Boys (1986)</span>
+<span style="color: #666;">Crazy Frog (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="60" height="60" alt="Licensed To Ill" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Beastie Boys (1986)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="60" height="60" alt="Licensed To Ill" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Beastie Boys (1986)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"><img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="60" height="60" alt="Pieces Of Eight" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj">Renegade</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Styx (1978)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6YhHNjufxyIPVA0VDKkAWV"><img src="https://i.scdn.co/image/ab67616d0000b273865ec2574cb13cb4d4964b03" width="60" height="60" alt="Cause of the Righteous" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6YhHNjufxyIPVA0VDKkAWV">Cause of the Righteous</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2024)</span></td>
 </tr>
 </table>
 </div>
