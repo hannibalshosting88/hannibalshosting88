@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="150" height="150" alt="Hybrid Theory (Bonus Edition)" /></a>
+<a href="https://open.spotify.com/track/6FuvavdApbDC1pG5jldehp"><img src="https://i.scdn.co/image/ab67616d0000b273e5bc3516872cdd2fc66ca105" width="150" height="150" alt="Reaching into Infinity (Special Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC">By Myself</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6FuvavdApbDC1pG5jldehp">Ashes of the Dawn</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Linkin Park (2000)</span>
+<span style="color: #666;">DragonForce (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC">By Myself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh"><img src="https://i.scdn.co/image/ab67616d0000b2736f4f62da3d811b6501a69ffa" width="60" height="60" alt="American IV: The Man Comes Around" /></a></td>
 <td><b><a href="https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh">Hurt</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"><img src="https://i.scdn.co/image/ab67616d0000b27346ed4ae9343359e5965baf7b" width="60" height="60" alt="Love For The Streets" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV">Jerk It Out</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Caesars (2002)</span></td>
 </tr>
 </table>
 </div>
