@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"><img src="https://i.scdn.co/image/ab67616d0000b2738a48864289dc2588f13274ec" width="150" height="150" alt="Hoobastank (20th Anniversary Edition)" /></a>
+<a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"><img src="https://i.scdn.co/image/ab67616d0000b273df4dfaff5c996b7998d6c34e" width="150" height="150" alt="Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)" /></a>
 
-<b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR">That's Amore</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Hoobastank (2001)</span>
+<span style="color: #666;">Dean Martin (1954)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"><img src="https://i.scdn.co/image/ab67616d0000b27367ff87e2839c5c93bb6e6a6a" width="60" height="60" alt="Lunatic" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO">Come with Me Now</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">KONGOS (2014)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV"><img src="https://i.scdn.co/image/ab67616d0000b2735fc5c78e17b551ddc8da4f05" width="60" height="60" alt="Can't Hold Me Down" /></a></td>
+<td><b><a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV">Can't Hold Me Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Doodles, Lil Wayne, Lil Yachty, Kyle Richh, Pharrell Williams (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"><img src="https://i.scdn.co/image/ab67616d0000b2732d4c593f0f35672767d881a9" width="60" height="60" alt="Conspiracy Of One" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv">Original Prankster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Offspring, Redman (2000)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"><img src="https://i.scdn.co/image/ab67616d0000b273c72cc4087da2190116857f37" width="60" height="60" alt="Every Six Seconds" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">Click Click Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Saliva (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe"><img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="60" height="60" alt="X-Men Theme" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2lY9nKosxOxmNvLEYW3zTN"><img src="https://i.scdn.co/image/ab67616d0000b273b24c2772648d620859c071f2" width="60" height="60" alt="Antisleep, Vol. 03" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2lY9nKosxOxmNvLEYW3zTN">Transmission from Hell</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Blue Stahli (2012)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"><img src="https://i.scdn.co/image/ab67616d0000b27383d6ab0b823bf7a56e4cd808" width="60" height="60" alt="The Young and The Hopeless" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu">The Anthem</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Good Charlotte (2002)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah">REVOFEV</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2010)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="60" height="60" alt="Palm Trees and Power Lines" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2004)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd"><img src="https://i.scdn.co/image/ab67616d0000b2732b08b69dddd1cb3976a9fa40" width="60" height="60" alt="Disclaimer II" /></a></td>
+<td><b><a href="https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd">Broken</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seether, Amy Lee (2004)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1lQWXZVauveHPcWblubhCo"><img src="https://i.scdn.co/image/ab67616d0000b2734cf98aca337959b506fb25ac" width="60" height="60" alt="Unbreakable" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1lQWXZVauveHPcWblubhCo">Strike</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Primal Fear (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4SP9crxTnfhTUIabkFM01a"><img src="https://i.scdn.co/image/ab67616d0000b27344b8c7ea01b901cc650ecaee" width="60" height="60" alt="Frank’s Wild Years (2023 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4SP9crxTnfhTUIabkFM01a">Way Down In The Hole - 2023 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Tom Waits (1987)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1"><img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" height="60" alt="Cyberpunk 2077 - Original Score" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1">Wushu Dolls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marcin Przybyłowicz (2020)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"><img src="https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96" width="60" height="60" alt="÷ (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3">Shape of You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Ed Sheeran (2017)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"><img src="https://i.scdn.co/image/ab67616d0000b273d3e0bbf8ae9add83ee42d9cf" width="60" height="60" alt="Revenge" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n">Domino</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">KISS (1992)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk"><img src="https://i.scdn.co/image/ab67616d0000b27372c860388456f7898ef9f206" width="60" height="60" alt="Transistor" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk">Beautiful Disaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">311 (1997)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"><img src="https://i.scdn.co/image/ab67616d0000b273e207a14471e5356294146e9d" width="60" height="60" alt="All Or Nothing" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE">Down</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Jay Sean, Lil Wayne (2009)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk"><img src="https://i.scdn.co/image/ab67616d0000b27372c860388456f7898ef9f206" width="60" height="60" alt="Transistor" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk">Beautiful Disaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">311 (1997)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5uVPusxasdyv3Mwf3m6zAF"><img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" height="60" alt="Cyberpunk 2077 - Original Score" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5uVPusxasdyv3Mwf3m6zAF">Patri(di)ots</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Marcin Przybyłowicz (2020)</span></td>
 </tr>
 </table>
 </div>
