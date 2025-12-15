@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C"><img src="https://i.scdn.co/image/ab67616d0000b273f74baf63e915712df348e647" width="150" height="150" alt="Dark Horse" /></a>
+<a href="https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="150" height="150" alt="Backstreet Boys" /></a>
 
-<b><a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C">Burn It to the Ground</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl">Everybody (Backstreet's Back) - Extended Version</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Nickelback (2008)</span>
+<span style="color: #666;">Backstreet Boys (1996)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"><img src="https://i.scdn.co/image/ab67616d0000b273f5c397bd6cdac2a6c287b5bd" width="60" height="60" alt="Human (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O">Human</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rag'n'Bone Man (2017)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1H0utYmwbHj2qwWMMbOuzm"><img src="https://i.scdn.co/image/ab67616d0000b27356e74e9be5456b4bfb702c83" width="60" height="60" alt="Jarvage, Vol. 1" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1H0utYmwbHj2qwWMMbOuzm">Escargot</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Jarv (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"><img src="https://i.scdn.co/image/ab67616d0000b273df4dfaff5c996b7998d6c34e" width="60" height="60" alt="Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR">That's Amore</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Dean Martin (1954)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1H0utYmwbHj2qwWMMbOuzm"><img src="https://i.scdn.co/image/ab67616d0000b27356e74e9be5456b4bfb702c83" width="60" height="60" alt="Jarvage, Vol. 1" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1H0utYmwbHj2qwWMMbOuzm">Escargot</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Jarv (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV"><img src="https://i.scdn.co/image/ab67616d0000b2735fc5c78e17b551ddc8da4f05" width="60" height="60" alt="Can't Hold Me Down" /></a></td>
-<td><b><a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV">Can't Hold Me Down</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Doodles, Lil Wayne, Lil Yachty, Kyle Richh, Pharrell Williams (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24">Haunted</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"><img src="https://i.scdn.co/image/ab67616d0000b273c72cc4087da2190116857f37" width="60" height="60" alt="Every Six Seconds" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">Click Click Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Saliva (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6cl0uTFa3ouYaVBJaFcn6Y"><img src="https://i.scdn.co/image/ab67616d0000b2738233ddb0ec7b5f8c7fd3451a" width="60" height="60" alt="Soul Odyssey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6cl0uTFa3ouYaVBJaFcn6Y">El Cielo En Zihua - Solo Version</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Maneli Jamal (2020)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2lY9nKosxOxmNvLEYW3zTN"><img src="https://i.scdn.co/image/ab67616d0000b273b24c2772648d620859c071f2" width="60" height="60" alt="Antisleep, Vol. 03" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2lY9nKosxOxmNvLEYW3zTN">Transmission from Hell</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Blue Stahli (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"><img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="60" height="60" alt="Tres Hombres (Expanded 2006 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">ZZ Top (1973)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah">REVOFEV</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2010)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"><img src="https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb" width="60" height="60" alt="Dirt (2022 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2">Rooster (2022 Remaster)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Alice In Chains (1992)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd"><img src="https://i.scdn.co/image/ab67616d0000b2732b08b69dddd1cb3976a9fa40" width="60" height="60" alt="Disclaimer II" /></a></td>
-<td><b><a href="https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd">Broken</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seether, Amy Lee (2004)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7tTRFVlFzk6yTnoMcParmi"><img src="https://i.scdn.co/image/ab67616d0000b273e0783b9378aa3857b8a9d24d" width="60" height="60" alt="CLOUDS (THE MIXTAPE)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7tTRFVlFzk6yTnoMcParmi">JUST LIKE YOU</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">NF (2021)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN"><img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" width="60" height="60" alt="The Wall" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN">Hey You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1979)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1"><img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" height="60" alt="Cyberpunk 2077 - Original Score" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1hCilpYIilwTNZ56nowxX1">Wushu Dolls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marcin Przybyłowicz (2020)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"><img src="https://i.scdn.co/image/ab67616d0000b2734ed9d73e67487029a9edb633" width="60" height="60" alt="Kane Brown" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W">What Ifs (feat. Lauren Alaina)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kane Brown, Lauren Alaina (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"><img src="https://i.scdn.co/image/ab67616d0000b273d3e0bbf8ae9add83ee42d9cf" width="60" height="60" alt="Revenge" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n">Domino</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">KISS (1992)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy"><img src="https://i.scdn.co/image/ab67616d0000b273f9aefc986924f7e9e5e71b74" width="60" height="60" alt="Jackpot" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy">Holidae In</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Chingy, Ludacris, Snoop Dogg (2003)</span></td>
 </tr>
 </table>
 </div>
