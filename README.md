@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"><img src="https://i.scdn.co/image/ab67616d0000b273f5c397bd6cdac2a6c287b5bd" width="150" height="150" alt="Human (Deluxe)" /></a>
+<a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C"><img src="https://i.scdn.co/image/ab67616d0000b273f74baf63e915712df348e647" width="150" height="150" alt="Dark Horse" /></a>
 
-<b><a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O">Human</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C">Burn It to the Ground</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Rag'n'Bone Man (2017)</span>
+<span style="color: #666;">Nickelback (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"><img src="https://i.scdn.co/image/ab67616d0000b273f5c397bd6cdac2a6c287b5bd" width="60" height="60" alt="Human (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O">Human</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rag'n'Bone Man (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"><img src="https://i.scdn.co/image/ab67616d0000b273df4dfaff5c996b7998d6c34e" width="60" height="60" alt="Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR">That's Amore</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Dean Martin (1954)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"><img src="https://i.scdn.co/image/ab67616d0000b273d3e0bbf8ae9add83ee42d9cf" width="60" height="60" alt="Revenge" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n">Domino</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">KISS (1992)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"><img src="https://i.scdn.co/image/ab67616d0000b273e207a14471e5356294146e9d" width="60" height="60" alt="All Or Nothing" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE">Down</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Jay Sean, Lil Wayne (2009)</span></td>
 </tr>
 </table>
 </div>
