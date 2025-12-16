@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="150" height="150" alt="Backstreet Boys" /></a>
+<a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="150" height="150" alt="Fallen" /></a>
 
-<b><a href="https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl">Everybody (Backstreet's Back) - Extended Version</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV">Tourniquet</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Backstreet Boys (1996)</span>
+<span style="color: #666;">Evanescence (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl"><img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="60" height="60" alt="Backstreet Boys" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl">Everybody (Backstreet's Back) - Extended Version</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Backstreet Boys (1996)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1H0utYmwbHj2qwWMMbOuzm"><img src="https://i.scdn.co/image/ab67616d0000b27356e74e9be5456b4bfb702c83" width="60" height="60" alt="Jarvage, Vol. 1" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1H0utYmwbHj2qwWMMbOuzm">Escargot</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Jarv (2016)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"><img src="https://i.scdn.co/image/ab67616d0000b2734ed9d73e67487029a9edb633" width="60" height="60" alt="Kane Brown" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W">What Ifs (feat. Lauren Alaina)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kane Brown, Lauren Alaina (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy"><img src="https://i.scdn.co/image/ab67616d0000b273f9aefc986924f7e9e5e71b74" width="60" height="60" alt="Jackpot" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy">Holidae In</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Chingy, Ludacris, Snoop Dogg (2003)</span></td>
 </tr>
 </table>
 </div>
