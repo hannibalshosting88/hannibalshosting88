@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK"><img src="https://i.scdn.co/image/ab67616d0000b273e59abdd41c728e2745b0e715" width="150" height="150" alt="Mindwalkers" /></a>
+<a href="https://open.spotify.com/track/4j0iFa4lcwLD8zco9e0Xq6"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="150" height="150" alt="Galactic Empire" /></a>
 
-<b><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK">Mindwalkers</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/4j0iFa4lcwLD8zco9e0Xq6">Main Theme</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Psygnals (2023)</span>
+<span style="color: #666;">Galactic Empire (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4j0iFa4lcwLD8zco9e0Xq6"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="60" height="60" alt="Galactic Empire" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4j0iFa4lcwLD8zco9e0Xq6">Main Theme</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2017)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK"><img src="https://i.scdn.co/image/ab67616d0000b273e59abdd41c728e2745b0e715" width="60" height="60" alt="Mindwalkers" /></a></td>
+<td><b><a href="https://open.spotify.com/track/34GJhdApj4qDQnXjJjo5WK">Mindwalkers</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7hvUHojjKH1V0nMTkTS8rD"><img src="https://i.scdn.co/image/ab67616d0000b27305f97d03b243d7c1ed9ba71d" width="60" height="60" alt="Premium Country Hits" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7hvUHojjKH1V0nMTkTS8rD">Bigger Houses</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Dan + Shay (2024)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd">Pts.Of.Athrty - Jay Gordon Reanimation</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0KlLzi19JtjLQsZg9nWN4i"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" height="60" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0KlLzi19JtjLQsZg9nWN4i">Deathshead</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4"><img src="https://i.scdn.co/image/ab67616d0000b273186b235052f031900c5cb282" width="60" height="60" alt="'N Sync UK Version" /></a></td>
-<td><b><a href="https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4">Tearin' up My Heart - Radio Edit</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">*NSYNC (1997)</span></td>
 </tr>
 </table>
 </div>
