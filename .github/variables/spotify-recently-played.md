@@ -12,6 +12,10 @@
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr">Crawling</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"><img src="https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403" width="60" height="60" alt="Three Days Grace" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">I Hate Everything About You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Three Days Grace (2003)</span></td>
 </tr>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7hvUHojjKH1V0nMTkTS8rD"><img src="https://i.scdn.co/image/ab67616d0000b27305f97d03b243d7c1ed9ba71d" width="60" height="60" alt="Premium Country Hits" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7hvUHojjKH1V0nMTkTS8rD">Bigger Houses</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Dan + Shay (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"><img src="https://i.scdn.co/image/ab67616d0000b2736928dbd7cce1d222ea183c8d" width="60" height="60" alt="Baby You're a Haunted House" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF">Baby You're a Haunted House</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Gerard Way (2018)</span></td>
 </tr>
 </table>
 </div>
