@@ -4,13 +4,33 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn"><img src="https://i.scdn.co/image/ab67616d0000b2731f52a7e9b573959c8e430974" width="150" height="150" alt="Me & My Brother" /></a>
+<a href="https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"><img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" width="150" height="150" alt="Stadium Arcadium" /></a>
 
-<b><a href="https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn">Salt Shaker</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO">Snow (Hey Oh)</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Ying Yang Twins, Lil Jon & The East Side Boyz (2003)</span>
+<span style="color: #666;">Red Hot Chili Peppers (2006)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"><img src="https://i.scdn.co/image/ab67616d0000b27343f5bd543a2a1ab37fb40a8b" width="60" height="60" alt="Brothers" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4">Howlin' for You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Black Keys (2010)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"><img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" width="60" height="60" alt="Diana Ross Presents The Jackson 5" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S">I Want You Back</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Jackson 5 (1969)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK"><img src="https://i.scdn.co/image/ab67616d0000b273463986d828c59a03f2ab0a3f" width="60" height="60" alt="The House That Dirt Built" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">How You Like Me Now</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Heavy (2009)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48"><img src="https://i.scdn.co/image/ab67616d0000b2735001f28f54683843c80129bf" width="60" height="60" alt="bad times friend..." /></a></td>
+<td><b><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">By the Sword</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">iamjakehill (2024)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn"><img src="https://i.scdn.co/image/ab67616d0000b2731f52a7e9b573959c8e430974" width="60" height="60" alt="Me & My Brother" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn">Salt Shaker</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins, Lil Jon & The East Side Boyz (2003)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6cFwvA17RA4pDBva9hDdA1"><img src="https://i.scdn.co/image/ab67616d0000b273cfd732447cb7d45dbc826ab7" width="60" height="60" alt="Old School" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6cFwvA17RA4pDBva9hDdA1">Old School</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Creed Fisher (2019)</span></td>
@@ -30,26 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="60" height="60" alt="Get Rich Or Die Tryin'" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">50 Cent (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0ZVorBFSmsJBE0pczFzIvk"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0ZVorBFSmsJBE0pczFzIvk">I Miss You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1GHqc0e7PQ6aEyGlvfSJzS"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1GHqc0e7PQ6aEyGlvfSJzS">Where'd You Go (feat. Holly Brook & Jonah Matranga)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Holly Brook, Jonah Matranga (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF">What I Got</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA"><img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="60" height="60" alt="The Rising Tied" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2YdrFOfNZeKdQOUYw9duoA">High Road (feat. John Legend)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, John Legend (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56"><img src="https://i.scdn.co/image/ab67616d0000b2732a327b779d23312c60697ed3" width="60" height="60" alt="Your New Morning Alarm" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56">Your New Morning Alarm</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Marc Rebillet (2023)</span></td>
 </tr>
 </table>
 </div>
