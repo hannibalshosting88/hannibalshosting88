@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"><img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" width="150" height="150" alt="Stadium Arcadium" /></a>
+<a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF"><img src="https://i.scdn.co/image/ab67616d0000b2733f1e89b0450823d6f0f54cf4" width="150" height="150" alt="Video Game Guitar Covers, Vol. 6" /></a>
 
-<b><a href="https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO">Snow (Hey Oh)</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF">The Only Thing They Fear is You (From "Doom: Eternal")</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Red Hot Chili Peppers (2006)</span>
+<span style="color: #666;">FamilyJules (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"><img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" width="60" height="60" alt="Stadium Arcadium" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO">Snow (Hey Oh)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2006)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"><img src="https://i.scdn.co/image/ab67616d0000b27343f5bd543a2a1ab37fb40a8b" width="60" height="60" alt="Brothers" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4">Howlin' for You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Black Keys (2010)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"><img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="60" height="60" alt="Americana" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA">Pretty Fly (For A White Guy)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Offspring (1998)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="60" height="60" alt="Get Rich Or Die Tryin'" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">50 Cent (2003)</span></td>
 </tr>
 </table>
 </div>
