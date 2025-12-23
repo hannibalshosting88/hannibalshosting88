@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ"><img src="https://i.scdn.co/image/ab67616d0000b27354585a427218bf9bddbd6a3f" width="150" height="150" alt="Smells Like Children" /></a>
+<a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2"><img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" width="150" height="150" alt="The Wall" /></a>
 
-<b><a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ">Sweet Dreams (Are Made Of This)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2">Goodbye Blue Sky</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Marilyn Manson (1995)</span>
+<span style="color: #666;">Pink Floyd (1979)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ"><img src="https://i.scdn.co/image/ab67616d0000b27354585a427218bf9bddbd6a3f" width="60" height="60" alt="Smells Like Children" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ">Sweet Dreams (Are Made Of This)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marilyn Manson (1995)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF"><img src="https://i.scdn.co/image/ab67616d0000b2733f1e89b0450823d6f0f54cf4" width="60" height="60" alt="Video Game Guitar Covers, Vol. 6" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF">The Only Thing They Fear is You (From "Doom: Eternal")</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">FamilyJules (2022)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" width="60" height="60" alt="No Strings Attached" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA">It's Gonna Be Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">*NSYNC (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3Vqbj9yPHBTIRhTDJHPQMq"><img src="https://i.scdn.co/image/ab67616d0000b273e4b1ceef0cf245119a4081a3" width="60" height="60" alt="Nostalgia in Times Square" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3Vqbj9yPHBTIRhTDJHPQMq">Moanin'</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mingus Big Band (1993)</span></td>
 </tr>
 </table>
 </div>
