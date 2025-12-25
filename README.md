@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"><img src="https://i.scdn.co/image/ab67616d0000b27321a706c06719ec096876afec" width="150" height="150" alt="BRELAND & Friends: Vol. 1 (Live)" /></a>
+<a href="https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"><img src="https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8" width="150" height="150" alt="Only By The Night" /></a>
 
-<b><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">Praise the Lord (feat. Thomas Rhett) - Live</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2">Use Somebody</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">BRELAND, Thomas Rhett (2024)</span>
+<span style="color: #666;">Kings of Leon (2008)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"><img src="https://i.scdn.co/image/ab67616d0000b27321a706c06719ec096876afec" width="60" height="60" alt="BRELAND & Friends: Vol. 1 (Live)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">Praise the Lord (feat. Thomas Rhett) - Live</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">BRELAND, Thomas Rhett (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2"><img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" width="60" height="60" alt="The Wall" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2">Goodbye Blue Sky</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1979)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn"><img src="https://i.scdn.co/image/ab67616d0000b2731f52a7e9b573959c8e430974" width="60" height="60" alt="Me & My Brother" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn">Salt Shaker</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins, Lil Jon & The East Side Boyz (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6cFwvA17RA4pDBva9hDdA1"><img src="https://i.scdn.co/image/ab67616d0000b273cfd732447cb7d45dbc826ab7" width="60" height="60" alt="Old School" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6cFwvA17RA4pDBva9hDdA1">Old School</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Creed Fisher (2019)</span></td>
 </tr>
 </table>
 </div>
