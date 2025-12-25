@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"><img src="https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8" width="150" height="150" alt="Only By The Night" /></a>
+<a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"><img src="https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0" width="150" height="150" alt="Ten" /></a>
 
-<b><a href="https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2">Use Somebody</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Kings of Leon (2008)</span>
+<span style="color: #666;">Pearl Jam (1991)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"><img src="https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8" width="60" height="60" alt="Only By The Night" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2">Use Somebody</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kings of Leon (2008)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"><img src="https://i.scdn.co/image/ab67616d0000b27321a706c06719ec096876afec" width="60" height="60" alt="BRELAND & Friends: Vol. 1 (Live)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">Praise the Lord (feat. Thomas Rhett) - Live</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">BRELAND, Thomas Rhett (2024)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48"><img src="https://i.scdn.co/image/ab67616d0000b2735001f28f54683843c80129bf" width="60" height="60" alt="bad times friend..." /></a></td>
 <td><b><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">By the Sword</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">iamjakehill (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn"><img src="https://i.scdn.co/image/ab67616d0000b2731f52a7e9b573959c8e430974" width="60" height="60" alt="Me & My Brother" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn">Salt Shaker</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Ying Yang Twins, Lil Jon & The East Side Boyz (2003)</span></td>
 </tr>
 </table>
 </div>
