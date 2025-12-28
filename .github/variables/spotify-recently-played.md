@@ -13,11 +13,11 @@
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"><img src="https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0" width="60" height="60" alt="Ten" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Pearl Jam (1991)</span></td>
+<td><b><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pearl Jam (1991)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"><img src="https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8" width="60" height="60" alt="Only By The Night" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2">Use Somebody</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kings of Leon (2008)</span></td>
+<td><b><a href="https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2">Use Somebody</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kings of Leon (2008)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"><img src="https://i.scdn.co/image/ab67616d0000b27321a706c06719ec096876afec" width="60" height="60" alt="BRELAND & Friends: Vol. 1 (Live)" /></a></td>
