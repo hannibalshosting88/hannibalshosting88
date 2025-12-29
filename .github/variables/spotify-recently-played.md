@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0tWEB6BxbI48XN79QE1JbT"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="150" height="150" alt="Fallen" /></a>
+<a href="https://open.spotify.com/track/5qGizZYD1lbhGFdTR1yoFv"><img src="https://i.scdn.co/image/ab67616d0000b27395d5d85909d5deb5cee9f311" width="150" height="150" alt="Mansion" /></a>
 
-<b><a href="https://open.spotify.com/track/0tWEB6BxbI48XN79QE1JbT">Everybody's Fool</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5qGizZYD1lbhGFdTR1yoFv">Motivated</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Evanescence (2003)</span>
+<span style="color: #666;">NF (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0MvqSYPr5Wi62JB7VWvqwz"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="60" height="60" alt="Perception" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0MvqSYPr5Wi62JB7VWvqwz">Green Lights</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2017)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3zwmW1gM4E8FlHXV5nE16u"><img src="https://i.scdn.co/image/ab67616d0000b27307301dd5fedf5ad64cde4882" width="60" height="60" alt="Out of Exile" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3zwmW1gM4E8FlHXV5nE16u">Be Yourself</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Audioslave (2005)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"><img src="https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0" width="60" height="60" alt="Ten" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pearl Jam (1991)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE"><img src="https://i.scdn.co/image/ab67616d0000b273b898edb5cd07a99820a33050" width="60" height="60" alt="Cyberpunk EP" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE">FCKD</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hyper, Mark Arn (2019)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"><img src="https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8" width="60" height="60" alt="Only By The Night" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2">Use Somebody</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kings of Leon (2008)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="60" height="60" alt="Pray for the Wicked" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2018)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"><img src="https://i.scdn.co/image/ab67616d0000b27321a706c06719ec096876afec" width="60" height="60" alt="BRELAND & Friends: Vol. 1 (Live)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">Praise the Lord (feat. Thomas Rhett) - Live</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">BRELAND, Thomas Rhett (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2Qfv23eR1GwrbKEyKHVg8d"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="60" height="60" alt="Galactic Empire" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2Qfv23eR1GwrbKEyKHVg8d">Duel Of The Fates</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2017)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2"><img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" width="60" height="60" alt="The Wall" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2">Goodbye Blue Sky</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1979)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/05c6dW6jQY0NqMev1bR7WF"><img src="https://i.scdn.co/image/ab67616d0000b273587ee8fe8951ad48e7ddb616" width="60" height="60" alt="Nolan Ryan" /></a></td>
+<td><b><a href="https://open.spotify.com/track/05c6dW6jQY0NqMev1bR7WF">Nolan Ryan</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Hoodie Allen (2014)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ"><img src="https://i.scdn.co/image/ab67616d0000b27354585a427218bf9bddbd6a3f" width="60" height="60" alt="Smells Like Children" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ">Sweet Dreams (Are Made Of This)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Marilyn Manson (1995)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95"><img src="https://i.scdn.co/image/ab67616d0000b27360c11533e1cb8e606f7042b9" width="60" height="60" alt="King Gampo" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">Gampo</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Prof (2011)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF"><img src="https://i.scdn.co/image/ab67616d0000b2733f1e89b0450823d6f0f54cf4" width="60" height="60" alt="Video Game Guitar Covers, Vol. 6" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF">The Only Thing They Fear is You (From "Doom: Eternal")</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">FamilyJules (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5DYiaaIQ1UAeOyPNaVaGqy"><img src="https://i.scdn.co/image/ab67616d0000b273f921e318cc5e500bd6891a87" width="60" height="60" alt="No Signal" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5DYiaaIQ1UAeOyPNaVaGqy">Waiting For You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">French The Kid (2023)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"><img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" width="60" height="60" alt="Stadium Arcadium" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO">Snow (Hey Oh)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2006)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"><img src="https://i.scdn.co/image/ab67616d0000b2734e2755e7a96ec5e062c76aac" width="60" height="60" alt="Eye Of The Tiger" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e">Eye of the Tiger</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Survivor (1982)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"><img src="https://i.scdn.co/image/ab67616d0000b27343f5bd543a2a1ab37fb40a8b" width="60" height="60" alt="Brothers" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4">Howlin' for You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Black Keys (2010)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/01fZMMJLOtLKymmTNAGwsF"><img src="https://i.scdn.co/image/ab67616d0000b2738f0fa3e43932e3e146ec37c0" width="60" height="60" alt="The Irish Rovers 50 Years - Vol. 2" /></a></td>
+<td><b><a href="https://open.spotify.com/track/01fZMMJLOtLKymmTNAGwsF">Rare Ould Mountain Dew</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">The Irish Rovers (2014)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"><img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" width="60" height="60" alt="Diana Ross Presents The Jackson 5" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S">I Want You Back</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Jackson 5 (1969)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="60" height="60" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl">Fix My Eyes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING & COUNTRY (2015)</span></td>
 </tr>
 </table>
 </div>
