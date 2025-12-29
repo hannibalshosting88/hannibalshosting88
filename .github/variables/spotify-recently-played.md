@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0MvqSYPr5Wi62JB7VWvqwz"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="150" height="150" alt="Perception" /></a>
+<a href="https://open.spotify.com/track/0tWEB6BxbI48XN79QE1JbT"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="150" height="150" alt="Fallen" /></a>
 
-<b><a href="https://open.spotify.com/track/0MvqSYPr5Wi62JB7VWvqwz">Green Lights</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0tWEB6BxbI48XN79QE1JbT">Everybody's Fool</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">NF (2017)</span>
+<span style="color: #666;">Evanescence (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0MvqSYPr5Wi62JB7VWvqwz"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="60" height="60" alt="Perception" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0MvqSYPr5Wi62JB7VWvqwz">Green Lights</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NF (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"><img src="https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0" width="60" height="60" alt="Ten" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Pearl Jam (1991)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"><img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" width="60" height="60" alt="Diana Ross Presents The Jackson 5" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S">I Want You Back</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Jackson 5 (1969)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK"><img src="https://i.scdn.co/image/ab67616d0000b273463986d828c59a03f2ab0a3f" width="60" height="60" alt="The House That Dirt Built" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">How You Like Me Now</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Heavy (2009)</span></td>
 </tr>
 </table>
 </div>
