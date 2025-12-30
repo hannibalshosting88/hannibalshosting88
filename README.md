@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV"><img src="https://i.scdn.co/image/ab67616d0000b27304b1454aabded3ebe9cf3c01" width="150" height="150" alt="B-Sides and Rarities" /></a>
+<a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="150" height="150" alt="Kings Of Crunk" /></a>
 
-<b><a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">War Pigs</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">I Don't Give A...</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">CAKE (2007)</span>
+<span style="color: #666;">Lil Jon & The East Side Boyz, Mystikal, Krayzie Bone (2002)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV"><img src="https://i.scdn.co/image/ab67616d0000b27304b1454aabded3ebe9cf3c01" width="60" height="60" alt="B-Sides and Rarities" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">War Pigs</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">CAKE (2007)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"><img src="https://i.scdn.co/image/ab67616d0000b273bfff163b0602156a983fa079" width="60" height="60" alt="One By One (Expanded Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2002)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/05c6dW6jQY0NqMev1bR7WF"><img src="https://i.scdn.co/image/ab67616d0000b273587ee8fe8951ad48e7ddb616" width="60" height="60" alt="Nolan Ryan" /></a></td>
 <td><b><a href="https://open.spotify.com/track/05c6dW6jQY0NqMev1bR7WF">Nolan Ryan</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Hoodie Allen (2014)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95"><img src="https://i.scdn.co/image/ab67616d0000b27360c11533e1cb8e606f7042b9" width="60" height="60" alt="King Gampo" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">Gampo</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Prof (2011)</span></td>
 </tr>
 </table>
 </div>
