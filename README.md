@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27335558e3e3cdc7bb925f08329" width="150" height="150" alt="Floored" /></a>
+<a href="https://open.spotify.com/track/1sYx5lpCHEEKRI0pPeilQH"><img src="https://i.scdn.co/image/ab67616d0000b27317d6db894c2aedd5a912dd63" width="150" height="150" alt="The Cash Collection: The Mercury Years 1987-1991" /></a>
 
-<b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1sYx5lpCHEEKRI0pPeilQH">Ring Of Fire - 1988 Version</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Sugar Ray (1997)</span>
+<span style="color: #666;">Johnny Cash (2011)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1sYx5lpCHEEKRI0pPeilQH"><img src="https://i.scdn.co/image/ab67616d0000b27317d6db894c2aedd5a912dd63" width="60" height="60" alt="The Cash Collection: The Mercury Years 1987-1991" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1sYx5lpCHEEKRI0pPeilQH">Ring Of Fire - 1988 Version</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27335558e3e3cdc7bb925f08329" width="60" height="60" alt="Floored" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugar Ray (1997)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr">Crawling</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"><img src="https://i.scdn.co/image/ab67616d0000b273fc7df879208b362bb1ce1499" width="60" height="60" alt="Purple (2019 Remaster)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3">Interstate Love Song - 2019 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Temple Pilots (1994)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"><img src="https://i.scdn.co/image/ab67616d0000b273c72cc4087da2190116857f37" width="60" height="60" alt="Every Six Seconds" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">Click Click Boom</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Saliva (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2zO4To4N8Facnm7JabUSaE"><img src="https://i.scdn.co/image/ab67616d0000b273ce1e75781485d548bc4f1a1d" width="60" height="60" alt="Video Game Music - Collection 1" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2zO4To4N8Facnm7JabUSaE">Tetris - Main Theme - Epic Version</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Sofa Sounds (2019)</span></td>
 </tr>
 </table>
 </div>
