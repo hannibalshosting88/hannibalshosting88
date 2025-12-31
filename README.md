@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="150" height="150" alt="Hybrid Theory (Bonus Edition)" /></a>
+<a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"><img src="https://i.scdn.co/image/ab67616d0000b27335558e3e3cdc7bb925f08329" width="150" height="150" alt="Floored" /></a>
 
-<b><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr">Crawling</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Linkin Park (2000)</span>
+<span style="color: #666;">Sugar Ray (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr">Crawling</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB"><img src="https://i.scdn.co/image/ab67616d0000b2734c323691524da979d9a8b695" width="60" height="60" alt="BFG 10k" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB">BFG 10k</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Andrew Baena, Cooper Lagace (2020)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2zO4To4N8Facnm7JabUSaE"><img src="https://i.scdn.co/image/ab67616d0000b273ce1e75781485d548bc4f1a1d" width="60" height="60" alt="Video Game Music - Collection 1" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2zO4To4N8Facnm7JabUSaE">Tetris - Main Theme - Epic Version</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Sofa Sounds (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"><img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" width="60" height="60" alt="souljaboytellem.com" /></a></td>
-<td><b><a href="https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi">Crank That (Soulja Boy)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Soulja Boy (2007)</span></td>
 </tr>
 </table>
 </div>
