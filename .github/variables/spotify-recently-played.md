@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5"><img src="https://i.scdn.co/image/ab67616d0000b2738248914bbbcdcba2d154c8de" width="150" height="150" alt="Labcabincalifornia (Deluxe Edition)" /></a>
+<a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"><img src="https://i.scdn.co/image/ab67616d0000b273f7b69bb1db06fec7f326d6f7" width="150" height="150" alt="Run" /></a>
 
-<b><a href="https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5">Runnin'</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">Run</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">The Pharcyde (1995)</span>
+<span style="color: #666;">AWOLNATION (2015)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5"><img src="https://i.scdn.co/image/ab67616d0000b2738248914bbbcdcba2d154c8de" width="60" height="60" alt="Labcabincalifornia (Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5">Runnin'</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Pharcyde (1995)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5Xevyftg9SENov82JYXlYQ"><img src="https://i.scdn.co/image/ab67616d0000b273229f132702470af1740b7bf4" width="60" height="60" alt="The Power Within (Special Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5Xevyftg9SENov82JYXlYQ">Cry Thunder</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DragonForce (2012)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7"><img src="https://i.scdn.co/image/ab67616d0000b2736f190c15b945233a504ccb6a" width="60" height="60" alt="Great Gonzos! The Best Of Ted Nugent" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7">Stranglehold</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ted Nugent (1981)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2VKf0uS37dsb6D4AOBpI0p"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2VKf0uS37dsb6D4AOBpI0p">Transistor Fist</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
 </tr>
 </table>
 </div>
