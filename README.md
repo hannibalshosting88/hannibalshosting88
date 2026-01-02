@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5WWWzsyKsqCDXuFpL0v72C"><img src="https://i.scdn.co/image/ab67616d0000b273c91568af459afb59dbb7e879" width="150" height="150" alt="Dark Boy" /></a>
+<a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"><img src="https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad" width="150" height="150" alt="Make Believe" /></a>
 
-<b><a href="https://open.spotify.com/track/5WWWzsyKsqCDXuFpL0v72C">Hit Kids Not Juuls</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa">Beverly Hills</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Pranav.Wav (2021)</span>
+<span style="color: #666;">Weezer (2005)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5WWWzsyKsqCDXuFpL0v72C"><img src="https://i.scdn.co/image/ab67616d0000b273c91568af459afb59dbb7e879" width="60" height="60" alt="Dark Boy" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5WWWzsyKsqCDXuFpL0v72C">Hit Kids Not Juuls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Pranav.Wav (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3WxVUV2pgCuSg8Z4bibL83"><img src="https://i.scdn.co/image/ab67616d0000b273e696a37923df1da5c35ea490" width="60" height="60" alt="Gankin' Fools" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3WxVUV2pgCuSg8Z4bibL83">Gankin' Fools</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Apoc Krysis, 3dmg (2018)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3qKmWo8z1KZx9s99a1qiff"><img src="https://i.scdn.co/image/ab67616d0000b2737df7c935b8457d2deed2842c" width="60" height="60" alt="Suffer" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3qKmWo8z1KZx9s99a1qiff">Darko</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2020)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4Hc0FzSSa8CtTFqVIOgEyI"><img src="https://i.scdn.co/image/ab67616d0000b273ac79eaf40ca6e8ec1633edd7" width="60" height="60" alt="Do Not Rmx" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4Hc0FzSSa8CtTFqVIOgEyI">Do Not Rmx</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Apoc Krysis, Freddie Dredd (2019)</span></td>
 </tr>
 </table>
 </div>
