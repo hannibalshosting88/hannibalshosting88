@@ -30,6 +30,10 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"><img src="https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad" width="60" height="60" alt="Make Believe" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa">Beverly Hills</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2005)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/5WWWzsyKsqCDXuFpL0v72C"><img src="https://i.scdn.co/image/ab67616d0000b273c91568af459afb59dbb7e879" width="60" height="60" alt="Dark Boy" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5WWWzsyKsqCDXuFpL0v72C">Hit Kids Not Juuls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Pranav.Wav (2021)</span></td>
 </tr>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7fm5r6dD04emTplbHD5wDP"><img src="https://i.scdn.co/image/ab67616d0000b2738072ab76f6817da5800c9037" width="60" height="60" alt="BUSTER" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7fm5r6dD04emTplbHD5wDP">BUSTER</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">$atori Zoom (2019)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3qKmWo8z1KZx9s99a1qiff"><img src="https://i.scdn.co/image/ab67616d0000b2737df7c935b8457d2deed2842c" width="60" height="60" alt="Suffer" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3qKmWo8z1KZx9s99a1qiff">Darko</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2020)</span></td>
 </tr>
 </table>
 </div>
