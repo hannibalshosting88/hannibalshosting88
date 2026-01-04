@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"><img src="https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad" width="150" height="150" alt="Make Believe" /></a>
+<a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"><img src="https://i.scdn.co/image/ab67616d0000b273fc7df879208b362bb1ce1499" width="150" height="150" alt="Purple (2019 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa">Beverly Hills</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX">Vasoline - 2019 Remaster</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Weezer (2005)</span>
+<span style="color: #666;">Stone Temple Pilots (1994)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"><img src="https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad" width="60" height="60" alt="Make Believe" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa">Beverly Hills</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"><img src="https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad" width="60" height="60" alt="Make Believe" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa">Beverly Hills</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2005)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4TNT1dmWRE8RVpKDHLF8UP"><img src="https://i.scdn.co/image/ab67616d0000b273beb8d0ce68d6bc3b6ceee689" width="60" height="60" alt="GAZ" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4TNT1dmWRE8RVpKDHLF8UP">GAZ</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kaito Shoma (2021)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7fm5r6dD04emTplbHD5wDP"><img src="https://i.scdn.co/image/ab67616d0000b2738072ab76f6817da5800c9037" width="60" height="60" alt="BUSTER" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7fm5r6dD04emTplbHD5wDP">BUSTER</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">$atori Zoom (2019)</span></td>
 </tr>
 </table>
 </div>
