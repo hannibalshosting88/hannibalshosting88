@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1A5yplwEk6cJbAL63L6bkp"><img src="https://i.scdn.co/image/ab67616d0000b273b206bf7a0eef9b921747ceee" width="150" height="150" alt="Bailar (feat. Pitbull & Elvis Crespo)" /></a>
+<a href="https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"><img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="150" height="150" alt="Perception" /></a>
 
-<b><a href="https://open.spotify.com/track/1A5yplwEk6cJbAL63L6bkp">Bailar (feat. Pitbull & Elvis Crespo)</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL">Let You Down</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Deorro, Pitbull, Elvis Crespo (2016)</span>
+<span style="color: #666;">NF (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"><img src="https://i.scdn.co/image/ab67616d0000b273fc7df879208b362bb1ce1499" width="60" height="60" alt="Purple (2019 Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX">Vasoline - 2019 Remaster</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Temple Pilots (1994)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/74vx4esXPmbR3TFhqpOtyc">Frgt/10 (Alchemist Reanimation) [feat. Chali 2na]</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park, Chali 2na, The Alchemist (2002)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"><img src="https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad" width="60" height="60" alt="Make Believe" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa">Beverly Hills</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2005)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5DYiaaIQ1UAeOyPNaVaGqy"><img src="https://i.scdn.co/image/ab67616d0000b273f921e318cc5e500bd6891a87" width="60" height="60" alt="No Signal" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5DYiaaIQ1UAeOyPNaVaGqy">Waiting For You</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">French The Kid (2023)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"><img src="https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad" width="60" height="60" alt="Make Believe" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa">Beverly Hills</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2005)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="60" height="60" alt="Invaders Must Die" /></a></td>
+<td><b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (2009)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5WWWzsyKsqCDXuFpL0v72C"><img src="https://i.scdn.co/image/ab67616d0000b273c91568af459afb59dbb7e879" width="60" height="60" alt="Dark Boy" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5WWWzsyKsqCDXuFpL0v72C">Hit Kids Not Juuls</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Pranav.Wav (2021)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"><img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="60" height="60" alt="Tha Carter IV (Complete Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH">6 Foot 7 Foot</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Cory Gunz (2011)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3WxVUV2pgCuSg8Z4bibL83"><img src="https://i.scdn.co/image/ab67616d0000b273e696a37923df1da5c35ea490" width="60" height="60" alt="Gankin' Fools" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3WxVUV2pgCuSg8Z4bibL83">Gankin' Fools</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Apoc Krysis, 3dmg (2018)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1"><img src="https://i.scdn.co/image/ab67616d0000b27323d8d82a798baa960fdb5070" width="60" height="60" alt="Throwing Copper" /></a></td>
+<td><b><a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1">Lightning Crashes</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Live (1994)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0RitOSkVYKplZ53BgJd1rY"><img src="https://i.scdn.co/image/ab67616d0000b273d9b14942052369fb1525043e" width="60" height="60" alt="Short Term Agreement" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0RitOSkVYKplZ53BgJd1rY">Slump</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">NxxxxxS, Freddie Dredd (2023)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg"><img src="https://i.scdn.co/image/ab67616d0000b27380c64a084164867806ea617a" width="60" height="60" alt="I Am Not A Human Being II (Deluxe)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg">Love Me</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Drake, Future (2013)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5r3Vhg5Xti90OVTlFRlwOI"><img src="https://i.scdn.co/image/ab67616d0000b273bbaab374ff74742d535a1352" width="60" height="60" alt="THA PLAYA$ MANUAL" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5r3Vhg5Xti90OVTlFRlwOI">Red Dot</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ramirez, Night Lovell (2020)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ"><img src="https://i.scdn.co/image/ab67616d0000b27375a9cde08f286d9420709048" width="60" height="60" alt="Icky Thump" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ">Icky Thump</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The White Stripes (2007)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/58f5n6U9Aa3DbIjZOKBIOo"><img src="https://i.scdn.co/image/ab67616d0000b2735f67e542d7e9241ee9c9893c" width="60" height="60" alt="199X" /></a></td>
-<td><b><a href="https://open.spotify.com/track/58f5n6U9Aa3DbIjZOKBIOo">199X</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">core5k (2023)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD"><img src="https://i.scdn.co/image/ab67616d0000b273c469e75608b59994c1c422be" width="60" height="60" alt="ATLAS" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD">Legend</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Score (2017)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4nevmz4M90Ix9Y8PTBasqu"><img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="60" height="60" alt="Freddie's Inferno" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4nevmz4M90Ix9Y8PTBasqu">Greed</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"><img src="https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d" width="60" height="60" alt="Pablo Honey" /></a></td>
+<td><b><a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r">Creep</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Radiohead (1993)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2yqAHTu4XlVCB5bvCKz9f8"><img src="https://i.scdn.co/image/ab67616d0000b27368c02a15f83aa4307de4782f" width="60" height="60" alt="1-800-BringThePain" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2yqAHTu4XlVCB5bvCKz9f8">1-800-BringThePain</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Hydra (2021)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1efS2dJr6nL8zdQTf4vfqg"><img src="https://i.scdn.co/image/ab67616d0000b27333fdf228b29c7e30798925fa" width="60" height="60" alt="Pound Syndrome" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1efS2dJr6nL8zdQTf4vfqg">Ill Mind of Hopsin 7</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Hopsin (2015)</span></td>
 </tr>
 </table>
 </div>
