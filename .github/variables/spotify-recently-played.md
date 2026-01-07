@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="150" height="150" alt="INSANO (NITRO MEGA)" /></a>
+<a href="https://open.spotify.com/track/5eHsf6qj6p9kOuXdk4T59f"><img src="https://i.scdn.co/image/ab67616d0000b273380d5118df49f97a6dca031e" width="150" height="150" alt="Eternal Wrath" /></a>
 
-<b><a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH">BABE AND I</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/5eHsf6qj6p9kOuXdk4T59f">Eternal Wrath</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Kid Cudi (2024)</span>
+<span style="color: #666;">Psygnals (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="60" height="60" alt="INSANO (NITRO MEGA)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH">BABE AND I</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5j7gLuOsBOyqooruGxX4nx"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5j7gLuOsBOyqooruGxX4nx">Taking Over Me</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6WwkNIzmdTvk4x4KNEpmGY"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6WwkNIzmdTvk4x4KNEpmGY">Harbinger</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
 </tr>
 </table>
 </div>
