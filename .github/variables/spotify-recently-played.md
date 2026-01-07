@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"><img src="https://i.scdn.co/image/ab67616d0000b27355e734bb400d8c827700541b" width="150" height="150" alt="S.C.I.E.N.C.E." /></a>
+<a href="https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y"><img src="https://i.scdn.co/image/ab67616d0000b2731e869a1d333210eaa2bfe670" width="150" height="150" alt="Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa">Vitamin</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y">The Imperial March (Darth Vader's Theme)</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Incubus (1997)</span>
+<span style="color: #666;">John Williams, London Symphony Orchestra (1980)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"><img src="https://i.scdn.co/image/ab67616d0000b27355e734bb400d8c827700541b" width="60" height="60" alt="S.C.I.E.N.C.E." /></a></td>
-<td><b><a href="https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa">Vitamin</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1997)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H"><img src="https://i.scdn.co/image/ab67616d0000b27356325ff85cba9491cf55c215" width="60" height="60" alt="Fragile" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7lPjS6Yd4lRk4BsboDsm1H">Roundabout - 2008 Remaster</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Yes (1971)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5eHsf6qj6p9kOuXdk4T59f"><img src="https://i.scdn.co/image/ab67616d0000b273380d5118df49f97a6dca031e" width="60" height="60" alt="Eternal Wrath" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5eHsf6qj6p9kOuXdk4T59f">Eternal Wrath</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"><img src="https://i.scdn.co/image/ab67616d0000b27304422c5d997bfa6c750a12f1" width="60" height="60" alt="Wolfmother" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4">Woman</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Wolfmother (2006)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH"><img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="60" height="60" alt="INSANO (NITRO MEGA)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH">BABE AND I</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2024)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP">Erase Me - Main</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi, Kanye West (2010)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"><img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="60" height="60" alt="Metallica (Remastered)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1991)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"><img src="https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235" width="60" height="60" alt="Songs From The Big Chair (Super Deluxe Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE">Everybody Wants To Rule The World</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Tears For Fears (1985)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"><img src="https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad" width="60" height="60" alt="Make Believe" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa">Beverly Hills</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Weezer (2005)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi"><img src="https://i.scdn.co/image/ab67616d0000b273b868bc52627b90ed648b2092" width="60" height="60" alt="PURE" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi">asphyxia</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Cö shu Nie (2019)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"><img src="https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4" width="60" height="60" alt="Poison" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH">Poison</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bell Biv DeVoe (1990)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL"><img src="https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954" width="60" height="60" alt="this is what ____ feels like (Vol. 1-4)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL">this is what falling in love feels like</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">JVKE (2022)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"><img src="https://i.scdn.co/image/ab67616d0000b273579b9602ae484950d95d0ab8" width="60" height="60" alt="Black Summer" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b">Black Summer</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4j8NiEC8HTT7Qx2psoF0LC"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4j8NiEC8HTT7Qx2psoF0LC">Dr. Samuel Hayden</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"><img src="https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96" width="60" height="60" alt="÷ (Deluxe)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3">Shape of You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Ed Sheeran (2017)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp"><img src="https://i.scdn.co/image/ab67616d0000b2733c2bba46b66a3c8a83a53015" width="60" height="60" alt="Come Clean" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp">Blurry</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Puddle Of Mudd (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7"><img src="https://i.scdn.co/image/ab67616d0000b2735cc5b5a10eaab8bea0206376" width="60" height="60" alt="A Twist In My Story" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7">Fall For You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Secondhand Serenade (2008)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"><img src="https://i.scdn.co/image/ab67616d0000b273c23dd8ed5abc2dff6f62aa14" width="60" height="60" alt="Awake" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX">Awake</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Godsmack (2000)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"><img src="https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403" width="60" height="60" alt="Three Days Grace" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">I Hate Everything About You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Three Days Grace (2003)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL"><img src="https://i.scdn.co/image/ab67616d0000b27324edb22d068eb245a924b7f2" width="60" height="60" alt="UNDERTALE Soundtrack" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL">MEGALOVANIA</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Toby Fox (2015)</span></td>
 </tr>
 </table>
 </div>
