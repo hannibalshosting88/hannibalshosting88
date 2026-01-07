@@ -30,6 +30,10 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
+<td width="60"><a href="https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"><img src="https://i.scdn.co/image/ab67616d0000b27355e734bb400d8c827700541b" width="60" height="60" alt="S.C.I.E.N.C.E." /></a></td>
+<td><b><a href="https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa">Vitamin</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1997)</span></td>
+</tr>
+<tr>
 <td width="60"><a href="https://open.spotify.com/track/5eHsf6qj6p9kOuXdk4T59f"><img src="https://i.scdn.co/image/ab67616d0000b273380d5118df49f97a6dca031e" width="60" height="60" alt="Eternal Wrath" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5eHsf6qj6p9kOuXdk4T59f">Eternal Wrath</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2024)</span></td>
 </tr>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"><img src="https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403" width="60" height="60" alt="Three Days Grace" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">I Hate Everything About You</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Three Days Grace (2003)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6cFwvA17RA4pDBva9hDdA1"><img src="https://i.scdn.co/image/ab67616d0000b273cfd732447cb7d45dbc826ab7" width="60" height="60" alt="Old School" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6cFwvA17RA4pDBva9hDdA1">Old School</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Creed Fisher (2019)</span></td>
 </tr>
 </table>
 </div>
