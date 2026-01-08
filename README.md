@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl"><img src="https://i.scdn.co/image/ab67616d0000b273e77ae7296a791597f64e4ea1" width="150" height="150" alt="Awkward Encounters While Walking My Dog" /></a>
+<a href="https://open.spotify.com/track/2m5Sn5GiRlDcnLbPlzubnC"><img src="https://i.scdn.co/image/ab67616d0000b27300ff9a4e6eb3532b592c3777" width="150" height="150" alt="Living In Clip (25th Anniversary Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">I've No More ... To Give</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2m5Sn5GiRlDcnLbPlzubnC">Every State Line - atlanta, ga. - 2022 remaster</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Thomas Benjamin Wild Esq, Damian Clark (2018)</span>
+<span style="color: #666;">Ani DiFranco, Sara Lee, Andy Stochansky (2022)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl"><img src="https://i.scdn.co/image/ab67616d0000b273e77ae7296a791597f64e4ea1" width="60" height="60" alt="Awkward Encounters While Walking My Dog" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">I've No More ... To Give</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Thomas Benjamin Wild Esq, Damian Clark (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3Mer21XmsC6gBqVTLIVnrq"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" height="60" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3Mer21XmsC6gBqVTLIVnrq">Concrete for Miles</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2014)</span></td>
@@ -63,11 +67,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">Papercut</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"><img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="60" height="60" alt="Freddie's Inferno" /></a></td>
-<td><b><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2022)</span></td>
+<td><b><a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">Papercut</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
 </tr>
 </table>
 </div>
