@@ -4,13 +4,25 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"><img src="https://i.scdn.co/image/ab67616d0000b273c66ad69a4c9fec63e6f49a3a" width="150" height="150" alt="Karma and Effect" /></a>
+<a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB"><img src="https://i.scdn.co/image/ab67616d0000b273fa78c40c54908ff02f878779" width="150" height="150" alt="Pimpin' Benjamin" /></a>
 
-<b><a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc">Remedy</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">Pimpin' Benjamin</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Seether (2005)</span>
+<span style="color: #666;">Coast Contra (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"><img src="https://i.scdn.co/image/ab67616d0000b2736a21b97de47168df4f0c1993" width="60" height="60" alt="El Camino" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI">Lonely Boy</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Black Keys (2011)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC"><img src="https://i.scdn.co/image/ab67616d0000b2731125993143f5a01d1d6e1b1d" width="60" height="60" alt="HIVE" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sub Urban, BENEE (2022)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"><img src="https://i.scdn.co/image/ab67616d0000b273c66ad69a4c9fec63e6f49a3a" width="60" height="60" alt="Karma and Effect" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc">Remedy</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Seether (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"><img src="https://i.scdn.co/image/ab67616d0000b27359a1132f3cab22f80b2d2777" width="60" height="60" alt="Hell: The Sequel (Deluxe)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig">Fast Lane</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bad Meets Evil (2011)</span></td>
@@ -38,18 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/50gP4chKGGnfW84nhrXW64"><img src="https://i.scdn.co/image/ab67616d0000b273a753256f56abf3382f7b65a1" width="60" height="60" alt="Tears Of Blood <<3FOOLZ MIXX>> #BLXXDMONEYKREW" /></a></td>
 <td><b><a href="https://open.spotify.com/track/50gP4chKGGnfW84nhrXW64">Tears Of Blood <<3FOOLZ MIXX>> #BLXXDMONEYKREW</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">lowgoldjay x 3foolz (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"><img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="60" height="60" alt="Palm Trees and Power Lines" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sugarcult (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI"><img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="60" height="60" alt="Times Square" /></a></td>
-<td><b><a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don't Wait</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2023)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"><img src="https://i.scdn.co/image/ab67616d0000b27379ac84696fa8624e97684d27" width="60" height="60" alt="Mother's Milk" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl">Higher Ground - Remastered 2003</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Red Hot Chili Peppers (1989)</span></td>
 </tr>
 </table>
 </div>
