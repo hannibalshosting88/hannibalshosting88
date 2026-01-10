@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0FH8B5hZaNWY6SB3Ju5HMb"><img src="https://i.scdn.co/image/ab67616d0000b2738607fe1752b57d7154a15d3b" width="150" height="150" alt="Ahgainst the Grain" /></a>
+<a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5"><img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="150" height="150" alt="Origins (Deluxe)" /></a>
 
-<b><a href="https://open.spotify.com/track/0FH8B5hZaNWY6SB3Ju5HMb">Gunther Mackett</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5">Boomerang</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">The Stixxx (2012)</span>
+<span style="color: #666;">Imagine Dragons (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0FH8B5hZaNWY6SB3Ju5HMb"><img src="https://i.scdn.co/image/ab67616d0000b2738607fe1752b57d7154a15d3b" width="60" height="60" alt="Ahgainst the Grain" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0FH8B5hZaNWY6SB3Ju5HMb">Gunther Mackett</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">The Stixxx (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"><img src="https://i.scdn.co/image/ab67616d0000b273f67a8d19b2c7130f0437887b" width="60" height="60" alt="GTG" /></a></td>
 <td><b><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">GTG</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2018)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu"><img src="https://i.scdn.co/image/ab67616d0000b273b7879980ef2ea7ac1cc29316" width="60" height="60" alt="Ghost In The Machine (Remastered 2003)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu">Spirits In The Material World</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Police (1981)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4j8NiEC8HTT7Qx2psoF0LC"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4j8NiEC8HTT7Qx2psoF0LC">Dr. Samuel Hayden</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
 </tr>
 </table>
 </div>
