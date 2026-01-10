@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"><img src="https://i.scdn.co/image/ab67616d0000b273f67a8d19b2c7130f0437887b" width="150" height="150" alt="GTG" /></a>
+<a href="https://open.spotify.com/track/0FH8B5hZaNWY6SB3Ju5HMb"><img src="https://i.scdn.co/image/ab67616d0000b2738607fe1752b57d7154a15d3b" width="150" height="150" alt="Ahgainst the Grain" /></a>
 
-<b><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">GTG</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/0FH8B5hZaNWY6SB3Ju5HMb">Gunther Mackett</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Freddie Dredd (2018)</span>
+<span style="color: #666;">The Stixxx (2012)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"><img src="https://i.scdn.co/image/ab67616d0000b273f67a8d19b2c7130f0437887b" width="60" height="60" alt="GTG" /></a></td>
+<td><b><a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">GTG</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ"><img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" width="60" height="60" alt="Who Are You" /></a></td>
 <td><b><a href="https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ">Who Are You</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Who (1978)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4j8NiEC8HTT7Qx2psoF0LC"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4j8NiEC8HTT7Qx2psoF0LC">Dr. Samuel Hayden</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7yOJdvFCcdc3WySZm4XYMO"><img src="https://i.scdn.co/image/ab67616d0000b27378e7d5b0537b966717af3197" width="60" height="60" alt="We Ride" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7yOJdvFCcdc3WySZm4XYMO">We Ride</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bryan Martin (2022)</span></td>
 </tr>
 </table>
 </div>
