@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"><img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="150" height="150" alt="Does This Look Infected?" /></a>
+<a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"><img src="https://i.scdn.co/image/ab67616d0000b273d7d4922d7d2b7e596084075e" width="150" height="150" alt="The Essential Kansas" /></a>
 
-<b><a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N">Carry on Wayward Son</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Sum 41 (2002)</span>
+<span style="color: #666;">Kansas (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"><img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="60" height="60" alt="Does This Look Infected?" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sum 41 (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo"><img src="https://i.scdn.co/image/ab67616d0000b273af188836621942122e3832f5" width="60" height="60" alt="Spirit Of America" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo">Barbara Ann</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Beach Boys (1975)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"><img src="https://i.scdn.co/image/ab67616d0000b273db38819ff1e73809f8be6107" width="60" height="60" alt="Dystopia" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO">Dystopia</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Megadeth (2016)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"><img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="60" height="60" alt="Night Visions" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a">Demons</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2012)</span></td>
 </tr>
 </table>
 </div>
