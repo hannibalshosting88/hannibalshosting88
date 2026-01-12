@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95"><img src="https://i.scdn.co/image/ab67616d0000b27363bd80f6f88dd62da7ef193c" width="150" height="150" alt="OK Go" /></a>
+<a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z"><img src="https://i.scdn.co/image/ab67616d0000b273c4e2c0dacbae3e342ac21944" width="150" height="150" alt="Believers" /></a>
 
-<b><a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95">Get Over It</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z">Last One Standing</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">OK Go (2002)</span>
+<span style="color: #666;">¡MAYDAY!, Tech N9ne (2013)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"><img src="https://i.scdn.co/image/ab67616d0000b273d12b9349b2ab140c4f6364e0" width="60" height="60" alt="Sonic Highways" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9">Something from Nothing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2014)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"><img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="60" height="60" alt="Enemy (from the series Arcane League of Legends)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Arcane, League of Legends (2021)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1JTZqN0snbMSNtp59zveTs"><img src="https://i.scdn.co/image/ab67616d0000b2736a0b17b302637c4094433f09" width="60" height="60" alt="All 6's And 7's" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1JTZqN0snbMSNtp59zveTs">Am I A Psycho</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Tech N9ne (2011)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe"><img src="https://i.scdn.co/image/ab67616d0000b273e7a3a891ae555b0a46a131ed" width="60" height="60" alt="OK ORCHESTRA" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe">Way Less Sad</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AJR (2021)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"><img src="https://i.scdn.co/image/ab67616d0000b273e8a1ae591befe4bb0a9261ab" width="60" height="60" alt="Get Behind Me Satan" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1">Blue Orchid</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The White Stripes (2005)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"><img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="60" height="60" alt="Death Magnetic" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (2008)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3FLPAAlQNb570TtFQ50RwR"><img src="https://i.scdn.co/image/ab67616d0000b273145454b151d01ca3305bbd60" width="60" height="60" alt="Curtain Call 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3FLPAAlQNb570TtFQ50RwR">Kings Never Die (feat. Gwen Stefani)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Eminem, Gwen Stefani (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah"><img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="60" height="60" alt="Man On The Moon II: The Legend Of Mr. Rager" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0Epl79nHvdyTdZRAiWpJah">REVOFEV</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kid Cudi (2010)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"><img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="60" height="60" alt="Rich Men North of Richmond" /></a></td>
-<td><b><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Oliver Anthony Music (2023)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1H0utYmwbHj2qwWMMbOuzm"><img src="https://i.scdn.co/image/ab67616d0000b27356e74e9be5456b4bfb702c83" width="60" height="60" alt="Jarvage, Vol. 1" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1H0utYmwbHj2qwWMMbOuzm">Escargot</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Jarv (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"><img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="60" height="60" alt="Rich Men North of Richmond" /></a></td>
-<td><b><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Oliver Anthony Music (2023)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H"><img src="https://i.scdn.co/image/ab67616d0000b273300af6c15e091795c7997d86" width="60" height="60" alt="Sorry 4 The Wait" /></a></td>
+<td><b><a href="https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H">Sorry 4 The Wait</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne (2022)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"><img src="https://i.scdn.co/image/ab67616d0000b273d7d4922d7d2b7e596084075e" width="60" height="60" alt="The Essential Kansas" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N">Carry on Wayward Son</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Kansas (2010)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"><img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="60" height="60" alt="Fallen" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24">Haunted</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Evanescence (2003)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"><img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="60" height="60" alt="Does This Look Infected?" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sum 41 (2002)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"><img src="https://i.scdn.co/image/ab67616d0000b2731a0278d4109c0f974821aa33" width="60" height="60" alt="Drops Of Jupiter" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA">Drops of Jupiter (Tell Me)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Train (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo"><img src="https://i.scdn.co/image/ab67616d0000b273af188836621942122e3832f5" width="60" height="60" alt="Spirit Of America" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo">Barbara Ann</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Beach Boys (1975)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0"><img src="https://i.scdn.co/image/ab67616d0000b273bf963a1df6bb4cbcf14f21d3" width="60" height="60" alt="Cherry Bop" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0">Cherry Bop</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack, Chad Lefkowitz-Brown (2021)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"><img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" width="60" height="60" alt="Hot Fuss" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v">Somebody Told Me</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Killers (2004)</span></td>
 </tr>
 </table>
 </div>
