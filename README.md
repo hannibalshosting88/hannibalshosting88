@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z"><img src="https://i.scdn.co/image/ab67616d0000b273c4e2c0dacbae3e342ac21944" width="150" height="150" alt="Believers" /></a>
+<a href="https://open.spotify.com/track/66h8hB4In6t725WtAPL23J"><img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" width="150" height="150" alt="Recovery" /></a>
 
-<b><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z">Last One Standing</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/66h8hB4In6t725WtAPL23J">Talkin’ 2 Myself</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">¡MAYDAY!, Tech N9ne (2013)</span>
+<span style="color: #666;">Eminem, Kobe Honeycutt (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2xrRBqEanoBaA0tOgYy18V"><img src="https://i.scdn.co/image/ab67616d0000b2739f613468da45d75bac9cb546" width="60" height="60" alt="The Hands That Thieve" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2xrRBqEanoBaA0tOgYy18V">The Three of Us</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Streetlight Manifesto (2013)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z"><img src="https://i.scdn.co/image/ab67616d0000b273c4e2c0dacbae3e342ac21944" width="60" height="60" alt="Believers" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1DH321UEFvorigjNf6aE0Z">Last One Standing</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">¡MAYDAY!, Tech N9ne (2013)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"><img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="60" height="60" alt="Enemy (from the series Arcane League of Legends)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons, Arcane, League of Legends (2021)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"><img src="https://i.scdn.co/image/ab67616d0000b2731a0278d4109c0f974821aa33" width="60" height="60" alt="Drops Of Jupiter" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA">Drops of Jupiter (Tell Me)</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Train (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"><img src="https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773" width="60" height="60" alt="Beautifully Broken" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll (2024)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"><img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" width="60" height="60" alt="Hot Fuss" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v">Somebody Told Me</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">The Killers (2004)</span></td>
 </tr>
 </table>
 </div>
