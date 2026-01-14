@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="150" height="150" alt="Make Yourself" /></a>
+<a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"><img src="https://i.scdn.co/image/ab67616d0000b273699a422d25adc550dc5aa11c" width="150" height="150" alt="Silver Side Up" /></a>
 
-<b><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">Make Yourself</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf">How You Remind Me</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Incubus (1999)</span>
+<span style="color: #666;">Nickelback (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX"><img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="60" height="60" alt="Make Yourself" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">Make Yourself</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1999)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b"><img src="https://i.scdn.co/image/ab67616d0000b2737d579219fc2611dc45ef36fb" width="60" height="60" alt="In Keeping Secrets Of Silent Earth: 3" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b">The Crowing</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2003)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt">Take A Look Around</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4j8NiEC8HTT7Qx2psoF0LC"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4j8NiEC8HTT7Qx2psoF0LC">Dr. Samuel Hayden</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
 </tr>
 </table>
 </div>
