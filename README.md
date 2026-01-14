@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8"><img src="https://i.scdn.co/image/ab67616d0000b273eece10ee539479b08711a839" width="150" height="150" alt="Ghostrunner (Original Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS"><img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="150" height="150" alt="Man On The Moon: The End Of Day" /></a>
 
-<b><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8">The Orb</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS">Soundtrack 2 My Life</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Daniel Deluxe (2020)</span>
+<span style="color: #666;">Kid Cudi (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8"><img src="https://i.scdn.co/image/ab67616d0000b273eece10ee539479b08711a839" width="60" height="60" alt="Ghostrunner (Original Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8">The Orb</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Daniel Deluxe (2020)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh"><img src="https://i.scdn.co/image/ab67616d0000b2736f4f62da3d811b6501a69ffa" width="60" height="60" alt="American IV: The Man Comes Around" /></a></td>
 <td><b><a href="https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh">Hurt</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (2002)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt"><img src="https://i.scdn.co/image/ab67616d0000b273864c4ad1d9285c8f8d58749f" width="60" height="60" alt="Nothing But A Good Time" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt">Nothin' But A Good Time - Remastered 2006</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Poison (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/46lIt6GmL0VkkbuUyGDbCs"><img src="https://i.scdn.co/image/ab67616d0000b27333ebdffaa447ff19ce9f24bb" width="60" height="60" alt="Tha Carter III" /></a></td>
-<td><b><a href="https://open.spotify.com/track/46lIt6GmL0VkkbuUyGDbCs">Got Money</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, T-Pain (2008)</span></td>
 </tr>
 </table>
 </div>
