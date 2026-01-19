@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"><img src="https://i.scdn.co/image/ab67616d0000b273e122d21b6026da241cd33997" width="150" height="150" alt="Bobby Darin" /></a>
+<a href="https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"><img src="https://i.scdn.co/image/ab67616d0000b27372833c1ae3343cbfb4617073" width="150" height="150" alt="Moving Pictures (2011 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG">Splish Splash</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D">Tom Sawyer</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Bobby Darin (1958)</span>
+<span style="color: #666;">Rush (1981)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"><img src="https://i.scdn.co/image/ab67616d0000b273e122d21b6026da241cd33997" width="60" height="60" alt="Bobby Darin" /></a></td>
+<td><b><a href="https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG">Splish Splash</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Bobby Darin (1958)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"><img src="https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb" width="60" height="60" alt="The Colour And The Shape" /></a></td>
 <td><b><a href="https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR">Monkey Wrench</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (1997)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"><img src="https://i.scdn.co/image/ab67616d0000b2734e492e787ed64de43c3a3a21" width="60" height="60" alt="Follow The Leader" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu">Freak On a Leash</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (1998)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00"><img src="https://i.scdn.co/image/ab67616d0000b2736b275d72474c508ce2b405a4" width="60" height="60" alt="S&M" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00">No Leaf Clover - Live with the SFSO</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1999)</span></td>
 </tr>
 </table>
 </div>
