@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0XRjftXFxSo0ZEC0ZdSxWQ"><img src="https://i.scdn.co/image/ab67616d0000b273bb85bcab29cd1c193c46afb1" width="150" height="150" alt="ATTENTION ATTENTION" /></a>
+<a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"><img src="https://i.scdn.co/image/ab67616d0000b273725e469500de9880a320d8cb" width="150" height="150" alt="10,000 Days" /></a>
 
-<b><a href="https://open.spotify.com/track/0XRjftXFxSo0ZEC0ZdSxWQ">ATTENTION ATTENTION</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3">The Pot</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Shinedown (2018)</span>
+<span style="color: #666;">TOOL (2006)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0XRjftXFxSo0ZEC0ZdSxWQ"><img src="https://i.scdn.co/image/ab67616d0000b273bb85bcab29cd1c193c46afb1" width="60" height="60" alt="ATTENTION ATTENTION" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0XRjftXFxSo0ZEC0ZdSxWQ">ATTENTION ATTENTION</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Shinedown (2018)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"><img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" width="60" height="60" alt="The Eminem Show" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS">Till I Collapse</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem, Nate Dogg (2002)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"><img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" width="60" height="60" alt="LIVING THINGS" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I">BURN IT DOWN</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"><img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="60" height="60" alt="Freddie's Inferno" /></a></td>
-<td><b><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2022)</span></td>
 </tr>
 </table>
 </div>
