@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"><img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" width="150" height="150" alt="The Eminem Show" /></a>
+<a href="https://open.spotify.com/track/0XRjftXFxSo0ZEC0ZdSxWQ"><img src="https://i.scdn.co/image/ab67616d0000b273bb85bcab29cd1c193c46afb1" width="150" height="150" alt="ATTENTION ATTENTION" /></a>
 
-<b><a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS">Till I Collapse</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0XRjftXFxSo0ZEC0ZdSxWQ">ATTENTION ATTENTION</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Eminem, Nate Dogg (2002)</span>
+<span style="color: #666;">Shinedown (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"><img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" width="60" height="60" alt="The Eminem Show" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS">Till I Collapse</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Eminem, Nate Dogg (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"><img src="https://i.scdn.co/image/ab67616d0000b273b7ded75d35cf4364ba3f5267" width="60" height="60" alt="Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness" /></a></td>
 <td><b><a href="https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO">Welcome Home</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2005)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"><img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="60" height="60" alt="Freddie's Inferno" /></a></td>
 <td><b><a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Freddie Dredd (2022)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Ying Yang Twins (2002)</span></td>
 </tr>
 </table>
 </div>
