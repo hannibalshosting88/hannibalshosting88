@@ -22,13 +22,21 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"><img src="https://i.scdn.co/image/ab67616d0000b273725e469500de9880a320d8cb" width="150" height="150" alt="10,000 Days" /></a>
+<a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="150" height="150" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a>
 
-<b><a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3">The Pot</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB">NCC</a></b><span style="color: gold;"></span>
 
-<span style="color: #666;">TOOL (2006)</span>
+<span style="color: #666;">Broken Brass (2026)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"><img src="https://i.scdn.co/image/ab67616d0000b273026adcf853fad0af470a9fbb" width="60" height="60" alt="Whitsitt Chapel" /></a></td>
+<td><b><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM">Save Me - with Lainey Wilson</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll, Lainey Wilson (2023)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"><img src="https://i.scdn.co/image/ab67616d0000b273725e469500de9880a320d8cb" width="60" height="60" alt="10,000 Days" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3">The Pot</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">TOOL (2006)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0XRjftXFxSo0ZEC0ZdSxWQ"><img src="https://i.scdn.co/image/ab67616d0000b273bb85bcab29cd1c193c46afb1" width="60" height="60" alt="ATTENTION ATTENTION" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0XRjftXFxSo0ZEC0ZdSxWQ">ATTENTION ATTENTION</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Shinedown (2018)</span></td>
@@ -60,14 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"><img src="https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144" width="60" height="60" alt="See You On the Other Side" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="60" height="60" alt="Evolve" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">Believer</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Imagine Dragons (2017)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"><img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" width="60" height="60" alt="LIVING THINGS" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I">BURN IT DOWN</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2012)</span></td>
 </tr>
 </table>
 </div>
