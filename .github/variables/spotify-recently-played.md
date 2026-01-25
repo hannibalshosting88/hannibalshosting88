@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="150" height="150" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a>
+<a href="https://open.spotify.com/track/1VsxaE5MxzgtmKe50P1kRK"><img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="150" height="150" alt="Wolfenstein: The New Order Original Game Soundtrack" /></a>
 
-<b><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB">NCC</a></b><span style="color: gold;"></span>
+<b><a href="https://open.spotify.com/track/1VsxaE5MxzgtmKe50P1kRK">14 Years</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Broken Brass (2026)</span>
+<span style="color: #666;">Mick Gordon (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="60" height="60" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB">NCC</a></b> <span style="color: gold;"></span><br><span style="font-size: 12px; color: #666;">Broken Brass (2026)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"><img src="https://i.scdn.co/image/ab67616d0000b273026adcf853fad0af470a9fbb" width="60" height="60" alt="Whitsitt Chapel" /></a></td>
 <td><b><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM">Save Me - with Lainey Wilson</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Jelly Roll, Lainey Wilson (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF"><img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="60" height="60" alt="The Rising Tied (Deluxe Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF">Remember the Name (feat. Styles of Beyond)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Fort Minor, Styles Of Beyond (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"><img src="https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144" width="60" height="60" alt="See You On the Other Side" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (2005)</span></td>
 </tr>
 </table>
 </div>
