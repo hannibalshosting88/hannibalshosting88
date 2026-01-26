@@ -31,7 +31,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="60" height="60" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB">NCC</a></b> <span style="color: gold;"></span><br><span style="font-size: 12px; color: #666;">Broken Brass (2026)</span></td>
+<td><b><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB">NCC</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2026)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"><img src="https://i.scdn.co/image/ab67616d0000b273026adcf853fad0af470a9fbb" width="60" height="60" alt="Whitsitt Chapel" /></a></td>
