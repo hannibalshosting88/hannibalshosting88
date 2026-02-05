@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7729ua6iVsOL0GCr1Exo1g"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="150" height="150" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/7sTRAEf5IXMpsW7KNxzr4T"><img src="https://i.scdn.co/image/ab67616d0000b273e99266c38ebc4b37129be893" width="150" height="150" alt="Cows with Guns" /></a>
 
-<b><a href="https://open.spotify.com/track/7729ua6iVsOL0GCr1Exo1g">Knight to C-Sharp</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/7sTRAEf5IXMpsW7KNxzr4T">Cows with Guns</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Danny Baranowsky (2015)</span>
+<span style="color: #666;">Dana Lyons (1996)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7729ua6iVsOL0GCr1Exo1g"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7729ua6iVsOL0GCr1Exo1g">Knight to C-Sharp</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7729ua6iVsOL0GCr1Exo1g"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7729ua6iVsOL0GCr1Exo1g">Knight to C-Sharp</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon & The East Side Boyz, Ying Yang Twins (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"><img src="https://i.scdn.co/image/ab67616d0000b2739a9b1cc067e4460da04adce2" width="60" height="60" alt="The Razors Edge" /></a></td>
-<td><b><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">AC/DC (1990)</span></td>
 </tr>
 </table>
 </div>
