@@ -128,7 +128,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </div>
 
 ## 🌤️ Current Weather in Charlotte, NC 
-<!-- WEATHER:START --> 🌡️ Temperature: 43°F 💨 Wind: 6 mph 🌧️ Conditions: Dense drizzle 🌅 Updated: February 4, 2026 at 6:44 PM <!-- WEATHER:END -->
+<!-- WEATHER:START --> ⚠️ Weather data temporarily unavailable (Error: read ECONNRESET) <!-- WEATHER:END -->
 
 ## 🖥️ My Tech Lab & Workspace
 
