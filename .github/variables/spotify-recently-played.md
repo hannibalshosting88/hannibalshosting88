@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7sTRAEf5IXMpsW7KNxzr4T"><img src="https://i.scdn.co/image/ab67616d0000b273e99266c38ebc4b37129be893" width="150" height="150" alt="Cows with Guns" /></a>
+<a href="https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1"><img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" width="150" height="150" alt="PTX" /></a>
 
-<b><a href="https://open.spotify.com/track/7sTRAEf5IXMpsW7KNxzr4T">Cows with Guns</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1">Radioactive</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Dana Lyons (1996)</span>
+<span style="color: #666;">Pentatonix, Lindsey Stirling (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC"><img src="https://i.scdn.co/image/ab67616d0000b273a145a9479143ec784e2db548" width="60" height="60" alt="Blowin' Your Mind!" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">Brown Eyed Girl</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Van Morrison (1967)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"><img src="https://i.scdn.co/image/ab67616d0000b27311b3df35e2e46d91f585afd9" width="60" height="60" alt="This Is All Yours" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN">Left Hand Free</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">alt-J (2014)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT"><img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="60" height="60" alt="GET UP" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">THE FILLER</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2022)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"><img src="https://i.scdn.co/image/ab67616d0000b2732186eb1b0b5436f858c0508c" width="60" height="60" alt="Tom's Diner" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP">Tom's Diner</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AnnenMayKantereit, Giant Rooks (2019)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3X9tJw6z5LowFx339fhTvu"><img src="https://i.scdn.co/image/ab67616d0000b273d0e47287152fad49662fa363" width="60" height="60" alt="I Walk the Line (Stereo Version)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3X9tJw6z5LowFx339fhTvu">I Walk the Line - Stereo Version</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (1964)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q"><img src="https://i.scdn.co/image/ab67616d0000b27311079bb97e1f95d1a917ce0b" width="60" height="60" alt="Fly By Night" /></a></td>
+<td><b><a href="https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q">Fly By Night</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Rush (1975)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4uM83YX23YN8VDhZfxyop9"><img src="https://i.scdn.co/image/ab67616d0000b27377763526db121b0eb18b2eb3" width="60" height="60" alt="Cardboard Castles" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4uM83YX23YN8VDhZfxyop9">Sloppy Seconds</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2013)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"><img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" width="60" height="60" alt="The Wall" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV">Another Brick in the Wall, Pt. 2</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1979)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7sTRAEf5IXMpsW7KNxzr4T"><img src="https://i.scdn.co/image/ab67616d0000b273e99266c38ebc4b37129be893" width="60" height="60" alt="Cows with Guns" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7sTRAEf5IXMpsW7KNxzr4T">Cows with Guns</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dana Lyons (1996)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7729ua6iVsOL0GCr1Exo1g"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7729ua6iVsOL0GCr1Exo1g">Knight to C-Sharp</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7729ua6iVsOL0GCr1Exo1g"><img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="60" height="60" alt="Crypt of the Necrodancer (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7729ua6iVsOL0GCr1Exo1g">Knight to C-Sharp</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Danny Baranowsky (2015)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"><img src="https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8" width="60" height="60" alt="Only By The Night" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2">Use Somebody</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kings of Leon (2008)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b2739d957247c6c610cb7c4da1c5" width="60" height="60" alt="Echoes, Silence, Patience & Grace" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"><img src="https://i.scdn.co/image/ab67616d0000b2734e492e787ed64de43c3a3a21" width="60" height="60" alt="Follow The Leader" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu">Freak On a Leash</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (1998)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/36DLF96pjKydN0MZtsahQz"><img src="https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0" width="60" height="60" alt="Ride The Lightning (Deluxe Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/36DLF96pjKydN0MZtsahQz">Ride The Lightning (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1984)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"><img src="https://i.scdn.co/image/ab67616d0000b273801cf8805673d07eb26da351" width="60" height="60" alt="Rebirth" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">Drop The World</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Wayne, Eminem (2009)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ">ATWA</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="60" height="60" alt="Graduation" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM">Can't Tell Me Nothing</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2007)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7sTRAEf5IXMpsW7KNxzr4T"><img src="https://i.scdn.co/image/ab67616d0000b273e99266c38ebc4b37129be893" width="60" height="60" alt="Cows with Guns" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7sTRAEf5IXMpsW7KNxzr4T">Cows with Guns</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dana Lyons (1996)</span></td>
 </tr>
 </table>
 </div>
