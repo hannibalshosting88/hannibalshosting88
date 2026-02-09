@@ -22,52 +22,52 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5BCauVWQQ9IDbtVn2C7o3k"><img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="150" height="150" alt="Galactic Empire" /></a>
+<a href="https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"><img src="https://i.scdn.co/image/ab67616d0000b27355e734bb400d8c827700541b" width="150" height="150" alt="S.C.I.E.N.C.E." /></a>
 
-<b><a href="https://open.spotify.com/track/5BCauVWQQ9IDbtVn2C7o3k">The Imperial March</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR">A Certain Shade of Green</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Galactic Empire (2017)</span>
+<span style="color: #666;">Incubus (1997)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1"><img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" width="60" height="60" alt="PTX" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1">Radioactive</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Pentatonix, Lindsey Stirling (2014)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">Papercut</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC"><img src="https://i.scdn.co/image/ab67616d0000b273a145a9479143ec784e2db548" width="60" height="60" alt="Blowin' Your Mind!" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">Brown Eyed Girl</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Van Morrison (1967)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l">My Generation</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"><img src="https://i.scdn.co/image/ab67616d0000b27311b3df35e2e46d91f585afd9" width="60" height="60" alt="This Is All Yours" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN">Left Hand Free</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">alt-J (2014)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C"><img src="https://i.scdn.co/image/ab67616d0000b273f74baf63e915712df348e647" width="60" height="60" alt="Dark Horse" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C">Burn It to the Ground</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Nickelback (2008)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT"><img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="60" height="60" alt="GET UP" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">THE FILLER</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Thundersmack (2022)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"><img src="https://i.scdn.co/image/ab67616d0000b2738a48864289dc2588f13274ec" width="60" height="60" alt="Hoobastank (20th Anniversary Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Hoobastank (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"><img src="https://i.scdn.co/image/ab67616d0000b2732186eb1b0b5436f858c0508c" width="60" height="60" alt="Tom's Diner" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP">Tom's Diner</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">AnnenMayKantereit, Giant Rooks (2019)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"><img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" width="60" height="60" alt="A Place In The Sun" /></a></td>
+<td><b><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lit (1999)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3X9tJw6z5LowFx339fhTvu"><img src="https://i.scdn.co/image/ab67616d0000b273d0e47287152fad49662fa363" width="60" height="60" alt="I Walk the Line (Stereo Version)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3X9tJw6z5LowFx339fhTvu">I Walk the Line - Stereo Version</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Johnny Cash (1964)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"><img src="https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa" width="60" height="60" alt="Master of Puppets (Remastered Deluxe Box Set)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ">Master of Puppets (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1986)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q"><img src="https://i.scdn.co/image/ab67616d0000b27311079bb97e1f95d1a917ce0b" width="60" height="60" alt="Fly By Night" /></a></td>
-<td><b><a href="https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q">Fly By Night</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rush (1975)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5">Runaway</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4uM83YX23YN8VDhZfxyop9"><img src="https://i.scdn.co/image/ab67616d0000b27377763526db121b0eb18b2eb3" width="60" height="60" alt="Cardboard Castles" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4uM83YX23YN8VDhZfxyop9">Sloppy Seconds</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2013)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"><img src="https://i.scdn.co/image/ab67616d0000b2738328645e58684d8770a8475f" width="60" height="60" alt="House of Gold & Bones, Part 1" /></a></td>
+<td><b><a href="https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb">Absolute Zero</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Sour (2012)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"><img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" width="60" height="60" alt="The Wall" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV">Another Brick in the Wall, Pt. 2</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Pink Floyd (1979)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"><img src="https://i.scdn.co/image/ab67616d0000b27304422c5d997bfa6c750a12f1" width="60" height="60" alt="Wolfmother" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa">Joker And The Thief</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Wolfmother (2006)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7sTRAEf5IXMpsW7KNxzr4T"><img src="https://i.scdn.co/image/ab67616d0000b273e99266c38ebc4b37129be893" width="60" height="60" alt="Cows with Guns" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7sTRAEf5IXMpsW7KNxzr4T">Cows with Guns</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Dana Lyons (1996)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1Hg2egRryMkCdXqXmXki3A"><img src="https://i.scdn.co/image/ab67616d0000b27391e2fd0e284ca923b8743b6a" width="60" height="60" alt="Reanimation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Hg2egRryMkCdXqXmXki3A">Krwlng (Mike Shinoda Reanimation) [feat. Aaron Lewis]</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park, Aaron Lewis (2002)</span></td>
 </tr>
 </table>
 </div>
