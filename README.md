@@ -22,20 +22,32 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="150" height="150" alt="Doom (Original Game Soundtrack)" /></a>
+<a href="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"><img src="https://i.scdn.co/image/ab67616d0000b2737438996f6fe67c59d75d4e43" width="150" height="150" alt="Gangsta's Paradise" /></a>
 
-<b><a href="https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P">Rip & Tear</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p">Gangsta's Paradise</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">Mick Gordon (2016)</span>
+<span style="color: #666;">Coolio, L.V. (1995)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"><img src="https://i.scdn.co/image/ab67616d0000b2737438996f6fe67c59d75d4e43" width="60" height="60" alt="Gangsta's Paradise" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p">Gangsta's Paradise</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Coolio, L.V. (1995)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"><img src="https://i.scdn.co/image/ab67616d0000b2737438996f6fe67c59d75d4e43" width="60" height="60" alt="Gangsta's Paradise" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p">Gangsta's Paradise</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Coolio, L.V. (1995)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P">Rip & Tear</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"><img src="https://i.scdn.co/image/ab67616d0000b27355e734bb400d8c827700541b" width="60" height="60" alt="S.C.I.E.N.C.E." /></a></td>
 <td><b><a href="https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR">A Certain Shade of Green</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1997)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">Papercut</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
+<td><b><a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">Papercut</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
@@ -51,23 +63,11 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"><img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" width="60" height="60" alt="A Place In The Sun" /></a></td>
-<td><b><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Lit (1999)</span></td>
+<td><b><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lit (1999)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"><img src="https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa" width="60" height="60" alt="Master of Puppets (Remastered Deluxe Box Set)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ">Master of Puppets (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1986)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5"><img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="60" height="60" alt="Hybrid Theory (Bonus Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5">Runaway</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2000)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"><img src="https://i.scdn.co/image/ab67616d0000b2738328645e58684d8770a8475f" width="60" height="60" alt="House of Gold & Bones, Part 1" /></a></td>
-<td><b><a href="https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb">Absolute Zero</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Sour (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"><img src="https://i.scdn.co/image/ab67616d0000b27304422c5d997bfa6c750a12f1" width="60" height="60" alt="Wolfmother" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa">Joker And The Thief</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Wolfmother (2006)</span></td>
 </tr>
 </table>
 </div>
