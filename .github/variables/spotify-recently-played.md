@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"><img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" width="150" height="150" alt="LIVING THINGS" /></a>
+<a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"><img src="https://i.scdn.co/image/ab67616d0000b273be54746b374358970b5e617a" width="150" height="150" alt="...And Justice for All (Remastered Deluxe Box Set)" /></a>
 
-<b><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I">BURN IT DOWN</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t">One (Remastered)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Linkin Park (2012)</span>
+<span style="color: #666;">Metallica (1988)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"><img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" width="60" height="60" alt="LIVING THINGS" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I">BURN IT DOWN</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2012)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x"><img src="https://i.scdn.co/image/ab67616d0000b273bb8639d1374637e0c6b47edb" width="60" height="60" alt="Call of Duty Black Ops II (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x">Adrenaline</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jack Wall, Big Giant Circles (2012)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="60" height="60" alt="The College Dropout" /></a></td>
 <td><b><a href="https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx">Jesus Walks</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2004)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"><img src="https://i.scdn.co/image/ab67616d0000b2731aa2474909c648492bcf27ce" width="60" height="60" alt="Life" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh">Die MF Die</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Dope (2001)</span></td>
 </tr>
 </table>
 </div>
