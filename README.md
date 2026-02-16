@@ -22,13 +22,25 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="150" height="150" alt="Invaders Must Die" /></a>
+<a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="150" height="150" alt="Toxicity" /></a>
 
-<b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco">Aerials</a></b><span style="color: gold;"> ★★★★★</span>
 
-<span style="color: #666;">The Prodigy (2009)</span>
+<span style="color: #666;">System Of A Down (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b2739d957247c6c610cb7c4da1c5" width="60" height="60" alt="Echoes, Silence, Patience & Grace" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2007)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ"><img src="https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0" width="60" height="60" alt="Ride The Lightning (Deluxe Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ">For Whom The Bell Tolls (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1984)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="60" height="60" alt="Invaders Must Die" /></a></td>
+<td><b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (2009)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="60" height="60" alt="Invaders Must Die" /></a></td>
 <td><b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (2009)</span></td>
@@ -56,18 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"><img src="https://i.scdn.co/image/ab67616d0000b2739a9b1cc067e4460da04adce2" width="60" height="60" alt="The Razors Edge" /></a></td>
 <td><b><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">AC/DC (1990)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"><img src="https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144" width="60" height="60" alt="See You On the Other Side" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB"><img src="https://i.scdn.co/image/ab67616d0000b2731a2e4290b83a4c810d019fcd" width="60" height="60" alt="The End Is Where We Begin" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB">Courtesy Call</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Thousand Foot Krutch (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="60" height="60" alt="Graduation" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Kanye West (2007)</span></td>
 </tr>
 </table>
 </div>
