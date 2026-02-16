@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="150" height="150" alt="Toxicity" /></a>
+<a href="https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"><img src="https://i.scdn.co/image/ab67616d0000b273229411bccce65156241b6190" width="150" height="150" alt="I Am Not A Human Being" /></a>
 
-<b><a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco">Aerials</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP">Right Above It</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">System Of A Down (2001)</span>
+<span style="color: #666;">Lil Wayne, Drake (2010)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco">Aerials</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b2739d957247c6c610cb7c4da1c5" width="60" height="60" alt="Echoes, Silence, Patience & Grace" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2007)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x"><img src="https://i.scdn.co/image/ab67616d0000b273bb8639d1374637e0c6b47edb" width="60" height="60" alt="Call of Duty Black Ops II (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x">Adrenaline</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jack Wall, Big Giant Circles (2012)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"><img src="https://i.scdn.co/image/ab67616d0000b2739a9b1cc067e4460da04adce2" width="60" height="60" alt="The Razors Edge" /></a></td>
-<td><b><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">AC/DC (1990)</span></td>
 </tr>
 </table>
 </div>
