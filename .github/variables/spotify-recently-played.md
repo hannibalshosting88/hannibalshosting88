@@ -4,52 +4,52 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"><img src="https://i.scdn.co/image/ab67616d0000b273229411bccce65156241b6190" width="150" height="150" alt="I Am Not A Human Being" /></a>
+<a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="150" height="150" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a>
 
-<b><a href="https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP">Right Above It</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt">Take A Look Around</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Lil Wayne, Drake (2010)</span>
+<span style="color: #666;">Limp Bizkit (2000)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco">Aerials</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48"><img src="https://i.scdn.co/image/ab67616d0000b2735001f28f54683843c80129bf" width="60" height="60" alt="bad times friend..." /></a></td>
+<td><b><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">By the Sword</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">iamjakehill (2024)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b2739d957247c6c610cb7c4da1c5" width="60" height="60" alt="Echoes, Silence, Patience & Grace" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34">The Pretender</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2007)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB"><img src="https://i.scdn.co/image/ab67616d0000b2734c323691524da979d9a8b695" width="60" height="60" alt="BFG 10k" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3O6kPEA7lkveQ6TI7EoZmB">BFG 10k</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Andrew Baena, Cooper Lagace (2020)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ"><img src="https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0" width="60" height="60" alt="Ride The Lightning (Deluxe Remaster)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ">For Whom The Bell Tolls (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1984)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd"><img src="https://i.scdn.co/image/ab67616d0000b27316d9cd79b60c6062036bfadc" width="60" height="60" alt="Jordan Belfort" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6qMXubogFdMrvVMJwqATzd">Jordan Belfort</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Wes Walker, Dyl (2015)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="60" height="60" alt="Invaders Must Die" /></a></td>
-<td><b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (2009)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1xrfci6PJJIBzCbKTmfuX3"><img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" height="60" alt="Doom (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1xrfci6PJJIBzCbKTmfuX3">Hellwalker</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2016)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"><img src="https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c" width="60" height="60" alt="Invaders Must Die" /></a></td>
-<td><b><a href="https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ">Omen</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">The Prodigy (2009)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem">My Way</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA"><img src="https://i.scdn.co/image/ab67616d0000b2734d1db642d70b1b939ab42966" width="60" height="60" alt="Renegades" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA">Renegades Of Funk</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rage Against The Machine (2000)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="60" height="60" alt="Get Rich Or Die Tryin'" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">50 Cent (2003)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA"><img src="https://i.scdn.co/image/ab67616d0000b2734d1db642d70b1b939ab42966" width="60" height="60" alt="Renegades" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA">Renegades Of Funk</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Rage Against The Machine (2000)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh"><img src="https://i.scdn.co/image/ab67616d0000b273ced01b7001a88f0784e7f74f" width="60" height="60" alt="Gangster Sh**" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">Gangster Sh**</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Pete & Bas (2023)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"><img src="https://i.scdn.co/image/ab67616d0000b273be54746b374358970b5e617a" width="60" height="60" alt="...And Justice for All (Remastered Deluxe Box Set)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t">One (Remastered)</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Metallica (1988)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"><img src="https://i.scdn.co/image/ab67616d0000b2739a482180e6a306229bff49dc" width="60" height="60" alt="All Killer, No Filler" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN">Fat Lip</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sum 41 (2001)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"><img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" width="60" height="60" alt="LIVING THINGS" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I">BURN IT DOWN</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"><img src="https://i.scdn.co/image/ab67616d0000b27304422c5d997bfa6c750a12f1" width="60" height="60" alt="Wolfmother" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4">Woman</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Wolfmother (2006)</span></td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x"><img src="https://i.scdn.co/image/ab67616d0000b273bb8639d1374637e0c6b47edb" width="60" height="60" alt="Call of Duty Black Ops II (Original Game Soundtrack)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1XBMeyr1oA6kFRPgDC0q0x">Adrenaline</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Jack Wall, Big Giant Circles (2012)</span></td>
+<td width="60"><a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="60" height="60" alt="Minutes to Midnight" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5">Given Up</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2007)</span></td>
 </tr>
 </table>
 </div>
