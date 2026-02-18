@@ -4,13 +4,21 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="150" height="150" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a>
+<a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"><img src="https://i.scdn.co/image/ab67616d0000b2734e492e787ed64de43c3a3a21" width="150" height="150" alt="Follow The Leader" /></a>
 
-<b><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt">Take A Look Around</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu">Freak On a Leash</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Limp Bizkit (2000)</span>
+<span style="color: #666;">Korn (1998)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"><img src="https://i.scdn.co/image/ab67616d0000b2734e492e787ed64de43c3a3a21" width="60" height="60" alt="Follow The Leader" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu">Freak On a Leash</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (1998)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"><img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="60" height="60" alt="Chocolate Starfish And The Hot Dog Flavored Water" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt">Take A Look Around</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (2000)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48"><img src="https://i.scdn.co/image/ab67616d0000b2735001f28f54683843c80129bf" width="60" height="60" alt="bad times friend..." /></a></td>
 <td><b><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">By the Sword</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">iamjakehill (2024)</span></td>
@@ -42,14 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"><img src="https://i.scdn.co/image/ab67616d0000b2739a482180e6a306229bff49dc" width="60" height="60" alt="All Killer, No Filler" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN">Fat Lip</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Sum 41 (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"><img src="https://i.scdn.co/image/ab67616d0000b27304422c5d997bfa6c750a12f1" width="60" height="60" alt="Wolfmother" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4">Woman</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Wolfmother (2006)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5"><img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="60" height="60" alt="Minutes to Midnight" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5">Given Up</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Linkin Park (2007)</span></td>
 </tr>
 </table>
 </div>
