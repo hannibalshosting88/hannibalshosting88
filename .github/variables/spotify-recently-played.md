@@ -4,13 +4,25 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"><img src="https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144" width="150" height="150" alt="See You On the Other Side" /></a>
+<a href="https://open.spotify.com/track/5gktZrbvrWQNubBaICZFNc"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="150" height="150" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a>
 
-<b><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5gktZrbvrWQNubBaICZFNc">Lapwing</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Korn (2005)</span>
+<span style="color: #666;">Broken Brass (2026)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="60" height="60" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB">NCC</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2026)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="60" height="60" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB">NCC</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2026)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"><img src="https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144" width="60" height="60" alt="See You On the Other Side" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Korn (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W"><img src="https://i.scdn.co/image/ab67616d0000b2733d2dc1ad7bc94f4f431a2e14" width="60" height="60" alt="Pacific Rim (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W">Pacific Rim (feat. Tom Morello)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ramin Djawadi, Tom Morello (2013)</span></td>
@@ -38,18 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L"><img src="https://i.scdn.co/image/ab67616d0000b273c6710b4a52539506c30e5354" width="60" height="60" alt="Monkey Business" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L">Pump It</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Black Eyed Peas (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"><img src="https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c" width="60" height="60" alt="Significant Other" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj">Nookie</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (1999)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"><img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" width="60" height="60" alt="Pray for the Wicked" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom">High Hopes</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Panic! At The Disco (2018)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"><img src="https://i.scdn.co/image/ab67616d0000b2738328645e58684d8770a8475f" width="60" height="60" alt="House of Gold & Bones, Part 1" /></a></td>
-<td><b><a href="https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb">Absolute Zero</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Stone Sour (2012)</span></td>
 </tr>
 </table>
 </div>
