@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7txQBqOPbrvLswypVIdyrA"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="150" height="150" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a>
+<a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="150" height="150" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a>
 
-<b><a href="https://open.spotify.com/track/7txQBqOPbrvLswypVIdyrA">Analogue Blues</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB">NCC</a></b><span style="color: gold;"> ★</span>
 
 <span style="color: #666;">Broken Brass (2026)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/7txQBqOPbrvLswypVIdyrA"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="60" height="60" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7txQBqOPbrvLswypVIdyrA">Analogue Blues</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2026)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7txQBqOPbrvLswypVIdyrA"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="60" height="60" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7txQBqOPbrvLswypVIdyrA">Analogue Blues</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2026)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"><img src="https://i.scdn.co/image/ab67616d0000b273b7ded75d35cf4364ba3f5267" width="60" height="60" alt="Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness" /></a></td>
 <td><b><a href="https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO">Welcome Home</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Coheed and Cambria (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"><img src="https://i.scdn.co/image/ab67616d0000b27355e734bb400d8c827700541b" width="60" height="60" alt="S.C.I.E.N.C.E." /></a></td>
-<td><b><a href="https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR">A Certain Shade of Green</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (1997)</span></td>
 </tr>
 </table>
 </div>
