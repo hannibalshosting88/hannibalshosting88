@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j"><img src="https://i.scdn.co/image/ab67616d0000b27318170cbe68cd3e6d26be4a74" width="150" height="150" alt="A Bigger Bang (2009 Re-Mastered)" /></a>
+<a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"><img src="https://i.scdn.co/image/ab67616d0000b27392b32435efed601fc8f1045d" width="150" height="150" alt="The Fray" /></a>
 
-<b><a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j">Laugh, I Nearly Died - Remastered</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi">You Found Me</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">The Rolling Stones (2005)</span>
+<span style="color: #666;">The Fray (2009)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j"><img src="https://i.scdn.co/image/ab67616d0000b27318170cbe68cd3e6d26be4a74" width="60" height="60" alt="A Bigger Bang (2009 Re-Mastered)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j">Laugh, I Nearly Died - Remastered</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Rolling Stones (2005)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm">Are You In?</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W"><img src="https://i.scdn.co/image/ab67616d0000b2733d2dc1ad7bc94f4f431a2e14" width="60" height="60" alt="Pacific Rim (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W">Pacific Rim (feat. Tom Morello)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Ramin Djawadi, Tom Morello (2013)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/0MnJ73xPk7rQDw0lIu8kBh"><img src="https://i.scdn.co/image/ab67616d0000b27320f08caabcf7658d36c98637" width="60" height="60" alt="PUNK TACTICS" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0MnJ73xPk7rQDw0lIu8kBh">STARTAFIGHT</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Joey Valence & Brae (2023)</span></td>
 </tr>
 </table>
 </div>
