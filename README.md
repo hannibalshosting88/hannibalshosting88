@@ -35,7 +35,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm">Are You In?</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
+<td><b><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm">Are You In?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="60" height="60" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a></td>
