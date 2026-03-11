@@ -4,13 +4,29 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="150" height="150" alt="Sublime" /></a>
+<a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"><img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="150" height="150" alt="Rich Men North of Richmond" /></a>
 
-<b><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Sublime (1996)</span>
+<span style="color: #666;">Oliver Anthony Music (2023)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"><img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="60" height="60" alt="Rich Men North of Richmond" /></a></td>
+<td><b><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Oliver Anthony Music (2023)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"><img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="60" height="60" alt="Rich Men North of Richmond" /></a></td>
+<td><b><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Oliver Anthony Music (2023)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"><img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="60" height="60" alt="Rich Men North of Richmond" /></a></td>
+<td><b><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Oliver Anthony Music (2023)</span></td>
+</tr>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="60" height="60" alt="Sublime" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Sublime (1996)</span></td>
@@ -30,22 +46,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm">Are You In?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="60" height="60" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB">NCC</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2026)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7txQBqOPbrvLswypVIdyrA"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="60" height="60" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7txQBqOPbrvLswypVIdyrA">Analogue Blues</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2026)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7txQBqOPbrvLswypVIdyrA"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="60" height="60" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7txQBqOPbrvLswypVIdyrA">Analogue Blues</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2026)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5gktZrbvrWQNubBaICZFNc"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="60" height="60" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5gktZrbvrWQNubBaICZFNc">Lapwing</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2026)</span></td>
 </tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="60" height="60" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a></td>
