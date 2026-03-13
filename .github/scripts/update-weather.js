@@ -23,11 +23,13 @@ async function getWeather() {
     // Format date and time
     const now = new Date();
     const formattedDate = now.toLocaleDateString('en-US', {
+      timeZone: 'America/New_York',
       month: 'long',
       day: 'numeric',
       year: 'numeric'
     });
     const formattedTime = now.toLocaleTimeString('en-US', {
+      timeZone: 'America/New_York',
       hour: 'numeric',
       minute: 'numeric'
     });
