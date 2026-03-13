@@ -183,7 +183,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   
   ### 👋 Thanks for Visiting!
   ### You are visitor number
-  <img src="https://profile-counter.glitch.me/hannibalshosting88/count.svg" alt="Visitor Count" />
+  <img src="![Visitor Count](https://komarev.com/ghpvc/?username=hannibalshosting88&color=blue)" alt="Visitor Count" />
   
   ### to my profile!
   
