@@ -24,7 +24,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"><img src="https://i.scdn.co/image/ab67616d0000b27302bcbe32fdde4d12455e0005" width="150" height="150" alt="Ed Hunter" /></a>
 
-<b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b><span style="color: gold;"> ★★★★</span>
 
 <span style="color: #666;">Iron Maiden (1999)</span>
 
