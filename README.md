@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">
-      <img src="https://i.scdn.co/image/ab67616d0000b27360c11533e1cb8e606f7042b9" width="96" height="96" alt="King Gampo" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">Gampo</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Prof</span>
-    <br><span style="font-size: 12px; color: #666;">King Gampo (2011)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
