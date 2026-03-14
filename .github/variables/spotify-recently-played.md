@@ -47,9 +47,5 @@
 <td width="60"><a href="https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"><img src="https://i.scdn.co/image/ab67616d0000b2732e49046fecfba5be6bc7b92a" width="60" height="60" alt="True Story" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI">Lean Back</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Terror Squad, Fat Joe, Remy Ma, remy (2004)</span></td>
 </tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"><img src="https://i.scdn.co/image/ab67616d0000b273946301359b8ad60772671b8f" width="60" height="60" alt="Three Dollar Bill, Y&#39;all $" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah">Counterfeit</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (1997)</span></td>
-</tr>
 </table>
 </div>
