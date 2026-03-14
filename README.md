@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2ga8Pzht7XhCpzN9OXMTor">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="180" height="180" alt="Unearthed" />
+<a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">
+  <img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="180" height="180" alt="GET UP" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2ga8Pzht7XhCpzN9OXMTor">If I Give My Soul</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">THE FILLER</a></b>
 
-<span style="font-size: 13px; color: #666;">Johnny Cash</span><br><span style="font-size: 12px; color: #666;">Unearthed (2003)</span>
+<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">GET UP (2022)</span>
 
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2ga8Pzht7XhCpzN9OXMTor">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="96" height="96" alt="Unearthed" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2ga8Pzht7XhCpzN9OXMTor">If I Give My Soul</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Johnny Cash</span>
+    <br><span style="font-size: 12px; color: #666;">Unearthed (2003)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Hoobastank</span>
     <br><span style="font-size: 12px; color: #666;">2001</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="96" height="96" alt="Kings Of Crunk" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lil Jon &amp; The East Side Boyz, Ying Yang Twins</span>
-    <br><span style="font-size: 12px; color: #666;">Kings Of Crunk (2002)</span>
   </td>
 </tr>
 <tr>
