@@ -36,9 +36,9 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <div style="color:#777; font-size:13px; margin-top:2px;">Hang-Ups (1998)</div>
 
 <div style="width:220px; margin:8px auto 6px auto; background:#2a2a2a; border-radius:999px; overflow:hidden; height:8px;">
-  <div style="width:1.4%; height:8px; background:#1db954;"></div>
+  <div style="width:3.6%; height:8px; background:#1db954;"></div>
 </div>
-<div style="font-size:12px; color:#888;">0:02 / 3:05</div>
+<div style="font-size:12px; color:#888;">0:06 / 3:05</div>
 
 <div style="margin-top:18px;">
   <h3>🕘 Recent Plays 🕘</h3>
