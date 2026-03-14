@@ -6,7 +6,7 @@
 
 <a href="https://open.spotify.com/track/7J4NKtZFw23pXvazZ6kGXB"><img src="https://i.scdn.co/image/ab67616d0000b27380255b6cc3fda7dc4ad84680" width="150" height="150" alt="Wolfenstein II: The New Colossus (Original Game Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/7J4NKtZFw23pXvazZ6kGXB">Blazko Kill the Nazis</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/7J4NKtZFw23pXvazZ6kGXB">Blazko Kill the Nazis</a></b><span style="color: gold;"> ★★★</span>
 
 <span style="color: #666;">Mick Gordon (2018)</span>
 
