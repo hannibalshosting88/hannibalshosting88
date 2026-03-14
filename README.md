@@ -24,21 +24,42 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <span style="display:inline-block; font-size:12px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db; margin-bottom:6px;">🎵 Track</span>
 
-<a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">
-  <img src="https://i.scdn.co/image/ab67616d0000b273030915ffa58125ae36f13a6f" width="150" height="150" alt="I&#39;m Shipping Up To Boston" />
+<a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731a0278d4109c0f974821aa33" width="150" height="150" alt="Drops of Jupiter (Tell Me)" />
 </a>
 
 <div style="margin-top:10px;">
-  <b><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">I&#39;m Shipping Up To Boston</a></b>
+  <b><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA">Drops of Jupiter (Tell Me)</a></b>
 </div>
 
-<div style="color:#bdbdbd; font-size:14px; margin-top:6px;">Dropkick Murphys</div>
-<div style="color:#777; font-size:13px; margin-top:2px;">The Warrior&#39;s Code (2005)</div>
+<div style="color:#bdbdbd; font-size:14px; margin-top:6px;">Train</div>
+<div style="color:#777; font-size:13px; margin-top:2px;">Drops Of Jupiter (2001)</div>
 
 <div style="margin-top:18px;">
   <h3>🕘 Recent Plays 🕘</h3>
 </div>
 
+<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
+    <a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">
+      <img
+        src="https://i.scdn.co/image/ab67616d0000b273030915ffa58125ae36f13a6f"
+        width="92"
+        height="92"
+        alt="I&#39;m Shipping Up To Boston"
+        style="border-radius:12px; display:block;"
+      />
+    </a>
+    <div style="text-align:left; flex:1;">
+      <div style="margin-bottom:4px;">
+        <b><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">I&#39;m Shipping Up To Boston</a></b>
+      </div>
+      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Dropkick Murphys</div>
+      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">The Warrior&#39;s Code (2005)</div>
+      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db;">🎵 Track</span></div>
+    </div>
+  </div>
+</div>
 <div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
   <div style="display:flex; align-items:flex-start; gap:12px;">
     <a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">
@@ -203,27 +224,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
       </div>
       <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Iron Maiden</div>
       <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Ed Hunter (1999)</div>
-      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db;">🎵 Track</span></div>
-    </div>
-  </div>
-</div>
-<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
-  <div style="display:flex; align-items:flex-start; gap:12px;">
-    <a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">
-      <img
-        src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac"
-        width="92"
-        height="92"
-        alt="Brass Monkey"
-        style="border-radius:12px; display:block;"
-      />
-    </a>
-    <div style="text-align:left; flex:1;">
-      <div style="margin-bottom:4px;">
-        <b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b>
-      </div>
-      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Beastie Boys</div>
-      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Licensed To Ill (1986)</div>
       <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db;">🎵 Track</span></div>
     </div>
   </div>
