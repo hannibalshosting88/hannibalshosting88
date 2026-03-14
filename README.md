@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD"><img src="https://i.scdn.co/image/ab6765630000ba8af9720668e2858d9d33e94c02" width="150" height="150" alt="Science &amp; Futurism with Isaac Arthur" /></a>
+<a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="150" height="150" alt="Licensed To Ill" /></a>
 
-<b><a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD">Warping Reality</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Science &amp; Futurism with Isaac Arthur (2023)</span>
+<span style="color: #666;">Beastie Boys (1986)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD"><img src="https://i.scdn.co/image/ab6765630000ba8af9720668e2858d9d33e94c02" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
+<td><b><a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD">Warping Reality</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3"><img src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
 <td><b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span></td>
