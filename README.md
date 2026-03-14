@@ -24,7 +24,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"><img src="https://i.scdn.co/image/ab67616d0000b2732dc5b802303ff19c62a346ab" width="150" height="150" alt="Buffalo Springfield" /></a>
 
-<b><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">For What It&#39;s Worth</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">For What It&#39;s Worth</a></b><span style="color: gold;"> ★★★</span>
 
 <span style="color: #666;">Buffalo Springfield (1966)</span>
 
@@ -64,10 +64,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"><img src="https://i.scdn.co/image/ab67616d0000b273030915ffa58125ae36f13a6f" width="60" height="60" alt="The Warrior&#39;s Code" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">I&#39;m Shipping Up To Boston</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Dropkick Murphys (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48"><img src="https://i.scdn.co/image/ab67616d0000b273e2536742006d8688aeb222a2" width="60" height="60" alt="bad times friend..." /></a></td>
-<td><b><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">By the Sword</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">iamjakehill (2020)</span></td>
 </tr>
 </table>
 </div>
