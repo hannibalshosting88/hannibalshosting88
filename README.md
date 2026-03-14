@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j"><img src="https://i.scdn.co/image/ab67616d0000b273522c0290500f1e8756303714" width="150" height="150" alt="Elevation" /></a>
+<a href="https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT"><img src="https://i.scdn.co/image/ab67616d0000b2739324a79872a359671db7d83f" width="150" height="150" alt="Listening For The Silence" /></a>
 
-<b><a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j">Caprice No. 24</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT">Listening For The Silence</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Bernth (2021)</span>
+<span style="color: #666;">P.O.D. (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j"><img src="https://i.scdn.co/image/ab67616d0000b273522c0290500f1e8756303714" width="60" height="60" alt="Elevation" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j">Caprice No. 24</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bernth (2021)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"><img src="https://i.scdn.co/image/ab67616d0000b2732dc5b802303ff19c62a346ab" width="60" height="60" alt="Buffalo Springfield" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">For What It&#39;s Worth</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Buffalo Springfield (1966)</span></td>
