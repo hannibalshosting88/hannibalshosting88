@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE">
-  <img src="https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235" width="180" height="180" alt="Songs From The Big Chair (Super Deluxe Edition)" />
+<a href="https://open.spotify.com/track/2ga8Pzht7XhCpzN9OXMTor">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="180" height="180" alt="Unearthed" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE">Everybody Wants To Rule The World</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2ga8Pzht7XhCpzN9OXMTor">If I Give My Soul</a></b>
 
-<span style="font-size: 13px; color: #666;">Tears For Fears</span><br><span style="font-size: 12px; color: #666;">Songs From The Big Chair (Super Deluxe Edition) (1985)</span>
+<span style="font-size: 13px; color: #666;">Johnny Cash</span><br><span style="font-size: 12px; color: #666;">Unearthed (2003)</span>
 
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE">
+      <img src="https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235" width="96" height="96" alt="Songs From The Big Chair (Super Deluxe Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE">Everybody Wants To Rule The World</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Tears For Fears</span>
+    <br><span style="font-size: 12px; color: #666;">Songs From The Big Chair (Super Deluxe Edition) (1985)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
