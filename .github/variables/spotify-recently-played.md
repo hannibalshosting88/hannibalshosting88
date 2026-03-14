@@ -6,7 +6,7 @@
 
 <a href="https://open.spotify.com/track/44oenYNFrmOCz85bAcwN5t"><img src="https://i.scdn.co/image/ab67616d0000b2737d579219fc2611dc45ef36fb" width="150" height="150" alt="In Keeping Secrets Of Silent Earth: 3" /></a>
 
-<b><a href="https://open.spotify.com/track/44oenYNFrmOCz85bAcwN5t">In Keeping Secrets of Silent Earth: 3</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/44oenYNFrmOCz85bAcwN5t">In Keeping Secrets of Silent Earth: 3</a></b><span style="color: gold;"> ★★★</span>
 
 <span style="color: #666;">Coheed and Cambria (2003)</span>
 
