@@ -24,11 +24,15 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3"><img src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee" width="150" height="150" alt="Science &amp; Futurism with Isaac Arthur" /></a>
 
-<b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b><span style="color: gold;"> ★★</span>
 
 <span style="color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3"><img src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
+<td><b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3"><img src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
 <td><b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4VSx9uyg0sZpdnygVar6pE"><img src="https://i.scdn.co/image/ab67616d0000b27341e16cadadd012254bdaab1c" width="60" height="60" alt="CARNIVAL VOL. II...Memoirs of an Immigrant" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4VSx9uyg0sZpdnygVar6pE">Sweetest Girl (Dollar Bill) (feat. Akon, Lil&#39; Wayne &amp; Niia)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Wyclef Jean, Akon, Lil Wayne, Niia (2007)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH"><img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
-<td><b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span></td>
 </tr>
 </table>
 </div>
