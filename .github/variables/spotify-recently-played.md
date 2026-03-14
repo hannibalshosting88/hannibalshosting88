@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"><img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="150" height="150" alt="Rich Men North of Richmond" /></a>
+<a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"><img src="https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2" width="150" height="150" alt="Fifty Shades Darker (Original Motion Picture Soundtrack)" /></a>
 
-<b><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe">I Don’t Wanna Live Forever (Fifty Shades Darker)</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Oliver Anthony Music (2023)</span>
+<span style="color: #666;">ZAYN, Taylor Swift (2017)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"><img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="60" height="60" alt="Rich Men North of Richmond" /></a></td>
+<td><b><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Oliver Anthony Music (2023)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"><img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="60" height="60" alt="Rich Men North of Richmond" /></a></td>
 <td><b><a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Oliver Anthony Music (2023)</span></td>
@@ -46,10 +50,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"><img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="60" height="60" alt="Morning View" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm">Are You In?</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Incubus (2001)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB"><img src="https://i.scdn.co/image/ab67616d0000b273fc2cab7e313d082877a97019" width="60" height="60" alt="Dancing Critters, Random Shivers and Snap Decisions" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1Cly7a9BBII3d8LJV1hKsB">NCC</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Broken Brass (2026)</span></td>
 </tr>
 </table>
 </div>
