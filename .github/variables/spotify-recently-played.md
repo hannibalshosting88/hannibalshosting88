@@ -47,9 +47,5 @@
 <td width="60"><a href="https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv"><img src="https://i.scdn.co/image/ab67616d0000b2731f43eaa3c2a3188eb28dba82" width="60" height="60" alt="(Pronounced &#39;Leh-&#39;Nérd &#39;Skin-&#39;Nérd) [Expanded Edition]" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv">Poison Whiskey</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Lynyrd Skynyrd (1973)</span></td>
 </tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/01fZMMJLOtLKymmTNAGwsF"><img src="https://i.scdn.co/image/ab67616d0000b2738f0fa3e43932e3e146ec37c0" width="60" height="60" alt="The Irish Rovers 50 Years - Vol. 2" /></a></td>
-<td><b><a href="https://open.spotify.com/track/01fZMMJLOtLKymmTNAGwsF">Rare Ould Mountain Dew</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">The Irish Rovers (2014)</span></td>
-</tr>
 </table>
 </div>
