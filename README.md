@@ -190,6 +190,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
+<tr>
+  <td width="96" valign="top">
+    <a href="#">
+      <img src="https://raw.githubusercontent.com/hannibalshosting88/hannibalshosting88/main/assets/spotify-idle.png" width="96" height="96" alt="Check back later" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="#">Nothing currently playing</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Hannibal is away from Spotify</span>
+    <br><span style="font-size: 12px; color: #666;">Check back later</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
