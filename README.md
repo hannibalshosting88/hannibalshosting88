@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe"><img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="150" height="150" alt="X-Men Theme" /></a>
+<a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="150" height="150" alt="Get Rich Or Die Tryin&#39;" /></a>
 
-<b><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Galactic Empire (2024)</span>
+<span style="color: #666;">50 Cent (2003)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe"><img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="60" height="60" alt="X-Men Theme" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2024)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW"><img src="https://i.scdn.co/image/ab67616d0000b2731f2cef277cda8c731f8f6a1e" width="60" height="60" alt="All You Can Do" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW">Whoa Whoa Whoa</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2014)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh"><img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" width="60" height="60" alt="The Muppets (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">Mah Na Mah Na</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Mahna Mahna and The Two Snowths (2011)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"><img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="60" height="60" alt="From Under The Cork Tree" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">Sugar, We&#39;re Goin Down</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Fall Out Boy (2005)</span></td>
 </tr>
 </table>
 </div>
