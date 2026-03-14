@@ -24,7 +24,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH"><img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="150" height="150" alt="Science &amp; Futurism with Isaac Arthur" /></a>
 
-<b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b><span style="color: gold;"> ★★★</span>
 
 <span style="color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span>
 
