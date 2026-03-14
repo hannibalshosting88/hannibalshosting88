@@ -24,7 +24,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <a href="https://open.spotify.com/track/4VSx9uyg0sZpdnygVar6pE"><img src="https://i.scdn.co/image/ab67616d0000b27341e16cadadd012254bdaab1c" width="150" height="150" alt="CARNIVAL VOL. II...Memoirs of an Immigrant" /></a>
 
-<b><a href="https://open.spotify.com/track/4VSx9uyg0sZpdnygVar6pE">Sweetest Girl (Dollar Bill) (feat. Akon, Lil&#39; Wayne &amp; Niia)</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/4VSx9uyg0sZpdnygVar6pE">Sweetest Girl (Dollar Bill) (feat. Akon, Lil&#39; Wayne &amp; Niia)</a></b><span style="color: gold;"> ★★★</span>
 
 <span style="color: #666;">Wyclef Jean, Akon, Lil Wayne, Niia (2007)</span>
 
