@@ -47,9 +47,5 @@
 <td width="60"><a href="https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71"><img src="https://i.scdn.co/image/ab67616d0000b273fdeac207b7369d188cb2221c" width="60" height="60" alt="Broccoli" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71">Broccoli</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">DRAM, Lil Yachty (2016)</span></td>
 </tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"><img src="https://i.scdn.co/image/ab67616d0000b2732e49046fecfba5be6bc7b92a" width="60" height="60" alt="True Story" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI">Lean Back</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Terror Squad, Fat Joe, Remy Ma, remy (2004)</span></td>
-</tr>
 </table>
 </div>
