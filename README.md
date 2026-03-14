@@ -22,20 +22,190 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="#">
-  <img src="https://raw.githubusercontent.com/hannibalshosting88/hannibalshosting88/main/assets/spotify-idle.png" width="180" height="180" alt="Check back later" />
+<a href="https://open.spotify.com/track/5BoIP8Eha5hwmRVURkC2Us">
+  <img src="https://i.scdn.co/image/ab67616d0000b273eb3092620e6816700d502bb8" width="180" height="180" alt="Jason Derulo" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="#">Nothing currently playing</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5BoIP8Eha5hwmRVURkC2Us">In My Head</a></b>
 
-<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
+<span style="font-size: 13px; color: #666;">Jason Derulo</span><br><span style="font-size: 12px; color: #666;">2010</span>
 
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM">
+      <img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="96" height="96" alt="EndEx" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6pNdtpUaFYRWRrIxA0VYHM">Slum Planet</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">3TEETH, Mick Gordon</span>
+    <br><span style="font-size: 12px; color: #666;">EndEx (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="96" height="96" alt="Pieces Of Eight" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Styx</span>
+    <br><span style="font-size: 12px; color: #666;">Pieces Of Eight (1978)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2gsNpSn7VvvJuSrIDfRoYy">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="96" height="96" alt="Kamikaze" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2gsNpSn7VvvJuSrIDfRoYy">Kamikaze</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Eminem</span>
+    <br><span style="font-size: 12px; color: #666;">Kamikaze (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P">
+      <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" width="96" height="96" alt="Californication (Deluxe Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P">Otherside</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Red Hot Chili Peppers</span>
+    <br><span style="font-size: 12px; color: #666;">Californication (Deluxe Edition) (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/67tgIGwcQvhungN7013EoM">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736a129cfd7e8204e33cb2d692" width="96" height="96" alt="Glory" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/67tgIGwcQvhungN7013EoM">Glory</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Score</span>
+    <br><span style="font-size: 12px; color: #666;">Glory (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">
+      <img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="96" height="96" alt="GET UP" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">THE FILLER</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">GET UP (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2ga8Pzht7XhCpzN9OXMTor">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="96" height="96" alt="Unearthed" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2ga8Pzht7XhCpzN9OXMTor">If I Give My Soul</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Johnny Cash</span>
+    <br><span style="font-size: 12px; color: #666;">Unearthed (2003)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE">
+      <img src="https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235" width="96" height="96" alt="Songs From The Big Chair (Super Deluxe Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE">Everybody Wants To Rule The World</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Tears For Fears</span>
+    <br><span style="font-size: 12px; color: #666;">Songs From The Big Chair (Super Deluxe Edition) (1985)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">
+      <img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
+    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="#">
+      <img src="https://raw.githubusercontent.com/hannibalshosting88/hannibalshosting88/main/assets/spotify-idle.png" width="96" height="96" alt="Check back later" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="#">Nothing currently playing</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Hannibal is away from Spotify</span>
+    <br><span style="font-size: 12px; color: #666;">Check back later</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 </table>
 </div>
