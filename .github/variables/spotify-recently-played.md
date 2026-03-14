@@ -6,7 +6,7 @@
 
 <a href="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"><img src="https://i.scdn.co/image/ab67616d0000b2737438996f6fe67c59d75d4e43" width="150" height="150" alt="Gangsta&#39;s Paradise" /></a>
 
-<b><a href="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p">Gangsta&#39;s Paradise</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p">Gangsta&#39;s Paradise</a></b><span style="color: gold;"> ★★★★</span>
 
 <span style="color: #666;">Coolio, L.V. (1995)</span>
 
