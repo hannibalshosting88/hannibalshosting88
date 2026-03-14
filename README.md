@@ -24,7 +24,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"><img src="https://i.scdn.co/image/ab67616d0000b273805ef0911226e27fdaf6569d" width="150" height="150" alt="Hoobastank" /></a>
 
-<b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b><span style="color: gold;"> ★★★★</span>
 
 <span style="color: #666;">Hoobastank (2001)</span>
 
