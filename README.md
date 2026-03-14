@@ -22,170 +22,50 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<span style="display:inline-block; font-size:12px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db; margin-bottom:6px;">🎵 Track</span>
+<a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"><img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="150" height="150" alt="Hang-Ups" /></a>
 
-<a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="150" height="150" alt="Superman" />
-</a>
+<b><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b><span style="color: gold;"> ★★</span>
 
-<div style="margin-top:10px;">
-  <b><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b>
-</div>
+<span style="color: #666;">Goldfinger (1998)</span>
 
-<div style="color:#bdbdbd; font-size:14px; margin-top:6px;">Goldfinger</div>
-<div style="color:#777; font-size:13px; margin-top:2px;">Hang-Ups (1998)</div>
-
-<div style="width:220px; margin:8px auto 6px auto; background:#2a2a2a; border-radius:999px; overflow:hidden; height:8px;">
-  <div style="width:7.1%; height:8px; background:#1db954;"></div>
-</div>
-<div style="font-size:12px; color:#888;">0:13 / 3:05</div>
-
-<div style="margin-top:18px;">
-  <h3>🕘 Recent Plays 🕘</h3>
-</div>
-
-<table style="margin: 0 auto; max-width: 550px; border-spacing: 0 10px;">
+<table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-  <td width="60" valign="top">
-    <a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="60" height="60" alt="What Is Hyperspace? Exploring the Science Behind FTL" />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:2px;">
-      <b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp;amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777;">Science &amp;amp; Futurism with Isaac Arthur (2025)</div>
-    <div style="margin-top:3px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span> &nbsp; <span style="font-size:11px; color:#888;">0:09 / 43:03</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH"><img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
+<td><b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span></td>
 </tr>
 <tr>
-  <td width="60" valign="top">
-    <a href="https://open.spotify.com/track/4VSx9uyg0sZpdnygVar6pE">
-      <img src="https://i.scdn.co/image/ab67616d0000b27341e16cadadd012254bdaab1c" width="60" height="60" alt="Sweetest Girl (Dollar Bill) (feat. Akon, Lil&#39; Wayne &amp; Niia)" />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:2px;">
-      <b><a href="https://open.spotify.com/track/4VSx9uyg0sZpdnygVar6pE">Sweetest Girl (Dollar Bill) (feat. Akon, Lil&#39; Wayne &amp; Niia)</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Wyclef Jean, Akon, Lil Wayne, Niia</div>
-    <div style="font-size:12px; color:#777;">CARNIVAL VOL. II...Memoirs of an Immigrant (2007)</div>
-    <div style="margin-top:3px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span> &nbsp; <span style="font-size:11px; color:#888;">2:07 / 3:59</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/4VSx9uyg0sZpdnygVar6pE"><img src="https://i.scdn.co/image/ab67616d0000b27341e16cadadd012254bdaab1c" width="60" height="60" alt="CARNIVAL VOL. II...Memoirs of an Immigrant" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4VSx9uyg0sZpdnygVar6pE">Sweetest Girl (Dollar Bill) (feat. Akon, Lil&#39; Wayne &amp; Niia)</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Wyclef Jean, Akon, Lil Wayne, Niia (2007)</span></td>
 </tr>
 <tr>
-  <td width="60" valign="top">
-    <a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="60" height="60" alt="What Is Hyperspace? Exploring the Science Behind FTL" />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:2px;">
-      <b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp;amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777;">Science &amp;amp; Futurism with Isaac Arthur (2025)</div>
-    <div style="margin-top:3px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span> &nbsp; <span style="font-size:11px; color:#888;">0:01 / 43:03</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH"><img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
+<td><b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span></td>
 </tr>
 <tr>
-  <td width="60" valign="top">
-    <a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="60" height="60" alt="Glitter &amp; Gold" />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:2px;">
-      <b><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter &amp; Gold</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Barns Courtney</div>
-    <div style="font-size:12px; color:#777;">The Attractions Of Youth (2017)</div>
-    <div style="margin-top:3px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span> &nbsp; <span style="font-size:11px; color:#888;">0:59 / 2:56</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"><img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="60" height="60" alt="The Attractions Of Youth" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter &amp; Gold</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Barns Courtney (2017)</span></td>
 </tr>
 <tr>
-  <td width="60" valign="top">
-    <a href="https://open.spotify.com/track/0Zq9KrBsJSWfnIgEyXi05b">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735f6691b5c24906e0d1833ff1" width="60" height="60" alt="Threshold" />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:2px;">
-      <b><a href="https://open.spotify.com/track/0Zq9KrBsJSWfnIgEyXi05b">Threshold</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Sex Bob-Omb</div>
-    <div style="font-size:12px; color:#777;">Scott Pilgrim vs. the World (Original Motion Picture Soundtrack) (2010)</div>
-    <div style="margin-top:3px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span> &nbsp; <span style="font-size:11px; color:#888;">0:47 / 1:47</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/0Zq9KrBsJSWfnIgEyXi05b"><img src="https://i.scdn.co/image/ab67616d0000b2735f6691b5c24906e0d1833ff1" width="60" height="60" alt="Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0Zq9KrBsJSWfnIgEyXi05b">Threshold</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sex Bob-Omb (2010)</span></td>
 </tr>
 <tr>
-  <td width="60" valign="top">
-    <a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" width="60" height="60" alt="My Own Worst Enemy" />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:2px;">
-      <b><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Lit</div>
-    <div style="font-size:12px; color:#777;">A Place In The Sun (1999)</div>
-    <div style="margin-top:3px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span> &nbsp; <span style="font-size:11px; color:#888;">2:36 / 2:49</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"><img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" width="60" height="60" alt="A Place In The Sun" /></a></td>
+<td><b><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lit (1999)</span></td>
 </tr>
 <tr>
-  <td width="60" valign="top">
-    <a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94" width="60" height="60" alt="Journey of the Sorcerer - 2013 Remaster" />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:2px;">
-      <b><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">Journey of the Sorcerer - 2013 Remaster</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Eagles</div>
-    <div style="font-size:12px; color:#777;">One of These Nights (2013 Remaster) (1975)</div>
-    <div style="margin-top:3px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span> &nbsp; <span style="font-size:11px; color:#888;">6:14 / 6:37</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG"><img src="https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94" width="60" height="60" alt="One of These Nights (2013 Remaster)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">Journey of the Sorcerer - 2013 Remaster</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Eagles (1975)</span></td>
 </tr>
 <tr>
-  <td width="60" valign="top">
-    <a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c0fc3e2ea7df505a73658846" width="60" height="60" alt="The Sky Is A Neighborhood" />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:2px;">
-      <b><a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5">The Sky Is A Neighborhood</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Foo Fighters</div>
-    <div style="font-size:12px; color:#777;">Concrete and Gold (2017)</div>
-    <div style="margin-top:3px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span> &nbsp; <span style="font-size:11px; color:#888;">2:18 / 4:04</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5"><img src="https://i.scdn.co/image/ab67616d0000b273c0fc3e2ea7df505a73658846" width="60" height="60" alt="Concrete and Gold" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5">The Sky Is A Neighborhood</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2017)</span></td>
 </tr>
 <tr>
-  <td width="60" valign="top">
-    <a href="https://open.spotify.com/track/7J4NKtZFw23pXvazZ6kGXB">
-      <img src="https://i.scdn.co/image/ab67616d0000b27380255b6cc3fda7dc4ad84680" width="60" height="60" alt="Blazko Kill the Nazis" />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:2px;">
-      <b><a href="https://open.spotify.com/track/7J4NKtZFw23pXvazZ6kGXB">Blazko Kill the Nazis</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Mick Gordon</div>
-    <div style="font-size:12px; color:#777;">Wolfenstein II: The New Colossus (Original Game Soundtrack) (2018)</div>
-    <div style="margin-top:3px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span> &nbsp; <span style="font-size:11px; color:#888;">2:05 / 3:47</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/7J4NKtZFw23pXvazZ6kGXB"><img src="https://i.scdn.co/image/ab67616d0000b27380255b6cc3fda7dc4ad84680" width="60" height="60" alt="Wolfenstein II: The New Colossus (Original Game Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/7J4NKtZFw23pXvazZ6kGXB">Blazko Kill the Nazis</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2018)</span></td>
 </tr>
 </table>
-
-<p style="font-size:12px; color:#666; margin-top:14px;">
-Last updated: March 14, 2026 at 2:13 AM EDT
-</p>
-
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
 
