@@ -39,197 +39,195 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <h3>🕘 Recent Plays 🕘</h3>
 </div>
 
-<table style="margin: 0 auto; max-width: 650px; border-spacing: 0 12px;">
-<tr>
-  <td width="88" valign="top">
+<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
     <a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">
       <img
         src="https://i.scdn.co/image/ab67616d0000b27302bcbe32fdde4d12455e0005"
-        width="80"
-        height="80"
+        width="92"
+        height="92"
         alt="Fear of the Dark (2015 Remaster)"
-        style="border-radius:10px; display:block;"
+        style="border-radius:12px; display:block;"
       />
     </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b>
+    <div style="text-align:left; flex:1;">
+      <div style="margin-bottom:4px;">
+        <b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b>
+      </div>
+      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Iron Maiden</div>
+      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Ed Hunter (1999)</div>
+      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db;">🎵 Track</span></div>
     </div>
-    <div style="font-size:12px; color:#bdbdbd;">Iron Maiden</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Ed Hunter (1999)</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span></div>
-  </td>
-</tr>
-<tr>
-  <td width="88" valign="top">
+  </div>
+</div>
+<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
     <a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">
       <img
         src="https://i.scdn.co/image/ab67616d0000b27302bcbe32fdde4d12455e0005"
-        width="80"
-        height="80"
+        width="92"
+        height="92"
         alt="Fear of the Dark (2015 Remaster)"
-        style="border-radius:10px; display:block;"
+        style="border-radius:12px; display:block;"
       />
     </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b>
+    <div style="text-align:left; flex:1;">
+      <div style="margin-bottom:4px;">
+        <b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b>
+      </div>
+      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Iron Maiden</div>
+      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Ed Hunter (1999)</div>
+      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db;">🎵 Track</span></div>
     </div>
-    <div style="font-size:12px; color:#bdbdbd;">Iron Maiden</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Ed Hunter (1999)</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span></div>
-  </td>
-</tr>
-<tr>
-  <td width="88" valign="top">
+  </div>
+</div>
+<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
+    <a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">
+      <img
+        src="https://i.scdn.co/image/ab67616d0000b27302bcbe32fdde4d12455e0005"
+        width="92"
+        height="92"
+        alt="Fear of the Dark (2015 Remaster)"
+        style="border-radius:12px; display:block;"
+      />
+    </a>
+    <div style="text-align:left; flex:1;">
+      <div style="margin-bottom:4px;">
+        <b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b>
+      </div>
+      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Iron Maiden</div>
+      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Ed Hunter (1999)</div>
+      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db;">🎵 Track</span></div>
+    </div>
+  </div>
+</div>
+<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
     <a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">
       <img
         src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac"
-        width="80"
-        height="80"
+        width="92"
+        height="92"
         alt="Brass Monkey"
-        style="border-radius:10px; display:block;"
+        style="border-radius:12px; display:block;"
       />
     </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b>
+    <div style="text-align:left; flex:1;">
+      <div style="margin-bottom:4px;">
+        <b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b>
+      </div>
+      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Beastie Boys</div>
+      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Licensed To Ill (1986)</div>
+      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db;">🎵 Track</span></div>
     </div>
-    <div style="font-size:12px; color:#bdbdbd;">Beastie Boys</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Licensed To Ill (1986)</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span></div>
-  </td>
-</tr>
-<tr>
-  <td width="88" valign="top">
+  </div>
+</div>
+<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
     <a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD">
       <img
         src="https://i.scdn.co/image/ab6765630000ba8af9720668e2858d9d33e94c02"
-        width="80"
-        height="80"
+        width="92"
+        height="92"
         alt="Warping Reality"
-        style="border-radius:10px; display:block;"
+        style="border-radius:12px; display:block;"
       />
     </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD">Warping Reality</a></b>
+    <div style="text-align:left; flex:1;">
+      <div style="margin-bottom:4px;">
+        <b><a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD">Warping Reality</a></b>
+      </div>
+      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Science &amp; Futurism with Isaac Arthur</div>
+      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Released 2023</div>
+      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#2a2a2a; color:#d1d5db;">🎙️ Podcast</span></div>
     </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Released 2023</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span></div>
-  </td>
-</tr>
-<tr>
-  <td width="88" valign="top">
+  </div>
+</div>
+<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
     <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">
       <img
         src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee"
-        width="80"
-        height="80"
+        width="92"
+        height="92"
         alt="Before the Big Bang - What Came Before Time?"
-        style="border-radius:10px; display:block;"
+        style="border-radius:12px; display:block;"
       />
     </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
+    <div style="text-align:left; flex:1;">
+      <div style="margin-bottom:4px;">
+        <b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
+      </div>
+      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Science &amp; Futurism with Isaac Arthur</div>
+      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Released 2025</div>
+      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#2a2a2a; color:#d1d5db;">🎙️ Podcast</span></div>
     </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Released 2025</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span></div>
-  </td>
-</tr>
-<tr>
-  <td width="88" valign="top">
+  </div>
+</div>
+<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
     <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">
       <img
         src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee"
-        width="80"
-        height="80"
+        width="92"
+        height="92"
         alt="Before the Big Bang - What Came Before Time?"
-        style="border-radius:10px; display:block;"
+        style="border-radius:12px; display:block;"
       />
     </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
+    <div style="text-align:left; flex:1;">
+      <div style="margin-bottom:4px;">
+        <b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
+      </div>
+      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Science &amp; Futurism with Isaac Arthur</div>
+      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Released 2025</div>
+      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#2a2a2a; color:#d1d5db;">🎙️ Podcast</span></div>
     </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Released 2025</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span></div>
-  </td>
-</tr>
-<tr>
-  <td width="88" valign="top">
+  </div>
+</div>
+<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
     <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">
       <img
         src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee"
-        width="80"
-        height="80"
+        width="92"
+        height="92"
         alt="Before the Big Bang - What Came Before Time?"
-        style="border-radius:10px; display:block;"
+        style="border-radius:12px; display:block;"
       />
     </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
+    <div style="text-align:left; flex:1;">
+      <div style="margin-bottom:4px;">
+        <b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
+      </div>
+      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Science &amp; Futurism with Isaac Arthur</div>
+      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Released 2025</div>
+      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#2a2a2a; color:#d1d5db;">🎙️ Podcast</span></div>
     </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Released 2025</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span></div>
-  </td>
-</tr>
-<tr>
-  <td width="88" valign="top">
+  </div>
+</div>
+<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
     <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">
       <img
         src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee"
-        width="80"
-        height="80"
+        width="92"
+        height="92"
         alt="Before the Big Bang - What Came Before Time?"
-        style="border-radius:10px; display:block;"
+        style="border-radius:12px; display:block;"
       />
     </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
+    <div style="text-align:left; flex:1;">
+      <div style="margin-bottom:4px;">
+        <b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
+      </div>
+      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Science &amp; Futurism with Isaac Arthur</div>
+      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Released 2025</div>
+      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#2a2a2a; color:#d1d5db;">🎙️ Podcast</span></div>
     </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Released 2025</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span></div>
-  </td>
-</tr>
-<tr>
-  <td width="88" valign="top">
-    <a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">
-      <img
-        src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130"
-        width="80"
-        height="80"
-        alt="What Is Hyperspace? Exploring the Science Behind FTL"
-        style="border-radius:10px; display:block;"
-      />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Released 2025</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span></div>
-  </td>
-</tr>
-</table>
+  </div>
+</div>
 
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
