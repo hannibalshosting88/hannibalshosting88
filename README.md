@@ -47,9 +47,9 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     </a>
   </td>
   <td align="left" valign="top">
-    <b><a href="https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT">Listening For The Silence</a></b>
+    <b><a href="https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT">🎵 Track • Listening For The Silence</a></b>
     <br>
-    <span style="font-size: 12px; color: #666;">🎵 Track • P.O.D.</span>
+    <span style="font-size: 12px; color: #666;">P.O.D.</span>
     <br><span style="font-size: 12px; color: #666;">Listening For The Silence (2018)</span>
   </td>
 </tr>
@@ -64,9 +64,9 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     </a>
   </td>
   <td align="left" valign="top">
-    <b><a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j">Caprice No. 24</a></b>
+    <b><a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j">🎵 Track • Caprice No. 24</a></b>
     <br>
-    <span style="font-size: 12px; color: #666;">🎵 Track • Bernth</span>
+    <span style="font-size: 12px; color: #666;">Bernth</span>
     <br><span style="font-size: 12px; color: #666;">Elevation (2021)</span>
   </td>
 </tr>
@@ -81,9 +81,9 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     </a>
   </td>
   <td align="left" valign="top">
-    <b><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">For What It&#39;s Worth</a></b>
+    <b><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">🎵 Track • For What It&#39;s Worth</a></b>
     <br>
-    <span style="font-size: 12px; color: #666;">🎵 Track • Buffalo Springfield</span>
+    <span style="font-size: 12px; color: #666;">Buffalo Springfield</span>
     <br><span style="font-size: 12px; color: #666;">1966</span>
   </td>
 </tr>
@@ -98,9 +98,9 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     </a>
   </td>
   <td align="left" valign="top">
-    <b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b>
+    <b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">🎵 Track • In Da Club</a></b>
     <br>
-    <span style="font-size: 12px; color: #666;">🎵 Track • 50 Cent</span>
+    <span style="font-size: 12px; color: #666;">50 Cent</span>
     <br><span style="font-size: 12px; color: #666;">Get Rich Or Die Tryin&#39; (2003)</span>
   </td>
 </tr>
@@ -115,9 +115,9 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     </a>
   </td>
   <td align="left" valign="top">
-    <b><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b>
+    <b><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">🎵 Track • X-Men Theme</a></b>
     <br>
-    <span style="font-size: 12px; color: #666;">🎵 Track • Galactic Empire</span>
+    <span style="font-size: 12px; color: #666;">Galactic Empire</span>
     <br><span style="font-size: 12px; color: #666;">X-Men Theme (2024)</span>
   </td>
 </tr>
@@ -132,9 +132,9 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     </a>
   </td>
   <td align="left" valign="top">
-    <b><a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW">Whoa Whoa Whoa</a></b>
+    <b><a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW">🎵 Track • Whoa Whoa Whoa</a></b>
     <br>
-    <span style="font-size: 12px; color: #666;">🎵 Track • Watsky</span>
+    <span style="font-size: 12px; color: #666;">Watsky</span>
     <br><span style="font-size: 12px; color: #666;">All You Can Do (2014)</span>
   </td>
 </tr>
@@ -149,9 +149,9 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     </a>
   </td>
   <td align="left" valign="top">
-    <b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b>
+    <b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">🎵 Track • Crawling In The Dark</a></b>
     <br>
-    <span style="font-size: 12px; color: #666;">🎵 Track • Hoobastank</span>
+    <span style="font-size: 12px; color: #666;">Hoobastank</span>
     <br><span style="font-size: 12px; color: #666;">2001</span>
   </td>
 </tr>
@@ -166,9 +166,9 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     </a>
   </td>
   <td align="left" valign="top">
-    <b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b>
+    <b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">🎵 Track • Get Low</a></b>
     <br>
-    <span style="font-size: 12px; color: #666;">🎵 Track • Lil Jon &amp; The East Side Boyz, Ying Yang Twins</span>
+    <span style="font-size: 12px; color: #666;">Lil Jon &amp; The East Side Boyz, Ying Yang Twins</span>
     <br><span style="font-size: 12px; color: #666;">Kings Of Crunk (2002)</span>
   </td>
 </tr>
@@ -183,9 +183,9 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     </a>
   </td>
   <td align="left" valign="top">
-    <b><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">Gampo</a></b>
+    <b><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">🎵 Track • Gampo</a></b>
     <br>
-    <span style="font-size: 12px; color: #666;">🎵 Track • Prof</span>
+    <span style="font-size: 12px; color: #666;">Prof</span>
     <br><span style="font-size: 12px; color: #666;">King Gampo (2011)</span>
   </td>
 </tr>
