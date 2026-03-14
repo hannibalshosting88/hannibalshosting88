@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">
-  <img src="https://i.scdn.co/image/ab67616d0000b27393c1b92aa259f41ee79f6e4d" width="180" height="180" alt="SANTIAGO" />
+<a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">SANTIAGO</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">SIDEQUEST</span><br><span style="font-size: 12px; color: #666;">SANTIAGO (2024)</span>
+<span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">
+      <img src="https://i.scdn.co/image/ab67616d0000b27393c1b92aa259f41ee79f6e4d" width="96" height="96" alt="SANTIAGO" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">SANTIAGO</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">SIDEQUEST</span>
+    <br><span style="font-size: 12px; color: #666;">SANTIAGO (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Johnny Cash</span>
     <br><span style="font-size: 12px; color: #666;">Unearthed (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE">
-      <img src="https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235" width="96" height="96" alt="Songs From The Big Chair (Super Deluxe Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE">Everybody Wants To Rule The World</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Tears For Fears</span>
-    <br><span style="font-size: 12px; color: #666;">Songs From The Big Chair (Super Deluxe Edition) (1985)</span>
   </td>
 </tr>
 <tr>
