@@ -6,7 +6,7 @@
 
 <a href="https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="150" height="150" alt="Toxicity" /></a>
 
-<b><a href="https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn">Toxicity</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn">Toxicity</a></b><span style="color: gold;"> ★★★</span>
 
 <span style="color: #666;">System Of A Down (2001)</span>
 
@@ -46,10 +46,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4"><img src="https://i.scdn.co/image/ab67616d0000b273502c8b939032d419e06550e9" width="60" height="60" alt="Welcome Back" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4">Welcome Back</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Mase (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"><img src="https://i.scdn.co/image/ab67616d0000b2731c5b1ca14c87e31ffb3b095a" width="60" height="60" alt="See You On the Other Side" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Korn (2005)</span></td>
 </tr>
 </table>
 </div>
