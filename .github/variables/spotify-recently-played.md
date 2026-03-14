@@ -6,7 +6,7 @@
 
 <a href="https://open.spotify.com/episode/5LJfwm9HURUizrx6IksSEJ"><img src="https://i.scdn.co/image/ab6765630000ba8ab59a08b6dd1ac08b37a42a6f" width="150" height="150" alt="Science &amp; Futurism with Isaac Arthur" /></a>
 
-<b><a href="https://open.spotify.com/episode/5LJfwm9HURUizrx6IksSEJ">Gravity Tech: The Power To  Reshape Our Civilization... And The Cosmos Themselves</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/episode/5LJfwm9HURUizrx6IksSEJ">Gravity Tech: The Power To  Reshape Our Civilization... And The Cosmos Themselves</a></b><span style="color: gold;"> ★★★★★</span>
 
 <span style="color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span>
 
