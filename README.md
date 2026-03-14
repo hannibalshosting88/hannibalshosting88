@@ -24,21 +24,42 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <span style="display:inline-block; font-size:12px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db; margin-bottom:6px;">🎵 Track</span>
 
-<a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">
-  <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="150" height="150" alt="Sugar, We&#39;re Goin Down" />
+<a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">
+  <img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" width="150" height="150" alt="Mah Na Mah Na" />
 </a>
 
 <div style="margin-top:10px;">
-  <b><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">Sugar, We&#39;re Goin Down</a></b>
+  <b><a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">Mah Na Mah Na</a></b>
 </div>
 
-<div style="color:#bdbdbd; font-size:14px; margin-top:6px;">Fall Out Boy</div>
-<div style="color:#777; font-size:13px; margin-top:2px;">From Under The Cork Tree (2005)</div>
+<div style="color:#bdbdbd; font-size:14px; margin-top:6px;">Mahna Mahna and The Two Snowths</div>
+<div style="color:#777; font-size:13px; margin-top:2px;">The Muppets (Original Motion Picture Soundtrack) (2011)</div>
 
 <div style="margin-top:18px;">
   <h3>🕘 Recent Plays 🕘</h3>
 </div>
 
+<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
+    <a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">
+      <img
+        src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5"
+        width="92"
+        height="92"
+        alt="Sugar, We&#39;re Goin Down"
+        style="border-radius:12px; display:block;"
+      />
+    </a>
+    <div style="text-align:left; flex:1;">
+      <div style="margin-bottom:4px;">
+        <b><a href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE">Sugar, We&#39;re Goin Down</a></b>
+      </div>
+      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Fall Out Boy</div>
+      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">From Under The Cork Tree (2005)</div>
+      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db;">🎵 Track</span></div>
+    </div>
+  </div>
+</div>
 <div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
   <div style="display:flex; align-items:flex-start; gap:12px;">
     <a href="https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9">
@@ -182,27 +203,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
       </div>
       <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Science &amp; Futurism with Isaac Arthur</div>
       <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Released 2023</div>
-      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#2a2a2a; color:#d1d5db;">🎙️ Podcast</span></div>
-    </div>
-  </div>
-</div>
-<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
-  <div style="display:flex; align-items:flex-start; gap:12px;">
-    <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">
-      <img
-        src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee"
-        width="92"
-        height="92"
-        alt="Before the Big Bang - What Came Before Time?"
-        style="border-radius:12px; display:block;"
-      />
-    </a>
-    <div style="text-align:left; flex:1;">
-      <div style="margin-bottom:4px;">
-        <b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
-      </div>
-      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Science &amp; Futurism with Isaac Arthur</div>
-      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Released 2025</div>
       <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#2a2a2a; color:#d1d5db;">🎙️ Podcast</span></div>
     </div>
   </div>
