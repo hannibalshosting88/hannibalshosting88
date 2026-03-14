@@ -22,29 +22,44 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<span style="display:inline-block; font-size:12px; padding:2px 8px; border-radius:999px; background:#2a2a2a; color:#d1d5db; margin-bottom:6px;">🎙️ Podcast</span>
+<span style="display:inline-block; font-size:12px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db; margin-bottom:6px;">🎵 Track</span>
 
-<a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">
-  <img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="150" height="150" alt="What Is Hyperspace? Exploring the Science Behind FTL" />
+<a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="150" height="150" alt="Superman" />
 </a>
 
 <div style="margin-top:10px;">
-  <b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b>
+  <b><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b>
 </div>
 
-<div style="color:#bdbdbd; font-size:14px; margin-top:6px;">Science &amp; Futurism with Isaac Arthur</div>
-<div style="color:#777; font-size:13px; margin-top:2px;">Science &amp; Futurism with Isaac Arthur (2025)</div>
+<div style="color:#bdbdbd; font-size:14px; margin-top:6px;">Goldfinger</div>
+<div style="color:#777; font-size:13px; margin-top:2px;">Hang-Ups (1998)</div>
 
 <div style="width:220px; margin:8px auto 6px auto; background:#2a2a2a; border-radius:999px; overflow:hidden; height:8px;">
-  <div style="width:0.4%; height:8px; background:#1db954;"></div>
+  <div style="width:1.4%; height:8px; background:#1db954;"></div>
 </div>
-<div style="font-size:12px; color:#888;">0:09 / 43:03</div>
+<div style="font-size:12px; color:#888;">0:02 / 3:05</div>
 
 <div style="margin-top:18px;">
   <h3>🕘 Recent Plays 🕘</h3>
 </div>
 
 <table style="margin: 0 auto; max-width: 550px; border-spacing: 0 10px;">
+<tr>
+  <td width="60" valign="top">
+    <a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">
+      <img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="60" height="60" alt="What Is Hyperspace? Exploring the Science Behind FTL" />
+    </a>
+  </td>
+  <td valign="top">
+    <div style="margin-bottom:2px;">
+      <b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b>
+    </div>
+    <div style="font-size:12px; color:#bdbdbd;">Science &amp;amp; Futurism with Isaac Arthur</div>
+    <div style="font-size:12px; color:#777;">Science &amp;amp; Futurism with Isaac Arthur (2025)</div>
+    <div style="margin-top:3px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span> &nbsp; <span style="font-size:11px; color:#888;">0:09 / 43:03</span></div>
+  </td>
+</tr>
 <tr>
   <td width="60" valign="top">
     <a href="https://open.spotify.com/track/4VSx9uyg0sZpdnygVar6pE">
@@ -165,25 +180,10 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <div style="margin-top:3px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span> &nbsp; <span style="font-size:11px; color:#888;">2:05 / 3:47</span></div>
   </td>
 </tr>
-<tr>
-  <td width="60" valign="top">
-    <a href="https://open.spotify.com/track/44oenYNFrmOCz85bAcwN5t">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737d579219fc2611dc45ef36fb" width="60" height="60" alt="In Keeping Secrets of Silent Earth: 3" />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:2px;">
-      <b><a href="https://open.spotify.com/track/44oenYNFrmOCz85bAcwN5t">In Keeping Secrets of Silent Earth: 3</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Coheed and Cambria</div>
-    <div style="font-size:12px; color:#777;">In Keeping Secrets Of Silent Earth: 3 (2003)</div>
-    <div style="margin-top:3px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span> &nbsp; <span style="font-size:11px; color:#888;">3:43 / 8:12</span></div>
-  </td>
-</tr>
 </table>
 
 <p style="font-size:12px; color:#666; margin-top:14px;">
-Last updated: March 14, 2026 at 2:12 AM EDT
+Last updated: March 14, 2026 at 2:13 AM EDT
 </p>
 
 </div>
