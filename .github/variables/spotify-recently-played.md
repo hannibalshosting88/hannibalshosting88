@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="150" height="150" alt="Kings Of Crunk" /></a>
+<a href="https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="150" height="150" alt="Toxicity" /></a>
 
-<b><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">I Don&#39;t Give A...</a></b><span style="color: gold;"> ★★★★★</span>
+<b><a href="https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn">Toxicity</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Lil Jon &amp; The East Side Boyz, Mystikal, Krayzie Bone (2002)</span>
+<span style="color: #666;">System Of A Down (2001)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
+<td><b><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">I Don&#39;t Give A...</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon &amp; The East Side Boyz, Mystikal, Krayzie Bone (2002)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="60" height="60" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl">Fix My Eyes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING &amp; COUNTRY (2015)</span></td>
