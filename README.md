@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"><img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="150" height="150" alt="The Attractions Of Youth" /></a>
+<a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH"><img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="150" height="150" alt="Science &amp; Futurism with Isaac Arthur" /></a>
 
-<b><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter &amp; Gold</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Barns Courtney (2017)</span>
+<span style="color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"><img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="60" height="60" alt="The Attractions Of Youth" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter &amp; Gold</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Barns Courtney (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0Zq9KrBsJSWfnIgEyXi05b"><img src="https://i.scdn.co/image/ab67616d0000b2735f6691b5c24906e0d1833ff1" width="60" height="60" alt="Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0Zq9KrBsJSWfnIgEyXi05b">Threshold</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sex Bob-Omb (2010)</span></td>
