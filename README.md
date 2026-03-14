@@ -24,7 +24,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"><img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="150" height="150" alt="The Attractions Of Youth" /></a>
 
-<b><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter &amp; Gold</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter &amp; Gold</a></b><span style="color: gold;"> ★★</span>
 
 <span style="color: #666;">Barns Courtney (2017)</span>
 
@@ -64,10 +64,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">I Don&#39;t Give A...</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon &amp; The East Side Boyz, Mystikal, Krayzie Bone (2002)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="60" height="60" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a></td>
-<td><b><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl">Fix My Eyes</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">for KING &amp; COUNTRY (2015)</span></td>
 </tr>
 </table>
 </div>
