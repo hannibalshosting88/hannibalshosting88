@@ -24,21 +24,42 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <span style="display:inline-block; font-size:12px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db; margin-bottom:6px;">🎵 Track</span>
 
-<a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737583749302de0d090a055381" width="150" height="150" alt="9Circles" />
+<a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">
+  <img src="https://i.scdn.co/image/ab67616d0000b27360c11533e1cb8e606f7042b9" width="150" height="150" alt="Gampo" />
 </a>
 
 <div style="margin-top:10px;">
-  <b><a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ">9Circles</a></b>
+  <b><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">Gampo</a></b>
 </div>
 
-<div style="color:#bdbdbd; font-size:14px; margin-top:6px;">Psygnals</div>
-<div style="color:#777; font-size:13px; margin-top:2px;">9Circles (2023)</div>
+<div style="color:#bdbdbd; font-size:14px; margin-top:6px;">Prof</div>
+<div style="color:#777; font-size:13px; margin-top:2px;">King Gampo (2011)</div>
 
 <div style="margin-top:18px;">
   <h3>🕘 Recent Plays 🕘</h3>
 </div>
 
+<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
+    <a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ">
+      <img
+        src="https://i.scdn.co/image/ab67616d0000b2737583749302de0d090a055381"
+        width="92"
+        height="92"
+        alt="9Circles"
+        style="border-radius:12px; display:block;"
+      />
+    </a>
+    <div style="text-align:left; flex:1;">
+      <div style="margin-bottom:4px;">
+        <b><a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ">9Circles</a></b>
+      </div>
+      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Psygnals</div>
+      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">9Circles (2023)</div>
+      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db;">🎵 Track</span></div>
+    </div>
+  </div>
+</div>
 <div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
   <div style="display:flex; align-items:flex-start; gap:12px;">
     <a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA">
@@ -161,27 +182,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
       </div>
       <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Katy Perry</div>
       <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">One Of The Boys (2008)</div>
-      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db;">🎵 Track</span></div>
-    </div>
-  </div>
-</div>
-<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
-  <div style="display:flex; align-items:flex-start; gap:12px;">
-    <a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">
-      <img
-        src="https://i.scdn.co/image/ab67616d0000b27302bcbe32fdde4d12455e0005"
-        width="92"
-        height="92"
-        alt="Fear of the Dark (2015 Remaster)"
-        style="border-radius:12px; display:block;"
-      />
-    </a>
-    <div style="text-align:left; flex:1;">
-      <div style="margin-bottom:4px;">
-        <b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b>
-      </div>
-      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Iron Maiden</div>
-      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Ed Hunter (1999)</div>
       <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db;">🎵 Track</span></div>
     </div>
   </div>
