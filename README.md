@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5BoIP8Eha5hwmRVURkC2Us">
-  <img src="https://i.scdn.co/image/ab67616d0000b273eb3092620e6816700d502bb8" width="180" height="180" alt="Jason Derulo" />
-</a>
+<img src="https://raw.githubusercontent.com/hannibalshosting88/hannibalshosting88/main/assets/spotify-idle.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5BoIP8Eha5hwmRVURkC2Us">In My Head</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
-<span style="font-size: 13px; color: #666;">Jason Derulo</span><br><span style="font-size: 12px; color: #666;">2010</span>
-
+<br>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5BoIP8Eha5hwmRVURkC2Us">
+      <img src="https://i.scdn.co/image/ab67616d0000b273eb3092620e6816700d502bb8" width="96" height="96" alt="Jason Derulo" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5BoIP8Eha5hwmRVURkC2Us">In My Head</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Jason Derulo</span>
+    <br><span style="font-size: 12px; color: #666;">2010</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="#">
-      <img src="https://raw.githubusercontent.com/hannibalshosting88/hannibalshosting88/main/assets/spotify-idle.png" width="96" height="96" alt="Check back later" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="#">Nothing currently playing</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Hannibal is away from Spotify</span>
-    <br><span style="font-size: 12px; color: #666;">Check back later</span>
   </td>
 </tr>
 <tr>
