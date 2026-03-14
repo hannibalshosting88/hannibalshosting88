@@ -28,11 +28,11 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <br>
 
-<b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b>
 
 <br>
 
-<span style="font-size: 13px; color: #666;">🎙️ Podcast • Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
+<span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
 
 <br><br>
 
