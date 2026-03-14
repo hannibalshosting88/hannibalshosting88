@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"><img src="https://i.scdn.co/image/ab67616d0000b2732dc5b802303ff19c62a346ab" width="150" height="150" alt="Buffalo Springfield" /></a>
+<a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j"><img src="https://i.scdn.co/image/ab67616d0000b273522c0290500f1e8756303714" width="150" height="150" alt="Elevation" /></a>
 
-<b><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">For What It&#39;s Worth</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j">Caprice No. 24</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Buffalo Springfield (1966)</span>
+<span style="color: #666;">Bernth (2021)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"><img src="https://i.scdn.co/image/ab67616d0000b2732dc5b802303ff19c62a346ab" width="60" height="60" alt="Buffalo Springfield" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">For What It&#39;s Worth</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Buffalo Springfield (1966)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="60" height="60" alt="Get Rich Or Die Tryin&#39;" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">50 Cent (2003)</span></td>
