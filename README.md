@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA"><img src="https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca" width="150" height="150" alt="Dizzy up the Girl" /></a>
+<a href="https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"><img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" width="150" height="150" alt="souljaboytellem.com" /></a>
 
-<b><a href="https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA">Slide</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi">Crank That (Soulja Boy)</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">The Goo Goo Dolls (1998)</span>
+<span style="color: #666;">Soulja Boy (2007)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA"><img src="https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca" width="60" height="60" alt="Dizzy up the Girl" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA">Slide</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Goo Goo Dolls (1998)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"><img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="60" height="60" alt="Hang-Ups" /></a></td>
 <td><b><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Goldfinger (1998)</span></td>
