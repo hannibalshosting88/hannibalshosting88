@@ -24,7 +24,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3"><img src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee" width="150" height="150" alt="Science &amp; Futurism with Isaac Arthur" /></a>
 
-<b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b><span style="color: gold;"> ★★★★★</span>
 
 <span style="color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span>
 
