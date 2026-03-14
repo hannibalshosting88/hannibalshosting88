@@ -22,49 +22,175 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH"><img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="150" height="150" alt="Science &amp; Futurism with Isaac Arthur" /></a>
+<a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
+</a>
 
-<b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b><span style="color: gold;"> ★★</span>
+<br>
 
-<span style="color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b>
 
-<table style='margin: 0 auto; max-width: 550px;'>
+<span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
+
+<br>
+
+<h3>🕘 Recent Plays 🕘</h3>
+
+<table style="margin: 0 auto; max-width: 700px;">
+
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT"><img src="https://i.scdn.co/image/ab67616d0000b2739324a79872a359671db7d83f" width="60" height="60" alt="Listening For The Silence" /></a></td>
-<td><b><a href="https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT">Listening For The Silence</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">P.O.D. (2018)</span></td>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739324a79872a359671db7d83f" width="96" height="96" alt="Listening For The Silence" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT">Listening For The Silence</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">P.O.D.</span>
+    <br><span style="font-size: 12px; color: #666;">Listening For The Silence (2018)</span>
+  </td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j"><img src="https://i.scdn.co/image/ab67616d0000b273522c0290500f1e8756303714" width="60" height="60" alt="Elevation" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j">Caprice No. 24</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Bernth (2021)</span></td>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j">
+      <img src="https://i.scdn.co/image/ab67616d0000b273522c0290500f1e8756303714" width="96" height="96" alt="Elevation" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j">Caprice No. 24</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Bernth</span>
+    <br><span style="font-size: 12px; color: #666;">Elevation (2021)</span>
+  </td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"><img src="https://i.scdn.co/image/ab67616d0000b2732dc5b802303ff19c62a346ab" width="60" height="60" alt="Buffalo Springfield" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">For What It&#39;s Worth</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Buffalo Springfield (1966)</span></td>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732dc5b802303ff19c62a346ab" width="96" height="96" alt="Buffalo Springfield" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">For What It&#39;s Worth</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Buffalo Springfield</span>
+    <br><span style="font-size: 12px; color: #666;">1966</span>
+  </td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="60" height="60" alt="Get Rich Or Die Tryin&#39;" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">50 Cent (2003)</span></td>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="96" height="96" alt="Get Rich Or Die Tryin&#39;" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">50 Cent</span>
+    <br><span style="font-size: 12px; color: #666;">Get Rich Or Die Tryin&#39; (2003)</span>
+  </td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe"><img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="60" height="60" alt="X-Men Theme" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2024)</span></td>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">
+      <img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="96" height="96" alt="X-Men Theme" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Galactic Empire</span>
+    <br><span style="font-size: 12px; color: #666;">X-Men Theme (2024)</span>
+  </td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW"><img src="https://i.scdn.co/image/ab67616d0000b2731f2cef277cda8c731f8f6a1e" width="60" height="60" alt="All You Can Do" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW">Whoa Whoa Whoa</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2014)</span></td>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731f2cef277cda8c731f8f6a1e" width="96" height="96" alt="All You Can Do" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW">Whoa Whoa Whoa</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Watsky</span>
+    <br><span style="font-size: 12px; color: #666;">All You Can Do (2014)</span>
+  </td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"><img src="https://i.scdn.co/image/ab67616d0000b273805ef0911226e27fdaf6569d" width="60" height="60" alt="Hoobastank" /></a></td>
-<td><b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Hoobastank (2001)</span></td>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">
+      <img src="https://i.scdn.co/image/ab67616d0000b273805ef0911226e27fdaf6569d" width="96" height="96" alt="Hoobastank" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Hoobastank</span>
+    <br><span style="font-size: 12px; color: #666;">2001</span>
+  </td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
-<td><b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Lil Jon &amp; The East Side Boyz, Ying Yang Twins (2002)</span></td>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="96" height="96" alt="Kings Of Crunk" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lil Jon &amp; The East Side Boyz, Ying Yang Twins</span>
+    <br><span style="font-size: 12px; color: #666;">Kings Of Crunk (2002)</span>
+  </td>
 </tr>
 <tr>
-<td width="60"><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95"><img src="https://i.scdn.co/image/ab67616d0000b27360c11533e1cb8e606f7042b9" width="60" height="60" alt="King Gampo" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">Gampo</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Prof (2011)</span></td>
+  <td colspan="2" height="10"></td>
 </tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">
+      <img src="https://i.scdn.co/image/ab67616d0000b27360c11533e1cb8e606f7042b9" width="96" height="96" alt="King Gampo" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">Gampo</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Prof</span>
+    <br><span style="font-size: 12px; color: #666;">King Gampo (2011)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
