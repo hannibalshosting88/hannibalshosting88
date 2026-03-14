@@ -22,215 +22,50 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<span style="display:inline-block; font-size:12px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db; margin-bottom:6px;">🎵 Track</span>
+<a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"><img src="https://i.scdn.co/image/ab67616d0000b27302bcbe32fdde4d12455e0005" width="150" height="150" alt="Ed Hunter" /></a>
 
-<a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">
-  <img src="https://i.scdn.co/image/ab67616d0000b27302bcbe32fdde4d12455e0005" width="150" height="150" alt="Fear of the Dark (2015 Remaster)" />
-</a>
+<b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b><span style="color: gold;"> ★★★</span>
 
-<div style="margin-top:10px;">
-  <b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b>
-</div>
+<span style="color: #666;">Iron Maiden (1999)</span>
 
-<div style="color:#bdbdbd; font-size:14px; margin-top:6px;">Iron Maiden</div>
-<div style="color:#777; font-size:13px; margin-top:2px;">Ed Hunter (1999)</div>
-
-<div style="margin-top:18px;">
-  <h3>🕘 Recent Plays 🕘</h3>
-</div>
-
-<table style="margin: 0 auto; max-width: 650px; border-spacing: 0 12px;">
+<table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-  <td width="88" valign="top">
-    <a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">
-      <img
-        src="https://i.scdn.co/image/ab67616d0000b27302bcbe32fdde4d12455e0005"
-        width="80"
-        height="80"
-        alt="Fear of the Dark (2015 Remaster)"
-        style="border-radius:10px; display:block;"
-      />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Iron Maiden</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Ed Hunter (1999)</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"><img src="https://i.scdn.co/image/ab67616d0000b27302bcbe32fdde4d12455e0005" width="60" height="60" alt="Ed Hunter" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b> <span style="color: gold;"> ★★</span><br><span style="font-size: 12px; color: #666;">Iron Maiden (1999)</span></td>
 </tr>
 <tr>
-  <td width="88" valign="top">
-    <a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">
-      <img
-        src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac"
-        width="80"
-        height="80"
-        alt="Brass Monkey"
-        style="border-radius:10px; display:block;"
-      />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Beastie Boys</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Licensed To Ill (1986)</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="60" height="60" alt="Licensed To Ill" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Beastie Boys (1986)</span></td>
 </tr>
 <tr>
-  <td width="88" valign="top">
-    <a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD">
-      <img
-        src="https://i.scdn.co/image/ab6765630000ba8af9720668e2858d9d33e94c02"
-        width="80"
-        height="80"
-        alt="Warping Reality"
-        style="border-radius:10px; display:block;"
-      />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD">Warping Reality</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Released 2023</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD"><img src="https://i.scdn.co/image/ab6765630000ba8af9720668e2858d9d33e94c02" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
+<td><b><a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD">Warping Reality</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2023)</span></td>
 </tr>
 <tr>
-  <td width="88" valign="top">
-    <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">
-      <img
-        src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee"
-        width="80"
-        height="80"
-        alt="Before the Big Bang - What Came Before Time?"
-        style="border-radius:10px; display:block;"
-      />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Released 2025</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3"><img src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
+<td><b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span></td>
 </tr>
 <tr>
-  <td width="88" valign="top">
-    <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">
-      <img
-        src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee"
-        width="80"
-        height="80"
-        alt="Before the Big Bang - What Came Before Time?"
-        style="border-radius:10px; display:block;"
-      />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Released 2025</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3"><img src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
+<td><b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span></td>
 </tr>
 <tr>
-  <td width="88" valign="top">
-    <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">
-      <img
-        src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee"
-        width="80"
-        height="80"
-        alt="Before the Big Bang - What Came Before Time?"
-        style="border-radius:10px; display:block;"
-      />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Released 2025</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3"><img src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
+<td><b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span></td>
 </tr>
 <tr>
-  <td width="88" valign="top">
-    <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">
-      <img
-        src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee"
-        width="80"
-        height="80"
-        alt="Before the Big Bang - What Came Before Time?"
-        style="border-radius:10px; display:block;"
-      />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Released 2025</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3"><img src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
+<td><b><a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span></td>
 </tr>
 <tr>
-  <td width="88" valign="top">
-    <a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">
-      <img
-        src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130"
-        width="80"
-        height="80"
-        alt="What Is Hyperspace? Exploring the Science Behind FTL"
-        style="border-radius:10px; display:block;"
-      />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Science &amp; Futurism with Isaac Arthur</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">Released 2025</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎙️ Podcast</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH"><img src="https://i.scdn.co/image/ab6765630000ba8a46ad34c18ff01bbe5dae3130" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
+<td><b><a href="https://open.spotify.com/episode/7yKbplP96tyRaWFPNCG2WH">What Is Hyperspace? Exploring the Science Behind FTL</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2025)</span></td>
 </tr>
 <tr>
-  <td width="88" valign="top">
-    <a href="https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA">
-      <img
-        src="https://i.scdn.co/image/ab67616d0000b2733892a55b29583746e1b4cd48"
-        width="80"
-        height="80"
-        alt="Tokyo Drift (Fast &amp; Furious) - From &quot;The Fast And The Furious: Tokyo Drift&quot; Soundtrack"
-        style="border-radius:10px; display:block;"
-      />
-    </a>
-  </td>
-  <td valign="top">
-    <div style="margin-bottom:4px;">
-      <b><a href="https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA">Tokyo Drift (Fast &amp; Furious) - From &quot;The Fast And The Furious: Tokyo Drift&quot; Soundtrack</a></b>
-    </div>
-    <div style="font-size:12px; color:#bdbdbd;">Teriyaki Boyz</div>
-    <div style="font-size:12px; color:#777; margin-top:2px;">The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack) (2006)</div>
-    <div style="margin-top:5px;"><span style="font-size:11px; color:#a3a3a3;">🎵 Track</span></div>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA"><img src="https://i.scdn.co/image/ab67616d0000b2733892a55b29583746e1b4cd48" width="60" height="60" alt="The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)" /></a></td>
+<td><b><a href="https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA">Tokyo Drift (Fast &amp; Furious) - From &quot;The Fast And The Furious: Tokyo Drift&quot; Soundtrack</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Teriyaki Boyz (2006)</span></td>
 </tr>
 </table>
-
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
 
