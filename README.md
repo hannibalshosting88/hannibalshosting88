@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732dc5b802303ff19c62a346ab" width="96" height="96" alt="Buffalo Springfield" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">For What It&#39;s Worth</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Buffalo Springfield</span>
-    <br><span style="font-size: 12px; color: #666;">1966</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
