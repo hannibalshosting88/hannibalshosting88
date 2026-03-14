@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="150" height="150" alt="Toxicity" /></a>
+<a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="150" height="150" alt="Kamikaze" /></a>
 
-<b><a href="https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn">Toxicity</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4">Venom - Music From The Motion Picture</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">System Of A Down (2001)</span>
+<span style="color: #666;">Eminem (2018)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"><img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="60" height="60" alt="Toxicity" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn">Toxicity</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">System Of A Down (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">I Don&#39;t Give A...</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lil Jon &amp; The East Side Boyz, Mystikal, Krayzie Bone (2002)</span></td>
@@ -60,14 +64,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"><img src="https://i.scdn.co/image/ab67616d0000b273946301359b8ad60772671b8f" width="60" height="60" alt="Three Dollar Bill, Y&#39;all $" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah">Counterfeit</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4"><img src="https://i.scdn.co/image/ab67616d0000b273502c8b939032d419e06550e9" width="60" height="60" alt="Welcome Back" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4">Welcome Back</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Mase (2005)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"><img src="https://i.scdn.co/image/ab67616d0000b2731c5b1ca14c87e31ffb3b095a" width="60" height="60" alt="See You On the Other Side" /></a></td>
-<td><b><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Korn (2005)</span></td>
 </tr>
 </table>
 </div>
