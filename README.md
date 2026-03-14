@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"><img src="https://i.scdn.co/image/ab67616d0000b273805ef0911226e27fdaf6569d" width="150" height="150" alt="Hoobastank" /></a>
+<a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW"><img src="https://i.scdn.co/image/ab67616d0000b2731f2cef277cda8c731f8f6a1e" width="150" height="150" alt="All You Can Do" /></a>
 
-<b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW">Whoa Whoa Whoa</a></b><span style="color: gold;"> ★★★</span>
 
-<span style="color: #666;">Hoobastank (2001)</span>
+<span style="color: #666;">Watsky (2014)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"><img src="https://i.scdn.co/image/ab67616d0000b273805ef0911226e27fdaf6569d" width="60" height="60" alt="Hoobastank" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Hoobastank (2001)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Lil Jon &amp; The East Side Boyz, Ying Yang Twins (2002)</span></td>
