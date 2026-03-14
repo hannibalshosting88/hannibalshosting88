@@ -16,205 +16,56 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </div>
 
 <!-- SPOTIFY-RECENTLY-PLAYED:START -->
-<div align="center">
+<div align='center'>
 
 # 🎧 Recent Jam Session 🎧
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<div>
-  <a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j">
-    <img src="https://i.scdn.co/image/ab67616d0000b273522c0290500f1e8756303714" width="150" height="150" alt="Elevation" />
-  </a>
-</div>
+<a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j"><img src="https://i.scdn.co/image/ab67616d0000b273522c0290500f1e8756303714" width="150" height="150" alt="Elevation" /></a>
 
-<div>
-  <b><a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j">Caprice No. 24</a></b>
-</div>
+<b><a href="https://open.spotify.com/track/3aHyc94iLoJ4YUXGEG7v5j">Caprice No. 24</a></b><span style="color: gold;"> ★★★★</span>
 
-<div>
-  <sub>🎵 Track • Bernth (2021) • ★★★</sub>
-</div>
+<span style="color: #666;">Bernth (2021)</span>
 
-<br>
-
-<h3>🕘 Recent Plays 🕘</h3>
-
-<table>
-
+<table style='margin: 0 auto; max-width: 550px;'>
 <tr>
-  <td colspan="2" align="left">
-    <b><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">For What It&#39;s Worth</a></b>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"><img src="https://i.scdn.co/image/ab67616d0000b2732dc5b802303ff19c62a346ab" width="60" height="60" alt="Buffalo Springfield" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">For What It&#39;s Worth</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Buffalo Springfield (1966)</span></td>
 </tr>
 <tr>
-  <td width="72" valign="top">
-    <a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732dc5b802303ff19c62a346ab" width="60" height="60" alt="Buffalo Springfield" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <sub>Buffalo Springfield<br><sub>1966</sub><br>🎵 Track • ★★★</sub>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"><img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="60" height="60" alt="Get Rich Or Die Tryin&#39;" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">50 Cent (2003)</span></td>
 </tr>
 <tr>
-  <td colspan="2"><br></td>
-</tr>
-
-<tr>
-  <td colspan="2" align="left">
-    <b><a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">In Da Club</a></b>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe"><img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="60" height="60" alt="X-Men Theme" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Galactic Empire (2024)</span></td>
 </tr>
 <tr>
-  <td width="72" valign="top">
-    <a href="https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf" width="60" height="60" alt="Get Rich Or Die Tryin&#39;" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <sub>50 Cent<br><sub>Get Rich Or Die Tryin&#39; (2003)</sub><br>🎵 Track • ★★★★</sub>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW"><img src="https://i.scdn.co/image/ab67616d0000b2731f2cef277cda8c731f8f6a1e" width="60" height="60" alt="All You Can Do" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW">Whoa Whoa Whoa</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2014)</span></td>
 </tr>
 <tr>
-  <td colspan="2"><br></td>
-</tr>
-
-<tr>
-  <td colspan="2" align="left">
-    <b><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"><img src="https://i.scdn.co/image/ab67616d0000b273805ef0911226e27fdaf6569d" width="60" height="60" alt="Hoobastank" /></a></td>
+<td><b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Hoobastank (2001)</span></td>
 </tr>
 <tr>
-  <td width="72" valign="top">
-    <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">
-      <img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="60" height="60" alt="X-Men Theme" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <sub>Galactic Empire<br><sub>X-Men Theme (2024)</sub><br>🎵 Track • ★★★★</sub>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" /></a></td>
+<td><b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Lil Jon &amp; The East Side Boyz, Ying Yang Twins (2002)</span></td>
 </tr>
 <tr>
-  <td colspan="2"><br></td>
-</tr>
-
-<tr>
-  <td colspan="2" align="left">
-    <b><a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW">Whoa Whoa Whoa</a></b>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95"><img src="https://i.scdn.co/image/ab67616d0000b27360c11533e1cb8e606f7042b9" width="60" height="60" alt="King Gampo" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">Gampo</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Prof (2011)</span></td>
 </tr>
 <tr>
-  <td width="72" valign="top">
-    <a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731f2cef277cda8c731f8f6a1e" width="60" height="60" alt="All You Can Do" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <sub>Watsky<br><sub>All You Can Do (2014)</sub><br>🎵 Track • ★★★</sub>
-  </td>
+<td width="60"><a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ"><img src="https://i.scdn.co/image/ab67616d0000b2737583749302de0d090a055381" width="60" height="60" alt="9Circles" /></a></td>
+<td><b><a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ">9Circles</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Psygnals (2023)</span></td>
 </tr>
 <tr>
-  <td colspan="2"><br></td>
+<td width="60"><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"><img src="https://i.scdn.co/image/ab67616d0000b2731a0278d4109c0f974821aa33" width="60" height="60" alt="Drops Of Jupiter" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA">Drops of Jupiter (Tell Me)</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Train (2001)</span></td>
 </tr>
-
-<tr>
-  <td colspan="2" align="left">
-    <b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b>
-  </td>
-</tr>
-<tr>
-  <td width="72" valign="top">
-    <a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">
-      <img src="https://i.scdn.co/image/ab67616d0000b273805ef0911226e27fdaf6569d" width="60" height="60" alt="Hoobastank" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <sub>Hoobastank<br><sub>2001</sub><br>🎵 Track • ★★★★</sub>
-  </td>
-</tr>
-<tr>
-  <td colspan="2"><br></td>
-</tr>
-
-<tr>
-  <td colspan="2" align="left">
-    <b><a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">Get Low</a></b>
-  </td>
-</tr>
-<tr>
-  <td width="72" valign="top">
-    <a href="https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="60" height="60" alt="Kings Of Crunk" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <sub>Lil Jon &amp; The East Side Boyz, Ying Yang Twins<br><sub>Kings Of Crunk (2002)</sub><br>🎵 Track • ★</sub>
-  </td>
-</tr>
-<tr>
-  <td colspan="2"><br></td>
-</tr>
-
-<tr>
-  <td colspan="2" align="left">
-    <b><a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">Gampo</a></b>
-  </td>
-</tr>
-<tr>
-  <td width="72" valign="top">
-    <a href="https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95">
-      <img src="https://i.scdn.co/image/ab67616d0000b27360c11533e1cb8e606f7042b9" width="60" height="60" alt="King Gampo" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <sub>Prof<br><sub>King Gampo (2011)</sub><br>🎵 Track • ★</sub>
-  </td>
-</tr>
-<tr>
-  <td colspan="2"><br></td>
-</tr>
-
-<tr>
-  <td colspan="2" align="left">
-    <b><a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ">9Circles</a></b>
-  </td>
-</tr>
-<tr>
-  <td width="72" valign="top">
-    <a href="https://open.spotify.com/track/4Xc7DoFkzZzfGccyJRf7TZ">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737583749302de0d090a055381" width="60" height="60" alt="9Circles" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <sub>Psygnals<br><sub>9Circles (2023)</sub><br>🎵 Track • ★</sub>
-  </td>
-</tr>
-<tr>
-  <td colspan="2"><br></td>
-</tr>
-
-<tr>
-  <td colspan="2" align="left">
-    <b><a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA">Drops of Jupiter (Tell Me)</a></b>
-  </td>
-</tr>
-<tr>
-  <td width="72" valign="top">
-    <a href="https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731a0278d4109c0f974821aa33" width="60" height="60" alt="Drops Of Jupiter" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <sub>Train<br><sub>Drops Of Jupiter (2001)</sub><br>🎵 Track • ★</sub>
-  </td>
-</tr>
-<tr>
-  <td colspan="2"><br></td>
-</tr>
-
 </table>
-
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
 
