@@ -6,7 +6,7 @@
 
 <a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"><img src="https://i.scdn.co/image/ab67616d0000b273a9f93956b93ec03a7555ae7d" width="150" height="150" alt="RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)" /></a>
 
-<b><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl">Fix My Eyes</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl">Fix My Eyes</a></b><span style="color: gold;"> ★★★</span>
 
 <span style="color: #666;">for KING &amp; COUNTRY (2015)</span>
 
@@ -46,10 +46,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"><img src="https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac" width="60" height="60" alt="Slippery When Wet" /></a></td>
 <td><b><a href="https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF">Livin&#39; On A Prayer</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Bon Jovi (1986)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv"><img src="https://i.scdn.co/image/ab67616d0000b2731f43eaa3c2a3188eb28dba82" width="60" height="60" alt="(Pronounced &#39;Leh-&#39;Nérd &#39;Skin-&#39;Nérd) [Expanded Edition]" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv">Poison Whiskey</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Lynyrd Skynyrd (1973)</span></td>
 </tr>
 </table>
 </div>
