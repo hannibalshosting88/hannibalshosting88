@@ -6,7 +6,7 @@
 
 <a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="150" height="150" alt="Kamikaze" /></a>
 
-<b><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4">Venom - Music From The Motion Picture</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4">Venom - Music From The Motion Picture</a></b><span style="color: gold;"> ★★★★★</span>
 
 <span style="color: #666;">Eminem (2018)</span>
 
