@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="150" height="150" alt="Licensed To Ill" /></a>
+<a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"><img src="https://i.scdn.co/image/ab67616d0000b27302bcbe32fdde4d12455e0005" width="150" height="150" alt="Ed Hunter" /></a>
 
-<b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b><span style="color: gold;"> ★★★★</span>
+<b><a href="https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt">Fear of the Dark (2015 Remaster)</a></b><span style="color: gold;"> ★★</span>
 
-<span style="color: #666;">Beastie Boys (1986)</span>
+<span style="color: #666;">Iron Maiden (1999)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"><img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="60" height="60" alt="Licensed To Ill" /></a></td>
+<td><b><a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Beastie Boys (1986)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD"><img src="https://i.scdn.co/image/ab6765630000ba8af9720668e2858d9d33e94c02" width="60" height="60" alt="Science &amp; Futurism with Isaac Arthur" /></a></td>
 <td><b><a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD">Warping Reality</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur (2023)</span></td>
@@ -64,10 +68,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA"><img src="https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca" width="60" height="60" alt="Dizzy up the Girl" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA">Slide</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">The Goo Goo Dolls (1998)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"><img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="60" height="60" alt="Hang-Ups" /></a></td>
-<td><b><a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Goldfinger (1998)</span></td>
 </tr>
 </table>
 </div>
