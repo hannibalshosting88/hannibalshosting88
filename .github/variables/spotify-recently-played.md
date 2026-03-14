@@ -47,9 +47,5 @@
 <td width="60"><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"><img src="https://i.scdn.co/image/ab67616d0000b2731c5b1ca14c87e31ffb3b095a" width="60" height="60" alt="See You On the Other Side" /></a></td>
 <td><b><a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Korn (2005)</span></td>
 </tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"><img src="https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac" width="60" height="60" alt="Slippery When Wet" /></a></td>
-<td><b><a href="https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF">Livin&#39; On A Prayer</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Bon Jovi (1986)</span></td>
-</tr>
 </table>
 </div>
