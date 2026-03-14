@@ -4,13 +4,17 @@
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5"><img src="https://i.scdn.co/image/ab67616d0000b273c0fc3e2ea7df505a73658846" width="150" height="150" alt="Concrete and Gold" /></a>
+<a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG"><img src="https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94" width="150" height="150" alt="One of These Nights (2013 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5">The Sky Is A Neighborhood</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">Journey of the Sorcerer - 2013 Remaster</a></b><span style="color: gold;"> ★</span>
 
-<span style="color: #666;">Foo Fighters (2017)</span>
+<span style="color: #666;">Eagles (1975)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5"><img src="https://i.scdn.co/image/ab67616d0000b273c0fc3e2ea7df505a73658846" width="60" height="60" alt="Concrete and Gold" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5">The Sky Is A Neighborhood</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Foo Fighters (2017)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/7J4NKtZFw23pXvazZ6kGXB"><img src="https://i.scdn.co/image/ab67616d0000b27380255b6cc3fda7dc4ad84680" width="60" height="60" alt="Wolfenstein II: The New Colossus (Original Game Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/7J4NKtZFw23pXvazZ6kGXB">Blazko Kill the Nazis</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Mick Gordon (2018)</span></td>
