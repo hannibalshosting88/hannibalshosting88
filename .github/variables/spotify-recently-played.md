@@ -6,7 +6,7 @@
 
 <a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"><img src="https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73" width="150" height="150" alt="Kamikaze" /></a>
 
-<b><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4">Venom - Music From The Motion Picture</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4">Venom - Music From The Motion Picture</a></b><span style="color: gold;"> ★★★</span>
 
 <span style="color: #666;">Eminem (2018)</span>
 
@@ -46,10 +46,6 @@
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"><img src="https://i.scdn.co/image/ab67616d0000b273946301359b8ad60772671b8f" width="60" height="60" alt="Three Dollar Bill, Y&#39;all $" /></a></td>
 <td><b><a href="https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah">Counterfeit</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Limp Bizkit (1997)</span></td>
-</tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4"><img src="https://i.scdn.co/image/ab67616d0000b273502c8b939032d419e06550e9" width="60" height="60" alt="Welcome Back" /></a></td>
-<td><b><a href="https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4">Welcome Back</a></b> <span style="color: gold;"> ★</span><br><span style="font-size: 12px; color: #666;">Mase (2005)</span></td>
 </tr>
 </table>
 </div>
