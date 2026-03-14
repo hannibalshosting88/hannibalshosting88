@@ -6,7 +6,7 @@
 
 <a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG"><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="150" height="150" alt="Kings Of Crunk" /></a>
 
-<b><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">I Don&#39;t Give A...</a></b><span style="color: gold;"> ★</span>
+<b><a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">I Don&#39;t Give A...</a></b><span style="color: gold;"> ★★★</span>
 
 <span style="color: #666;">Lil Jon &amp; The East Side Boyz, Mystikal, Krayzie Bone (2002)</span>
 
