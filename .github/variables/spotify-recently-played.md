@@ -6,7 +6,7 @@
 
 <a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG"><img src="https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94" width="150" height="150" alt="One of These Nights (2013 Remaster)" /></a>
 
-<b><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">Journey of the Sorcerer - 2013 Remaster</a></b><span style="color: gold;"> ★★</span>
+<b><a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">Journey of the Sorcerer - 2013 Remaster</a></b><span style="color: gold;"> ★★★</span>
 
 <span style="color: #666;">Eagles (1975)</span>
 
