@@ -22,7 +22,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<img src="https://raw.githubusercontent.com/hannibalshosting88/hannibalshosting88/main/assets/spotify-idle.png" width="180" height="180" alt="Check back later" />
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
