@@ -65,10 +65,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <td width="60"><a href="https://open.spotify.com/track/0Zq9KrBsJSWfnIgEyXi05b"><img src="https://i.scdn.co/image/ab67616d0000b2735f6691b5c24906e0d1833ff1" width="60" height="60" alt="Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)" /></a></td>
 <td><b><a href="https://open.spotify.com/track/0Zq9KrBsJSWfnIgEyXi05b">Threshold</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Sex Bob-Omb (2010)</span></td>
 </tr>
-<tr>
-<td width="60"><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"><img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" width="60" height="60" alt="A Place In The Sun" /></a></td>
-<td><b><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a></b> <span style="color: gold;"> ★★★★★</span><br><span style="font-size: 12px; color: #666;">Lit (1999)</span></td>
-</tr>
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
