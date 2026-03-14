@@ -24,21 +24,42 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <span style="display:inline-block; font-size:12px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db; margin-bottom:6px;">🎵 Track</span>
 
-<a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e2536742006d8688aeb222a2" width="150" height="150" alt="By the Sword" />
+<a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">
+  <img src="https://i.scdn.co/image/ab67616d0000b273030915ffa58125ae36f13a6f" width="150" height="150" alt="I&#39;m Shipping Up To Boston" />
 </a>
 
 <div style="margin-top:10px;">
-  <b><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">By the Sword</a></b>
+  <b><a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">I&#39;m Shipping Up To Boston</a></b>
 </div>
 
-<div style="color:#bdbdbd; font-size:14px; margin-top:6px;">iamjakehill</div>
-<div style="color:#777; font-size:13px; margin-top:2px;">bad times friend... (2020)</div>
+<div style="color:#bdbdbd; font-size:14px; margin-top:6px;">Dropkick Murphys</div>
+<div style="color:#777; font-size:13px; margin-top:2px;">The Warrior&#39;s Code (2005)</div>
 
 <div style="margin-top:18px;">
   <h3>🕘 Recent Plays 🕘</h3>
 </div>
 
+<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
+    <a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">
+      <img
+        src="https://i.scdn.co/image/ab67616d0000b273e2536742006d8688aeb222a2"
+        width="92"
+        height="92"
+        alt="By the Sword"
+        style="border-radius:12px; display:block;"
+      />
+    </a>
+    <div style="text-align:left; flex:1;">
+      <div style="margin-bottom:4px;">
+        <b><a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">By the Sword</a></b>
+      </div>
+      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">iamjakehill</div>
+      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">bad times friend... (2020)</div>
+      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db;">🎵 Track</span></div>
+    </div>
+  </div>
+</div>
 <div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
   <div style="display:flex; align-items:flex-start; gap:12px;">
     <a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">
@@ -204,27 +225,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
       <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Beastie Boys</div>
       <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Licensed To Ill (1986)</div>
       <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#1f2937; color:#d1d5db;">🎵 Track</span></div>
-    </div>
-  </div>
-</div>
-<div style="max-width:650px; margin:0 auto 12px auto; padding:12px; border:1px solid #2f2f2f; border-radius:14px;">
-  <div style="display:flex; align-items:flex-start; gap:12px;">
-    <a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD">
-      <img
-        src="https://i.scdn.co/image/ab6765630000ba8af9720668e2858d9d33e94c02"
-        width="92"
-        height="92"
-        alt="Warping Reality"
-        style="border-radius:12px; display:block;"
-      />
-    </a>
-    <div style="text-align:left; flex:1;">
-      <div style="margin-bottom:4px;">
-        <b><a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD">Warping Reality</a></b>
-      </div>
-      <div style="font-size:13px; color:#c9c9c9; margin-bottom:2px;">Science &amp; Futurism with Isaac Arthur</div>
-      <div style="font-size:12px; color:#8b8b8b; margin-bottom:6px;">Released 2023</div>
-      <div><span style="display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; background:#2a2a2a; color:#d1d5db;">🎙️ Podcast</span></div>
     </div>
   </div>
 </div>
