@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P">
-      <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" width="96" height="96" alt="Californication (Deluxe Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P">Otherside</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Red Hot Chili Peppers</span>
-    <br><span style="font-size: 12px; color: #666;">Californication (Deluxe Edition) (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
