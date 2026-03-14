@@ -22,13 +22,17 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW"><img src="https://i.scdn.co/image/ab67616d0000b2731f2cef277cda8c731f8f6a1e" width="150" height="150" alt="All You Can Do" /></a>
+<a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe"><img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="150" height="150" alt="X-Men Theme" /></a>
 
-<b><a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW">Whoa Whoa Whoa</a></b><span style="color: gold;"> ★★★</span>
+<b><a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b><span style="color: gold;"> ★★★★</span>
 
-<span style="color: #666;">Watsky (2014)</span>
+<span style="color: #666;">Galactic Empire (2024)</span>
 
 <table style='margin: 0 auto; max-width: 550px;'>
+<tr>
+<td width="60"><a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW"><img src="https://i.scdn.co/image/ab67616d0000b2731f2cef277cda8c731f8f6a1e" width="60" height="60" alt="All You Can Do" /></a></td>
+<td><b><a href="https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW">Whoa Whoa Whoa</a></b> <span style="color: gold;"> ★★★</span><br><span style="font-size: 12px; color: #666;">Watsky (2014)</span></td>
+</tr>
 <tr>
 <td width="60"><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"><img src="https://i.scdn.co/image/ab67616d0000b273805ef0911226e27fdaf6569d" width="60" height="60" alt="Hoobastank" /></a></td>
 <td><b><a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b> <span style="color: gold;"> ★★★★</span><br><span style="font-size: 12px; color: #666;">Hoobastank (2001)</span></td>
