@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0ff6FUCAt7YsWgS7wih7Pp">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fa9a28730a2b850342e1e757" width="180" height="180" alt="Perspective" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0ff6FUCAt7YsWgS7wih7Pp">End of the Beginning</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Jason Becker</span><br><span style="font-size: 12px; color: #666;">Perspective (1996)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0ff6FUCAt7YsWgS7wih7Pp">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fa9a28730a2b850342e1e757" width="96" height="96" alt="Perspective" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0ff6FUCAt7YsWgS7wih7Pp">End of the Beginning</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Jason Becker</span>
+    <br><span style="font-size: 12px; color: #666;">Perspective (1996)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +196,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/09r3GAa5YViQuv7xbZpNXs">SCP-4431 │ Bleeding Beneath Antarctica │ Euclid │ Extraterrestrial SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1P1EPu8xFyYe03MgoMCK2Q">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a92a37749cceec8aca5616c95" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1P1EPu8xFyYe03MgoMCK2Q">SCP-7122 │ The Camera │ Safe │ Reanimation SCP</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
     <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
