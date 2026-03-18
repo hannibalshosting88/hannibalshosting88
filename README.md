@@ -22,14 +22,16 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
+<a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d9b35d1c4d15c9de88b754a7" width="180" height="180" alt="Mercury - Act 1" />
+</a>
 
 <br>
 
-<b>💤 Offline • Nothing currently playing</b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends</span><br><span style="font-size: 12px; color: #666;">Mercury - Act 1 (2021)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
