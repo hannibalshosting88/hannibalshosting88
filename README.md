@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5A854zN7wvZr4P46x32L2G">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734cf9b8f0cfb43d0a9aacb9dc" width="180" height="180" alt="Cinnamon Ginger" />
+<a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734e7ff4a30597e57f5bc988f9" width="180" height="180" alt="System Of A Down (Deluxe Version)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5A854zN7wvZr4P46x32L2G">Cinnamon Ginger</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">Spiders</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">Cinnamon Ginger (2026)</span>
+<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">System Of A Down (Deluxe Version) (1998)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5A854zN7wvZr4P46x32L2G">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734cf9b8f0cfb43d0a9aacb9dc" width="96" height="96" alt="Cinnamon Ginger" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5A854zN7wvZr4P46x32L2G">Cinnamon Ginger</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">Cinnamon Ginger (2026)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -82,23 +99,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">System Of A Down</span>
     <br><span style="font-size: 12px; color: #666;">Hypnotize (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734e7ff4a30597e57f5bc988f9" width="96" height="96" alt="System Of A Down (Deluxe Version)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">Spiders</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">System Of A Down</span>
-    <br><span style="font-size: 12px; color: #666;">System Of A Down (Deluxe Version) (1998)</span>
   </td>
 </tr>
 <tr>
