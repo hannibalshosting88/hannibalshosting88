@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734e7ff4a30597e57f5bc988f9" width="180" height="180" alt="System Of A Down (Deluxe Version)" />
+<a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="180" height="180" alt="Hypnotize" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">Spiders</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">System Of A Down (Deluxe Version) (1998)</span>
+<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Hypnotize (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734e7ff4a30597e57f5bc988f9" width="96" height="96" alt="System Of A Down (Deluxe Version)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">Spiders</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">System Of A Down</span>
+    <br><span style="font-size: 12px; color: #666;">System Of A Down (Deluxe Version) (1998)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
     <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0ff6FUCAt7YsWgS7wih7Pp">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fa9a28730a2b850342e1e757" width="96" height="96" alt="Perspective" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0ff6FUCAt7YsWgS7wih7Pp">End of the Beginning</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Jason Becker</span>
-    <br><span style="font-size: 12px; color: #666;">Perspective (1996)</span>
   </td>
 </tr>
 <tr>
