@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734e7ff4a30597e57f5bc988f9" width="180" height="180" alt="System Of A Down (Deluxe Version)" />
+<a href="https://open.spotify.com/track/3nC3n8HniPG7OiBI5gurGo">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="180" height="180" alt="Times Square" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">Spiders</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3nC3n8HniPG7OiBI5gurGo">Heave Ho</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">System Of A Down (Deluxe Version) (1998)</span>
+<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734e7ff4a30597e57f5bc988f9" width="96" height="96" alt="System Of A Down (Deluxe Version)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">Spiders</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">System Of A Down</span>
+    <br><span style="font-size: 12px; color: #666;">System Of A Down (Deluxe Version) (1998)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -48,23 +65,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Thundersmack</span>
     <br><span style="font-size: 12px; color: #666;">Cinnamon Ginger (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3nC3n8HniPG7OiBI5gurGo">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="96" height="96" alt="Times Square" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3nC3n8HniPG7OiBI5gurGo">Heave Ho</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Thundersmack</span>
-    <br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
   </td>
 </tr>
 <tr>
