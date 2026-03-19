@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/1P1EPu8xFyYe03MgoMCK2Q">
-  <img src="https://i.scdn.co/image/ab6765630000ba8a92a37749cceec8aca5616c95" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1P1EPu8xFyYe03MgoMCK2Q">SCP-7122 │ The Camera │ Safe │ Reanimation SCP</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">TheVolgun - SCP Podcast (Official)</span><br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/1P1EPu8xFyYe03MgoMCK2Q">
+      <img src="https://i.scdn.co/image/ab6765630000ba8a92a37749cceec8aca5616c95" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1P1EPu8xFyYe03MgoMCK2Q">SCP-7122 │ The Camera │ Safe │ Reanimation SCP</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
+    <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Thundersmack</span>
     <br><span style="font-size: 12px; color: #666;">Cinnamon Ginger (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx">
-      <img src="https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4" width="96" height="96" alt="By the Way (Deluxe Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx">Can&#39;t Stop</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Red Hot Chili Peppers</span>
-    <br><span style="font-size: 12px; color: #666;">By the Way (Deluxe Edition) (2002)</span>
   </td>
 </tr>
 <tr>
