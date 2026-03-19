@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb" width="180" height="180" alt="The Colour And The Shape" />
+<a href="https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo">
+  <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="180" height="180" alt="The College Dropout" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN">My Hero</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo">Through The Wire</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Foo Fighters</span><br><span style="font-size: 12px; color: #666;">The Colour And The Shape (1997)</span>
+<span style="font-size: 13px; color: #666;">Kanye West</span><br><span style="font-size: 12px; color: #666;">The College Dropout (2004)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb" width="96" height="96" alt="The Colour And The Shape" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN">My Hero</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Foo Fighters</span>
+    <br><span style="font-size: 12px; color: #666;">The Colour And The Shape (1997)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
