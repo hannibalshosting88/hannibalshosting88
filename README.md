@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9">
-  <img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" width="180" height="180" alt="Ill Communication" />
+<a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ">
+  <img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="180" height="180" alt="EndEx" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9">Sabotage</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ">Merchant of the Void</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Beastie Boys</span><br><span style="font-size: 12px; color: #666;">Ill Communication (1994)</span>
+<span style="font-size: 13px; color: #666;">3TEETH, Mick Gordon</span><br><span style="font-size: 12px; color: #666;">EndEx (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9">
+      <img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" width="96" height="96" alt="Ill Communication" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9">Sabotage</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Beastie Boys</span>
+    <br><span style="font-size: 12px; color: #666;">Ill Communication (1994)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4mfcsxGyhkbFNfptNfq92u">SCP-7034 │ Aerials │ Keter │ Extradimensional SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/5IqKaaaBIFq8uQ8xpSDPLR">
-      <img src="https://i.scdn.co/image/ab6765630000ba8ae27e2e8eba0e997a02696ea2" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5IqKaaaBIFq8uQ8xpSDPLR">SCP-4516 │ Hyper-religious cats │ Euclid │ Extraterrestrial SCP</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
     <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
