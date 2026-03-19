@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735f4c9262d32be3019e1dda3e" width="180" height="180" alt="Popular Monster" />
+<a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD">
+  <img src="https://i.scdn.co/image/ab67616d0000b27371e01645abce04dda00e1c0c" width="180" height="180" alt="Oh No" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij">Popular Monster</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD">Here It Goes Again</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Falling In Reverse</span><br><span style="font-size: 12px; color: #666;">Popular Monster (2019)</span>
+<span style="font-size: 13px; color: #666;">OK Go</span><br><span style="font-size: 12px; color: #666;">Oh No (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f4c9262d32be3019e1dda3e" width="96" height="96" alt="Popular Monster" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij">Popular Monster</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Falling In Reverse</span>
+    <br><span style="font-size: 12px; color: #666;">Popular Monster (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Cage The Elephant</span>
     <br><span style="font-size: 12px; color: #666;">Cage The Elephant (Expanded Edition) (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2Qfv23eR1GwrbKEyKHVg8d">
-      <img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="96" height="96" alt="Galactic Empire" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2Qfv23eR1GwrbKEyKHVg8d">Duel Of The Fates</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Galactic Empire</span>
-    <br><span style="font-size: 12px; color: #666;">2017</span>
   </td>
 </tr>
 <tr>
