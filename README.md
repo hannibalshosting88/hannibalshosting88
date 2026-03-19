@@ -22,18 +22,54 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
+<a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737028981d09d2e5833c9c78ad" width="180" height="180" alt="Elephant" />
+</a>
 
 <br>
 
-<b>💤 Offline • Nothing currently playing</b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">Seven Nation Army</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
+<span style="font-size: 13px; color: #666;">The White Stripes</span><br><span style="font-size: 12px; color: #666;">Elephant (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" width="96" height="96" alt="The Marshall Mathers LP2 (Deluxe)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ">Berzerk</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Eminem</span>
+    <br><span style="font-size: 12px; color: #666;">The Marshall Mathers LP2 (Deluxe) (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="96" height="96" alt="Doom (Original Game Soundtrack)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2UKgx2oba7CltHLACr3xdT">At Doom&#39;s Gate</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Mick Gordon</span>
+    <br><span style="font-size: 12px; color: #666;">Doom (Original Game Soundtrack) (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -165,40 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Thundersmack</span>
     <br><span style="font-size: 12px; color: #666;">GET UP (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">
-      <img src="https://i.scdn.co/image/ab67616d0000b273463986d828c59a03f2ab0a3f" width="96" height="96" alt="The House That Dirt Built" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">How You Like Me Now</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Heavy</span>
-    <br><span style="font-size: 12px; color: #666;">The House That Dirt Built (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cb91b5b8f9640caf6602e4f3" width="96" height="96" alt="The Cyberpunk" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">The Cyberpunk Runner</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Yuri Petrovski</span>
-    <br><span style="font-size: 12px; color: #666;">The Cyberpunk (2020)</span>
   </td>
 </tr>
 <tr>
