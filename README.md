@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/0RF9vgDxAlHvek7b5WX6l0">
-  <img src="https://i.scdn.co/image/ab6765630000ba8a9466baa288241a70cb4796e8" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
+<a href="https://open.spotify.com/episode/5IqKaaaBIFq8uQ8xpSDPLR">
+  <img src="https://i.scdn.co/image/ab6765630000ba8ae27e2e8eba0e997a02696ea2" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0RF9vgDxAlHvek7b5WX6l0">SCP-1919 │ Hotel of Duplicates │ Euclid │ Hostile/Hive-Mind SCP</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5IqKaaaBIFq8uQ8xpSDPLR">SCP-4516 │ Hyper-religious cats │ Euclid │ Extraterrestrial SCP</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">TheVolgun - SCP Podcast (Official)</span><br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
+<span style="font-size: 13px; color: #666;">TheVolgun - SCP Podcast (Official)</span><br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/0RF9vgDxAlHvek7b5WX6l0">
+      <img src="https://i.scdn.co/image/ab6765630000ba8a9466baa288241a70cb4796e8" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0RF9vgDxAlHvek7b5WX6l0">SCP-1919 │ Hotel of Duplicates │ Euclid │ Hostile/Hive-Mind SCP</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
+    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -79,23 +96,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4mfcsxGyhkbFNfptNfq92u">SCP-7034 │ Aerials │ Keter │ Extradimensional SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/5IqKaaaBIFq8uQ8xpSDPLR">
-      <img src="https://i.scdn.co/image/ab6765630000ba8ae27e2e8eba0e997a02696ea2" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5IqKaaaBIFq8uQ8xpSDPLR">SCP-4516 │ Hyper-religious cats │ Euclid │ Extraterrestrial SCP</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
     <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
