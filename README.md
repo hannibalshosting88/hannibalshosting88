@@ -262,7 +262,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </div>
 
 ## 🌤️ Current Weather in Charlotte, NC 
-<!-- WEATHER:START --> ⚠️ Weather data temporarily unavailable (Error: Client network socket disconnected before secure TLS connection was established) <!-- WEATHER:END -->
+<!-- WEATHER:START --> ⚠️ Weather data temporarily unavailable (Error: read ETIMEDOUT) <!-- WEATHER:END -->
 
 ## 🖥️ My Tech Lab & Workspace
 
