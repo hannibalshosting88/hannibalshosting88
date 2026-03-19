@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732bdf20efaf4b308ba0defa70" width="180" height="180" alt="With a Vengeance" />
+<a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cb91b5b8f9640caf6602e4f3" width="180" height="180" alt="The Cyberpunk" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">Quaid</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">The Cyberpunk Runner</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Broken Brass</span><br><span style="font-size: 12px; color: #666;">With a Vengeance (2018)</span>
+<span style="font-size: 13px; color: #666;">Yuri Petrovski</span><br><span style="font-size: 12px; color: #666;">The Cyberpunk (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732bdf20efaf4b308ba0defa70" width="96" height="96" alt="With a Vengeance" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">Quaid</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Broken Brass</span>
+    <br><span style="font-size: 12px; color: #666;">With a Vengeance (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
     <br><span style="font-size: 12px; color: #666;">Smoke + Mirrors (Deluxe) (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735e8f046078b784e6f8502008" width="96" height="96" alt="Scary Hours" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn">God&#39;s Plan</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Drake</span>
-    <br><span style="font-size: 12px; color: #666;">Scary Hours (2018)</span>
   </td>
 </tr>
 <tr>
