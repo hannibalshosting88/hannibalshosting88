@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2Qfv23eR1GwrbKEyKHVg8d">
-  <img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="180" height="180" alt="Galactic Empire" />
+<a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730" width="180" height="180" alt="Cage The Elephant (Expanded Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2Qfv23eR1GwrbKEyKHVg8d">Duel Of The Fates</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">Ain&#39;t No Rest for the Wicked</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Galactic Empire</span><br><span style="font-size: 12px; color: #666;">2017</span>
+<span style="font-size: 13px; color: #666;">Cage The Elephant</span><br><span style="font-size: 12px; color: #666;">Cage The Elephant (Expanded Edition) (2009)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2Qfv23eR1GwrbKEyKHVg8d">
+      <img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="96" height="96" alt="Galactic Empire" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2Qfv23eR1GwrbKEyKHVg8d">Duel Of The Fates</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Galactic Empire</span>
+    <br><span style="font-size: 12px; color: #666;">2017</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
