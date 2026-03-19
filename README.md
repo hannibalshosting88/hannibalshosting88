@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ff24db4bc917e09a986edf2b" width="180" height="180" alt="Way down We Go" />
+<a href="https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735f4c9262d32be3019e1dda3e" width="180" height="180" alt="Popular Monster" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6">Way down We Go</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij">Popular Monster</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">KALEO</span><br><span style="font-size: 12px; color: #666;">Way down We Go (2015)</span>
+<span style="font-size: 13px; color: #666;">Falling In Reverse</span><br><span style="font-size: 12px; color: #666;">Popular Monster (2019)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ff24db4bc917e09a986edf2b" width="96" height="96" alt="Way down We Go" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6">Way down We Go</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">KALEO</span>
+    <br><span style="font-size: 12px; color: #666;">Way down We Go (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Galactic Empire</span>
     <br><span style="font-size: 12px; color: #666;">2017</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo">
-      <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="96" height="96" alt="The College Dropout" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo">Through The Wire</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kanye West</span>
-    <br><span style="font-size: 12px; color: #666;">The College Dropout (2004)</span>
   </td>
 </tr>
 <tr>
