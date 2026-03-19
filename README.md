@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="180" height="180" alt="Licensed To Ill" />
+<a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738329e28c30e82c8b2df3b98b" width="180" height="180" alt="Keep On Talking To Yourself" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN">No Sleep Till Brooklyn</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">Keep On Talking To Yourself</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Beastie Boys</span><br><span style="font-size: 12px; color: #666;">Licensed To Ill (1986)</span>
+<span style="font-size: 13px; color: #666;">Brothers Moving</span><br><span style="font-size: 12px; color: #666;">Keep On Talking To Yourself (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="96" height="96" alt="Licensed To Ill" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN">No Sleep Till Brooklyn</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Beastie Boys</span>
+    <br><span style="font-size: 12px; color: #666;">Licensed To Ill (1986)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
