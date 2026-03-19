@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cb91b5b8f9640caf6602e4f3" width="180" height="180" alt="The Cyberpunk" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">The Cyberpunk Runner</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Yuri Petrovski</span><br><span style="font-size: 12px; color: #666;">The Cyberpunk (2020)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cb91b5b8f9640caf6602e4f3" width="96" height="96" alt="The Cyberpunk" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">The Cyberpunk Runner</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Yuri Petrovski</span>
+    <br><span style="font-size: 12px; color: #666;">The Cyberpunk (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
     <br><span style="font-size: 12px; color: #666;">Night Visions (2012)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="96" height="96" alt="Smoke + Mirrors (Deluxe)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg">Battle Cry</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
-    <br><span style="font-size: 12px; color: #666;">Smoke + Mirrors (Deluxe) (2015)</span>
   </td>
 </tr>
 <tr>
