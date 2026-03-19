@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="180" height="180" alt="Minutes to Midnight" />
+<a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">
+  <img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="180" height="180" alt="Freddie&#39;s Inferno" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">Bleed It Out</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
+<span style="font-size: 13px; color: #666;">Freddie Dredd</span><br><span style="font-size: 12px; color: #666;">Freddie&#39;s Inferno (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="96" height="96" alt="Minutes to Midnight" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">Bleed It Out</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Linkin Park</span>
+    <br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
