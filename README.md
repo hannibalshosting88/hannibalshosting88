@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" width="180" height="180" alt="The Eminem Show" />
+<a href="https://open.spotify.com/track/1lgN0A2Vki2FTON5PYq42m">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="180" height="180" alt="Smoke + Mirrors (Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS">Till I Collapse</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1lgN0A2Vki2FTON5PYq42m">Warriors</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Eminem, Nate Dogg</span><br><span style="font-size: 12px; color: #666;">The Eminem Show (2002)</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Smoke + Mirrors (Deluxe) (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" width="96" height="96" alt="The Eminem Show" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS">Till I Collapse</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Eminem, Nate Dogg</span>
+    <br><span style="font-size: 12px; color: #666;">The Eminem Show (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Broken Brass</span>
     <br><span style="font-size: 12px; color: #666;">With a Vengeance (2018)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737028981d09d2e5833c9c78ad" width="96" height="96" alt="Elephant" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">Seven Nation Army</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The White Stripes</span>
-    <br><span style="font-size: 12px; color: #666;">Elephant (2003)</span>
   </td>
 </tr>
 <tr>
