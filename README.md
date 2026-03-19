@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="180" height="180" alt="COMPLAINT" />
+<a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="180" height="180" alt="Minutes to Midnight" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">Bleed It Out</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Watsky</span><br><span style="font-size: 12px; color: #666;">COMPLAINT (2019)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="96" height="96" alt="COMPLAINT" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Watsky</span>
+    <br><span style="font-size: 12px; color: #666;">COMPLAINT (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
