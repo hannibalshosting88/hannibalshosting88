@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">
-  <img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="180" height="180" alt="Man On The Moon II: The Legend Of Mr. Rager" />
+<a href="https://open.spotify.com/track/7JOizhmt3HlBgQyJEa0AgK">
+  <img src="https://i.scdn.co/image/ab67616d0000b273463986d828c59a03f2ab0a3f" width="180" height="180" alt="The House That Dirt Built" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">Scott Mescudi Vs. The World</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7JOizhmt3HlBgQyJEa0AgK">Short Change Hero</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kid Cudi, CeeLo Green</span><br><span style="font-size: 12px; color: #666;">Man On The Moon II: The Legend Of Mr. Rager (2010)</span>
+<span style="font-size: 13px; color: #666;">The Heavy</span><br><span style="font-size: 12px; color: #666;">The House That Dirt Built (2009)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">
+      <img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="96" height="96" alt="Man On The Moon II: The Legend Of Mr. Rager" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">Scott Mescudi Vs. The World</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kid Cudi, CeeLo Green</span>
+    <br><span style="font-size: 12px; color: #666;">Man On The Moon II: The Legend Of Mr. Rager (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">OK Go</span>
     <br><span style="font-size: 12px; color: #666;">Oh No (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735f4c9262d32be3019e1dda3e" width="96" height="96" alt="Popular Monster" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij">Popular Monster</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Falling In Reverse</span>
-    <br><span style="font-size: 12px; color: #666;">Popular Monster (2019)</span>
   </td>
 </tr>
 <tr>
