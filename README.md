@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738329e28c30e82c8b2df3b98b" width="180" height="180" alt="Keep On Talking To Yourself" />
+<a href="https://open.spotify.com/track/1SZB8wbgWBqo3UwO93mZ48">
+  <img src="https://i.scdn.co/image/ab67616d0000b273eb7c802ada79ba0de4e0d092" width="180" height="180" alt="METAWAR" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">Keep On Talking To Yourself</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1SZB8wbgWBqo3UwO93mZ48">BORNLESS</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Brothers Moving</span><br><span style="font-size: 12px; color: #666;">Keep On Talking To Yourself (2020)</span>
+<span style="font-size: 13px; color: #666;">3TEETH</span><br><span style="font-size: 12px; color: #666;">METAWAR (2019)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738329e28c30e82c8b2df3b98b" width="96" height="96" alt="Keep On Talking To Yourself" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">Keep On Talking To Yourself</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Brothers Moving</span>
+    <br><span style="font-size: 12px; color: #666;">Keep On Talking To Yourself (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Foo Fighters</span>
     <br><span style="font-size: 12px; color: #666;">The Colour And The Shape (1997)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4ci0ad5k3oSn9iBVpy24lh">
-      <img src="https://i.scdn.co/image/ab67616d0000b27390b4cf8fa286aa50cebf2a4e" width="96" height="96" alt="x Infinity" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4ci0ad5k3oSn9iBVpy24lh">Pink Lemonade</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Watsky</span>
-    <br><span style="font-size: 12px; color: #666;">x Infinity (2016)</span>
   </td>
 </tr>
 <tr>
