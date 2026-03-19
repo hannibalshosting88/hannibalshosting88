@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="180" height="180" alt="Freddie&#39;s Inferno" />
+<a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">
+  <img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="180" height="180" alt="Man On The Moon II: The Legend Of Mr. Rager" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5QemHQxj7PRkrw8lJl2W7C">Scott Mescudi Vs. The World</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Freddie Dredd</span><br><span style="font-size: 12px; color: #666;">Freddie&#39;s Inferno (2022)</span>
+<span style="font-size: 13px; color: #666;">Kid Cudi, CeeLo Green</span><br><span style="font-size: 12px; color: #666;">Man On The Moon II: The Legend Of Mr. Rager (2010)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="96" height="96" alt="Freddie&#39;s Inferno" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Freddie Dredd</span>
+    <br><span style="font-size: 12px; color: #666;">Freddie&#39;s Inferno (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Falling In Reverse</span>
     <br><span style="font-size: 12px; color: #666;">Popular Monster (2019)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ff24db4bc917e09a986edf2b" width="96" height="96" alt="Way down We Go" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6">Way down We Go</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">KALEO</span>
-    <br><span style="font-size: 12px; color: #666;">Way down We Go (2015)</span>
   </td>
 </tr>
 <tr>
