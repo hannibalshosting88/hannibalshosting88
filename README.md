@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730" width="96" height="96" alt="Cage The Elephant (Expanded Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">Ain&#39;t No Rest for the Wicked</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Cage The Elephant</span>
-    <br><span style="font-size: 12px; color: #666;">Cage The Elephant (Expanded Edition) (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
