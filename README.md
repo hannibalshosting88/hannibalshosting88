@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d9b35d1c4d15c9de88b754a7" width="96" height="96" alt="Mercury - Act 1" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends</span>
-    <br><span style="font-size: 12px; color: #666;">Mercury - Act 1 (2021)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
