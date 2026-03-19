@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e424ea8a9f950ac35b75b437" width="180" height="180" alt="HIVE" />
+<a href="https://open.spotify.com/track/5ssWk7MoYjKM9ThGXTNcei">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="180" height="180" alt="Wolfenstein: The New Order Original Game Soundtrack" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5ssWk7MoYjKM9ThGXTNcei">The New Order</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Sub Urban, BENEE</span><br><span style="font-size: 12px; color: #666;">HIVE (2022)</span>
+<span style="font-size: 13px; color: #666;">Mick Gordon</span><br><span style="font-size: 12px; color: #666;">Wolfenstein: The New Order Original Game Soundtrack (2014)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e424ea8a9f950ac35b75b437" width="96" height="96" alt="HIVE" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Sub Urban, BENEE</span>
+    <br><span style="font-size: 12px; color: #666;">HIVE (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Mick Gordon</span>
     <br><span style="font-size: 12px; color: #666;">Doom (Original Game Soundtrack) (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eaa10fffa60de320846c28be" width="96" height="96" alt="Appeal To Reason" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB">Savior</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Rise Against</span>
-    <br><span style="font-size: 12px; color: #666;">Appeal To Reason (2008)</span>
   </td>
 </tr>
 <tr>
