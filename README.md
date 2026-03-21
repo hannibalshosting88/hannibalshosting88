@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" width="180" height="180" alt="Bleed American" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">The Middle</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Jimmy Eat World</span><br><span style="font-size: 12px; color: #666;">Bleed American (2001)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">
+      <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" width="96" height="96" alt="Bleed American" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">The Middle</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Jimmy Eat World</span>
+    <br><span style="font-size: 12px; color: #666;">Bleed American (2001)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Thundersmack, Honeycomb</span>
     <br><span style="font-size: 12px; color: #666;">Good People (2020)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="96" height="96" alt="Evolve" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb">Whatever It Takes</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
-    <br><span style="font-size: 12px; color: #666;">Evolve (2017)</span>
   </td>
 </tr>
 <tr>
