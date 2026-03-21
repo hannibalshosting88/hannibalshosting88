@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5x8lJjnoJJDGoG7zDXGNFj">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fe407002806c31bbc99db66e" width="96" height="96" alt="Mugshot" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5x8lJjnoJJDGoG7zDXGNFj">Stepped into the Building</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Pete &amp; Bas</span>
-    <br><span style="font-size: 12px; color: #666;">Mugshot (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
