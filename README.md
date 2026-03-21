@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6HgN2o0xok5sHztRiGr0k3">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733f40174380793b6bb8713a8b" width="180" height="180" alt="Good People" />
+<a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="180" height="180" alt="Mezmerize" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6HgN2o0xok5sHztRiGr0k3">Good People</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md">B.Y.O.B.</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack, Honeycomb</span><br><span style="font-size: 12px; color: #666;">Good People (2020)</span>
+<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Mezmerize (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6HgN2o0xok5sHztRiGr0k3">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733f40174380793b6bb8713a8b" width="96" height="96" alt="Good People" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6HgN2o0xok5sHztRiGr0k3">Good People</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack, Honeycomb</span>
+    <br><span style="font-size: 12px; color: #666;">Good People (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/4Y3eB6AQ5qNjTHPsFjm8ou">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a14e9059578a720613572409f" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4Y3eB6AQ5qNjTHPsFjm8ou">What Happens When AI Runs the Entire Economy?</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
   </td>
 </tr>
 <tr>
