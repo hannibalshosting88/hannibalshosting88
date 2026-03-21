@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5dpVNwmcQYcenoDZcp7pPe">
-  <img src="https://i.scdn.co/image/ab6742d3000053b7e4ae300ac6a7a84d723683c1" width="180" height="180" alt="Cha Cha" />
+<a href="https://open.spotify.com/track/6lgw2aaPU5THxLmbQg4RID">
+  <img src="https://i.scdn.co/image/ab6742d3000053b7a9374c7cc3acff3134072a30" width="180" height="180" alt="Wrath" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5dpVNwmcQYcenoDZcp7pPe">Cha Cha</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6lgw2aaPU5THxLmbQg4RID">Wrath</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Freddie Dredd</span><br><span style="font-size: 12px; color: #666;">Cha Cha (2019)</span>
+<span style="font-size: 13px; color: #666;">Freddie Dredd</span><br><span style="font-size: 12px; color: #666;">Wrath (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5dpVNwmcQYcenoDZcp7pPe">
+      <img src="https://i.scdn.co/image/ab6742d3000053b7e4ae300ac6a7a84d723683c1" width="96" height="96" alt="Cha Cha" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5dpVNwmcQYcenoDZcp7pPe">Cha Cha</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Freddie Dredd</span>
+    <br><span style="font-size: 12px; color: #666;">Cha Cha (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
