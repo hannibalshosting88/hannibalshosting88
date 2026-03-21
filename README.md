@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN">
-  <img src="https://i.scdn.co/image/ab67616d0000b27311b3df35e2e46d91f585afd9" width="180" height="180" alt="This Is All Yours" />
+<a href="https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM">
+  <img src="https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6" width="180" height="180" alt="Blur (Special Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN">Left Hand Free</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM">Song 2 - 2012 Remaster</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">alt-J</span><br><span style="font-size: 12px; color: #666;">This Is All Yours (2014)</span>
+<span style="font-size: 13px; color: #666;">Blur</span><br><span style="font-size: 12px; color: #666;">Blur (Special Edition) (1997)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN">
+      <img src="https://i.scdn.co/image/ab67616d0000b27311b3df35e2e46d91f585afd9" width="96" height="96" alt="This Is All Yours" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN">Left Hand Free</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">alt-J</span>
+    <br><span style="font-size: 12px; color: #666;">This Is All Yours (2014)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2zEXyJ2L2yvHl0fJx7LZYQ">Ancient Machine Monitors: Alien Watchdogs, AI Custodians, and the Fermi Paradox</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/0KUIFrBtWDFDNoW3uIzpAJ">
-      <img src="https://i.scdn.co/image/ab6765630000ba8abddf2aeb70377ec8beffc5c9" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0KUIFrBtWDFDNoW3uIzpAJ">Jupiter Brains &amp; Mega Minds</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
