@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM">
-  <img src="https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6" width="180" height="180" alt="Blur (Special Edition)" />
+<a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735fc5c78e17b551ddc8da4f05" width="180" height="180" alt="Can&#39;t Hold Me Down" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM">Song 2 - 2012 Remaster</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV">Can&#39;t Hold Me Down</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Blur</span><br><span style="font-size: 12px; color: #666;">Blur (Special Edition) (1997)</span>
+<span style="font-size: 13px; color: #666;">Doodles, Lil Wayne, Lil Yachty, Kyle Richh, Pharrell Williams</span><br><span style="font-size: 12px; color: #666;">Can&#39;t Hold Me Down (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM">
+      <img src="https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6" width="96" height="96" alt="Blur (Special Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM">Song 2 - 2012 Remaster</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Blur</span>
+    <br><span style="font-size: 12px; color: #666;">Blur (Special Edition) (1997)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/2zEXyJ2L2yvHl0fJx7LZYQ">
-      <img src="https://i.scdn.co/image/ab6765630000ba8af88eb0b6ad85d0d63c846537" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2zEXyJ2L2yvHl0fJx7LZYQ">Ancient Machine Monitors: Alien Watchdogs, AI Custodians, and the Fermi Paradox</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
   </td>
 </tr>
 <tr>
