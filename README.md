@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="180" height="180" alt="Evolve" />
+<a href="https://open.spotify.com/track/6HgN2o0xok5sHztRiGr0k3">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733f40174380793b6bb8713a8b" width="180" height="180" alt="Good People" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb">Whatever It Takes</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6HgN2o0xok5sHztRiGr0k3">Good People</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Evolve (2017)</span>
+<span style="font-size: 13px; color: #666;">Thundersmack, Honeycomb</span><br><span style="font-size: 12px; color: #666;">Good People (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="96" height="96" alt="Evolve" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb">Whatever It Takes</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
+    <br><span style="font-size: 12px; color: #666;">Evolve (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
