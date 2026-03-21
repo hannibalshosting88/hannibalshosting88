@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6FXaa0q38CCNbna82CQuGW">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730e6803fbadaf99b84de7885e" width="96" height="96" alt="Cardboard Castles" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6FXaa0q38CCNbna82CQuGW">Hey, Asshole</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Watsky, Kate Nash</span>
-    <br><span style="font-size: 12px; color: #666;">Cardboard Castles (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
