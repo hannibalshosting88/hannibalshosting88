@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/0KUIFrBtWDFDNoW3uIzpAJ">
-  <img src="https://i.scdn.co/image/ab6765630000ba8abddf2aeb70377ec8beffc5c9" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
+<a href="https://open.spotify.com/episode/2zEXyJ2L2yvHl0fJx7LZYQ">
+  <img src="https://i.scdn.co/image/ab6765630000ba8af88eb0b6ad85d0d63c846537" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0KUIFrBtWDFDNoW3uIzpAJ">Jupiter Brains &amp; Mega Minds</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2zEXyJ2L2yvHl0fJx7LZYQ">Ancient Machine Monitors: Alien Watchdogs, AI Custodians, and the Fermi Paradox</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/0KUIFrBtWDFDNoW3uIzpAJ">
+      <img src="https://i.scdn.co/image/ab6765630000ba8abddf2aeb70377ec8beffc5c9" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0KUIFrBtWDFDNoW3uIzpAJ">Jupiter Brains &amp; Mega Minds</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
+    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
