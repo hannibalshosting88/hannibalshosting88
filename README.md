@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737df7c935b8457d2deed2842c" width="180" height="180" alt="Suffer" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8">Devil&#39;s Work</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Freddie Dredd</span><br><span style="font-size: 12px; color: #666;">Suffer (2020)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737df7c935b8457d2deed2842c" width="96" height="96" alt="Suffer" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8">Devil&#39;s Work</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Freddie Dredd</span>
+    <br><span style="font-size: 12px; color: #666;">Suffer (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Jimmy Eat World</span>
     <br><span style="font-size: 12px; color: #666;">Bleed American (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1wbRT9FlUYwh1cjmCN97gy">
-      <img src="https://i.scdn.co/image/ab67616d0000b273beed98a54aa28181e69502f2" width="96" height="96" alt="Himmel und Hölle (From John Wick: Chapter 4 Original Motion Picture Soundtrack)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1wbRT9FlUYwh1cjmCN97gy">Blood Code</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Le Castle Vania</span>
-    <br><span style="font-size: 12px; color: #666;">Himmel und Hölle (From John Wick: Chapter 4 Original Motion Picture Soundtrack) (2023)</span>
   </td>
 </tr>
 <tr>
