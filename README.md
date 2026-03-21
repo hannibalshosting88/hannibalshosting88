@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6h6IM3RdQdXhLPPW1QEv47">
-  <img src="https://i.scdn.co/image/ab6742d3000053b77d172cf670beaff550f97569" width="180" height="180" alt="Drive" />
+<a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ced01b7001a88f0784e7f74f" width="180" height="180" alt="Gangster Sh**" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6h6IM3RdQdXhLPPW1QEv47">Drive</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">Gangster Sh**</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">Drive (2000)</span>
+<span style="font-size: 13px; color: #666;">Pete &amp; Bas</span><br><span style="font-size: 12px; color: #666;">Gangster Sh** (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6h6IM3RdQdXhLPPW1QEv47">
+      <img src="https://i.scdn.co/image/ab6742d3000053b77d172cf670beaff550f97569" width="96" height="96" alt="Drive" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6h6IM3RdQdXhLPPW1QEv47">Drive</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Incubus</span>
+    <br><span style="font-size: 12px; color: #666;">Drive (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">System Of A Down</span>
     <br><span style="font-size: 12px; color: #666;">Mezmerize (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6HgN2o0xok5sHztRiGr0k3">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733f40174380793b6bb8713a8b" width="96" height="96" alt="Good People" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6HgN2o0xok5sHztRiGr0k3">Good People</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Thundersmack, Honeycomb</span>
-    <br><span style="font-size: 12px; color: #666;">Good People (2020)</span>
   </td>
 </tr>
 <tr>
