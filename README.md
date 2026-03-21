@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ced01b7001a88f0784e7f74f" width="180" height="180" alt="Gangster Sh**" />
+<a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">
+  <img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="180" height="180" alt="Freddie&#39;s Inferno" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">Gangster Sh**</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Pete &amp; Bas</span><br><span style="font-size: 12px; color: #666;">Gangster Sh** (2023)</span>
+<span style="font-size: 13px; color: #666;">Freddie Dredd</span><br><span style="font-size: 12px; color: #666;">Freddie&#39;s Inferno (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ced01b7001a88f0784e7f74f" width="96" height="96" alt="Gangster Sh**" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">Gangster Sh**</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Pete &amp; Bas</span>
+    <br><span style="font-size: 12px; color: #666;">Gangster Sh** (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">AJR</span>
     <br><span style="font-size: 12px; color: #666;">OK ORCHESTRA (2021)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="96" height="96" alt="Mezmerize" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md">B.Y.O.B.</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">System Of A Down</span>
-    <br><span style="font-size: 12px; color: #666;">Mezmerize (2005)</span>
   </td>
 </tr>
 <tr>
