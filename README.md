@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" width="96" height="96" alt="The Eminem Show" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS">Till I Collapse</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Eminem, Nate Dogg</span>
-    <br><span style="font-size: 12px; color: #666;">The Eminem Show (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
