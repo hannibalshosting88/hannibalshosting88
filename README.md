@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="180" height="180" alt="Does This Look Infected?" />
+<a href="https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" width="180" height="180" alt="Evolve" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb">Whatever It Takes</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Sum 41</span><br><span style="font-size: 12px; color: #666;">Does This Look Infected? (2002)</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Evolve (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="96" height="96" alt="Does This Look Infected?" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Sum 41</span>
+    <br><span style="font-size: 12px; color: #666;">Does This Look Infected? (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3X17TDpigpPuDlq64Po7HZ">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a351b3ff87744a0595e696262" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3X17TDpigpPuDlq64Po7HZ">Beyond Rockets - 100 Years of Rocketry and What Comes Next</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
   </td>
 </tr>
 <tr>
