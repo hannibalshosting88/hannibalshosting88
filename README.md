@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">
-  <img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="180" height="180" alt="GOOD DAY" />
+<a href="https://open.spotify.com/track/1wbRT9FlUYwh1cjmCN97gy">
+  <img src="https://i.scdn.co/image/ab67616d0000b273beed98a54aa28181e69502f2" width="180" height="180" alt="Himmel und Hölle (From John Wick: Chapter 4 Original Motion Picture Soundtrack)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1wbRT9FlUYwh1cjmCN97gy">Blood Code</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Forrest Frank</span><br><span style="font-size: 12px; color: #666;">GOOD DAY (2024)</span>
+<span style="font-size: 13px; color: #666;">Le Castle Vania</span><br><span style="font-size: 12px; color: #666;">Himmel und Hölle (From John Wick: Chapter 4 Original Motion Picture Soundtrack) (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="96" height="96" alt="GOOD DAY" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Forrest Frank</span>
+    <br><span style="font-size: 12px; color: #666;">GOOD DAY (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Sum 41</span>
     <br><span style="font-size: 12px; color: #666;">Does This Look Infected? (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cdf16453ba15c8f97644e630" width="96" height="96" alt="Come on!" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4">Come on!</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kyle Exum</span>
-    <br><span style="font-size: 12px; color: #666;">Come on! (2024)</span>
   </td>
 </tr>
 <tr>
