@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4">
-  <img src="https://i.scdn.co/image/ab67616d0000b273eac125ae834b76b7d15b3014" width="180" height="180" alt="All Alone" />
+<a href="https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737df7c935b8457d2deed2842c" width="180" height="180" alt="Suffer" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4">All Alone</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8">Devil&#39;s Work</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Freddie Dredd</span><br><span style="font-size: 12px; color: #666;">All Alone (2019)</span>
+<span style="font-size: 13px; color: #666;">Freddie Dredd</span><br><span style="font-size: 12px; color: #666;">Suffer (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4">
+      <img src="https://i.scdn.co/image/ab67616d0000b273eac125ae834b76b7d15b3014" width="96" height="96" alt="All Alone" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4">All Alone</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Freddie Dredd</span>
+    <br><span style="font-size: 12px; color: #666;">All Alone (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Le Castle Vania</span>
     <br><span style="font-size: 12px; color: #666;">Himmel und Hölle (From John Wick: Chapter 4 Original Motion Picture Soundtrack) (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="96" height="96" alt="GOOD DAY" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Forrest Frank</span>
-    <br><span style="font-size: 12px; color: #666;">GOOD DAY (2024)</span>
   </td>
 </tr>
 <tr>
