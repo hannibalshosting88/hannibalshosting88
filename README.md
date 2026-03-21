@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1wbRT9FlUYwh1cjmCN97gy">
-  <img src="https://i.scdn.co/image/ab67616d0000b273beed98a54aa28181e69502f2" width="180" height="180" alt="Himmel und Hölle (From John Wick: Chapter 4 Original Motion Picture Soundtrack)" />
+<a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">
+  <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" width="180" height="180" alt="Bleed American" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1wbRT9FlUYwh1cjmCN97gy">Blood Code</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">The Middle</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Le Castle Vania</span><br><span style="font-size: 12px; color: #666;">Himmel und Hölle (From John Wick: Chapter 4 Original Motion Picture Soundtrack) (2023)</span>
+<span style="font-size: 13px; color: #666;">Jimmy Eat World</span><br><span style="font-size: 12px; color: #666;">Bleed American (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1wbRT9FlUYwh1cjmCN97gy">
+      <img src="https://i.scdn.co/image/ab67616d0000b273beed98a54aa28181e69502f2" width="96" height="96" alt="Himmel und Hölle (From John Wick: Chapter 4 Original Motion Picture Soundtrack)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1wbRT9FlUYwh1cjmCN97gy">Blood Code</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Le Castle Vania</span>
+    <br><span style="font-size: 12px; color: #666;">Himmel und Hölle (From John Wick: Chapter 4 Original Motion Picture Soundtrack) (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
     <br><span style="font-size: 12px; color: #666;">Evolve (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="96" height="96" alt="Does This Look Infected?" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Sum 41</span>
-    <br><span style="font-size: 12px; color: #666;">Does This Look Infected? (2002)</span>
   </td>
 </tr>
 <tr>
