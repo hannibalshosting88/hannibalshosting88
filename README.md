@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6h6IM3RdQdXhLPPW1QEv47">
-      <img src="https://i.scdn.co/image/ab6742d3000053b77d172cf670beaff550f97569" width="96" height="96" alt="Drive" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6h6IM3RdQdXhLPPW1QEv47">Drive</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Incubus</span>
-    <br><span style="font-size: 12px; color: #666;">Drive (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
