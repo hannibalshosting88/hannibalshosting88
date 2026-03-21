@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735fc5c78e17b551ddc8da4f05" width="180" height="180" alt="Can&#39;t Hold Me Down" />
+<a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">
+  <img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="180" height="180" alt="GOOD DAY" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV">Can&#39;t Hold Me Down</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Doodles, Lil Wayne, Lil Yachty, Kyle Richh, Pharrell Williams</span><br><span style="font-size: 12px; color: #666;">Can&#39;t Hold Me Down (2024)</span>
+<span style="font-size: 13px; color: #666;">Forrest Frank</span><br><span style="font-size: 12px; color: #666;">GOOD DAY (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735fc5c78e17b551ddc8da4f05" width="96" height="96" alt="Can&#39;t Hold Me Down" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV">Can&#39;t Hold Me Down</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Doodles, Lil Wayne, Lil Yachty, Kyle Richh, Pharrell Williams</span>
+    <br><span style="font-size: 12px; color: #666;">Can&#39;t Hold Me Down (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
