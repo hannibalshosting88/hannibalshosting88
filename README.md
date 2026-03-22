@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/5LJfwm9HURUizrx6IksSEJ">
-  <img src="https://i.scdn.co/image/ab6765630000ba8ab59a08b6dd1ac08b37a42a6f" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
+<a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">
+  <img src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5LJfwm9HURUizrx6IksSEJ">Gravity Tech: The Power To  Reshape Our Civilization... And The Cosmos Themselves</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/5LJfwm9HURUizrx6IksSEJ">
+      <img src="https://i.scdn.co/image/ab6765630000ba8ab59a08b6dd1ac08b37a42a6f" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5LJfwm9HURUizrx6IksSEJ">Gravity Tech: The Power To  Reshape Our Civilization... And The Cosmos Themselves</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
+    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
