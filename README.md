@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737df7c935b8457d2deed2842c" width="96" height="96" alt="Suffer" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8">Devil&#39;s Work</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Freddie Dredd</span>
-    <br><span style="font-size: 12px; color: #666;">Suffer (2020)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
