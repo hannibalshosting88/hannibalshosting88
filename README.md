@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">
-  <img src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
+<a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD">
+  <img src="https://i.scdn.co/image/ab6765630000ba8af9720668e2858d9d33e94c02" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1fRRPKMtrhmGLQdO3EGPFD">Warping Reality</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
+<span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">
+      <img src="https://i.scdn.co/image/ab6765630000ba8abfc66b673ada0ad8a039fdee" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6BHnFE0pALrDFLWxYOObk3">Before the Big Bang - What Came Before Time?</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
+    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
