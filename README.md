@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6lgw2aaPU5THxLmbQg4RID">
-      <img src="https://i.scdn.co/image/ab6742d3000053b7a9374c7cc3acff3134072a30" width="96" height="96" alt="Wrath" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6lgw2aaPU5THxLmbQg4RID">Wrath</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Freddie Dredd</span>
-    <br><span style="font-size: 12px; color: #666;">Wrath (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
