@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0HfCBwaSDXXHVTNLdGoIRd">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bedaa132a338e186689c1d18" width="96" height="96" alt="ONLY IF I DIE, WOULD I NOT BE" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0HfCBwaSDXXHVTNLdGoIRd">GRAILED</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">1nonly, Freddie Dredd</span>
-    <br><span style="font-size: 12px; color: #666;">ONLY IF I DIE, WOULD I NOT BE (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
