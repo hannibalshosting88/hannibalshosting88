@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e7a3a891ae555b0a46a131ed" width="180" height="180" alt="OK ORCHESTRA" />
+<a href="https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="180" height="180" alt="Meteora" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe">Way Less Sad</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD">Breaking the Habit</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">AJR</span><br><span style="font-size: 12px; color: #666;">OK ORCHESTRA (2021)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Meteora (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e7a3a891ae555b0a46a131ed" width="96" height="96" alt="OK ORCHESTRA" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe">Way Less Sad</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">AJR</span>
+    <br><span style="font-size: 12px; color: #666;">OK ORCHESTRA (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1mOoZeghT2TW1hMoQKLqnI">Unwilling Blood - SCP 7046</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/4o7Ep7dGH9t5NrqlnxGglS">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4o7Ep7dGH9t5NrqlnxGglS">Gravitating in the Moonlight - SCP 5658</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
