@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT">
-  <img src="https://i.scdn.co/image/ab67616d0000b273786131a75c1f97fa83b6605c" width="180" height="180" alt="Natural" />
+<a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a5d1c06a8172d4861367953c" width="180" height="180" alt="Franz Ferdinand" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT">Natural</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">Take Me Out</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Natural (2018)</span>
+<span style="font-size: 13px; color: #666;">Franz Ferdinand</span><br><span style="font-size: 12px; color: #666;">2004</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT">
+      <img src="https://i.scdn.co/image/ab67616d0000b273786131a75c1f97fa83b6605c" width="96" height="96" alt="Natural" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT">Natural</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
+    <br><span style="font-size: 12px; color: #666;">Natural (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Forrest Frank, Connor Price</span>
     <br><span style="font-size: 12px; color: #666;">UP! (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="96" height="96" alt="Freddie&#39;s Inferno" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">Wrath</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Freddie Dredd</span>
-    <br><span style="font-size: 12px; color: #666;">Freddie&#39;s Inferno (2022)</span>
   </td>
 </tr>
 <tr>
