@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/09r3GAa5YViQuv7xbZpNXs">
-  <img src="https://i.scdn.co/image/ab6765630000ba8ab67e9f19fb5e427859514235" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
+<a href="https://open.spotify.com/episode/4Dw9GbUmVALIyQyNl0atqv">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="180" height="180" alt="BedtimeSCP" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/09r3GAa5YViQuv7xbZpNXs">SCP-4431 │ Bleeding Beneath Antarctica │ Euclid │ Extraterrestrial SCP</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4Dw9GbUmVALIyQyNl0atqv">The Guest - SCP 6096</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">TheVolgun - SCP Podcast (Official)</span><br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
+<span style="font-size: 13px; color: #666;">BedtimeSCP</span><br><span style="font-size: 12px; color: #666;">2023</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/09r3GAa5YViQuv7xbZpNXs">
+      <img src="https://i.scdn.co/image/ab6765630000ba8ab67e9f19fb5e427859514235" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/09r3GAa5YViQuv7xbZpNXs">SCP-4431 │ Bleeding Beneath Antarctica │ Euclid │ Extraterrestrial SCP</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
+    <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
