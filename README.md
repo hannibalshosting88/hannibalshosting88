@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/1RtoNdGdAYrCupBc4gCDhE">
-  <img src="https://i.scdn.co/image/ab6765630000ba8aa593789881326a772043e162" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
+<a href="https://open.spotify.com/episode/1whdQn41THENojl4ls1qHz">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a880c628802c6545a102b522b" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1RtoNdGdAYrCupBc4gCDhE">SCP-4036 │ The Republic │ Keter │ Sarkic/K-Class Scenario SCP</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1whdQn41THENojl4ls1qHz">SCP-3675 │ The Void Called │ Keter │ Mind Affecting/K-Class Scenario SCP</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">TheVolgun - SCP Podcast (Official)</span><br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/1RtoNdGdAYrCupBc4gCDhE">
+      <img src="https://i.scdn.co/image/ab6765630000ba8aa593789881326a772043e162" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1RtoNdGdAYrCupBc4gCDhE">SCP-4036 │ The Republic │ Keter │ Sarkic/K-Class Scenario SCP</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
+    <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -116,23 +133,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1whdQn41THENojl4ls1qHz">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a880c628802c6545a102b522b" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1whdQn41THENojl4ls1qHz">SCP-3675 │ The Void Called │ Keter │ Mind Affecting/K-Class Scenario SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
   </td>
 </tr>
 <tr>
