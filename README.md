@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1JMQAGx5MFavQufcckcofK">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737e6fb2974ed7167cd0ab13c8" width="96" height="96" alt="Astonishing Tales from Beyond the Brass Dimension" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1JMQAGx5MFavQufcckcofK">Cuzco</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Broken Brass</span>
-    <br><span style="font-size: 12px; color: #666;">Astonishing Tales from Beyond the Brass Dimension (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
