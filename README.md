@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="180" height="180" alt="Sleep With the Lights On" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Wanton Bishops</span><br><span style="font-size: 12px; color: #666;">Sleep With the Lights On (2015)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="96" height="96" alt="Sleep With the Lights On" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Wanton Bishops</span>
+    <br><span style="font-size: 12px; color: #666;">Sleep With the Lights On (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/4SzdC1fZHaxKxEPeOPVAAp">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a59310927a56ea1a36c708ccb" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4SzdC1fZHaxKxEPeOPVAAp">SCP-163 │ An Old Castaway │ Safe │ Extraterrestrial SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
   </td>
 </tr>
 <tr>
