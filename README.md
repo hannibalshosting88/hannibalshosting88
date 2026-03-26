@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3Mer21XmsC6gBqVTLIVnrq">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="180" height="180" alt="Wolfenstein: The New Order Original Game Soundtrack" />
+<a href="https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ">
+  <img src="https://i.scdn.co/image/ab67616d0000b27383c39b0d32eb4a2064e1e228" width="180" height="180" alt="Away From The Sun" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3Mer21XmsC6gBqVTLIVnrq">Concrete for Miles</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ">When I&#39;m Gone</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Mick Gordon</span><br><span style="font-size: 12px; color: #666;">Wolfenstein: The New Order Original Game Soundtrack (2014)</span>
+<span style="font-size: 13px; color: #666;">3 Doors Down</span><br><span style="font-size: 12px; color: #666;">Away From The Sun (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3Mer21XmsC6gBqVTLIVnrq">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="96" height="96" alt="Wolfenstein: The New Order Original Game Soundtrack" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3Mer21XmsC6gBqVTLIVnrq">Concrete for Miles</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Mick Gordon</span>
+    <br><span style="font-size: 12px; color: #666;">Wolfenstein: The New Order Original Game Soundtrack (2014)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">The Wanton Bishops</span>
     <br><span style="font-size: 12px; color: #666;">Sleep With the Lights On (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4nhNJBCqmDtvFGnjZuWf4R">
-      <img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="96" height="96" alt="Thundersmack" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4nhNJBCqmDtvFGnjZuWf4R">Bad Molly</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Thundersmack</span>
-    <br><span style="font-size: 12px; color: #666;">2021</span>
   </td>
 </tr>
 <tr>
