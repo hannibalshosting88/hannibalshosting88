@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX">
-  <img src="https://i.scdn.co/image/ab67616d0000b273743060d488780164928a20b2" width="180" height="180" alt="Sultans of Swing - the Very Best of Dire Straits" />
+<a href="https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e813c020ab6245eae154ec16" width="180" height="180" alt="Star Shopping" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX">Money for Nothing</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1">Star Shopping</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Dire Straits</span><br><span style="font-size: 12px; color: #666;">Sultans of Swing - the Very Best of Dire Straits (1998)</span>
+<span style="font-size: 13px; color: #666;">Lil Peep</span><br><span style="font-size: 12px; color: #666;">Star Shopping (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX">
+      <img src="https://i.scdn.co/image/ab67616d0000b273743060d488780164928a20b2" width="96" height="96" alt="Sultans of Swing - the Very Best of Dire Straits" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX">Money for Nothing</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Dire Straits</span>
+    <br><span style="font-size: 12px; color: #666;">Sultans of Swing - the Very Best of Dire Straits (1998)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
