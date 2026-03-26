@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb">
-  <img src="https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6" width="180" height="180" alt="The Dark Side of the Moon" />
+<a href="https://open.spotify.com/track/3I09LQbHS3NSU46Ly3tPpR">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735d7d966732bd44ac2a13b614" width="180" height="180" alt="It&#39;s Time" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb">Money</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3I09LQbHS3NSU46Ly3tPpR">Feeling Good</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Pink Floyd</span><br><span style="font-size: 12px; color: #666;">The Dark Side of the Moon (1973)</span>
+<span style="font-size: 13px; color: #666;">Michael Bublé</span><br><span style="font-size: 12px; color: #666;">It&#39;s Time (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb">
+      <img src="https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6" width="96" height="96" alt="The Dark Side of the Moon" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb">Money</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Pink Floyd</span>
+    <br><span style="font-size: 12px; color: #666;">The Dark Side of the Moon (1973)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
