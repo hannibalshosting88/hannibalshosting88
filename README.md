@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7IqAlqpiXfj6ENbCYnxgoU">
-  <img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="180" height="180" alt="Doom (Original Game Soundtrack)" />
+<a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY">
+  <img src="https://i.scdn.co/image/ab67616d0000b27349440f89d229d070b504be74" width="180" height="180" alt="Sickology 101" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7IqAlqpiXfj6ENbCYnxgoU">Argent Energy</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY">Dysfunctional</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Mick Gordon</span><br><span style="font-size: 12px; color: #666;">Doom (Original Game Soundtrack) (2016)</span>
+<span style="font-size: 13px; color: #666;">Tech N9ne Collabos</span><br><span style="font-size: 12px; color: #666;">Sickology 101 (2009)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7IqAlqpiXfj6ENbCYnxgoU">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="96" height="96" alt="Doom (Original Game Soundtrack)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7IqAlqpiXfj6ENbCYnxgoU">Argent Energy</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Mick Gordon</span>
+    <br><span style="font-size: 12px; color: #666;">Doom (Original Game Soundtrack) (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Dire Straits</span>
     <br><span style="font-size: 12px; color: #666;">Sultans of Swing - the Very Best of Dire Straits (1998)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="96" height="96" alt="Thrifty x Spooky Raccoon" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4oEeez1ugsZLMALuktouGq">Spooky Raccoon</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Thundersmack</span>
-    <br><span style="font-size: 12px; color: #666;">Thrifty x Spooky Raccoon (2021)</span>
   </td>
 </tr>
 <tr>
