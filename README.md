@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395cec4b61bd1188fe8a61d2b" width="180" height="180" alt="The Lost City of Atlantits" />
+<a href="https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="180" height="180" alt="Meteora" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">I Have Sex</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ">Somewhere I Belong</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Scoochie Boochie</span><br><span style="font-size: 12px; color: #666;">The Lost City of Atlantits (2020)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Meteora (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">
+      <img src="https://i.scdn.co/image/ab67616d0000b27395cec4b61bd1188fe8a61d2b" width="96" height="96" alt="The Lost City of Atlantits" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">I Have Sex</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Scoochie Boochie</span>
+    <br><span style="font-size: 12px; color: #666;">The Lost City of Atlantits (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1BNgfcavDAjyjDfhmhdwGJ">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a86b614e6b168dc602748bb93" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1BNgfcavDAjyjDfhmhdwGJ">Colonizing Brown Dwarfs – Life Around Failed Stars</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
   </td>
 </tr>
 <tr>
