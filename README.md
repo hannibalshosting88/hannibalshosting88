@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e2fdc4cae88a854b214b35ac" width="96" height="96" alt="Feel It Still" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK">Feel It Still</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Portugal. The Man</span>
-    <br><span style="font-size: 12px; color: #666;">Feel It Still (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
