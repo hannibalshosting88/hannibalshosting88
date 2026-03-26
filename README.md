@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" width="180" height="180" alt="Blowin&#39; Your Mind!" />
+<a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="180" height="180" alt="Minutes to Midnight" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">Brown Eyed Girl</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5">Given Up</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Van Morrison</span><br><span style="font-size: 12px; color: #666;">Blowin&#39; Your Mind! (1967)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" width="96" height="96" alt="Blowin&#39; Your Mind!" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">Brown Eyed Girl</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Van Morrison</span>
+    <br><span style="font-size: 12px; color: #666;">Blowin&#39; Your Mind! (1967)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5clISLrGDCWi2qEwlwWgiT">The Graduating Class of &#39;76 -SCP-7076</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/64bUNqEexFlRSZ122FnmzT">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/64bUNqEexFlRSZ122FnmzT">Anglerfish - SCP-4434</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
