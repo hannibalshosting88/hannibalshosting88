@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="96" height="96" alt="Hybrid Theory (Bonus Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">Papercut</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Linkin Park</span>
-    <br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
