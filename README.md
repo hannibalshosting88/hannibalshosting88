@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3I09LQbHS3NSU46Ly3tPpR">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735d7d966732bd44ac2a13b614" width="96" height="96" alt="It&#39;s Time" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3I09LQbHS3NSU46Ly3tPpR">Feeling Good</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Michael Bublé</span>
-    <br><span style="font-size: 12px; color: #666;">It&#39;s Time (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
