@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3YYLZWbPQkLYX0ltoeqhIR">
-      <img src="https://i.scdn.co/image/ab6765630000ba8aa6803be12e821e0138a72de6" width="96" height="96" alt="Boring Science For Sleep" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3YYLZWbPQkLYX0ltoeqhIR">Boring Science For Sleep | What Operating a Lighthouse Was Like in the Age of Early Radio...</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Boring Science For Sleep</span>
-    <br><span style="font-size: 12px; color: #666;">Sleepless Scientist (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
