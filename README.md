@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bf963a1df6bb4cbcf14f21d3" width="180" height="180" alt="Cherry Bop" />
+<a href="https://open.spotify.com/track/1Q2fYlSdwuutWj3QplhY9q">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e773763694ac5eb7f2aa0a37" width="180" height="180" alt="One-X" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0">Cherry Bop</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1Q2fYlSdwuutWj3QplhY9q">Riot</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack, Chad Lefkowitz-Brown</span><br><span style="font-size: 12px; color: #666;">Cherry Bop (2021)</span>
+<span style="font-size: 13px; color: #666;">Three Days Grace</span><br><span style="font-size: 12px; color: #666;">One-X (2006)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bf963a1df6bb4cbcf14f21d3" width="96" height="96" alt="Cherry Bop" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0">Cherry Bop</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack, Chad Lefkowitz-Brown</span>
+    <br><span style="font-size: 12px; color: #666;">Cherry Bop (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Rise Against</span>
     <br><span style="font-size: 12px; color: #666;">The Sufferer &amp; The Witness (2006)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a2b4f98f60e3cacf3866b2e3" width="96" height="96" alt="Eliminator" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom">Sharp Dressed Man (2008 Remaster)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">ZZ Top</span>
-    <br><span style="font-size: 12px; color: #666;">Eliminator (1983)</span>
   </td>
 </tr>
 <tr>
