@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5WeiB5JDBy6T5QQxtj09zb">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735c3a70f0438923a32e071bc6" width="180" height="180" alt="Crank That (Soulja Boy) [Travis Barker Remix]" />
+<a href="https://open.spotify.com/track/50xYqUTVCvoqRLuyWFuG3r">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738d3609295177e58287f39f85" width="180" height="180" alt="Reanimation" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5WeiB5JDBy6T5QQxtj09zb">Crank That (Soulja Boy) [Travis Barker Remix]</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/50xYqUTVCvoqRLuyWFuG3r">Enth E Nd (Kutmasta Kurt Reanimation) [feat. Motion Man]</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Soulja Boy, Travis Barker</span><br><span style="font-size: 12px; color: #666;">Crank That (Soulja Boy) [Travis Barker Remix] (2007)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park, Motion Man</span><br><span style="font-size: 12px; color: #666;">Reanimation (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5WeiB5JDBy6T5QQxtj09zb">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735c3a70f0438923a32e071bc6" width="96" height="96" alt="Crank That (Soulja Boy) [Travis Barker Remix]" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5WeiB5JDBy6T5QQxtj09zb">Crank That (Soulja Boy) [Travis Barker Remix]</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Soulja Boy, Travis Barker</span>
+    <br><span style="font-size: 12px; color: #666;">Crank That (Soulja Boy) [Travis Barker Remix] (2007)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
