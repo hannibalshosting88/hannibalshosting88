@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4o74y4XY1ypNZkZtZkK8Wi">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736a6a889eef62af7b190ec713" width="180" height="180" alt="Smoke + Mirrors" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4o74y4XY1ypNZkZtZkK8Wi">I’m So Sorry</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Smoke + Mirrors (2014)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4o74y4XY1ypNZkZtZkK8Wi">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736a6a889eef62af7b190ec713" width="96" height="96" alt="Smoke + Mirrors" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4o74y4XY1ypNZkZtZkK8Wi">I’m So Sorry</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
+    <br><span style="font-size: 12px; color: #666;">Smoke + Mirrors (2014)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Soulja Boy, Travis Barker</span>
     <br><span style="font-size: 12px; color: #666;">Crank That (Soulja Boy) [Travis Barker Remix] (2007)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1">
-      <img src="https://i.scdn.co/image/ab67616d0000b27366ec7d795b727cd90bd09690" width="96" height="96" alt="Fush Yu Mang (20th Anniversary Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1">Walkin&#39; On The Sun</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Smash Mouth</span>
-    <br><span style="font-size: 12px; color: #666;">Fush Yu Mang (20th Anniversary Edition) (1997)</span>
   </td>
 </tr>
 <tr>
