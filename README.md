@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ">
-  <img src="https://i.scdn.co/image/ab67616d0000b27390fef039e01409cb5a8d560c" width="180" height="180" alt="The Sufferer &amp; The Witness" />
+<a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731025ac991316d6cbac978373" width="180" height="180" alt="The Hamilton Mixtape" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ">Prayer Of The Refugee</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP">An Open Letter (feat. Shockwave) - Interlude</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Rise Against</span><br><span style="font-size: 12px; color: #666;">The Sufferer &amp; The Witness (2006)</span>
+<span style="font-size: 13px; color: #666;">Watsky, Shockwave</span><br><span style="font-size: 12px; color: #666;">The Hamilton Mixtape (2016)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ">
+      <img src="https://i.scdn.co/image/ab67616d0000b27390fef039e01409cb5a8d560c" width="96" height="96" alt="The Sufferer &amp; The Witness" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ">Prayer Of The Refugee</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Rise Against</span>
+    <br><span style="font-size: 12px; color: #666;">The Sufferer &amp; The Witness (2006)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4o7Ep7dGH9t5NrqlnxGglS">Gravitating in the Moonlight - SCP 5658</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">A Place to Drown - SCP 7900</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
