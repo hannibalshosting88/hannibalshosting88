@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d2a85ebbfd9f834dafacaa8a" width="180" height="180" alt="Pecan Pie" />
+<a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731aaa4af459faac4478583092" width="180" height="180" alt="Beyond the Norm" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">Pecan Pie</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">Shook Ones Remix</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Nine and Dex</span><br><span style="font-size: 12px; color: #666;">Pecan Pie (2024)</span>
+<span style="font-size: 13px; color: #666;">J. Koda</span><br><span style="font-size: 12px; color: #666;">Beyond the Norm (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d2a85ebbfd9f834dafacaa8a" width="96" height="96" alt="Pecan Pie" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">Pecan Pie</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Nine and Dex</span>
+    <br><span style="font-size: 12px; color: #666;">Pecan Pie (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Luke Combs</span>
     <br><span style="font-size: 12px; color: #666;">What You See Is What You Get (2019)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2Z6H4Ft8cBf54hEendAaBs">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ebe2db76f82a04fb72aff6d5" width="96" height="96" alt="Hungry Ghosts" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2Z6H4Ft8cBf54hEendAaBs">Turn Up The Radio</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">OK Go</span>
-    <br><span style="font-size: 12px; color: #666;">Hungry Ghosts (2014)</span>
   </td>
 </tr>
 <tr>
