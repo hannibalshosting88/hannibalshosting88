@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731025ac991316d6cbac978373" width="180" height="180" alt="The Hamilton Mixtape" />
+<a href="https://open.spotify.com/track/13C7ucXlnNRWcZWzgvSbP4">
+  <img src="https://i.scdn.co/image/ab67616d0000b273300af6c15e091795c7997d86" width="180" height="180" alt="Sorry 4 The Wait" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP">An Open Letter (feat. Shockwave) - Interlude</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/13C7ucXlnNRWcZWzgvSbP4">Rax</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Watsky, Shockwave</span><br><span style="font-size: 12px; color: #666;">The Hamilton Mixtape (2016)</span>
+<span style="font-size: 13px; color: #666;">Lil Wayne</span><br><span style="font-size: 12px; color: #666;">Sorry 4 The Wait (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731025ac991316d6cbac978373" width="96" height="96" alt="The Hamilton Mixtape" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP">An Open Letter (feat. Shockwave) - Interlude</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Watsky, Shockwave</span>
+    <br><span style="font-size: 12px; color: #666;">The Hamilton Mixtape (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/39pd0xbTA5Jmc6XpgYbMgA">Civilization Carrier Case - SCP 3156</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/4o7Ep7dGH9t5NrqlnxGglS">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4o7Ep7dGH9t5NrqlnxGglS">Gravitating in the Moonlight - SCP 5658</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
