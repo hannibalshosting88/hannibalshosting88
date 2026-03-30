@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731aaa4af459faac4478583092" width="180" height="180" alt="Beyond the Norm" />
+<a href="https://open.spotify.com/track/4o74y4XY1ypNZkZtZkK8Wi">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736a6a889eef62af7b190ec713" width="180" height="180" alt="Smoke + Mirrors" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">Shook Ones Remix</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4o74y4XY1ypNZkZtZkK8Wi">I’m So Sorry</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">J. Koda</span><br><span style="font-size: 12px; color: #666;">Beyond the Norm (2022)</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Smoke + Mirrors (2014)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731aaa4af459faac4478583092" width="96" height="96" alt="Beyond the Norm" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">Shook Ones Remix</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">J. Koda</span>
+    <br><span style="font-size: 12px; color: #666;">Beyond the Norm (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Smash Mouth</span>
     <br><span style="font-size: 12px; color: #666;">Fush Yu Mang (20th Anniversary Edition) (1997)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">
-      <img src="https://i.scdn.co/image/ab67616d0000b27312a1dd8db4de62f6e146a43b" width="96" height="96" alt="What You See Is What You Get" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">Beer Never Broke My Heart</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Luke Combs</span>
-    <br><span style="font-size: 12px; color: #666;">What You See Is What You Get (2019)</span>
   </td>
 </tr>
 <tr>
