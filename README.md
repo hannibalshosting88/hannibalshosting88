@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO">
-  <img src="https://i.scdn.co/image/ab67616d0000b27325707238f96a12559d55c1f8" width="180" height="180" alt="Sugar Sweet" />
+<a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bf963a1df6bb4cbcf14f21d3" width="180" height="180" alt="Cherry Bop" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO">Sugar Sweet</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0">Cherry Bop</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Benson Boone</span><br><span style="font-size: 12px; color: #666;">Sugar Sweet (2023)</span>
+<span style="font-size: 13px; color: #666;">Thundersmack, Chad Lefkowitz-Brown</span><br><span style="font-size: 12px; color: #666;">Cherry Bop (2021)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO">
+      <img src="https://i.scdn.co/image/ab67616d0000b27325707238f96a12559d55c1f8" width="96" height="96" alt="Sugar Sweet" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO">Sugar Sweet</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Benson Boone</span>
+    <br><span style="font-size: 12px; color: #666;">Sugar Sweet (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">ZZ Top</span>
     <br><span style="font-size: 12px; color: #666;">Eliminator (1983)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/50xYqUTVCvoqRLuyWFuG3r">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738d3609295177e58287f39f85" width="96" height="96" alt="Reanimation" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/50xYqUTVCvoqRLuyWFuG3r">Enth E Nd (Kutmasta Kurt Reanimation) [feat. Motion Man]</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Linkin Park, Motion Man</span>
-    <br><span style="font-size: 12px; color: #666;">Reanimation (2002)</span>
   </td>
 </tr>
 <tr>
