@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731aaa4af459faac4478583092" width="96" height="96" alt="Beyond the Norm" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">Shook Ones Remix</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">J. Koda</span>
-    <br><span style="font-size: 12px; color: #666;">Beyond the Norm (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
