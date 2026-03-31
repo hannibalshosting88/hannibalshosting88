@@ -262,7 +262,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </div>
 
 ## 🌤️ Current Weather in Charlotte, NC 
-<!-- WEATHER:START --> ⚠️ Weather data temporarily unavailable (Error: Client network socket disconnected before secure TLS connection was established) <!-- WEATHER:END -->
+<!-- WEATHER:START --> 🌡️ Temperature: 61°F 💨 Wind: 8 mph ⛅ Conditions: Partly cloudy 🌅 Updated: March 31, 2026 at 9:13 AM <!-- WEATHER:END -->
 
 ## 🖥️ My Tech Lab & Workspace
 
