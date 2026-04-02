@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/4SRh6IYDAaRkqLNre3uXwW">
+<a href="https://open.spotify.com/episode/5U04AatHp8Ep6vWNtKCQuh">
   <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="180" height="180" alt="BedtimeSCP" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4SRh6IYDAaRkqLNre3uXwW">The Circumventing Shoe Box - SCP 4544</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5U04AatHp8Ep6vWNtKCQuh">The High-Octane Full-Throttle Adventures of the Exploding Zombie Gearheads - SCP 3885</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">BedtimeSCP</span><br><span style="font-size: 12px; color: #666;">2023</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/4SRh6IYDAaRkqLNre3uXwW">
+      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4SRh6IYDAaRkqLNre3uXwW">The Circumventing Shoe Box - SCP 4544</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
+    <br><span style="font-size: 12px; color: #666;">2023</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -116,23 +133,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/5U04AatHp8Ep6vWNtKCQuh">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5U04AatHp8Ep6vWNtKCQuh">The High-Octane Full-Throttle Adventures of the Exploding Zombie Gearheads - SCP 3885</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
   </td>
 </tr>
 <tr>
