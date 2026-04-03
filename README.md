@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ">
-  <img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="180" height="180" alt="Toxicity" />
+<a href="https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="180" height="180" alt="Hybrid Theory (Bonus Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ">ATWA</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8">A Place for My Head</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Toxicity (2001)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ">
+      <img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="96" height="96" alt="Toxicity" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ">ATWA</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">System Of A Down</span>
+    <br><span style="font-size: 12px; color: #666;">Toxicity (2001)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/25LnnbrMwOXoE7WaPABifz">Almost Heaven, West Virginia - SCP 4570</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3H72dJ6pDAJMgXHkSfZPLJ">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3H72dJ6pDAJMgXHkSfZPLJ">Cursed Submarine - SCP 7242</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
