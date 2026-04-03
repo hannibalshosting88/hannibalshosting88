@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="180" height="180" alt="Hybrid Theory (Bonus Edition)" />
+<a href="https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS">
+  <img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="180" height="180" alt="Man On The Moon: The End Of Day" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8">A Place for My Head</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS">Soundtrack 2 My Life</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
+<span style="font-size: 13px; color: #666;">Kid Cudi</span><br><span style="font-size: 12px; color: #666;">Man On The Moon: The End Of Day (2009)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="96" height="96" alt="Hybrid Theory (Bonus Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8">A Place for My Head</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Linkin Park</span>
+    <br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
