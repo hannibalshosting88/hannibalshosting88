@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f67a8d19b2c7130f0437887b" width="180" height="180" alt="GTG" />
+<a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ">
+  <img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="180" height="180" alt="Toxicity" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">GTG</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ">ATWA</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Freddie Dredd</span><br><span style="font-size: 12px; color: #666;">GTG (2018)</span>
+<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Toxicity (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f67a8d19b2c7130f0437887b" width="96" height="96" alt="GTG" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">GTG</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Freddie Dredd</span>
+    <br><span style="font-size: 12px; color: #666;">GTG (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
