@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5nQ2EILUt0UTqlvF0w5P48">
-  <img src="https://i.scdn.co/image/ab6742d3000053b7eca6c08991465964f25dbc15" width="180" height="180" alt="Beautiful Things" />
+<a href="https://open.spotify.com/track/7aukmVnOmk07vtEjsznqFT">
+  <img src="https://i.scdn.co/image/ab6742d3000053b7024ce7bb5c0defdf6509fe8e" width="180" height="180" alt="Numb" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5nQ2EILUt0UTqlvF0w5P48">Beautiful Things</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7aukmVnOmk07vtEjsznqFT">Numb</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Benson Boone</span><br><span style="font-size: 12px; color: #666;">Beautiful Things (2024)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Numb (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5nQ2EILUt0UTqlvF0w5P48">
+      <img src="https://i.scdn.co/image/ab6742d3000053b7eca6c08991465964f25dbc15" width="96" height="96" alt="Beautiful Things" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5nQ2EILUt0UTqlvF0w5P48">Beautiful Things</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Benson Boone</span>
+    <br><span style="font-size: 12px; color: #666;">Beautiful Things (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">William Joseph &amp; Lindsey Stirling</span>
     <br><span style="font-size: 12px; color: #666;">Halo Theme Song (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5kSXI1u0z2hrGuoepfYi12">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734eb4499915a290bc47f00786" width="96" height="96" alt="Halo Theme - Epic Version" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5kSXI1u0z2hrGuoepfYi12">Halo Theme - Epic Version</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Samuel Kim</span>
-    <br><span style="font-size: 12px; color: #666;">Halo Theme - Epic Version (2020)</span>
   </td>
 </tr>
 <tr>
