@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="180" height="180" alt="Backstreet Boys" />
+<a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" width="180" height="180" alt="Millennium" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx">Quit Playing Games (With My Heart)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya">I Want It That Way</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Backstreet Boys</span><br><span style="font-size: 12px; color: #666;">1996</span>
+<span style="font-size: 13px; color: #666;">Backstreet Boys</span><br><span style="font-size: 12px; color: #666;">Millennium (1999)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="96" height="96" alt="Backstreet Boys" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx">Quit Playing Games (With My Heart)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Backstreet Boys</span>
+    <br><span style="font-size: 12px; color: #666;">1996</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">System Of A Down</span>
     <br><span style="font-size: 12px; color: #666;">Toxicity (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f67a8d19b2c7130f0437887b" width="96" height="96" alt="GTG" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH">GTG</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Freddie Dredd</span>
-    <br><span style="font-size: 12px; color: #666;">GTG (2018)</span>
   </td>
 </tr>
 <tr>
