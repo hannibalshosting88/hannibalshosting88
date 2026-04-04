@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">
-  <img src="https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2" width="180" height="180" alt="A Bar Song (Tipsy)" />
+<a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735a41b6c530b167ffba6a92f5" width="180" height="180" alt="Megalithic Symphony Deluxe" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">A Bar Song (Tipsy)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">Sail</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Shaboozey</span><br><span style="font-size: 12px; color: #666;">A Bar Song (Tipsy) (2024)</span>
+<span style="font-size: 13px; color: #666;">AWOLNATION</span><br><span style="font-size: 12px; color: #666;">Megalithic Symphony Deluxe (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">
+      <img src="https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2" width="96" height="96" alt="A Bar Song (Tipsy)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">A Bar Song (Tipsy)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Shaboozey</span>
+    <br><span style="font-size: 12px; color: #666;">A Bar Song (Tipsy) (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">*NSYNC</span>
     <br><span style="font-size: 12px; color: #666;">It&#39;s Gonna Be Me (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" width="96" height="96" alt="No Strings Attached" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn">Bye Bye Bye</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">*NSYNC</span>
-    <br><span style="font-size: 12px; color: #666;">No Strings Attached (2000)</span>
   </td>
 </tr>
 <tr>
