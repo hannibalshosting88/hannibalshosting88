@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5nQ2EILUt0UTqlvF0w5P48">
-      <img src="https://i.scdn.co/image/ab6742d3000053b7eca6c08991465964f25dbc15" width="96" height="96" alt="Beautiful Things" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5nQ2EILUt0UTqlvF0w5P48">Beautiful Things</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Benson Boone</span>
-    <br><span style="font-size: 12px; color: #666;">Beautiful Things (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
