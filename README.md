@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736ff25c2481eeaf6e7284d461" width="180" height="180" alt="Man On The Moon III: The Chosen" />
+<a href="https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735aa75a47afe2804e280bd149" width="180" height="180" alt="Phobia (Clean Version)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq">Sad People</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ">The Diary of Jane - Single Version</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kid Cudi</span><br><span style="font-size: 12px; color: #666;">Man On The Moon III: The Chosen (2020)</span>
+<span style="font-size: 13px; color: #666;">Breaking Benjamin</span><br><span style="font-size: 12px; color: #666;">Phobia (Clean Version) (2006)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736ff25c2481eeaf6e7284d461" width="96" height="96" alt="Man On The Moon III: The Chosen" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq">Sad People</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kid Cudi</span>
+    <br><span style="font-size: 12px; color: #666;">Man On The Moon III: The Chosen (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5U04AatHp8Ep6vWNtKCQuh">The High-Octane Full-Throttle Adventures of the Exploding Zombie Gearheads - SCP 3885</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/4SRh6IYDAaRkqLNre3uXwW">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4SRh6IYDAaRkqLNre3uXwW">The Circumventing Shoe Box - SCP 4544</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
