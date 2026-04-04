@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="96" height="96" alt="Backstreet Boys" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx">Quit Playing Games (With My Heart)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Backstreet Boys</span>
-    <br><span style="font-size: 12px; color: #666;">1996</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
