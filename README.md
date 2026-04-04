@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6JW9aHhRqYS0xS7Qajp5kJ">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f884eba13ce42428430b6663" width="96" height="96" alt="Extreme Power Metal" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6JW9aHhRqYS0xS7Qajp5kJ">The Last Dragonborn</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">DragonForce</span>
-    <br><span style="font-size: 12px; color: #666;">Extreme Power Metal (2019)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
