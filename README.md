@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" width="180" height="180" alt="Hot Fuss" />
+<a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="180" height="180" alt="Hybrid Theory (Bonus Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B">Mr. Brightside</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr">Crawling</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Killers</span><br><span style="font-size: 12px; color: #666;">Hot Fuss (2004)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" width="96" height="96" alt="Hot Fuss" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B">Mr. Brightside</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Killers</span>
+    <br><span style="font-size: 12px; color: #666;">Hot Fuss (2004)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
