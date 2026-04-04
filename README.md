@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403" width="180" height="180" alt="Three Days Grace" />
+<a href="https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy">
+  <img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="180" height="180" alt="Make Yourself" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">I Hate Everything About You</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy">Drive</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Three Days Grace</span><br><span style="font-size: 12px; color: #666;">2003</span>
+<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">Make Yourself (1999)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403" width="96" height="96" alt="Three Days Grace" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">I Hate Everything About You</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Three Days Grace</span>
+    <br><span style="font-size: 12px; color: #666;">2003</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
