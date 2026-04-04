@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/32RRGRH38k9vgBdAXCTAB7">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="180" height="180" alt="Brasshopper" />
+<a href="https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736ff25c2481eeaf6e7284d461" width="180" height="180" alt="Man On The Moon III: The Chosen" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/32RRGRH38k9vgBdAXCTAB7">Got the Funk</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq">Sad People</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Broken Brass</span><br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
+<span style="font-size: 13px; color: #666;">Kid Cudi</span><br><span style="font-size: 12px; color: #666;">Man On The Moon III: The Chosen (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/32RRGRH38k9vgBdAXCTAB7">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="96" height="96" alt="Brasshopper" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/32RRGRH38k9vgBdAXCTAB7">Got the Funk</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Broken Brass</span>
+    <br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4SRh6IYDAaRkqLNre3uXwW">The Circumventing Shoe Box - SCP 4544</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3xXiMatwEYvUuzEi48wglF">
-      <img src="https://i.scdn.co/image/ab6765630000ba8ae06afc6ad655d9ba37649751" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3xXiMatwEYvUuzEi48wglF">Walden Pond Scum - SCP 3846</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
