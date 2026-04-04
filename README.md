@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v">
-      <img src="https://i.scdn.co/image/ab67616d0000b27356a6d6e493a8f338be63fc49" width="96" height="96" alt="Hot Fuss" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v">Somebody Told Me</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Killers</span>
-    <br><span style="font-size: 12px; color: #666;">Hot Fuss (2004)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
