@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53">
-  <img src="https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6" width="180" height="180" alt="The Dark Side of the Moon" />
+<a href="https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731b172ee4058bc492d0ce562d" width="180" height="180" alt="Nightfall" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53">Breathe (In the Air)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl">Wine, Beer, Whiskey</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Pink Floyd</span><br><span style="font-size: 12px; color: #666;">The Dark Side of the Moon (1973)</span>
+<span style="font-size: 13px; color: #666;">Little Big Town</span><br><span style="font-size: 12px; color: #666;">Nightfall (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53">
+      <img src="https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6" width="96" height="96" alt="The Dark Side of the Moon" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53">Breathe (In the Air)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Pink Floyd</span>
+    <br><span style="font-size: 12px; color: #666;">The Dark Side of the Moon (1973)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Thundersmack</span>
     <br><span style="font-size: 12px; color: #666;">House Party (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">
-      <img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="96" height="96" alt="Dreamland" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Glass Animals</span>
-    <br><span style="font-size: 12px; color: #666;">Dreamland (2020)</span>
   </td>
 </tr>
 <tr>
