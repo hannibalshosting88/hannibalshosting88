@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3CIr5zIUYwMKQe1k0TgAsJ">
-      <img src="https://i.scdn.co/image/ab6765630000ba8acfaeea34c516bcc2ccb5d914" width="96" height="96" alt="Tired Thinker" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3CIr5zIUYwMKQe1k0TgAsJ">100 Facts About Mars</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Tired Thinker</span>
-    <br><span style="font-size: 12px; color: #666;">2026</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
