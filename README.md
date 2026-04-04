@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731b172ee4058bc492d0ce562d" width="96" height="96" alt="Nightfall" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl">Wine, Beer, Whiskey</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Little Big Town</span>
-    <br><span style="font-size: 12px; color: #666;">Nightfall (2020)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
