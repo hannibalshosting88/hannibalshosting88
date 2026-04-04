@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/63qPlpT3S35NXJtiLTxkxY">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731304b5cc667942a7801b53d6" width="96" height="96" alt="Inhuman Rampage (Special Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/63qPlpT3S35NXJtiLTxkxY">Operation Ground and Pound</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">DragonForce</span>
-    <br><span style="font-size: 12px; color: #666;">Inhuman Rampage (Special Edition) (2006)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
