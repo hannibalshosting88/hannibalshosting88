@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5kSXI1u0z2hrGuoepfYi12">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734eb4499915a290bc47f00786" width="180" height="180" alt="Halo Theme - Epic Version" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5kSXI1u0z2hrGuoepfYi12">Halo Theme - Epic Version</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Samuel Kim</span><br><span style="font-size: 12px; color: #666;">Halo Theme - Epic Version (2020)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5kSXI1u0z2hrGuoepfYi12">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734eb4499915a290bc47f00786" width="96" height="96" alt="Halo Theme - Epic Version" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5kSXI1u0z2hrGuoepfYi12">Halo Theme - Epic Version</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Samuel Kim</span>
+    <br><span style="font-size: 12px; color: #666;">Halo Theme - Epic Version (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +196,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5U04AatHp8Ep6vWNtKCQuh">The High-Octane Full-Throttle Adventures of the Exploding Zombie Gearheads - SCP 3885</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/4SRh6IYDAaRkqLNre3uXwW">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4SRh6IYDAaRkqLNre3uXwW">The Circumventing Shoe Box - SCP 4544</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
