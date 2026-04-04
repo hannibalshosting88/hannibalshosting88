@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">
-  <img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="180" height="180" alt="Dreamland" />
+<a href="https://open.spotify.com/track/6dNpXYhDwtLfJdUXhqA9rX">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730a984d7ea9ecf7738cf1d530" width="180" height="180" alt="House Party" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6dNpXYhDwtLfJdUXhqA9rX">House Party</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Glass Animals</span><br><span style="font-size: 12px; color: #666;">Dreamland (2020)</span>
+<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">House Party (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">
+      <img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="96" height="96" alt="Dreamland" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Glass Animals</span>
+    <br><span style="font-size: 12px; color: #666;">Dreamland (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
