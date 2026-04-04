@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" width="180" height="180" alt="No Strings Attached" />
+<a href="https://open.spotify.com/track/7Fty63DHnf6nlNvwLiUI5X">
+  <img src="https://i.scdn.co/image/ab6742d3000053b7a78773a07cdfb1c4d3736526" width="180" height="180" alt="It&#39;s Gonna Be Me" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn">Bye Bye Bye</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7Fty63DHnf6nlNvwLiUI5X">It&#39;s Gonna Be Me</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">*NSYNC</span><br><span style="font-size: 12px; color: #666;">No Strings Attached (2000)</span>
+<span style="font-size: 13px; color: #666;">*NSYNC</span><br><span style="font-size: 12px; color: #666;">It&#39;s Gonna Be Me (2000)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" width="96" height="96" alt="No Strings Attached" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn">Bye Bye Bye</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">*NSYNC</span>
+    <br><span style="font-size: 12px; color: #666;">No Strings Attached (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Kid Cudi</span>
     <br><span style="font-size: 12px; color: #666;">Man On The Moon: The End Of Day (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="96" height="96" alt="Hybrid Theory (Bonus Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8">A Place for My Head</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Linkin Park</span>
-    <br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
   </td>
 </tr>
 <tr>
