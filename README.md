@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v">
-  <img src="https://i.scdn.co/image/ab67616d0000b27356a6d6e493a8f338be63fc49" width="180" height="180" alt="Hot Fuss" />
+<a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">
+  <img src="https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2" width="180" height="180" alt="A Bar Song (Tipsy)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v">Somebody Told Me</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">A Bar Song (Tipsy)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Killers</span><br><span style="font-size: 12px; color: #666;">Hot Fuss (2004)</span>
+<span style="font-size: 13px; color: #666;">Shaboozey</span><br><span style="font-size: 12px; color: #666;">A Bar Song (Tipsy) (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v">
+      <img src="https://i.scdn.co/image/ab67616d0000b27356a6d6e493a8f338be63fc49" width="96" height="96" alt="Hot Fuss" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v">Somebody Told Me</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Killers</span>
+    <br><span style="font-size: 12px; color: #666;">Hot Fuss (2004)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">*NSYNC</span>
     <br><span style="font-size: 12px; color: #666;">No Strings Attached (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" width="96" height="96" alt="Millennium" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya">I Want It That Way</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Backstreet Boys</span>
-    <br><span style="font-size: 12px; color: #666;">Millennium (1999)</span>
   </td>
 </tr>
 <tr>
