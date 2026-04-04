@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0N9ZvzuX2NdQVJqWP2fN0N">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731eb9dae00b5d0009ecadeca2" width="180" height="180" alt="Halo Theme Song" />
+<a href="https://open.spotify.com/track/75yE3kEbL9HcMu6US7iEaL">
+  <img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="180" height="180" alt="GET UP" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0N9ZvzuX2NdQVJqWP2fN0N">Halo Theme Song</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/75yE3kEbL9HcMu6US7iEaL">GET UP</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">William Joseph &amp; Lindsey Stirling</span><br><span style="font-size: 12px; color: #666;">Halo Theme Song (2013)</span>
+<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">GET UP (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0N9ZvzuX2NdQVJqWP2fN0N">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731eb9dae00b5d0009ecadeca2" width="96" height="96" alt="Halo Theme Song" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0N9ZvzuX2NdQVJqWP2fN0N">Halo Theme Song</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">William Joseph &amp; Lindsey Stirling</span>
+    <br><span style="font-size: 12px; color: #666;">Halo Theme Song (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
