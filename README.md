@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6dNpXYhDwtLfJdUXhqA9rX">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730a984d7ea9ecf7738cf1d530" width="180" height="180" alt="House Party" />
+<a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="180" height="180" alt="The Click" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6dNpXYhDwtLfJdUXhqA9rX">House Party</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">Weak</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">House Party (2023)</span>
+<span style="font-size: 13px; color: #666;">AJR</span><br><span style="font-size: 12px; color: #666;">The Click (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6dNpXYhDwtLfJdUXhqA9rX">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730a984d7ea9ecf7738cf1d530" width="96" height="96" alt="House Party" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6dNpXYhDwtLfJdUXhqA9rX">House Party</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">House Party (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Broken Brass</span>
     <br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734f3bbf9631faeb8de9912a23" width="96" height="96" alt="Astro Lounge" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK">All Star</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Smash Mouth</span>
-    <br><span style="font-size: 12px; color: #666;">Astro Lounge (1999)</span>
   </td>
 </tr>
 <tr>
