@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7Fty63DHnf6nlNvwLiUI5X">
-      <img src="https://i.scdn.co/image/ab6742d3000053b7a78773a07cdfb1c4d3736526" width="96" height="96" alt="It&#39;s Gonna Be Me" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7Fty63DHnf6nlNvwLiUI5X">It&#39;s Gonna Be Me</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">*NSYNC</span>
-    <br><span style="font-size: 12px; color: #666;">It&#39;s Gonna Be Me (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
