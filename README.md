@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7aukmVnOmk07vtEjsznqFT">
-  <img src="https://i.scdn.co/image/ab6742d3000053b7024ce7bb5c0defdf6509fe8e" width="180" height="180" alt="Numb" />
+<a href="https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="180" height="180" alt="Meteora" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7aukmVnOmk07vtEjsznqFT">Numb</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h">Numb</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Numb (2003)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Meteora (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7aukmVnOmk07vtEjsznqFT">
+      <img src="https://i.scdn.co/image/ab6742d3000053b7024ce7bb5c0defdf6509fe8e" width="96" height="96" alt="Numb" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7aukmVnOmk07vtEjsznqFT">Numb</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Linkin Park</span>
+    <br><span style="font-size: 12px; color: #666;">Numb (2003)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Thundersmack</span>
     <br><span style="font-size: 12px; color: #666;">GET UP (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0N9ZvzuX2NdQVJqWP2fN0N">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731eb9dae00b5d0009ecadeca2" width="96" height="96" alt="Halo Theme Song" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0N9ZvzuX2NdQVJqWP2fN0N">Halo Theme Song</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">William Joseph &amp; Lindsey Stirling</span>
-    <br><span style="font-size: 12px; color: #666;">Halo Theme Song (2013)</span>
   </td>
 </tr>
 <tr>
