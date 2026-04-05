@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736ff25c2481eeaf6e7284d461" width="96" height="96" alt="Man On The Moon III: The Chosen" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq">Sad People</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kid Cudi</span>
-    <br><span style="font-size: 12px; color: #666;">Man On The Moon III: The Chosen (2020)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
