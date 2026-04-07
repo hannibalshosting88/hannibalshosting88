@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6FuvavdApbDC1pG5jldehp">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e5bc3516872cdd2fc66ca105" width="180" height="180" alt="Reaching into Infinity (Special Edition)" />
+<a href="https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="180" height="180" alt="Hybrid Theory (Bonus Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6FuvavdApbDC1pG5jldehp">Ashes of the Dawn</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq">In the End</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">DragonForce</span><br><span style="font-size: 12px; color: #666;">Reaching into Infinity (Special Edition) (2017)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6FuvavdApbDC1pG5jldehp">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e5bc3516872cdd2fc66ca105" width="96" height="96" alt="Reaching into Infinity (Special Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6FuvavdApbDC1pG5jldehp">Ashes of the Dawn</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">DragonForce</span>
+    <br><span style="font-size: 12px; color: #666;">Reaching into Infinity (Special Edition) (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
