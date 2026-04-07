@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bec79a32d42931ceac42f748" width="180" height="180" alt="Never Land" />
+<a href="https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fe7908b7666690bf4e83ce14" width="180" height="180" alt="Pursuit Of Happiness [Extended Steve Aoki Remix (Explicit)]" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">You Can&#39;t Stop Me</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ">Pursuit Of Happiness - Extended Steve Aoki Remix</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Andy Mineo</span><br><span style="font-size: 12px; color: #666;">Never Land (2014)</span>
+<span style="font-size: 13px; color: #666;">Kid Cudi, MGMT, Ratatat, Steve Aoki</span><br><span style="font-size: 12px; color: #666;">Pursuit Of Happiness [Extended Steve Aoki Remix (Explicit)] (2012)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bec79a32d42931ceac42f748" width="96" height="96" alt="Never Land" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">You Can&#39;t Stop Me</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Andy Mineo</span>
+    <br><span style="font-size: 12px; color: #666;">Never Land (2014)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Lil Wayne</span>
     <br><span style="font-size: 12px; color: #666;">Sorry 4 The Wait (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="96" height="96" alt="The Essential Incubus" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4YK5MCLnSxbFbiVNkPsmTT">Oil and Water</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Incubus</span>
-    <br><span style="font-size: 12px; color: #666;">The Essential Incubus (2012)</span>
   </td>
 </tr>
 <tr>
