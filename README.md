@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f485a27298fbd17d868f7565" width="180" height="180" alt="A Crow Left Of The Murder..." />
+<a href="https://open.spotify.com/track/3BmjRmFTESgWZLPSVGp8aG">
+  <img src="https://i.scdn.co/image/ab67616d0000b27310b4bd659193bc34476e066f" width="180" height="180" alt="Meteora (Bonus Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">Sick Sad Little World</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3BmjRmFTESgWZLPSVGp8aG">Lying from You</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">A Crow Left Of The Murder... (2004)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Meteora (Bonus Edition) (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f485a27298fbd17d868f7565" width="96" height="96" alt="A Crow Left Of The Murder..." />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">Sick Sad Little World</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Incubus</span>
+    <br><span style="font-size: 12px; color: #666;">A Crow Left Of The Murder... (2004)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
