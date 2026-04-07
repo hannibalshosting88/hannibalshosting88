@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc">
-  <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" width="180" height="180" alt="V" />
+<a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="180" height="180" alt="The Essential Incubus" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc">Maps</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf">Warning</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Maroon 5</span><br><span style="font-size: 12px; color: #666;">V (2014)</span>
+<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">The Essential Incubus (2012)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc">
+      <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" width="96" height="96" alt="V" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc">Maps</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Maroon 5</span>
+    <br><span style="font-size: 12px; color: #666;">V (2014)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
