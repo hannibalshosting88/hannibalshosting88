@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7iEAXxrT1jn6AVa6hLRZ7m">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739f5c2a5bdc4a8030e3997d6e" width="96" height="96" alt="Warp Speed Warriors" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7iEAXxrT1jn6AVa6hLRZ7m">Power of the Triforce</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">DragonForce</span>
-    <br><span style="font-size: 12px; color: #666;">Warp Speed Warriors (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
