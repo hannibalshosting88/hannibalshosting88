@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0hAs4PthwOrtgiSXvamJhT">
-  <img src="https://i.scdn.co/image/ab67616d0000b273472222bb1613ec35de8a6366" width="180" height="180" alt="Knew School" />
+<a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa">
+  <img src="https://i.scdn.co/image/ab67616d0000b273335534788cbc39cfd23ee993" width="180" height="180" alt="Wolfmother" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0hAs4PthwOrtgiSXvamJhT">101 (The Good Stuff)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa">Joker And The Thief</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Knowmads</span><br><span style="font-size: 12px; color: #666;">Knew School (2016)</span>
+<span style="font-size: 13px; color: #666;">Wolfmother</span><br><span style="font-size: 12px; color: #666;">2005</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0hAs4PthwOrtgiSXvamJhT">
+      <img src="https://i.scdn.co/image/ab67616d0000b273472222bb1613ec35de8a6366" width="96" height="96" alt="Knew School" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0hAs4PthwOrtgiSXvamJhT">101 (The Good Stuff)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Knowmads</span>
+    <br><span style="font-size: 12px; color: #666;">Knew School (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7A7DlvhGTAFRX9wBjD71Mc">SCP 2609 - Traveling Lamp</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/4LZhvxLzg8DeaMBqU6AQnE">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4LZhvxLzg8DeaMBqU6AQnE">SCP 1495 - Karmic Musth</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
