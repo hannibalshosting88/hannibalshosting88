@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">
-  <img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="180" height="180" alt="Make Yourself" />
+<a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f485a27298fbd17d868f7565" width="180" height="180" alt="A Crow Left Of The Murder..." />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">Make Yourself</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">Sick Sad Little World</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">Make Yourself (1999)</span>
+<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">A Crow Left Of The Murder... (2004)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">
+      <img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="96" height="96" alt="Make Yourself" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">Make Yourself</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Incubus</span>
+    <br><span style="font-size: 12px; color: #666;">Make Yourself (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1whdQn41THENojl4ls1qHz">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a880c628802c6545a102b522b" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1whdQn41THENojl4ls1qHz">SCP-3675 │ The Void Called │ Keter │ Mind Affecting/K-Class Scenario SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
   </td>
 </tr>
 <tr>
