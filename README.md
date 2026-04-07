@@ -22,20 +22,54 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735b69d37803c251a84c111e2d" width="180" height="180" alt="Miles On It (Remixes)" />
+<a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bec79a32d42931ceac42f748" width="180" height="180" alt="Never Land" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">You Can&#39;t Stop Me</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Marshmello, Kane Brown, Ely Oaks</span><br><span style="font-size: 12px; color: #666;">Miles On It (Remixes) (2024)</span>
+<span style="font-size: 13px; color: #666;">Andy Mineo</span><br><span style="font-size: 12px; color: #666;">Never Land (2014)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C">
+      <img src="https://i.scdn.co/image/ab67616d0000b27302a999c3a283b5392e57737d" width="96" height="96" alt="Tha Carter III (MTV Bonus Version)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C">A Milli</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lil Wayne</span>
+    <br><span style="font-size: 12px; color: #666;">Tha Carter III (MTV Bonus Version) (2008)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735b69d37803c251a84c111e2d" width="96" height="96" alt="Miles On It (Remixes)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Marshmello, Kane Brown, Ely Oaks</span>
+    <br><span style="font-size: 12px; color: #666;">Miles On It (Remixes) (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -167,40 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Incubus</span>
     <br><span style="font-size: 12px; color: #666;">The Essential Incubus (2012)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="96" height="96" alt="Metallica (Remastered)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ">Enter Sandman (Remastered)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Metallica</span>
-    <br><span style="font-size: 12px; color: #666;">Metallica (Remastered) (1991)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL">
-      <img src="https://i.scdn.co/image/ab67616d0000b27324edb22d068eb245a924b7f2" width="96" height="96" alt="UNDERTALE Soundtrack" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL">MEGALOVANIA</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Toby Fox</span>
-    <br><span style="font-size: 12px; color: #666;">UNDERTALE Soundtrack (2015)</span>
   </td>
 </tr>
 <tr>
