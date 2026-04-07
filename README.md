@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="180" height="180" alt="The Essential Incubus" />
+<a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735b69d37803c251a84c111e2d" width="180" height="180" alt="Miles On It (Remixes)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf">Warning</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">The Essential Incubus (2012)</span>
+<span style="font-size: 13px; color: #666;">Marshmello, Kane Brown, Ely Oaks</span><br><span style="font-size: 12px; color: #666;">Miles On It (Remixes) (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="96" height="96" alt="The Essential Incubus" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/59zsmxcKTMoPkFGGR6Wqqf">Warning</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Incubus</span>
+    <br><span style="font-size: 12px; color: #666;">The Essential Incubus (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
