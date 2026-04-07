@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="180" height="180" alt="JoJo&#39;s Theme (Doom Version)" />
+<a href="https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4">
+  <img src="https://i.scdn.co/image/ab67616d0000b27383c39b0d32eb4a2064e1e228" width="180" height="180" alt="Away From The Sun" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo&#39;s Theme (Doom Version)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4">Here Without You</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Aahiden, Aaron F. Bianchi Jupiter</span><br><span style="font-size: 12px; color: #666;">JoJo&#39;s Theme (Doom Version) (2022)</span>
+<span style="font-size: 13px; color: #666;">3 Doors Down</span><br><span style="font-size: 12px; color: #666;">Away From The Sun (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="96" height="96" alt="JoJo&#39;s Theme (Doom Version)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo&#39;s Theme (Doom Version)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Aahiden, Aaron F. Bianchi Jupiter</span>
+    <br><span style="font-size: 12px; color: #666;">JoJo&#39;s Theme (Doom Version) (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">DragonForce</span>
     <br><span style="font-size: 12px; color: #666;">Warp Speed Warriors (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa">
-      <img src="https://i.scdn.co/image/ab67616d0000b273335534788cbc39cfd23ee993" width="96" height="96" alt="Wolfmother" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa">Joker And The Thief</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Wolfmother</span>
-    <br><span style="font-size: 12px; color: #666;">2005</span>
   </td>
 </tr>
 <tr>
