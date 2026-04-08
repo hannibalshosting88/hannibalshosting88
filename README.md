@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735b69d37803c251a84c111e2d" width="96" height="96" alt="Miles On It (Remixes)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1QbfzstTU9PsDiBXhNNtYr">Miles On It - Ely Oaks Remix</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Marshmello, Kane Brown, Ely Oaks</span>
-    <br><span style="font-size: 12px; color: #666;">Miles On It (Remixes) (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
