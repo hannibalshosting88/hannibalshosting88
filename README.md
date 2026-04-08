@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6FuvavdApbDC1pG5jldehp">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e5bc3516872cdd2fc66ca105" width="96" height="96" alt="Reaching into Infinity (Special Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6FuvavdApbDC1pG5jldehp">Ashes of the Dawn</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">DragonForce</span>
-    <br><span style="font-size: 12px; color: #666;">Reaching into Infinity (Special Edition) (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
