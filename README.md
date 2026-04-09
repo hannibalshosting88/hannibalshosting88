@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/3N6NECW12VxcimEVSGgB5h">
+<a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">
   <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="180" height="180" alt="BedtimeSCP" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3N6NECW12VxcimEVSGgB5h">SCP 6173 - The Art - The Origin</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">A Place to Drown - SCP 7900</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">BedtimeSCP</span><br><span style="font-size: 12px; color: #666;">2024</span>
+<span style="font-size: 13px; color: #666;">BedtimeSCP</span><br><span style="font-size: 12px; color: #666;">2023</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/3N6NECW12VxcimEVSGgB5h">
+      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3N6NECW12VxcimEVSGgB5h">SCP 6173 - The Art - The Origin</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
+    <br><span style="font-size: 12px; color: #666;">2024</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -150,23 +167,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">A Place to Drown - SCP 7900</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
   </td>
 </tr>
 <tr>
