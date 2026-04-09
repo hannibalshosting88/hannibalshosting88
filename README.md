@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8">
-  <img src="https://i.scdn.co/image/ab67616d0000b273eb3092620e6816700d502bb8" width="180" height="180" alt="Jason Derulo" />
+<a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN">
+  <img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="180" height="180" alt="Good Company" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8">Whatcha Say</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN">In Hell I&#39;ll Be in Good Company</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Jason Derulo</span><br><span style="font-size: 12px; color: #666;">2010</span>
+<span style="font-size: 13px; color: #666;">The Dead South</span><br><span style="font-size: 12px; color: #666;">Good Company (2014)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8">
+      <img src="https://i.scdn.co/image/ab67616d0000b273eb3092620e6816700d502bb8" width="96" height="96" alt="Jason Derulo" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8">Whatcha Say</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Jason Derulo</span>
+    <br><span style="font-size: 12px; color: #666;">2010</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">The Black Keys</span>
     <br><span style="font-size: 12px; color: #666;">El Camino (2021 Remaster) (2011)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/27cyWPYManSTHiwMreSuGB">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730f2ae7617af2ce35795b330a" width="96" height="96" alt="Any Port In A Storm (Special Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/27cyWPYManSTHiwMreSuGB">Lay Me Down (feat. Rome)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Dirty Heads, ROME</span>
-    <br><span style="font-size: 12px; color: #666;">Any Port In A Storm (Special Edition) (2008)</span>
   </td>
 </tr>
 <tr>
