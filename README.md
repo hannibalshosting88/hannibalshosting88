@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6OQWPkRPWVMzTQsHOjIZVD">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731984ae05d586371351e056d7" width="180" height="180" alt="El Camino (2021 Remaster)" />
+<a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190">
+  <img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="180" height="180" alt="Galactic Empire" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6OQWPkRPWVMzTQsHOjIZVD">Lonely Boy - 2021 Remaster</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190">The Force Theme</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Black Keys</span><br><span style="font-size: 12px; color: #666;">El Camino (2021 Remaster) (2011)</span>
+<span style="font-size: 13px; color: #666;">Galactic Empire</span><br><span style="font-size: 12px; color: #666;">2017</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6OQWPkRPWVMzTQsHOjIZVD">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731984ae05d586371351e056d7" width="96" height="96" alt="El Camino (2021 Remaster)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6OQWPkRPWVMzTQsHOjIZVD">Lonely Boy - 2021 Remaster</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Black Keys</span>
+    <br><span style="font-size: 12px; color: #666;">El Camino (2021 Remaster) (2011)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Metallica</span>
     <br><span style="font-size: 12px; color: #666;">Reload (1997)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF">
-      <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" width="96" height="96" alt="Songs About Jane: 10th Anniversary Edition" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF">This Love</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Maroon 5</span>
-    <br><span style="font-size: 12px; color: #666;">Songs About Jane: 10th Anniversary Edition (2002)</span>
   </td>
 </tr>
 <tr>
