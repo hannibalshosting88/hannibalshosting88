@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="180" height="180" alt="Mezmerize" />
+<a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ec4d79e8035ed2803ecfe2b3" width="180" height="180" alt="Sparkle And Fade" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">Question!</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI">Santa Monica</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Mezmerize (2005)</span>
+<span style="font-size: 13px; color: #666;">Everclear</span><br><span style="font-size: 12px; color: #666;">Sparkle And Fade (1995)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="96" height="96" alt="Mezmerize" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">Question!</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">System Of A Down</span>
+    <br><span style="font-size: 12px; color: #666;">Mezmerize (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
