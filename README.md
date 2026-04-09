@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737135d37ce920db353f813f32" width="180" height="180" alt="Highly Evolved" />
+<a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436" width="180" height="180" alt="Outlandos D&#39;Amour (Remastered 2003)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx">Get Free</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo">Roxanne</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Vines</span><br><span style="font-size: 12px; color: #666;">Highly Evolved (2002)</span>
+<span style="font-size: 13px; color: #666;">The Police</span><br><span style="font-size: 12px; color: #666;">Outlandos D&#39;Amour (Remastered 2003) (1978)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737135d37ce920db353f813f32" width="96" height="96" alt="Highly Evolved" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx">Get Free</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Vines</span>
+    <br><span style="font-size: 12px; color: #666;">Highly Evolved (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">A Place to Drown - SCP 7900</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
   </td>
 </tr>
 <tr>
