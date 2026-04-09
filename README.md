@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">
-  <img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="180" height="180" alt="Enemy (from the series Arcane League of Legends)" />
+<a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t">
+  <img src="https://i.scdn.co/image/ab67616d0000b273be54746b374358970b5e617a" width="180" height="180" alt="...And Justice for All (Remastered Deluxe Box Set)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t">One (Remastered)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Imagine Dragons, Arcane, League of Legends</span><br><span style="font-size: 12px; color: #666;">Enemy (from the series Arcane League of Legends) (2021)</span>
+<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">...And Justice for All (Remastered Deluxe Box Set) (1988)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">
+      <img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="96" height="96" alt="Enemy (from the series Arcane League of Legends)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Imagine Dragons, Arcane, League of Legends</span>
+    <br><span style="font-size: 12px; color: #666;">Enemy (from the series Arcane League of Legends) (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">The Police</span>
     <br><span style="font-size: 12px; color: #666;">Outlandos D&#39;Amour (Remastered 2003) (1978)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737135d37ce920db353f813f32" width="96" height="96" alt="Highly Evolved" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx">Get Free</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Vines</span>
-    <br><span style="font-size: 12px; color: #666;">Highly Evolved (2002)</span>
   </td>
 </tr>
 <tr>
