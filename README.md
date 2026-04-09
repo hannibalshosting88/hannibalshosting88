@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="180" height="180" alt="Hypnotize" />
+<a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890" width="180" height="180" alt="Wonder What&#39;s Next (Expanded Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX">Lonely Day</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl">Closure</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Hypnotize (2005)</span>
+<span style="font-size: 13px; color: #666;">Chevelle</span><br><span style="font-size: 12px; color: #666;">Wonder What&#39;s Next (Expanded Edition) (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="96" height="96" alt="Hypnotize" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX">Lonely Day</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">System Of A Down</span>
+    <br><span style="font-size: 12px; color: #666;">Hypnotize (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Linkin Park</span>
     <br><span style="font-size: 12px; color: #666;">New Divide (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ec4d79e8035ed2803ecfe2b3" width="96" height="96" alt="Sparkle And Fade" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI">Santa Monica</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Everclear</span>
-    <br><span style="font-size: 12px; color: #666;">Sparkle And Fade (1995)</span>
   </td>
 </tr>
 <tr>
