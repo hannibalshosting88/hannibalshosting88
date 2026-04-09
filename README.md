@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t">
-  <img src="https://i.scdn.co/image/ab67616d0000b273be54746b374358970b5e617a" width="180" height="180" alt="...And Justice for All (Remastered Deluxe Box Set)" />
+<a href="https://open.spotify.com/track/0Jc8qF1mUPo1A96HE9QxZz">
+  <img src="https://i.scdn.co/image/ab67616d0000b273270bccf2f538d6f170bd0e2d" width="180" height="180" alt="Celebrity" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t">One (Remastered)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0Jc8qF1mUPo1A96HE9QxZz">Pop</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">...And Justice for All (Remastered Deluxe Box Set) (1988)</span>
+<span style="font-size: 13px; color: #666;">*NSYNC</span><br><span style="font-size: 12px; color: #666;">Celebrity (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t">
+      <img src="https://i.scdn.co/image/ab67616d0000b273be54746b374358970b5e617a" width="96" height="96" alt="...And Justice for All (Remastered Deluxe Box Set)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t">One (Remastered)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Metallica</span>
+    <br><span style="font-size: 12px; color: #666;">...And Justice for All (Remastered Deluxe Box Set) (1988)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Soft Cell</span>
     <br><span style="font-size: 12px; color: #666;">Non-Stop Erotic Cabaret (1981)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436" width="96" height="96" alt="Outlandos D&#39;Amour (Remastered 2003)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo">Roxanne</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Police</span>
-    <br><span style="font-size: 12px; color: #666;">Outlandos D&#39;Amour (Remastered 2003) (1978)</span>
   </td>
 </tr>
 <tr>
