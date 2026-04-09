@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/58E1XVmZTODC67YNjneuXM">
-      <img src="https://i.scdn.co/image/ab67616d0000b273db5f42a5cd45458926cab59d" width="96" height="96" alt="Non-Stop Erotic Cabaret" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/58E1XVmZTODC67YNjneuXM">Tainted Love</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Soft Cell</span>
-    <br><span style="font-size: 12px; color: #666;">Non-Stop Erotic Cabaret (1981)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
