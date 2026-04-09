@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190">
-  <img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="180" height="180" alt="Galactic Empire" />
+<a href="https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ">
+  <img src="https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0" width="180" height="180" alt="Ride The Lightning (Deluxe Remaster)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190">The Force Theme</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ">For Whom The Bell Tolls (Remastered)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Galactic Empire</span><br><span style="font-size: 12px; color: #666;">2017</span>
+<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">Ride The Lightning (Deluxe Remaster) (1984)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190">
+      <img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="96" height="96" alt="Galactic Empire" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5tXNJRUcfrkBQGALWpx190">The Force Theme</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Galactic Empire</span>
+    <br><span style="font-size: 12px; color: #666;">2017</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">System Of A Down</span>
     <br><span style="font-size: 12px; color: #666;">Mezmerize (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380" width="96" height="96" alt="Reload" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC">Fuel</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Metallica</span>
-    <br><span style="font-size: 12px; color: #666;">Reload (1997)</span>
   </td>
 </tr>
 <tr>
