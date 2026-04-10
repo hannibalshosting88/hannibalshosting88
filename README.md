@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">
-  <img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="180" height="180" alt="Make Yourself" />
+<a href="https://open.spotify.com/track/0lwkzF4dDxLp8HMVSQjpFf">
+  <img src="https://i.scdn.co/image/ab67616d0000b27320f08caabcf7658d36c98637" width="180" height="180" alt="PUNK TACTICS" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">When It Comes</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0lwkzF4dDxLp8HMVSQjpFf">HOOLIGANG</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">Make Yourself (1999)</span>
+<span style="font-size: 13px; color: #666;">Joey Valence &amp; Brae</span><br><span style="font-size: 12px; color: #666;">PUNK TACTICS (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">
+      <img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="96" height="96" alt="Make Yourself" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1s1o4BDXBNB0Wh2iAtN5Ak">When It Comes</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Incubus</span>
+    <br><span style="font-size: 12px; color: #666;">Make Yourself (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
