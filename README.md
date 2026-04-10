@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/7A7DlvhGTAFRX9wBjD71Mc">
-  <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="180" height="180" alt="BedtimeSCP" />
+<a href="https://open.spotify.com/episode/7rIypSskk4wDeCJtQUXYDD">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a896e60499888edf246650e74" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7A7DlvhGTAFRX9wBjD71Mc">SCP 2609 - Traveling Lamp</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7rIypSskk4wDeCJtQUXYDD">The End of Science</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">BedtimeSCP</span><br><span style="font-size: 12px; color: #666;">2024</span>
+<span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/7A7DlvhGTAFRX9wBjD71Mc">
+      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7A7DlvhGTAFRX9wBjD71Mc">SCP 2609 - Traveling Lamp</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
+    <br><span style="font-size: 12px; color: #666;">2024</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
