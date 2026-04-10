@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">
-      <img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="96" height="96" alt="Enemy (from the series Arcane League of Legends)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Imagine Dragons, Arcane, League of Legends</span>
-    <br><span style="font-size: 12px; color: #666;">Enemy (from the series Arcane League of Legends) (2021)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
