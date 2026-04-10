@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733aa5698b9f13447a6ccc0dcc" width="180" height="180" alt="Anthology" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy">Smooth Criminal</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Alien Ant Farm</span><br><span style="font-size: 12px; color: #666;">Anthology (2001)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733aa5698b9f13447a6ccc0dcc" width="96" height="96" alt="Anthology" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy">Smooth Criminal</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Alien Ant Farm</span>
+    <br><span style="font-size: 12px; color: #666;">Anthology (2001)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +196,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1HtofLC8FzhmVM2I5scOs4">Biohacks &amp; Brain Mods - The Coming Age of Implant Culture</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6jpjQNMkLp0k94isRvzpp6">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a5adf3e24e5a9c6dce534230c" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6jpjQNMkLp0k94isRvzpp6">Micro Planets: Building Artificial Worlds with Black Hole Cores</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
