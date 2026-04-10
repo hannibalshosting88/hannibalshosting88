@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ">
-      <img src="https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0" width="96" height="96" alt="Ride The Lightning (Deluxe Remaster)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ">For Whom The Bell Tolls (Remastered)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Metallica</span>
-    <br><span style="font-size: 12px; color: #666;">Ride The Lightning (Deluxe Remaster) (1984)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
