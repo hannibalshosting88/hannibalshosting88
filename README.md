@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0lwkzF4dDxLp8HMVSQjpFf">
-  <img src="https://i.scdn.co/image/ab67616d0000b27320f08caabcf7658d36c98637" width="180" height="180" alt="PUNK TACTICS" />
+<a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c418220159462cdd7cfeb9a1" width="180" height="180" alt="Finding Beauty In Negative Spaces (Bonus Track Version)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0lwkzF4dDxLp8HMVSQjpFf">HOOLIGANG</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0">Fake It</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Joey Valence &amp; Brae</span><br><span style="font-size: 12px; color: #666;">PUNK TACTICS (2023)</span>
+<span style="font-size: 13px; color: #666;">Seether</span><br><span style="font-size: 12px; color: #666;">Finding Beauty In Negative Spaces (Bonus Track Version) (2007)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0lwkzF4dDxLp8HMVSQjpFf">
+      <img src="https://i.scdn.co/image/ab67616d0000b27320f08caabcf7658d36c98637" width="96" height="96" alt="PUNK TACTICS" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0lwkzF4dDxLp8HMVSQjpFf">HOOLIGANG</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Joey Valence &amp; Brae</span>
+    <br><span style="font-size: 12px; color: #666;">PUNK TACTICS (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Metallica</span>
     <br><span style="font-size: 12px; color: #666;">...And Justice for All (Remastered Deluxe Box Set) (1988)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">
-      <img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="96" height="96" alt="Enemy (from the series Arcane League of Legends)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Imagine Dragons, Arcane, League of Legends</span>
-    <br><span style="font-size: 12px; color: #666;">Enemy (from the series Arcane League of Legends) (2021)</span>
   </td>
 </tr>
 <tr>
