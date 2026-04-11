@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733c2579a4f8cacd5b95b8fa68" width="180" height="180" alt="The Battle Of Los Angeles" />
+<a href="https://open.spotify.com/track/6tedQ1ZmbygqhbdcfJL7Xb">
+  <img src="https://i.scdn.co/image/ab67616d0000b273560d24c1b0b6039154c0c3dd" width="180" height="180" alt="The Black And White Album" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8">Guerrilla Radio</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6tedQ1ZmbygqhbdcfJL7Xb">Tick Tick Boom</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Rage Against The Machine</span><br><span style="font-size: 12px; color: #666;">The Battle Of Los Angeles (1999)</span>
+<span style="font-size: 13px; color: #666;">The Hives</span><br><span style="font-size: 12px; color: #666;">The Black And White Album (2007)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733c2579a4f8cacd5b95b8fa68" width="96" height="96" alt="The Battle Of Los Angeles" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8">Guerrilla Radio</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Rage Against The Machine</span>
+    <br><span style="font-size: 12px; color: #666;">The Battle Of Los Angeles (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Spiderbait</span>
     <br><span style="font-size: 12px; color: #666;">Tonight Alright (2004)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="96" height="96" alt="Hybrid Theory (Bonus Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4">One Step Closer</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Linkin Park</span>
-    <br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
   </td>
 </tr>
 <tr>
