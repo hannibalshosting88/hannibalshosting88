@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4rb0AyzxYLeg4p0fXxrhAm">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a8c5022d882f4253d4ed7219" width="96" height="96" alt="Sound Of Change" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4rb0AyzxYLeg4p0fXxrhAm">Burn Slow</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Dirty Heads, Tech N9ne</span>
-    <br><span style="font-size: 12px; color: #666;">Sound Of Change (2014)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
