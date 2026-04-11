@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF">
-  <img src="https://i.scdn.co/image/ab67616d0000b27313d4adf9e4b938f88266f4e4" width="180" height="180" alt="Hellbilly Deluxe" />
+<a href="https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733c2579a4f8cacd5b95b8fa68" width="180" height="180" alt="The Battle Of Los Angeles" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF">Dragula</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8">Guerrilla Radio</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Rob Zombie</span><br><span style="font-size: 12px; color: #666;">Hellbilly Deluxe (1998)</span>
+<span style="font-size: 13px; color: #666;">Rage Against The Machine</span><br><span style="font-size: 12px; color: #666;">The Battle Of Los Angeles (1999)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF">
+      <img src="https://i.scdn.co/image/ab67616d0000b27313d4adf9e4b938f88266f4e4" width="96" height="96" alt="Hellbilly Deluxe" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF">Dragula</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Rob Zombie</span>
+    <br><span style="font-size: 12px; color: #666;">Hellbilly Deluxe (1998)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Linkin Park</span>
     <br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96">
-      <img src="https://i.scdn.co/image/ab67616d0000b27350ca1d43c778ca1de9e99979" width="96" height="96" alt="Scornful Woman" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96">Scornful Woman</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Oliver Anthony Music</span>
-    <br><span style="font-size: 12px; color: #666;">Scornful Woman (2025)</span>
   </td>
 </tr>
 <tr>
