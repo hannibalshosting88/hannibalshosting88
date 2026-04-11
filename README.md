@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e49d8e4b88b70ac7fc3cc31c" width="180" height="180" alt="Tonight Alright" />
+<a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="180" height="180" alt="Tha Carter IV (Complete Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L">Black Betty - Single Edit</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH">6 Foot 7 Foot</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Spiderbait</span><br><span style="font-size: 12px; color: #666;">Tonight Alright (2004)</span>
+<span style="font-size: 13px; color: #666;">Lil Wayne, Cory Gunz</span><br><span style="font-size: 12px; color: #666;">Tha Carter IV (Complete Edition) (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e49d8e4b88b70ac7fc3cc31c" width="96" height="96" alt="Tonight Alright" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L">Black Betty - Single Edit</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Spiderbait</span>
+    <br><span style="font-size: 12px; color: #666;">Tonight Alright (2004)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">A Place to Drown - SCP 7900</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
   </td>
 </tr>
 <tr>
