@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="180" height="180" alt="Tha Carter IV (Complete Edition)" />
+<a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736b275d72474c508ce2b405a4" width="180" height="180" alt="S&amp;M" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH">6 Foot 7 Foot</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00">No Leaf Clover - Live with the SFSO</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lil Wayne, Cory Gunz</span><br><span style="font-size: 12px; color: #666;">Tha Carter IV (Complete Edition) (2011)</span>
+<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">S&amp;M (1999)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="96" height="96" alt="Tha Carter IV (Complete Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH">6 Foot 7 Foot</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lil Wayne, Cory Gunz</span>
+    <br><span style="font-size: 12px; color: #666;">Tha Carter IV (Complete Edition) (2011)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
