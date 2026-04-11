@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3A7YqqDeCV4FcYipIvN3a2">
-  <img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="180" height="180" alt="Thundersmack" />
+<a href="https://open.spotify.com/track/6NaBDHz9C7Uz9Z9CwLXQin">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="180" height="180" alt="Night Visions" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3A7YqqDeCV4FcYipIvN3a2">Slap</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6NaBDHz9C7Uz9Z9CwLXQin">Bleeding Out</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">2021</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Night Visions (2012)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3A7YqqDeCV4FcYipIvN3a2">
+      <img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="96" height="96" alt="Thundersmack" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3A7YqqDeCV4FcYipIvN3a2">Slap</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">2021</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Incubus</span>
     <br><span style="font-size: 12px; color: #666;">Make Yourself (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo">
-      <img src="https://i.scdn.co/image/ab67616d0000b27345b78de8d4ec88bd55cc1d2c" width="96" height="96" alt="wutiwant" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo">wutiwant</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">saraunh0ly</span>
-    <br><span style="font-size: 12px; color: #666;">wutiwant (2022)</span>
   </td>
 </tr>
 <tr>
