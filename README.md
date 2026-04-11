@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6a6SHtQrsfzEhp7siarZkD">
-  <img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="180" height="180" alt="Good Company" />
+<a href="https://open.spotify.com/track/4V9JDRqKjN8F2HWdlEDxvI">
+  <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" width="180" height="180" alt="Songs About Jane: 10th Anniversary Edition" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6a6SHtQrsfzEhp7siarZkD">Honey You</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4V9JDRqKjN8F2HWdlEDxvI">Harder To Breathe</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Dead South</span><br><span style="font-size: 12px; color: #666;">Good Company (2014)</span>
+<span style="font-size: 13px; color: #666;">Maroon 5</span><br><span style="font-size: 12px; color: #666;">Songs About Jane: 10th Anniversary Edition (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6a6SHtQrsfzEhp7siarZkD">
+      <img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="96" height="96" alt="Good Company" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6a6SHtQrsfzEhp7siarZkD">Honey You</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Dead South</span>
+    <br><span style="font-size: 12px; color: #666;">Good Company (2014)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
