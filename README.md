@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6tedQ1ZmbygqhbdcfJL7Xb">
-      <img src="https://i.scdn.co/image/ab67616d0000b273560d24c1b0b6039154c0c3dd" width="96" height="96" alt="The Black And White Album" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6tedQ1ZmbygqhbdcfJL7Xb">Tick Tick Boom</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Hives</span>
-    <br><span style="font-size: 12px; color: #666;">The Black And White Album (2007)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
