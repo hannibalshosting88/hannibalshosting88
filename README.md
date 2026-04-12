@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF">
-      <img src="https://i.scdn.co/image/ab67616d0000b27313d4adf9e4b938f88266f4e4" width="96" height="96" alt="Hellbilly Deluxe" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF">Dragula</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Rob Zombie</span>
-    <br><span style="font-size: 12px; color: #666;">Hellbilly Deluxe (1998)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
