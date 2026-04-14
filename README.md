@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/7hsQ6DqCfHqvvIahvWRJcv">
+<a href="https://open.spotify.com/episode/0QC3Skq0nqjoHih4Gd5gob">
   <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="180" height="180" alt="BedtimeSCP" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7hsQ6DqCfHqvvIahvWRJcv">SCP 3763 - A Piece of Him is Still Around</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0QC3Skq0nqjoHih4Gd5gob">SCP 3780 - Who Shot J.F.K.?</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">BedtimeSCP</span><br><span style="font-size: 12px; color: #666;">2024</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/7hsQ6DqCfHqvvIahvWRJcv">
+      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7hsQ6DqCfHqvvIahvWRJcv">SCP 3763 - A Piece of Him is Still Around</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
+    <br><span style="font-size: 12px; color: #666;">2024</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -164,23 +181,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6JsO85gnoxfEDFkqGEbY5R">SCP 3775 - A Wild Party</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/0QC3Skq0nqjoHih4Gd5gob">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0QC3Skq0nqjoHih4Gd5gob">SCP 3780 - Who Shot J.F.K.?</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
