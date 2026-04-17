@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bed30c3640a8c8929d65ed3f" width="180" height="180" alt="American V: A Hundred Highways" />
+<a href="https://open.spotify.com/track/0lvhEsN1zkMzfp2M1o17yy">
+  <img src="https://i.scdn.co/image/ab67616d0000b27391809a44f16f6434927c1e3f" width="180" height="180" alt="American Idiot (20th Anniversary Deluxe Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo">God&#39;s Gonna Cut You Down</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0lvhEsN1zkMzfp2M1o17yy">Holiday</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Johnny Cash</span><br><span style="font-size: 12px; color: #666;">American V: A Hundred Highways (2006)</span>
+<span style="font-size: 13px; color: #666;">Green Day</span><br><span style="font-size: 12px; color: #666;">American Idiot (20th Anniversary Deluxe Edition) (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bed30c3640a8c8929d65ed3f" width="96" height="96" alt="American V: A Hundred Highways" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo">God&#39;s Gonna Cut You Down</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Johnny Cash</span>
+    <br><span style="font-size: 12px; color: #666;">American V: A Hundred Highways (2006)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">A Place to Drown - SCP 7900</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
   </td>
 </tr>
 <tr>
