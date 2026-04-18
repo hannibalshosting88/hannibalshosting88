@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cdf16453ba15c8f97644e630" width="96" height="96" alt="Come on!" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4">Come on!</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kyle Exum</span>
-    <br><span style="font-size: 12px; color: #666;">Come on! (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
