@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi">
-      <img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="96" height="96" alt="Origins (Deluxe)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi">Zero - From the Original Motion Picture &quot;Ralph Breaks The Internet&quot;</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
-    <br><span style="font-size: 12px; color: #666;">Origins (Deluxe) (2018)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
