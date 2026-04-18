@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Q3I3m3GGDAy7XQYGKmY6Q">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739b1ccbcfa22cb30928aa1e92" width="180" height="180" alt="The Hadal Zone" />
+<a href="https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5" width="180" height="180" alt="Willy And The Poor Boys (Expanded Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1Q3I3m3GGDAy7XQYGKmY6Q">Micro Rave</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh">Fortunate Son</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Opal Ocean</span><br><span style="font-size: 12px; color: #666;">The Hadal Zone (2020)</span>
+<span style="font-size: 13px; color: #666;">Creedence Clearwater Revival</span><br><span style="font-size: 12px; color: #666;">Willy And The Poor Boys (Expanded Edition) (1969)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1Q3I3m3GGDAy7XQYGKmY6Q">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739b1ccbcfa22cb30928aa1e92" width="96" height="96" alt="The Hadal Zone" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1Q3I3m3GGDAy7XQYGKmY6Q">Micro Rave</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Opal Ocean</span>
+    <br><span style="font-size: 12px; color: #666;">The Hadal Zone (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
