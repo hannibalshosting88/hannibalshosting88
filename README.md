@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bed30c3640a8c8929d65ed3f" width="96" height="96" alt="American V: A Hundred Highways" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo">God&#39;s Gonna Cut You Down</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Johnny Cash</span>
-    <br><span style="font-size: 12px; color: #666;">American V: A Hundred Highways (2006)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
