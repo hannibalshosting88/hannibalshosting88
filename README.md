@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">
-  <img src="https://i.scdn.co/image/ab67616d0000b27393c1b92aa259f41ee79f6e4d" width="180" height="180" alt="SANTIAGO" />
+<a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f" width="180" height="180" alt="METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">SANTIAGO</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB">Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin &amp; Swae Lee, Lil Wayne, Offset)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">SIDEQUEST</span><br><span style="font-size: 12px; color: #666;">SANTIAGO (2024)</span>
+<span style="font-size: 13px; color: #666;">Metro Boomin, Swae Lee, Lil Wayne, Offset</span><br><span style="font-size: 12px; color: #666;">METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE) (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">
+      <img src="https://i.scdn.co/image/ab67616d0000b27393c1b92aa259f41ee79f6e4d" width="96" height="96" alt="SANTIAGO" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">SANTIAGO</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">SIDEQUEST</span>
+    <br><span style="font-size: 12px; color: #666;">SANTIAGO (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -150,23 +167,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Linkin Park</span>
     <br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f" width="96" height="96" alt="METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB">Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin &amp; Swae Lee, Lil Wayne, Offset)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Metro Boomin, Swae Lee, Lil Wayne, Offset</span>
-    <br><span style="font-size: 12px; color: #666;">METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE) (2023)</span>
   </td>
 </tr>
 <tr>
