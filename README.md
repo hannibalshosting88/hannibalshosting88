@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0lvhEsN1zkMzfp2M1o17yy">
-      <img src="https://i.scdn.co/image/ab67616d0000b27391809a44f16f6434927c1e3f" width="96" height="96" alt="American Idiot (20th Anniversary Deluxe Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0lvhEsN1zkMzfp2M1o17yy">Holiday</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Green Day</span>
-    <br><span style="font-size: 12px; color: #666;">American Idiot (20th Anniversary Deluxe Edition) (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
