@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj">
-  <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" width="180" height="180" alt="American Idiot" />
+<a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5">
+  <img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="180" height="180" alt="Origins (Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj">American Idiot</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5">Boomerang</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Green Day</span><br><span style="font-size: 12px; color: #666;">American Idiot (2004)</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Origins (Deluxe) (2018)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj">
+      <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" width="96" height="96" alt="American Idiot" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj">American Idiot</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Green Day</span>
+    <br><span style="font-size: 12px; color: #666;">American Idiot (2004)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/39pd0xbTA5Jmc6XpgYbMgA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/39pd0xbTA5Jmc6XpgYbMgA">Civilization Carrier Case - SCP 3156</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
   </td>
 </tr>
 <tr>
