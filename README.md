@@ -22,14 +22,16 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
+<a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">
+  <img src="https://i.scdn.co/image/ab67616d0000b27393c1b92aa259f41ee79f6e4d" width="180" height="180" alt="SANTIAGO" />
+</a>
 
 <br>
 
-<b>💤 Offline • Nothing currently playing</b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">SANTIAGO</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
+<span style="font-size: 13px; color: #666;">SIDEQUEST</span><br><span style="font-size: 12px; color: #666;">SANTIAGO (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
@@ -165,23 +167,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Metro Boomin, Swae Lee, Lil Wayne, Offset</span>
     <br><span style="font-size: 12px; color: #666;">METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE) (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">
-      <img src="https://i.scdn.co/image/ab67616d0000b27393c1b92aa259f41ee79f6e4d" width="96" height="96" alt="SANTIAGO" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">SANTIAGO</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">SIDEQUEST</span>
-    <br><span style="font-size: 12px; color: #666;">SANTIAGO (2024)</span>
   </td>
 </tr>
 <tr>
