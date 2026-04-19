@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">
-  <img src="https://i.scdn.co/image/ab67616d0000b273463986d828c59a03f2ab0a3f" width="180" height="180" alt="The House That Dirt Built" />
+<a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw">
+  <img src="https://i.scdn.co/image/ab67616d0000b27397e3ca5aecb464f021c601d5" width="180" height="180" alt="Boulevard of Broken Dreams" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">How You Like Me Now</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw">Boulevard of Broken Dreams</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Heavy</span><br><span style="font-size: 12px; color: #666;">The House That Dirt Built (2009)</span>
+<span style="font-size: 13px; color: #666;">Green Day</span><br><span style="font-size: 12px; color: #666;">Boulevard of Broken Dreams (2004)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">
+      <img src="https://i.scdn.co/image/ab67616d0000b273463986d828c59a03f2ab0a3f" width="96" height="96" alt="The House That Dirt Built" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">How You Like Me Now</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Heavy</span>
+    <br><span style="font-size: 12px; color: #666;">The House That Dirt Built (2009)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
