@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw">
-      <img src="https://i.scdn.co/image/ab67616d0000b27397e3ca5aecb464f021c601d5" width="96" height="96" alt="Boulevard of Broken Dreams" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw">Boulevard of Broken Dreams</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Green Day</span>
-    <br><span style="font-size: 12px; color: #666;">Boulevard of Broken Dreams (2004)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
