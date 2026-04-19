@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">
-  <img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="180" height="180" alt="Infinity On High" />
+<a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e3185d5462d4c5403511df15" width="180" height="180" alt="Eyelid Movies" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">When I&#39;m Small</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Fall Out Boy</span><br><span style="font-size: 12px; color: #666;">Infinity On High (2007)</span>
+<span style="font-size: 13px; color: #666;">Phantogram</span><br><span style="font-size: 12px; color: #666;">Eyelid Movies (2010)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">
+      <img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="96" height="96" alt="Infinity On High" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Fall Out Boy</span>
+    <br><span style="font-size: 12px; color: #666;">Infinity On High (2007)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
