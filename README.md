@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="180" height="180" alt="Chocolate Starfish And The Hot Dog Flavored Water" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem">My Way</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Limp Bizkit</span><br><span style="font-size: 12px; color: #666;">Chocolate Starfish And The Hot Dog Flavored Water (2000)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="96" height="96" alt="Chocolate Starfish And The Hot Dog Flavored Water" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem">My Way</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Limp Bizkit</span>
+    <br><span style="font-size: 12px; color: #666;">Chocolate Starfish And The Hot Dog Flavored Water (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Watsky</span>
     <br><span style="font-size: 12px; color: #666;">All You Can Do (2014)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5" width="96" height="96" alt="Willy And The Poor Boys (Expanded Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh">Fortunate Son</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Creedence Clearwater Revival</span>
-    <br><span style="font-size: 12px; color: #666;">Willy And The Poor Boys (Expanded Edition) (1969)</span>
   </td>
 </tr>
 <tr>
