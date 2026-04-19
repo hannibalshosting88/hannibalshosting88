@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">
-      <img src="https://i.scdn.co/image/ab67616d0000b273463986d828c59a03f2ab0a3f" width="96" height="96" alt="The House That Dirt Built" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK">How You Like Me Now</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Heavy</span>
-    <br><span style="font-size: 12px; color: #666;">The House That Dirt Built (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
