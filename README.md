@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT">
-  <img src="https://i.scdn.co/image/ab67616d0000b273890ce61533a89e00ce593fcb" width="180" height="180" alt="Rise And Fall, Rage And Grace" />
+<a href="https://open.spotify.com/track/1Hg2egRryMkCdXqXmXki3A">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738d3609295177e58287f39f85" width="180" height="180" alt="Reanimation" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT">You&#39;re Gonna Go Far, Kid</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1Hg2egRryMkCdXqXmXki3A">Krwlng (Mike Shinoda Reanimation) [feat. Aaron Lewis]</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Offspring</span><br><span style="font-size: 12px; color: #666;">Rise And Fall, Rage And Grace (2008)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park, Aaron Lewis</span><br><span style="font-size: 12px; color: #666;">Reanimation (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT">
+      <img src="https://i.scdn.co/image/ab67616d0000b273890ce61533a89e00ce593fcb" width="96" height="96" alt="Rise And Fall, Rage And Grace" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT">You&#39;re Gonna Go Far, Kid</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Offspring</span>
+    <br><span style="font-size: 12px; color: #666;">Rise And Fall, Rage And Grace (2008)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Opal Ocean</span>
     <br><span style="font-size: 12px; color: #666;">The Hadal Zone (2020)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5">
-      <img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="96" height="96" alt="Origins (Deluxe)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5">Boomerang</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
-    <br><span style="font-size: 12px; color: #666;">Origins (Deluxe) (2018)</span>
   </td>
 </tr>
 <tr>
