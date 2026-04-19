@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT">
-      <img src="https://i.scdn.co/image/ab67616d0000b273890ce61533a89e00ce593fcb" width="96" height="96" alt="Rise And Fall, Rage And Grace" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT">You&#39;re Gonna Go Far, Kid</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Offspring</span>
-    <br><span style="font-size: 12px; color: #666;">Rise And Fall, Rage And Grace (2008)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
