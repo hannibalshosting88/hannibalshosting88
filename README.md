@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="96" height="96" alt="Brasshopper" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby&#39;s Gone</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Broken Brass, Ruben Hein</span>
-    <br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
