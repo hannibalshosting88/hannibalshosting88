@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e3185d5462d4c5403511df15" width="180" height="180" alt="Eyelid Movies" />
+<a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730" width="180" height="180" alt="Cage The Elephant (Expanded Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">When I&#39;m Small</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">Ain&#39;t No Rest for the Wicked</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Phantogram</span><br><span style="font-size: 12px; color: #666;">Eyelid Movies (2010)</span>
+<span style="font-size: 13px; color: #666;">Cage The Elephant</span><br><span style="font-size: 12px; color: #666;">Cage The Elephant (Expanded Edition) (2009)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e3185d5462d4c5403511df15" width="96" height="96" alt="Eyelid Movies" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">When I&#39;m Small</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Phantogram</span>
+    <br><span style="font-size: 12px; color: #666;">Eyelid Movies (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Galactic Empire</span>
     <br><span style="font-size: 12px; color: #666;">X-Men Theme (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eaa10fffa60de320846c28be" width="96" height="96" alt="Appeal To Reason" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB">Savior</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Rise Against</span>
-    <br><span style="font-size: 12px; color: #666;">Appeal To Reason (2008)</span>
   </td>
 </tr>
 <tr>
