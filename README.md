@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730" width="180" height="180" alt="Cage The Elephant (Expanded Edition)" />
+<a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="180" height="180" alt="Brasshopper" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">Ain&#39;t No Rest for the Wicked</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6mPgYpSxZzgiVfK3YiOHfg">Baby&#39;s Gone</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Cage The Elephant</span><br><span style="font-size: 12px; color: #666;">Cage The Elephant (Expanded Edition) (2009)</span>
+<span style="font-size: 13px; color: #666;">Broken Brass, Ruben Hein</span><br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730" width="96" height="96" alt="Cage The Elephant (Expanded Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7">Ain&#39;t No Rest for the Wicked</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Cage The Elephant</span>
+    <br><span style="font-size: 12px; color: #666;">Cage The Elephant (Expanded Edition) (2009)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Jelly Roll</span>
     <br><span style="font-size: 12px; color: #666;">Get By (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">
-      <img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="96" height="96" alt="X-Men Theme" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Galactic Empire</span>
-    <br><span style="font-size: 12px; color: #666;">X-Men Theme (2024)</span>
   </td>
 </tr>
 <tr>
