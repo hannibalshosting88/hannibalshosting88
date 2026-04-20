@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM">
-  <img src="https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6" width="180" height="180" alt="Blur (Special Edition)" />
+<a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e424ea8a9f950ac35b75b437" width="180" height="180" alt="HIVE" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM">Song 2 - 2012 Remaster</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Blur</span><br><span style="font-size: 12px; color: #666;">Blur (Special Edition) (1997)</span>
+<span style="font-size: 13px; color: #666;">Sub Urban, BENEE</span><br><span style="font-size: 12px; color: #666;">HIVE (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM">
+      <img src="https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6" width="96" height="96" alt="Blur (Special Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM">Song 2 - 2012 Remaster</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Blur</span>
+    <br><span style="font-size: 12px; color: #666;">Blur (Special Edition) (1997)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7mKA1h6dSNogNytitszUjl">SCP 2307 - The Pen Is Mightier</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6JsO85gnoxfEDFkqGEbY5R">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6JsO85gnoxfEDFkqGEbY5R">SCP 3775 - A Wild Party</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
