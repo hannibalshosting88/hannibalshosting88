@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/00RI7b6oZDjx6IQC2eH6bh">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="180" height="180" alt="The Attractions Of Youth" />
+<a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bce034d651da4d21e43c8a19" width="180" height="180" alt="Come Together" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/00RI7b6oZDjx6IQC2eH6bh">Hellfire</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU">Come Together</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Barns Courtney</span><br><span style="font-size: 12px; color: #666;">The Attractions Of Youth (2017)</span>
+<span style="font-size: 13px; color: #666;">Gary Clark Jr., Junkie XL</span><br><span style="font-size: 12px; color: #666;">Come Together (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/00RI7b6oZDjx6IQC2eH6bh">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="96" height="96" alt="The Attractions Of Youth" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/00RI7b6oZDjx6IQC2eH6bh">Hellfire</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Barns Courtney</span>
+    <br><span style="font-size: 12px; color: #666;">The Attractions Of Youth (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Linkin Park</span>
     <br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3XPbOitzL5169yfRDXoXMJ">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3XPbOitzL5169yfRDXoXMJ">SCP 4178 - Arachnespheksophobia</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
   </td>
 </tr>
 <tr>
