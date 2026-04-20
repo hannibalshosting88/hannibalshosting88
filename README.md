@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e424ea8a9f950ac35b75b437" width="180" height="180" alt="HIVE" />
+<a href="https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig">
+  <img src="https://i.scdn.co/image/ab67616d0000b27359a1132f3cab22f80b2d2777" width="180" height="180" alt="Hell: The Sequel (Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig">Fast Lane</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Sub Urban, BENEE</span><br><span style="font-size: 12px; color: #666;">HIVE (2022)</span>
+<span style="font-size: 13px; color: #666;">Bad Meets Evil</span><br><span style="font-size: 12px; color: #666;">Hell: The Sequel (Deluxe) (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e424ea8a9f950ac35b75b437" width="96" height="96" alt="HIVE" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Sub Urban, BENEE</span>
+    <br><span style="font-size: 12px; color: #666;">HIVE (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
