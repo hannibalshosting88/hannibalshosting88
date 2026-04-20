@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM">
-      <img src="https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6" width="96" height="96" alt="Blur (Special Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM">Song 2 - 2012 Remaster</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Blur</span>
-    <br><span style="font-size: 12px; color: #666;">Blur (Special Edition) (1997)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
