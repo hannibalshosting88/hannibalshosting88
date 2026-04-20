@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e7dc1e030c1e2638f60faed8" width="180" height="180" alt="Better Place (From TROLLS Band Together)" />
+<a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf">
+  <img src="https://i.scdn.co/image/ab67616d0000b273699a422d25adc550dc5aa11c" width="180" height="180" alt="Silver Side Up" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK">Better Place (From TROLLS Band Together)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf">How You Remind Me</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">*NSYNC, Justin Timberlake</span><br><span style="font-size: 12px; color: #666;">Better Place (From TROLLS Band Together) (2023)</span>
+<span style="font-size: 13px; color: #666;">Nickelback</span><br><span style="font-size: 12px; color: #666;">Silver Side Up (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e7dc1e030c1e2638f60faed8" width="96" height="96" alt="Better Place (From TROLLS Band Together)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK">Better Place (From TROLLS Band Together)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">*NSYNC, Justin Timberlake</span>
+    <br><span style="font-size: 12px; color: #666;">Better Place (From TROLLS Band Together) (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
