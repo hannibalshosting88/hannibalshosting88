@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6o1l9I0faXJN2iqulHrdCQ">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ab051a2c680f39c0d9827706" width="180" height="180" alt="St. Elsewhere" />
+<a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e7dc1e030c1e2638f60faed8" width="180" height="180" alt="Better Place (From TROLLS Band Together)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6o1l9I0faXJN2iqulHrdCQ">Crazy</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK">Better Place (From TROLLS Band Together)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Gnarls Barkley, CeeLo Green, Danger Mouse</span><br><span style="font-size: 12px; color: #666;">St. Elsewhere (2006)</span>
+<span style="font-size: 13px; color: #666;">*NSYNC, Justin Timberlake</span><br><span style="font-size: 12px; color: #666;">Better Place (From TROLLS Band Together) (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6o1l9I0faXJN2iqulHrdCQ">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ab051a2c680f39c0d9827706" width="96" height="96" alt="St. Elsewhere" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6o1l9I0faXJN2iqulHrdCQ">Crazy</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Gnarls Barkley, CeeLo Green, Danger Mouse</span>
+    <br><span style="font-size: 12px; color: #666;">St. Elsewhere (2006)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3N6NECW12VxcimEVSGgB5h">SCP 6173 - The Art - The Origin</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/7A7DlvhGTAFRX9wBjD71Mc">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7A7DlvhGTAFRX9wBjD71Mc">SCP 2609 - Traveling Lamp</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
