@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="180" height="180" alt="Minutes to Midnight" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">What I&#39;ve Done</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="96" height="96" alt="Minutes to Midnight" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">What I&#39;ve Done</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Linkin Park</span>
+    <br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7yOJdvFCcdc3WySZm4XYMO">
-      <img src="https://i.scdn.co/image/ab67616d0000b27378e7d5b0537b966717af3197" width="96" height="96" alt="We Ride" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7yOJdvFCcdc3WySZm4XYMO">We Ride</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Bryan Martin</span>
-    <br><span style="font-size: 12px; color: #666;">We Ride (2022)</span>
   </td>
 </tr>
 <tr>
