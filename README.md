@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="180" height="180" alt="Times Square" />
+<a href="https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl">
+  <img src="https://i.scdn.co/image/ab67616d0000b273483a98632e23f6d2623ab75c" width="180" height="180" alt="Save Rock And Roll" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don&#39;t Wait</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl">My Songs Know What You Did In The Dark (Light Em Up)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
+<span style="font-size: 13px; color: #666;">Fall Out Boy</span><br><span style="font-size: 12px; color: #666;">Save Rock And Roll (2013)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="96" height="96" alt="Times Square" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don&#39;t Wait</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">The Offspring</span>
     <br><span style="font-size: 12px; color: #666;">Smash (1994)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ced01b7001a88f0784e7f74f" width="96" height="96" alt="Gangster Sh**" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">Gangster Sh**</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Pete &amp; Bas</span>
-    <br><span style="font-size: 12px; color: #666;">Gangster Sh** (2023)</span>
   </td>
 </tr>
 <tr>
