@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/00RI7b6oZDjx6IQC2eH6bh">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="96" height="96" alt="The Attractions Of Youth" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/00RI7b6oZDjx6IQC2eH6bh">Hellfire</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Barns Courtney</span>
-    <br><span style="font-size: 12px; color: #666;">The Attractions Of Youth (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
