@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736f555ba312f3317dcbaa2cb9" width="180" height="180" alt="Ain&#39;t No Love In Oklahoma (From Twisters: The Album)" />
+<a href="https://open.spotify.com/track/1kyTf6EuKSuMyLZSFaQ80s">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="180" height="180" alt="Brasshopper" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">Ain&#39;t No Love In Oklahoma (From Twisters: The Album)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1kyTf6EuKSuMyLZSFaQ80s">I&#39;ll Fly Away</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Luke Combs</span><br><span style="font-size: 12px; color: #666;">Ain&#39;t No Love In Oklahoma (From Twisters: The Album) (2024)</span>
+<span style="font-size: 13px; color: #666;">Broken Brass, Harmen Ridderbos</span><br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736f555ba312f3317dcbaa2cb9" width="96" height="96" alt="Ain&#39;t No Love In Oklahoma (From Twisters: The Album)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">Ain&#39;t No Love In Oklahoma (From Twisters: The Album)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Luke Combs</span>
+    <br><span style="font-size: 12px; color: #666;">Ain&#39;t No Love In Oklahoma (From Twisters: The Album) (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
