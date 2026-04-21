@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="180" height="180" alt="Metallica (Remastered)" />
+<a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736f555ba312f3317dcbaa2cb9" width="180" height="180" alt="Ain&#39;t No Love In Oklahoma (From Twisters: The Album)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">Ain&#39;t No Love In Oklahoma (From Twisters: The Album)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">Metallica (Remastered) (1991)</span>
+<span style="font-size: 13px; color: #666;">Luke Combs</span><br><span style="font-size: 12px; color: #666;">Ain&#39;t No Love In Oklahoma (From Twisters: The Album) (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="96" height="96" alt="Metallica (Remastered)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Metallica</span>
+    <br><span style="font-size: 12px; color: #666;">Metallica (Remastered) (1991)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
