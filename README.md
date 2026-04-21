@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf">
-      <img src="https://i.scdn.co/image/ab67616d0000b273699a422d25adc550dc5aa11c" width="96" height="96" alt="Silver Side Up" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf">How You Remind Me</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Nickelback</span>
-    <br><span style="font-size: 12px; color: #666;">Silver Side Up (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
