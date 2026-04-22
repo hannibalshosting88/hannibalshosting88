@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="180" height="180" alt="Rich Men North of Richmond" />
+<a href="https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730158cbde70672dd821972907" width="180" height="180" alt="Smash" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg">Come Out and Play</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Oliver Anthony Music</span><br><span style="font-size: 12px; color: #666;">Rich Men North of Richmond (2023)</span>
+<span style="font-size: 13px; color: #666;">The Offspring</span><br><span style="font-size: 12px; color: #666;">Smash (1994)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="96" height="96" alt="Rich Men North of Richmond" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Oliver Anthony Music</span>
+    <br><span style="font-size: 12px; color: #666;">Rich Men North of Richmond (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/7mKA1h6dSNogNytitszUjl">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7mKA1h6dSNogNytitszUjl">SCP 2307 - The Pen Is Mightier</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
   </td>
 </tr>
 <tr>
