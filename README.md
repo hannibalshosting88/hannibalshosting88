@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4mtmmBBEgdJLYWnLy5zvWE">
-      <img src="https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9" width="96" height="96" alt="One Thing At A Time" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4mtmmBBEgdJLYWnLy5zvWE">Cowgirls</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Morgan Wallen, ERNEST</span>
-    <br><span style="font-size: 12px; color: #666;">One Thing At A Time (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
