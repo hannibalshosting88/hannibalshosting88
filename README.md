@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f74baf63e915712df348e647" width="96" height="96" alt="Dark Horse" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C">Burn It to the Ground</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Nickelback</span>
-    <br><span style="font-size: 12px; color: #666;">Dark Horse (2008)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
