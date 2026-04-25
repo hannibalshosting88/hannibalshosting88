@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4cV7R9NTRqL6equhYdehYL">
-  <img src="https://i.scdn.co/image/ab67616d0000b27387f40d5f60087efff708eb09" width="180" height="180" alt="Lynyrd Skynyrd Greatest Hits" />
+<a href="https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739b62c36a1f8ac00d60f460cc" width="180" height="180" alt="Songs For The Deaf" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4cV7R9NTRqL6equhYdehYL">Down South Jukin&#39;</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH">No One Knows</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lynyrd Skynyrd</span><br><span style="font-size: 12px; color: #666;">Lynyrd Skynyrd Greatest Hits (2008)</span>
+<span style="font-size: 13px; color: #666;">Queens of the Stone Age</span><br><span style="font-size: 12px; color: #666;">Songs For The Deaf (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4cV7R9NTRqL6equhYdehYL">
+      <img src="https://i.scdn.co/image/ab67616d0000b27387f40d5f60087efff708eb09" width="96" height="96" alt="Lynyrd Skynyrd Greatest Hits" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4cV7R9NTRqL6equhYdehYL">Down South Jukin&#39;</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lynyrd Skynyrd</span>
+    <br><span style="font-size: 12px; color: #666;">Lynyrd Skynyrd Greatest Hits (2008)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Yellowcard</span>
     <br><span style="font-size: 12px; color: #666;">Ocean Avenue (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo">
-      <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" width="96" height="96" alt="American Idiot" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo">Holiday / Boulevard of Broken Dreams</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Green Day</span>
-    <br><span style="font-size: 12px; color: #666;">American Idiot (2004)</span>
   </td>
 </tr>
 <tr>
