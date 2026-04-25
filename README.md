@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="180" height="180" alt="Freddie&#39;s Inferno" />
+<a href="https://open.spotify.com/track/2YjyraHHtDjveUNTSypXd3">
+  <img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="180" height="180" alt="Thundersmack" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">Wrath</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2YjyraHHtDjveUNTSypXd3">Moon Dreams</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Freddie Dredd</span><br><span style="font-size: 12px; color: #666;">Freddie&#39;s Inferno (2022)</span>
+<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">2021</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="96" height="96" alt="Freddie&#39;s Inferno" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">Wrath</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Freddie Dredd</span>
+    <br><span style="font-size: 12px; color: #666;">Freddie&#39;s Inferno (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0QC3Skq0nqjoHih4Gd5gob">SCP 3780 - Who Shot J.F.K.?</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/2TMFYjFvMYEH9vlD43MHga">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2TMFYjFvMYEH9vlD43MHga">SCP 4075 - Birds of a Feather</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
