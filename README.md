@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="96" height="96" alt="Sleep With the Lights On" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Wanton Bishops</span>
-    <br><span style="font-size: 12px; color: #666;">Sleep With the Lights On (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
