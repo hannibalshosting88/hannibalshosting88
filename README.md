@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1UMdbkqX19OiwfExH7gzYA">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731f867e23a295217e98674bba" width="180" height="180" alt="Inhuman Rampage" />
+<a href="https://open.spotify.com/track/4cV7R9NTRqL6equhYdehYL">
+  <img src="https://i.scdn.co/image/ab67616d0000b27387f40d5f60087efff708eb09" width="180" height="180" alt="Lynyrd Skynyrd Greatest Hits" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1UMdbkqX19OiwfExH7gzYA">Through The Fire And Flames</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4cV7R9NTRqL6equhYdehYL">Down South Jukin&#39;</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">DragonForce</span><br><span style="font-size: 12px; color: #666;">Inhuman Rampage (2006)</span>
+<span style="font-size: 13px; color: #666;">Lynyrd Skynyrd</span><br><span style="font-size: 12px; color: #666;">Lynyrd Skynyrd Greatest Hits (2008)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1UMdbkqX19OiwfExH7gzYA">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731f867e23a295217e98674bba" width="96" height="96" alt="Inhuman Rampage" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1UMdbkqX19OiwfExH7gzYA">Through The Fire And Flames</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">DragonForce</span>
+    <br><span style="font-size: 12px; color: #666;">Inhuman Rampage (2006)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
