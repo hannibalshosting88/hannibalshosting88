@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f98d9ee18af2b12a5c6b1662" width="180" height="180" alt="When Life Gives You Lemons, You Paint That Shit Gold [Standard Edition]" />
+<a href="https://open.spotify.com/track/46eHxWRKmtYhUHPDRgclt6">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c418220159462cdd7cfeb9a1" width="180" height="180" alt="Finding Beauty In Negative Spaces (Bonus Track Version)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/46eHxWRKmtYhUHPDRgclt6">Careless Whisper</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Atmosphere</span><br><span style="font-size: 12px; color: #666;">When Life Gives You Lemons, You Paint That Shit Gold [Standard Edition] (2008)</span>
+<span style="font-size: 13px; color: #666;">Seether</span><br><span style="font-size: 12px; color: #666;">Finding Beauty In Negative Spaces (Bonus Track Version) (2007)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f98d9ee18af2b12a5c6b1662" width="96" height="96" alt="When Life Gives You Lemons, You Paint That Shit Gold [Standard Edition]" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Atmosphere</span>
+    <br><span style="font-size: 12px; color: #666;">When Life Gives You Lemons, You Paint That Shit Gold [Standard Edition] (2008)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
