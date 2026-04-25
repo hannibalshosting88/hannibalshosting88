@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2osYucU0wCd95ppZXDZhF7">
-  <img src="https://i.scdn.co/image/ab67616d0000b273591e4932468b37feeb378830" width="180" height="180" alt="22 Grand" />
+<a href="https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" width="180" height="180" alt="The Wall" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2osYucU0wCd95ppZXDZhF7">22 Grand</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS">Another Brick in the Wall, Pt. 1</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">DigBar</span><br><span style="font-size: 12px; color: #666;">22 Grand (2025)</span>
+<span style="font-size: 13px; color: #666;">Pink Floyd</span><br><span style="font-size: 12px; color: #666;">The Wall (1979)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2osYucU0wCd95ppZXDZhF7">
+      <img src="https://i.scdn.co/image/ab67616d0000b273591e4932468b37feeb378830" width="96" height="96" alt="22 Grand" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2osYucU0wCd95ppZXDZhF7">22 Grand</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">DigBar</span>
+    <br><span style="font-size: 12px; color: #666;">22 Grand (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">ZZ Top</span>
     <br><span style="font-size: 12px; color: #666;">Fandango! (Expanded 2006 Remaster) (1975)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6HgN2o0xok5sHztRiGr0k3">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733f40174380793b6bb8713a8b" width="96" height="96" alt="Good People" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6HgN2o0xok5sHztRiGr0k3">Good People</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Thundersmack, Honeycomb</span>
-    <br><span style="font-size: 12px; color: #666;">Good People (2020)</span>
   </td>
 </tr>
 <tr>
