@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737d6813fd233f3bc4977cceca" width="180" height="180" alt="Dangerous: The Double Album" />
+<a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="180" height="180" alt="Does This Look Infected?" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM">Wasted On You</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Morgan Wallen</span><br><span style="font-size: 12px; color: #666;">Dangerous: The Double Album (2021)</span>
+<span style="font-size: 13px; color: #666;">Sum 41</span><br><span style="font-size: 12px; color: #666;">Does This Look Infected? (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737d6813fd233f3bc4977cceca" width="96" height="96" alt="Dangerous: The Double Album" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM">Wasted On You</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Morgan Wallen</span>
+    <br><span style="font-size: 12px; color: #666;">Dangerous: The Double Album (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
