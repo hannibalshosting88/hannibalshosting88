@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733aa3941c79db955f56a71271" width="180" height="180" alt="Horns" />
+<a href="https://open.spotify.com/track/1UMdbkqX19OiwfExH7gzYA">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731f867e23a295217e98674bba" width="180" height="180" alt="Inhuman Rampage" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ">Horns</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1UMdbkqX19OiwfExH7gzYA">Through The Fire And Flames</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Bryce Fox</span><br><span style="font-size: 12px; color: #666;">Horns (2016)</span>
+<span style="font-size: 13px; color: #666;">DragonForce</span><br><span style="font-size: 12px; color: #666;">Inhuman Rampage (2006)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733aa3941c79db955f56a71271" width="96" height="96" alt="Horns" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ">Horns</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Bryce Fox</span>
+    <br><span style="font-size: 12px; color: #666;">Horns (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
