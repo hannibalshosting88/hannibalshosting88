@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738329e28c30e82c8b2df3b98b" width="180" height="180" alt="Keep On Talking To Yourself" />
+<a href="https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky">
+  <img src="https://i.scdn.co/image/ab67616d0000b273985bf5ede2fe4a048ee85f28" width="180" height="180" alt="Infest" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">Keep On Talking To Yourself</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky">Last Resort</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Brothers Moving</span><br><span style="font-size: 12px; color: #666;">Keep On Talking To Yourself (2020)</span>
+<span style="font-size: 13px; color: #666;">Papa Roach</span><br><span style="font-size: 12px; color: #666;">Infest (2000)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738329e28c30e82c8b2df3b98b" width="96" height="96" alt="Keep On Talking To Yourself" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">Keep On Talking To Yourself</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Brothers Moving</span>
+    <br><span style="font-size: 12px; color: #666;">Keep On Talking To Yourself (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
