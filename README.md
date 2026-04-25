@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d1fd8f264564d9eef7617a45" width="96" height="96" alt="Ocean Avenue" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx">Ocean Avenue</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Yellowcard</span>
-    <br><span style="font-size: 12px; color: #666;">Ocean Avenue (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
