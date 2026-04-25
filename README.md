@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737d6813fd233f3bc4977cceca" width="96" height="96" alt="Dangerous: The Double Album" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM">Wasted On You</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Morgan Wallen</span>
-    <br><span style="font-size: 12px; color: #666;">Dangerous: The Double Album (2021)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
