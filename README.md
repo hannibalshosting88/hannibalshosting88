@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c10f473ce20bef8d799fe8a9" width="180" height="180" alt="Never Take Friendship Personal" />
+<a href="https://open.spotify.com/track/0ZmKROEnZXLm3JXTbAQJnU">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739136ae60de0012c2af143892" width="180" height="180" alt="Petty Country (A Country Music Celebration Of Tom Petty)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj">The Feel Good Drag</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0ZmKROEnZXLm3JXTbAQJnU">Runnin&#39; Down A Dream</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Anberlin</span><br><span style="font-size: 12px; color: #666;">Never Take Friendship Personal (2005)</span>
+<span style="font-size: 13px; color: #666;">Luke Combs</span><br><span style="font-size: 12px; color: #666;">Petty Country (A Country Music Celebration Of Tom Petty) (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c10f473ce20bef8d799fe8a9" width="96" height="96" alt="Never Take Friendship Personal" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj">The Feel Good Drag</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Anberlin</span>
+    <br><span style="font-size: 12px; color: #666;">Never Take Friendship Personal (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Hoodie Allen</span>
     <br><span style="font-size: 12px; color: #666;">Nolan Ryan (2014)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">
-      <img src="https://i.scdn.co/image/ab67616d0000b27395cec4b61bd1188fe8a61d2b" width="96" height="96" alt="The Lost City of Atlantits" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">I Have Sex</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Scoochie Boochie</span>
-    <br><span style="font-size: 12px; color: #666;">The Lost City of Atlantits (2020)</span>
   </td>
 </tr>
 <tr>
