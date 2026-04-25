@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="96" height="96" alt="Does This Look Infected?" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Sum 41</span>
-    <br><span style="font-size: 12px; color: #666;">Does This Look Infected? (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
