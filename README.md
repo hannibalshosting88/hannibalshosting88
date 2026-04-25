@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" width="180" height="180" alt="The Wall" />
+<a href="https://open.spotify.com/track/0aJHZeX4rMCOXpo1LXXfBl">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736b6e2a3e067c42a91fde14da" width="180" height="180" alt="Evangeline vs. The Machine" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS">Another Brick in the Wall, Pt. 1</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0aJHZeX4rMCOXpo1LXXfBl">Hands Of Time</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Pink Floyd</span><br><span style="font-size: 12px; color: #666;">The Wall (1979)</span>
+<span style="font-size: 13px; color: #666;">Eric Church</span><br><span style="font-size: 12px; color: #666;">Evangeline vs. The Machine (2025)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" width="96" height="96" alt="The Wall" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS">Another Brick in the Wall, Pt. 1</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Pink Floyd</span>
+    <br><span style="font-size: 12px; color: #666;">The Wall (1979)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
     <br><span style="font-size: 12px; color: #666;">Smoke + Mirrors (Deluxe) (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/55WrYzR1SHfXeeU6DJbk3Y">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bd2fc8f7c9c1ed3baf704d33" width="96" height="96" alt="Fandango! (Expanded 2006 Remaster)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/55WrYzR1SHfXeeU6DJbk3Y">Tush (2006 Remaster)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">ZZ Top</span>
-    <br><span style="font-size: 12px; color: #666;">Fandango! (Expanded 2006 Remaster) (1975)</span>
   </td>
 </tr>
 <tr>
