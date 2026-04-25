@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="180" height="180" alt="The Attractions Of Youth" />
+<a href="https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732dae35818253ccb1cd0cd87d" width="180" height="180" alt="Ram Jam" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter &amp; Gold</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN">Black Betty</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Barns Courtney</span><br><span style="font-size: 12px; color: #666;">The Attractions Of Youth (2017)</span>
+<span style="font-size: 13px; color: #666;">Ram Jam</span><br><span style="font-size: 12px; color: #666;">1977</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849" width="96" height="96" alt="The Attractions Of Youth" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1">Glitter &amp; Gold</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Barns Courtney</span>
+    <br><span style="font-size: 12px; color: #666;">The Attractions Of Youth (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3N6NECW12VxcimEVSGgB5h">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3N6NECW12VxcimEVSGgB5h">SCP 6173 - The Art - The Origin</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
   </td>
 </tr>
 <tr>
