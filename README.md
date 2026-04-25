@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="180" height="180" alt="Hybrid Theory (Bonus Edition)" />
+<a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">
+  <img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="180" height="180" alt="Freddie&#39;s Inferno" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">Papercut</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">Wrath</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
+<span style="font-size: 13px; color: #666;">Freddie Dredd</span><br><span style="font-size: 12px; color: #666;">Freddie&#39;s Inferno (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="96" height="96" alt="Hybrid Theory (Bonus Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">Papercut</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Linkin Park</span>
+    <br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2TMFYjFvMYEH9vlD43MHga">SCP 4075 - Birds of a Feather</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">SCP 4656 - Significant Figures</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
