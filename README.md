@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/55WrYzR1SHfXeeU6DJbk3Y">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bd2fc8f7c9c1ed3baf704d33" width="180" height="180" alt="Fandango! (Expanded 2006 Remaster)" />
+<a href="https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="180" height="180" alt="Smoke + Mirrors (Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/55WrYzR1SHfXeeU6DJbk3Y">Tush (2006 Remaster)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg">Battle Cry</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">ZZ Top</span><br><span style="font-size: 12px; color: #666;">Fandango! (Expanded 2006 Remaster) (1975)</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Smoke + Mirrors (Deluxe) (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/55WrYzR1SHfXeeU6DJbk3Y">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bd2fc8f7c9c1ed3baf704d33" width="96" height="96" alt="Fandango! (Expanded 2006 Remaster)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/55WrYzR1SHfXeeU6DJbk3Y">Tush (2006 Remaster)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">ZZ Top</span>
+    <br><span style="font-size: 12px; color: #666;">Fandango! (Expanded 2006 Remaster) (1975)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Green Day</span>
     <br><span style="font-size: 12px; color: #666;">Dookie (1994)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2YjyraHHtDjveUNTSypXd3">
-      <img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="96" height="96" alt="Thundersmack" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2YjyraHHtDjveUNTSypXd3">Moon Dreams</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Thundersmack</span>
-    <br><span style="font-size: 12px; color: #666;">2021</span>
   </td>
 </tr>
 <tr>
