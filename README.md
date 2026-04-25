@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="180" height="180" alt="Does This Look Infected?" />
+<a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738329e28c30e82c8b2df3b98b" width="180" height="180" alt="Keep On Talking To Yourself" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">Keep On Talking To Yourself</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Sum 41</span><br><span style="font-size: 12px; color: #666;">Does This Look Infected? (2002)</span>
+<span style="font-size: 13px; color: #666;">Brothers Moving</span><br><span style="font-size: 12px; color: #666;">Keep On Talking To Yourself (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f897ffe64efe64404d7a8a6" width="96" height="96" alt="Does This Look Infected?" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c">Still Waiting</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Sum 41</span>
+    <br><span style="font-size: 12px; color: #666;">Does This Look Infected? (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">3 Doors Down</span>
     <br><span style="font-size: 12px; color: #666;">Away From The Sun (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735e1db60a6f9214c247061d86" width="96" height="96" alt="Believer (feat. Lil Wayne)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN">Believer (feat. Lil Wayne)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Imagine Dragons, Lil Wayne</span>
-    <br><span style="font-size: 12px; color: #666;">Believer (feat. Lil Wayne) (2019)</span>
   </td>
 </tr>
 <tr>
