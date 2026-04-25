@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1QYnPmUTrtk3Ahk1H1vFR1">
-  <img src="https://i.scdn.co/image/ab67616d0000b273de9f4c31ba48fc017de8b0a7" width="180" height="180" alt="check" />
+<a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735e1db60a6f9214c247061d86" width="180" height="180" alt="Believer (feat. Lil Wayne)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1QYnPmUTrtk3Ahk1H1vFR1">check</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN">Believer (feat. Lil Wayne)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">bbno$</span><br><span style="font-size: 12px; color: #666;">check (2025)</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons, Lil Wayne</span><br><span style="font-size: 12px; color: #666;">Believer (feat. Lil Wayne) (2019)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1QYnPmUTrtk3Ahk1H1vFR1">
+      <img src="https://i.scdn.co/image/ab67616d0000b273de9f4c31ba48fc017de8b0a7" width="96" height="96" alt="check" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1QYnPmUTrtk3Ahk1H1vFR1">check</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">bbno$</span>
+    <br><span style="font-size: 12px; color: #666;">check (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/7mKA1h6dSNogNytitszUjl">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7mKA1h6dSNogNytitszUjl">SCP 2307 - The Pen Is Mightier</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
   </td>
 </tr>
 <tr>
