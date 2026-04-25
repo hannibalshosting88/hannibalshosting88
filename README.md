@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">
-  <img src="https://i.scdn.co/image/ab67616d0000b27371ee149263c104e7c6356acd" width="180" height="180" alt="AA" />
+<a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f98d9ee18af2b12a5c6b1662" width="180" height="180" alt="When Life Gives You Lemons, You Paint That Shit Gold [Standard Edition]" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Walker Hayes</span><br><span style="font-size: 12px; color: #666;">AA (2021)</span>
+<span style="font-size: 13px; color: #666;">Atmosphere</span><br><span style="font-size: 12px; color: #666;">When Life Gives You Lemons, You Paint That Shit Gold [Standard Edition] (2008)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">
+      <img src="https://i.scdn.co/image/ab67616d0000b27371ee149263c104e7c6356acd" width="96" height="96" alt="AA" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Walker Hayes</span>
+    <br><span style="font-size: 12px; color: #666;">AA (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Luke Combs</span>
     <br><span style="font-size: 12px; color: #666;">Petty Country (A Country Music Celebration Of Tom Petty) (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c10f473ce20bef8d799fe8a9" width="96" height="96" alt="Never Take Friendship Personal" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj">The Feel Good Drag</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Anberlin</span>
-    <br><span style="font-size: 12px; color: #666;">Never Take Friendship Personal (2005)</span>
   </td>
 </tr>
 <tr>
