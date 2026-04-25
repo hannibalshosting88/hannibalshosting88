@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0ZmKROEnZXLm3JXTbAQJnU">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739136ae60de0012c2af143892" width="96" height="96" alt="Petty Country (A Country Music Celebration Of Tom Petty)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0ZmKROEnZXLm3JXTbAQJnU">Runnin&#39; Down A Dream</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Luke Combs</span>
-    <br><span style="font-size: 12px; color: #666;">Petty Country (A Country Music Celebration Of Tom Petty) (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
