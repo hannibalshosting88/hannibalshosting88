@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" width="96" height="96" alt="The Wall" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS">Another Brick in the Wall, Pt. 1</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Pink Floyd</span>
-    <br><span style="font-size: 12px; color: #666;">The Wall (1979)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
