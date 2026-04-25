@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f34b698931828b54bceb52f9" width="180" height="180" alt="Dysfunction" />
+<a href="https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo">
+  <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" width="180" height="180" alt="American Idiot" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD">Mudshovel</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo">Holiday / Boulevard of Broken Dreams</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Staind</span><br><span style="font-size: 12px; color: #666;">Dysfunction (1999)</span>
+<span style="font-size: 13px; color: #666;">Green Day</span><br><span style="font-size: 12px; color: #666;">American Idiot (2004)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f34b698931828b54bceb52f9" width="96" height="96" alt="Dysfunction" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD">Mudshovel</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Staind</span>
+    <br><span style="font-size: 12px; color: #666;">Dysfunction (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
