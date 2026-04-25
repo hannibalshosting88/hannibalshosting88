@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky">
-  <img src="https://i.scdn.co/image/ab67616d0000b273985bf5ede2fe4a048ee85f28" width="180" height="180" alt="Infest" />
+<a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">
+  <img src="https://i.scdn.co/image/ab67616d0000b27395cec4b61bd1188fe8a61d2b" width="180" height="180" alt="The Lost City of Atlantits" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky">Last Resort</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">I Have Sex</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Papa Roach</span><br><span style="font-size: 12px; color: #666;">Infest (2000)</span>
+<span style="font-size: 13px; color: #666;">Scoochie Boochie</span><br><span style="font-size: 12px; color: #666;">The Lost City of Atlantits (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky">
+      <img src="https://i.scdn.co/image/ab67616d0000b273985bf5ede2fe4a048ee85f28" width="96" height="96" alt="Infest" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky">Last Resort</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Papa Roach</span>
+    <br><span style="font-size: 12px; color: #666;">Infest (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
