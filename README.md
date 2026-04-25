@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz">
-  <img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="180" height="180" alt="Dookie" />
+<a href="https://open.spotify.com/track/1QYnPmUTrtk3Ahk1H1vFR1">
+  <img src="https://i.scdn.co/image/ab67616d0000b273de9f4c31ba48fc017de8b0a7" width="180" height="180" alt="check" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz">When I Come Around</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1QYnPmUTrtk3Ahk1H1vFR1">check</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Green Day</span><br><span style="font-size: 12px; color: #666;">Dookie (1994)</span>
+<span style="font-size: 13px; color: #666;">bbno$</span><br><span style="font-size: 12px; color: #666;">check (2025)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz">
+      <img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="96" height="96" alt="Dookie" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz">When I Come Around</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Green Day</span>
+    <br><span style="font-size: 12px; color: #666;">Dookie (1994)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
