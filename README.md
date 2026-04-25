@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739b62c36a1f8ac00d60f460cc" width="180" height="180" alt="Songs For The Deaf" />
+<a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">
+  <img src="https://i.scdn.co/image/ab67616d0000b27371ee149263c104e7c6356acd" width="180" height="180" alt="AA" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH">No One Knows</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Queens of the Stone Age</span><br><span style="font-size: 12px; color: #666;">Songs For The Deaf (2002)</span>
+<span style="font-size: 13px; color: #666;">Walker Hayes</span><br><span style="font-size: 12px; color: #666;">AA (2021)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739b62c36a1f8ac00d60f460cc" width="96" height="96" alt="Songs For The Deaf" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH">No One Knows</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Queens of the Stone Age</span>
+    <br><span style="font-size: 12px; color: #666;">Songs For The Deaf (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
