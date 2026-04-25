@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395cec4b61bd1188fe8a61d2b" width="180" height="180" alt="The Lost City of Atlantits" />
+<a href="https://open.spotify.com/track/05c6dW6jQY0NqMev1bR7WF">
+  <img src="https://i.scdn.co/image/ab67616d0000b273587ee8fe8951ad48e7ddb616" width="180" height="180" alt="Nolan Ryan" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">I Have Sex</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/05c6dW6jQY0NqMev1bR7WF">Nolan Ryan</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Scoochie Boochie</span><br><span style="font-size: 12px; color: #666;">The Lost City of Atlantits (2020)</span>
+<span style="font-size: 13px; color: #666;">Hoodie Allen</span><br><span style="font-size: 12px; color: #666;">Nolan Ryan (2014)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">
+      <img src="https://i.scdn.co/image/ab67616d0000b27395cec4b61bd1188fe8a61d2b" width="96" height="96" alt="The Lost City of Atlantits" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4jqjr7UC1DbhM79bBBzLIc">I Have Sex</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Scoochie Boochie</span>
+    <br><span style="font-size: 12px; color: #666;">The Lost City of Atlantits (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Freddie Dredd</span>
     <br><span style="font-size: 12px; color: #666;">All Alone (2019)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732dae35818253ccb1cd0cd87d" width="96" height="96" alt="Ram Jam" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN">Black Betty</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Ram Jam</span>
-    <br><span style="font-size: 12px; color: #666;">1977</span>
   </td>
 </tr>
 <tr>
