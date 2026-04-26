@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739b62c36a1f8ac00d60f460cc" width="96" height="96" alt="Songs For The Deaf" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH">No One Knows</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Queens of the Stone Age</span>
-    <br><span style="font-size: 12px; color: #666;">Songs For The Deaf (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
