@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bfff163b0602156a983fa079" width="96" height="96" alt="One By One (Expanded Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF">Times Like These</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Foo Fighters</span>
-    <br><span style="font-size: 12px; color: #666;">One By One (Expanded Edition) (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
