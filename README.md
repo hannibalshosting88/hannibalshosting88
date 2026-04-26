@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f98d9ee18af2b12a5c6b1662" width="96" height="96" alt="When Life Gives You Lemons, You Paint That Shit Gold [Standard Edition]" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW">Puppets</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Atmosphere</span>
-    <br><span style="font-size: 12px; color: #666;">When Life Gives You Lemons, You Paint That Shit Gold [Standard Edition] (2008)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
