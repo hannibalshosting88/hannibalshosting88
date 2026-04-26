@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">
-      <img src="https://i.scdn.co/image/ab67616d0000b27371ee149263c104e7c6356acd" width="96" height="96" alt="AA" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e">AA</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Walker Hayes</span>
-    <br><span style="font-size: 12px; color: #666;">AA (2021)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
