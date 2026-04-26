@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/46eHxWRKmtYhUHPDRgclt6">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c418220159462cdd7cfeb9a1" width="96" height="96" alt="Finding Beauty In Negative Spaces (Bonus Track Version)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/46eHxWRKmtYhUHPDRgclt6">Careless Whisper</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Seether</span>
-    <br><span style="font-size: 12px; color: #666;">Finding Beauty In Negative Spaces (Bonus Track Version) (2007)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
