@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7oU3BOJ4gwKjf9bFgZNOAl">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cb91b5b8f9640caf6602e4f3" width="96" height="96" alt="The Cyberpunk" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7oU3BOJ4gwKjf9bFgZNOAl">The Electro Cyberpunk</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Yuri Petrovski</span>
-    <br><span style="font-size: 12px; color: #666;">The Cyberpunk (2020)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
