@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732d4c593f0f35672767d881a9" width="180" height="180" alt="Conspiracy Of One" />
+<a href="https://open.spotify.com/track/7oU3BOJ4gwKjf9bFgZNOAl">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cb91b5b8f9640caf6602e4f3" width="180" height="180" alt="The Cyberpunk" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv">Original Prankster</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7oU3BOJ4gwKjf9bFgZNOAl">The Electro Cyberpunk</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Offspring, Redman</span><br><span style="font-size: 12px; color: #666;">Conspiracy Of One (2000)</span>
+<span style="font-size: 13px; color: #666;">Yuri Petrovski</span><br><span style="font-size: 12px; color: #666;">The Cyberpunk (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732d4c593f0f35672767d881a9" width="96" height="96" alt="Conspiracy Of One" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv">Original Prankster</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Offspring, Redman</span>
+    <br><span style="font-size: 12px; color: #666;">Conspiracy Of One (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
