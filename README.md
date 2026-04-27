@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN">
-  <img src="https://i.scdn.co/image/ab67616d0000b27311b3df35e2e46d91f585afd9" width="180" height="180" alt="This Is All Yours" />
+<a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736c52084ed1f1748f213783b3" width="180" height="180" alt="There Is Nothing Left To Lose" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN">Left Hand Free</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT">Learn to Fly</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">alt-J</span><br><span style="font-size: 12px; color: #666;">This Is All Yours (2014)</span>
+<span style="font-size: 13px; color: #666;">Foo Fighters</span><br><span style="font-size: 12px; color: #666;">There Is Nothing Left To Lose (1999)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN">
+      <img src="https://i.scdn.co/image/ab67616d0000b27311b3df35e2e46d91f585afd9" width="96" height="96" alt="This Is All Yours" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN">Left Hand Free</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">alt-J</span>
+    <br><span style="font-size: 12px; color: #666;">This Is All Yours (2014)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2TMFYjFvMYEH9vlD43MHga">SCP 4075 - Birds of a Feather</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3SmlDvjzrq7CA9aXeJ5gdR">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3SmlDvjzrq7CA9aXeJ5gdR">SCP 5053 - Anything but a stick in the mud</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
