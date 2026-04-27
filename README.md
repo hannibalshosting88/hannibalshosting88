@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">
-  <img src="https://i.scdn.co/image/ab67616d0000b27312a1dd8db4de62f6e146a43b" width="180" height="180" alt="What You See Is What You Get" />
+<a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">
+  <img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="180" height="180" alt="GOOD DAY" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">Beer Never Broke My Heart</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Luke Combs</span><br><span style="font-size: 12px; color: #666;">What You See Is What You Get (2019)</span>
+<span style="font-size: 13px; color: #666;">Forrest Frank</span><br><span style="font-size: 12px; color: #666;">GOOD DAY (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">
+      <img src="https://i.scdn.co/image/ab67616d0000b27312a1dd8db4de62f6e146a43b" width="96" height="96" alt="What You See Is What You Get" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">Beer Never Broke My Heart</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Luke Combs</span>
+    <br><span style="font-size: 12px; color: #666;">What You See Is What You Get (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
