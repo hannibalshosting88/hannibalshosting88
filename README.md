@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">
-  <img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="180" height="180" alt="GOOD DAY" />
+<a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC">
+  <img src="https://i.scdn.co/image/ab67616d0000b27374be78bd14d095c8d76943a0" width="180" height="180" alt="The Click (Deluxe Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC">Burn The House Down</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Forrest Frank</span><br><span style="font-size: 12px; color: #666;">GOOD DAY (2024)</span>
+<span style="font-size: 13px; color: #666;">AJR</span><br><span style="font-size: 12px; color: #666;">The Click (Deluxe Edition) (2018)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="96" height="96" alt="GOOD DAY" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Forrest Frank</span>
+    <br><span style="font-size: 12px; color: #666;">GOOD DAY (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">System Of A Down</span>
     <br><span style="font-size: 12px; color: #666;">Hypnotize (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e7a3a891ae555b0a46a131ed" width="96" height="96" alt="OK ORCHESTRA" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe">Way Less Sad</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">AJR</span>
-    <br><span style="font-size: 12px; color: #666;">OK ORCHESTRA (2021)</span>
   </td>
 </tr>
 <tr>
