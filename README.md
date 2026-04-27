@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1sYx5lpCHEEKRI0pPeilQH">
-  <img src="https://i.scdn.co/image/ab67616d0000b27317d6db894c2aedd5a912dd63" width="180" height="180" alt="The Cash Collection: The Mercury Years 1987-1991" />
+<a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq">
+  <img src="https://i.scdn.co/image/ab67616d0000b273aac864ff7174329862dcf0ae" width="180" height="180" alt="Duel of The Fates - Epic Version (Remastered)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1sYx5lpCHEEKRI0pPeilQH">Ring Of Fire - 1988 Version</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq">Duel of The Fates - Epic Version (Remastered)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Johnny Cash</span><br><span style="font-size: 12px; color: #666;">The Cash Collection: The Mercury Years 1987-1991 (2011)</span>
+<span style="font-size: 13px; color: #666;">Samuel Kim</span><br><span style="font-size: 12px; color: #666;">Duel of The Fates - Epic Version (Remastered) (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1sYx5lpCHEEKRI0pPeilQH">
+      <img src="https://i.scdn.co/image/ab67616d0000b27317d6db894c2aedd5a912dd63" width="96" height="96" alt="The Cash Collection: The Mercury Years 1987-1991" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1sYx5lpCHEEKRI0pPeilQH">Ring Of Fire - 1988 Version</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Johnny Cash</span>
+    <br><span style="font-size: 12px; color: #666;">The Cash Collection: The Mercury Years 1987-1991 (2011)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Papa Roach</span>
     <br><span style="font-size: 12px; color: #666;">Crooked Teeth (Deluxe) (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6JsO85gnoxfEDFkqGEbY5R">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6JsO85gnoxfEDFkqGEbY5R">SCP 3775 - A Wild Party</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
   </td>
 </tr>
 <tr>
