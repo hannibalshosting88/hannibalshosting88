@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="180" height="180" alt="Hypnotize" />
+<a href="https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg">
+  <img src="https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac" width="180" height="180" alt="Second Helping (Expanded Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu">Hypnotize</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg">Sweet Home Alabama</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Hypnotize (2005)</span>
+<span style="font-size: 13px; color: #666;">Lynyrd Skynyrd</span><br><span style="font-size: 12px; color: #666;">Second Helping (Expanded Edition) (1974)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="96" height="96" alt="Hypnotize" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu">Hypnotize</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">System Of A Down</span>
+    <br><span style="font-size: 12px; color: #666;">Hypnotize (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">SCP 4656 - Significant Figures</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1QjD4Yg5qbOQjigtbhQh4f">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1QjD4Yg5qbOQjigtbhQh4f">SCP 3503 - Panic is Pure, Trauma is True, Suffering is Sweet, and Death&#39;s a Delight</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
