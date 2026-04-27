@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq">
-  <img src="https://i.scdn.co/image/ab67616d0000b273aac864ff7174329862dcf0ae" width="180" height="180" alt="Duel of The Fates - Epic Version (Remastered)" />
+<a href="https://open.spotify.com/track/5VfgDw3oOzcNoszDwkLQhH">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736e186edfb8fe3710fdc1f7c2" width="180" height="180" alt="Cosmo&#39;s Factory" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq">Duel of The Fates - Epic Version (Remastered)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5VfgDw3oOzcNoszDwkLQhH">Run Through The Jungle</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Samuel Kim</span><br><span style="font-size: 12px; color: #666;">Duel of The Fates - Epic Version (Remastered) (2022)</span>
+<span style="font-size: 13px; color: #666;">Creedence Clearwater Revival</span><br><span style="font-size: 12px; color: #666;">Cosmo&#39;s Factory (1970)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aac864ff7174329862dcf0ae" width="96" height="96" alt="Duel of The Fates - Epic Version (Remastered)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0uFBtbC0zZpEcylG8H2VLq">Duel of The Fates - Epic Version (Remastered)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Samuel Kim</span>
+    <br><span style="font-size: 12px; color: #666;">Duel of The Fates - Epic Version (Remastered) (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
