@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4">
-      <img src="https://i.scdn.co/image/ab67616d0000b273186b235052f031900c5cb282" width="96" height="96" alt="&#39;N Sync UK Version" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4">Tearin&#39; up My Heart - Radio Edit</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">*NSYNC</span>
-    <br><span style="font-size: 12px; color: #666;">&#39;N Sync UK Version (1997)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
