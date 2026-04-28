@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2ga8Pzht7XhCpzN9OXMTor">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="180" height="180" alt="Unearthed" />
+<a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9">
+  <img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" width="180" height="180" alt="Ill Communication" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2ga8Pzht7XhCpzN9OXMTor">If I Give My Soul</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9">Sabotage</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Johnny Cash</span><br><span style="font-size: 12px; color: #666;">Unearthed (2003)</span>
+<span style="font-size: 13px; color: #666;">Beastie Boys</span><br><span style="font-size: 12px; color: #666;">Ill Communication (1994)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2ga8Pzht7XhCpzN9OXMTor">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b905a2b99e3510c2fd7d07c2" width="96" height="96" alt="Unearthed" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2ga8Pzht7XhCpzN9OXMTor">If I Give My Soul</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Johnny Cash</span>
+    <br><span style="font-size: 12px; color: #666;">Unearthed (2003)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
