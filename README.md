@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x">
-  <img src="https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8" width="180" height="180" alt="Pronounced&#39; Leh-&#39;Nerd &#39;Skin-&#39;Nerd" />
+<a href="https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b7879980ef2ea7ac1cc29316" width="180" height="180" alt="Ghost In The Machine (Remastered 2003)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x">Gimme Three Steps</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu">Spirits In The Material World</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lynyrd Skynyrd</span><br><span style="font-size: 12px; color: #666;">Pronounced&#39; Leh-&#39;Nerd &#39;Skin-&#39;Nerd (1973)</span>
+<span style="font-size: 13px; color: #666;">The Police</span><br><span style="font-size: 12px; color: #666;">Ghost In The Machine (Remastered 2003) (1981)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x">
+      <img src="https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8" width="96" height="96" alt="Pronounced&#39; Leh-&#39;Nerd &#39;Skin-&#39;Nerd" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x">Gimme Three Steps</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lynyrd Skynyrd</span>
+    <br><span style="font-size: 12px; color: #666;">Pronounced&#39; Leh-&#39;Nerd &#39;Skin-&#39;Nerd (1973)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Lynyrd Skynyrd</span>
     <br><span style="font-size: 12px; color: #666;">Second Helping (Expanded Edition) (1974)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="96" height="96" alt="Hypnotize" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu">Hypnotize</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">System Of A Down</span>
-    <br><span style="font-size: 12px; color: #666;">Hypnotize (2005)</span>
   </td>
 </tr>
 <tr>
