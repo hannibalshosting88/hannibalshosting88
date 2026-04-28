@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">
-      <img src="https://i.scdn.co/image/ab67616d0000b27312a1dd8db4de62f6e146a43b" width="96" height="96" alt="What You See Is What You Get" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">Beer Never Broke My Heart</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Luke Combs</span>
-    <br><span style="font-size: 12px; color: #666;">What You See Is What You Get (2019)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
