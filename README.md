@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4ozauKL8K3lYcYOyBOnnJR">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730a3eb7ef6df5732fc6fa77ec" width="180" height="180" alt="Load" />
+<a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN">
+  <img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="180" height="180" alt="Toxicity" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4ozauKL8K3lYcYOyBOnnJR">King Nothing (Remastered)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN">Chop Suey!</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">Load (1996)</span>
+<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Toxicity (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4ozauKL8K3lYcYOyBOnnJR">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730a3eb7ef6df5732fc6fa77ec" width="96" height="96" alt="Load" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4ozauKL8K3lYcYOyBOnnJR">King Nothing (Remastered)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Metallica</span>
+    <br><span style="font-size: 12px; color: #666;">Load (1996)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
