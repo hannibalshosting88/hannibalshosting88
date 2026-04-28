@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5VfgDw3oOzcNoszDwkLQhH">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736e186edfb8fe3710fdc1f7c2" width="180" height="180" alt="Cosmo&#39;s Factory" />
+<a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">
+  <img src="https://i.scdn.co/image/ab67616d0000b27312a1dd8db4de62f6e146a43b" width="180" height="180" alt="What You See Is What You Get" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5VfgDw3oOzcNoszDwkLQhH">Run Through The Jungle</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">Beer Never Broke My Heart</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Creedence Clearwater Revival</span><br><span style="font-size: 12px; color: #666;">Cosmo&#39;s Factory (1970)</span>
+<span style="font-size: 13px; color: #666;">Luke Combs</span><br><span style="font-size: 12px; color: #666;">What You See Is What You Get (2019)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5VfgDw3oOzcNoszDwkLQhH">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736e186edfb8fe3710fdc1f7c2" width="96" height="96" alt="Cosmo&#39;s Factory" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5VfgDw3oOzcNoszDwkLQhH">Run Through The Jungle</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Creedence Clearwater Revival</span>
+    <br><span style="font-size: 12px; color: #666;">Cosmo&#39;s Factory (1970)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Forrest Frank</span>
     <br><span style="font-size: 12px; color: #666;">GOOD DAY (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">
-      <img src="https://i.scdn.co/image/ab67616d0000b27312a1dd8db4de62f6e146a43b" width="96" height="96" alt="What You See Is What You Get" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx">Beer Never Broke My Heart</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Luke Combs</span>
-    <br><span style="font-size: 12px; color: #666;">What You See Is What You Get (2019)</span>
   </td>
 </tr>
 <tr>
