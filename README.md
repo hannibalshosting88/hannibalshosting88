@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736c52084ed1f1748f213783b3" width="96" height="96" alt="There Is Nothing Left To Lose" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT">Learn to Fly</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Foo Fighters</span>
-    <br><span style="font-size: 12px; color: #666;">There Is Nothing Left To Lose (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
