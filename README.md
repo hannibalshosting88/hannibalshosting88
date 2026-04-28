@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e2aacda30b100cc33d523be0" width="96" height="96" alt="Steppenwolf" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng">Born To Be Wild - Single Version</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Steppenwolf</span>
-    <br><span style="font-size: 12px; color: #666;">1968</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
