@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9">
-  <img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" width="180" height="180" alt="Ill Communication" />
+<a href="https://open.spotify.com/track/4dcUque6026WExzwJYWG7H">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b7ded75d35cf4364ba3f5267" width="180" height="180" alt="Good Apollo I&#39;m Burning Star IV Volume One: From Fear Through The Eyes Of Madness" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9">Sabotage</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4dcUque6026WExzwJYWG7H">The Suffering</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Beastie Boys</span><br><span style="font-size: 12px; color: #666;">Ill Communication (1994)</span>
+<span style="font-size: 13px; color: #666;">Coheed and Cambria</span><br><span style="font-size: 12px; color: #666;">Good Apollo I&#39;m Burning Star IV Volume One: From Fear Through The Eyes Of Madness (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9">
+      <img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" width="96" height="96" alt="Ill Communication" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9">Sabotage</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Beastie Boys</span>
+    <br><span style="font-size: 12px; color: #666;">Ill Communication (1994)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Creedence Clearwater Revival</span>
     <br><span style="font-size: 12px; color: #666;">Cosmo&#39;s Factory (1970)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b7ded75d35cf4364ba3f5267" width="96" height="96" alt="Good Apollo I&#39;m Burning Star IV Volume One: From Fear Through The Eyes Of Madness" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf">Ten Speed (Of God&#39;s Blood &amp; Burial)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Coheed and Cambria</span>
-    <br><span style="font-size: 12px; color: #666;">Good Apollo I&#39;m Burning Star IV Volume One: From Fear Through The Eyes Of Madness (2005)</span>
   </td>
 </tr>
 <tr>
