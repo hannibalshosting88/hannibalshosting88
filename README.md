@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp">
-      <img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="96" height="96" alt="Infinity On High" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp">This Ain&#39;t A Scene, It&#39;s An Arms Race</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Fall Out Boy</span>
-    <br><span style="font-size: 12px; color: #666;">Infinity On High (2007)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
