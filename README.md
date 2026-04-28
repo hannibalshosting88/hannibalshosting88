@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5NO2h3hGUTf6J8cbQZXET6">
-  <img src="https://i.scdn.co/image/ab67616d0000b273de21d65868e2a3d3d50acc56" width="180" height="180" alt="INTENTION" />
+<a href="https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4">
+  <img src="https://i.scdn.co/image/ab67616d0000b273186b235052f031900c5cb282" width="180" height="180" alt="&#39;N Sync UK Version" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5NO2h3hGUTf6J8cbQZXET6">Paper Nihilist</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4">Tearin&#39; up My Heart - Radio Edit</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Watsky</span><br><span style="font-size: 12px; color: #666;">INTENTION (2023)</span>
+<span style="font-size: 13px; color: #666;">*NSYNC</span><br><span style="font-size: 12px; color: #666;">&#39;N Sync UK Version (1997)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5NO2h3hGUTf6J8cbQZXET6">
+      <img src="https://i.scdn.co/image/ab67616d0000b273de21d65868e2a3d3d50acc56" width="96" height="96" alt="INTENTION" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5NO2h3hGUTf6J8cbQZXET6">Paper Nihilist</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Watsky</span>
+    <br><span style="font-size: 12px; color: #666;">INTENTION (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Samuel Kim</span>
     <br><span style="font-size: 12px; color: #666;">Duel of The Fates - Epic Version (Remastered) (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1">
-      <img src="https://i.scdn.co/image/ab67616d0000b27366ec7d795b727cd90bd09690" width="96" height="96" alt="Fush Yu Mang (20th Anniversary Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1">Walkin&#39; On The Sun</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Smash Mouth</span>
-    <br><span style="font-size: 12px; color: #666;">Fush Yu Mang (20th Anniversary Edition) (1997)</span>
   </td>
 </tr>
 <tr>
