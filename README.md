@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1sYx5lpCHEEKRI0pPeilQH">
-      <img src="https://i.scdn.co/image/ab67616d0000b27317d6db894c2aedd5a912dd63" width="96" height="96" alt="The Cash Collection: The Mercury Years 1987-1991" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1sYx5lpCHEEKRI0pPeilQH">Ring Of Fire - 1988 Version</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Johnny Cash</span>
-    <br><span style="font-size: 12px; color: #666;">The Cash Collection: The Mercury Years 1987-1991 (2011)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
