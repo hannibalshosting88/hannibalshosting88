@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/0QC3Skq0nqjoHih4Gd5gob">
+<a href="https://open.spotify.com/episode/6JsO85gnoxfEDFkqGEbY5R">
   <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="180" height="180" alt="BedtimeSCP" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0QC3Skq0nqjoHih4Gd5gob">SCP 3780 - Who Shot J.F.K.?</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6JsO85gnoxfEDFkqGEbY5R">SCP 3775 - A Wild Party</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">BedtimeSCP</span><br><span style="font-size: 12px; color: #666;">2024</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/0QC3Skq0nqjoHih4Gd5gob">
+      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0QC3Skq0nqjoHih4Gd5gob">SCP 3780 - Who Shot J.F.K.?</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
+    <br><span style="font-size: 12px; color: #666;">2024</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -167,23 +184,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Coheed and Cambria</span>
     <br><span style="font-size: 12px; color: #666;">Good Apollo I&#39;m Burning Star IV Volume One: From Fear Through The Eyes Of Madness (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9">
-      <img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" width="96" height="96" alt="Ill Communication" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9">Sabotage</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Beastie Boys</span>
-    <br><span style="font-size: 12px; color: #666;">Ill Communication (1994)</span>
   </td>
 </tr>
 <tr>
