@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5NO2h3hGUTf6J8cbQZXET6">
-      <img src="https://i.scdn.co/image/ab67616d0000b273de21d65868e2a3d3d50acc56" width="96" height="96" alt="INTENTION" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5NO2h3hGUTf6J8cbQZXET6">Paper Nihilist</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Watsky</span>
-    <br><span style="font-size: 12px; color: #666;">INTENTION (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
