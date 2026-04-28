@@ -22,14 +22,16 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
+<a href="https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="180" height="180" alt="Licensed To Ill" />
+</a>
 
 <br>
 
-<b>💤 Offline • Nothing currently playing</b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN">No Sleep Till Brooklyn</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
+<span style="font-size: 13px; color: #666;">Beastie Boys</span><br><span style="font-size: 12px; color: #666;">Licensed To Ill (1986)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
