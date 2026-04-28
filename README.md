@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="180" height="180" alt="Americana" />
+<a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="180" height="180" alt="Thrifty x Spooky Raccoon" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">The Kids Aren&#39;t Alright</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">Thrifty</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Offspring</span><br><span style="font-size: 12px; color: #666;">Americana (1998)</span>
+<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">Thrifty x Spooky Raccoon (2021)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="96" height="96" alt="Americana" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">The Kids Aren&#39;t Alright</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Offspring</span>
+    <br><span style="font-size: 12px; color: #666;">Americana (1998)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
