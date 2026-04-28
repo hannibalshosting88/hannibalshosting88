@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4ozauKL8K3lYcYOyBOnnJR">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730a3eb7ef6df5732fc6fa77ec" width="96" height="96" alt="Load" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4ozauKL8K3lYcYOyBOnnJR">King Nothing (Remastered)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Metallica</span>
-    <br><span style="font-size: 12px; color: #666;">Load (1996)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
