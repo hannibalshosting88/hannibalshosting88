@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736e186edfb8fe3710fdc1f7c2" width="180" height="180" alt="Cosmo&#39;s Factory" />
+<a href="https://open.spotify.com/track/5NO2h3hGUTf6J8cbQZXET6">
+  <img src="https://i.scdn.co/image/ab67616d0000b273de21d65868e2a3d3d50acc56" width="180" height="180" alt="INTENTION" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC">Up Around The Bend</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5NO2h3hGUTf6J8cbQZXET6">Paper Nihilist</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Creedence Clearwater Revival</span><br><span style="font-size: 12px; color: #666;">Cosmo&#39;s Factory (1970)</span>
+<span style="font-size: 13px; color: #666;">Watsky</span><br><span style="font-size: 12px; color: #666;">INTENTION (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736e186edfb8fe3710fdc1f7c2" width="96" height="96" alt="Cosmo&#39;s Factory" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC">Up Around The Bend</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Creedence Clearwater Revival</span>
+    <br><span style="font-size: 12px; color: #666;">Cosmo&#39;s Factory (1970)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Smash Mouth</span>
     <br><span style="font-size: 12px; color: #666;">Fush Yu Mang (20th Anniversary Edition) (1997)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736c52084ed1f1748f213783b3" width="96" height="96" alt="There Is Nothing Left To Lose" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT">Learn to Fly</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Foo Fighters</span>
-    <br><span style="font-size: 12px; color: #666;">There Is Nothing Left To Lose (1999)</span>
   </td>
 </tr>
 <tr>
