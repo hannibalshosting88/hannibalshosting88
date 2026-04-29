@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco">
-  <img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="180" height="180" alt="Toxicity" />
+<a href="https://open.spotify.com/track/4l9onvb8TO7Rodj7pl2WX8">
+  <img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="180" height="180" alt="Thundersmack" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco">Aerials</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4l9onvb8TO7Rodj7pl2WX8">The Gardens</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Toxicity (2001)</span>
+<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">2021</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco">
+      <img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="96" height="96" alt="Toxicity" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco">Aerials</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">System Of A Down</span>
+    <br><span style="font-size: 12px; color: #666;">Toxicity (2001)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="96" height="96" alt="Thrifty x Spooky Raccoon" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">Thrifty</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Thundersmack</span>
-    <br><span style="font-size: 12px; color: #666;">Thrifty x Spooky Raccoon (2021)</span>
   </td>
 </tr>
 <tr>
