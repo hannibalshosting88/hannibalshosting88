@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4l9onvb8TO7Rodj7pl2WX8">
-  <img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="180" height="180" alt="Thundersmack" />
+<a href="https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB">
+  <img src="https://i.scdn.co/image/ab67616d0000b27319b9fae8d9f602068a5a5557" width="180" height="180" alt="Hold On, I&#39;m Comin&#39;" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4l9onvb8TO7Rodj7pl2WX8">The Gardens</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB">Hold On, I&#39;m Comin&#39;</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">2021</span>
+<span style="font-size: 13px; color: #666;">Sam &amp; Dave</span><br><span style="font-size: 12px; color: #666;">Hold On, I&#39;m Comin&#39; (1966)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4l9onvb8TO7Rodj7pl2WX8">
+      <img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="96" height="96" alt="Thundersmack" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4l9onvb8TO7Rodj7pl2WX8">The Gardens</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">2021</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
