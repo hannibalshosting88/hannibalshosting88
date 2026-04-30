@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aa802dc9f870e66a8bb6a2a2" width="96" height="96" alt="Agents Of Fortune" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo">(Don&#39;t Fear) The Reaper</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Blue Öyster Cult</span>
-    <br><span style="font-size: 12px; color: #666;">Agents Of Fortune (1976)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
