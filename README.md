@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo">
-  <img src="https://i.scdn.co/image/ab67616d0000b273aa802dc9f870e66a8bb6a2a2" width="180" height="180" alt="Agents Of Fortune" />
+<a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ca861b77aab32e0ca69e2c34" width="180" height="180" alt="Come Clean" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo">(Don&#39;t Fear) The Reaper</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF">Control</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Blue Öyster Cult</span><br><span style="font-size: 12px; color: #666;">Agents Of Fortune (1976)</span>
+<span style="font-size: 13px; color: #666;">Puddle Of Mudd</span><br><span style="font-size: 12px; color: #666;">Come Clean (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aa802dc9f870e66a8bb6a2a2" width="96" height="96" alt="Agents Of Fortune" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo">(Don&#39;t Fear) The Reaper</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Blue Öyster Cult</span>
+    <br><span style="font-size: 12px; color: #666;">Agents Of Fortune (1976)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
