@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">
-  <img src="https://i.scdn.co/image/ab67616d0000b27320292e6cce666a69ba5a86fb" width="180" height="180" alt="Kill &#39;Em All (Remastered)" />
+<a href="https://open.spotify.com/track/53jhILFzXhKPHAfsLoLUwA">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f99cf2f3c3ec959c204fdb60" width="180" height="180" alt="Rio Grande Mud" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">Seek &amp; Destroy (Remastered)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/53jhILFzXhKPHAfsLoLUwA">Just Got Paid</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">Kill &#39;Em All (Remastered) (1983)</span>
+<span style="font-size: 13px; color: #666;">ZZ Top</span><br><span style="font-size: 12px; color: #666;">Rio Grande Mud (1972)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">
+      <img src="https://i.scdn.co/image/ab67616d0000b27320292e6cce666a69ba5a86fb" width="96" height="96" alt="Kill &#39;Em All (Remastered)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">Seek &amp; Destroy (Remastered)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Metallica</span>
+    <br><span style="font-size: 12px; color: #666;">Kill &#39;Em All (Remastered) (1983)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
