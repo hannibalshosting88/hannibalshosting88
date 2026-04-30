@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" width="180" height="180" alt="Blowin&#39; Your Mind!" />
+<a href="https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a705b56a83b703453d8ddd04" width="180" height="180" alt="...Like Clockwork" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">Brown Eyed Girl</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG">I Sat by the Ocean</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Van Morrison</span><br><span style="font-size: 12px; color: #666;">Blowin&#39; Your Mind! (1967)</span>
+<span style="font-size: 13px; color: #666;">Queens of the Stone Age</span><br><span style="font-size: 12px; color: #666;">...Like Clockwork (2013)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" width="96" height="96" alt="Blowin&#39; Your Mind!" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">Brown Eyed Girl</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Van Morrison</span>
+    <br><span style="font-size: 12px; color: #666;">Blowin&#39; Your Mind! (1967)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
