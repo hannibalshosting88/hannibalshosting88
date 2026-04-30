@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7">
-  <img src="https://i.scdn.co/image/ab67616d0000b27391b3adb195fd4017fd3d6400" width="180" height="180" alt="City of Evil" />
+<a href="https://open.spotify.com/track/3rhZUqbKiA1ILhjc1LptC5">
+  <img src="https://i.scdn.co/image/ab67616d0000b27342dd2dbff868828a54982a38" width="180" height="180" alt="bedrott" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7">Bat Country</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3rhZUqbKiA1ILhjc1LptC5">bedrott</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Avenged Sevenfold</span><br><span style="font-size: 12px; color: #666;">City of Evil (2005)</span>
+<span style="font-size: 13px; color: #666;">duskydemise</span><br><span style="font-size: 12px; color: #666;">bedrott (2025)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7">
+      <img src="https://i.scdn.co/image/ab67616d0000b27391b3adb195fd4017fd3d6400" width="96" height="96" alt="City of Evil" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7">Bat Country</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Avenged Sevenfold</span>
+    <br><span style="font-size: 12px; color: #666;">City of Evil (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1QjD4Yg5qbOQjigtbhQh4f">SCP 3503 - Panic is Pure, Trauma is True, Suffering is Sweet, and Death&#39;s a Delight</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/5KuW4tb4rpbhUicMrs3BLj">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5KuW4tb4rpbhUicMrs3BLj">SCP 2844 - Gary of the Paperclips</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
