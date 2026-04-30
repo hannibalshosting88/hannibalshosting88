@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" width="96" height="96" alt="Blowin&#39; Your Mind!" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">Brown Eyed Girl</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Van Morrison</span>
-    <br><span style="font-size: 12px; color: #666;">Blowin&#39; Your Mind! (1967)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
