@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a705b56a83b703453d8ddd04" width="96" height="96" alt="...Like Clockwork" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG">I Sat by the Ocean</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Queens of the Stone Age</span>
-    <br><span style="font-size: 12px; color: #666;">...Like Clockwork (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
