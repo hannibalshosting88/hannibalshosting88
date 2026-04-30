@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ca861b77aab32e0ca69e2c34" width="180" height="180" alt="Come Clean" />
+<a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" width="180" height="180" alt="Blowin&#39; Your Mind!" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF">Control</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC">Brown Eyed Girl</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Puddle Of Mudd</span><br><span style="font-size: 12px; color: #666;">Come Clean (2001)</span>
+<span style="font-size: 13px; color: #666;">Van Morrison</span><br><span style="font-size: 12px; color: #666;">Blowin&#39; Your Mind! (1967)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ca861b77aab32e0ca69e2c34" width="96" height="96" alt="Come Clean" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/575Sz3R4xOhueUstPObylF">Control</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Puddle Of Mudd</span>
+    <br><span style="font-size: 12px; color: #666;">Come Clean (2001)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Thundersmack</span>
     <br><span style="font-size: 12px; color: #666;">2021</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco">
-      <img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="96" height="96" alt="Toxicity" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco">Aerials</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">System Of A Down</span>
-    <br><span style="font-size: 12px; color: #666;">Toxicity (2001)</span>
   </td>
 </tr>
 <tr>
