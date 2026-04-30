@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733c2579a4f8cacd5b95b8fa68" width="96" height="96" alt="The Battle Of Los Angeles" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk">Testify</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Rage Against The Machine</span>
-    <br><span style="font-size: 12px; color: #666;">The Battle Of Los Angeles (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
