@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk">
-  <img src="https://i.scdn.co/image/ab67616d0000b27372c860388456f7898ef9f206" width="180" height="180" alt="Transistor" />
+<a href="https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo">
+  <img src="https://i.scdn.co/image/ab67616d0000b273aa802dc9f870e66a8bb6a2a2" width="180" height="180" alt="Agents Of Fortune" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk">Beautiful Disaster</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo">(Don&#39;t Fear) The Reaper</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">311</span><br><span style="font-size: 12px; color: #666;">Transistor (1997)</span>
+<span style="font-size: 13px; color: #666;">Blue Öyster Cult</span><br><span style="font-size: 12px; color: #666;">Agents Of Fortune (1976)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk">
+      <img src="https://i.scdn.co/image/ab67616d0000b27372c860388456f7898ef9f206" width="96" height="96" alt="Transistor" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk">Beautiful Disaster</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">311</span>
+    <br><span style="font-size: 12px; color: #666;">Transistor (1997)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Forrest Frank, Connor Price</span>
     <br><span style="font-size: 12px; color: #666;">UP! (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">SCP 4656 - Significant Figures</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
   </td>
 </tr>
 <tr>
