@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0">
-  <img src="https://i.scdn.co/image/8ed3d8a59c27333ba89b891483cbe69871d7e341" width="180" height="180" alt="Con Su Loquera" />
+<a href="https://open.spotify.com/track/4NgITHhA2qpdvMDQtz007F">
+  <img src="https://i.scdn.co/image/ab67616d0000b273823d82a001ea6a32d4304e1e" width="180" height="180" alt="echo of a star" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0">La Vaca</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4NgITHhA2qpdvMDQtz007F">echo of a star</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Mala Fe</span><br><span style="font-size: 12px; color: #666;">Con Su Loquera (2000)</span>
+<span style="font-size: 13px; color: #666;">lace</span><br><span style="font-size: 12px; color: #666;">echo of a star (2025)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0">
+      <img src="https://i.scdn.co/image/8ed3d8a59c27333ba89b891483cbe69871d7e341" width="96" height="96" alt="Con Su Loquera" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0">La Vaca</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Mala Fe</span>
+    <br><span style="font-size: 12px; color: #666;">Con Su Loquera (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
