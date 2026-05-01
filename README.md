@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739a482180e6a306229bff49dc" width="96" height="96" alt="All Killer, No Filler" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN">Fat Lip</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Sum 41</span>
-    <br><span style="font-size: 12px; color: #666;">All Killer, No Filler (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
