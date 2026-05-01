@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" width="96" height="96" alt="Hello Nasty (Deluxe Edition/Remastered)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R">Intergalactic - Remastered 2009</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Beastie Boys</span>
-    <br><span style="font-size: 12px; color: #666;">Hello Nasty (Deluxe Edition/Remastered) (1998)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
