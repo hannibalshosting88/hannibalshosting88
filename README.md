@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2RpDP7zGt9a96666xc5RHS">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739aacd3ed981ceeb33832d68b" width="96" height="96" alt="The noise is a fog, look beyond it and you will find beauty." />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2RpDP7zGt9a96666xc5RHS">4444</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">blednost.</span>
-    <br><span style="font-size: 12px; color: #666;">The noise is a fog, look beyond it and you will find beauty. (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
