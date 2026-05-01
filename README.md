@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0H9KgnNPiynvBGq0CEwsPH">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a86387d2e509a9eef7e98bd7" width="180" height="180" alt="The Clear Out" />
+<a href="https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ">
+  <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" width="180" height="180" alt="Nimrod" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0H9KgnNPiynvBGq0CEwsPH">Dehydrated</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ">Good Riddance (Time of Your Life)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Mike Miller</span><br><span style="font-size: 12px; color: #666;">The Clear Out (2023)</span>
+<span style="font-size: 13px; color: #666;">Green Day</span><br><span style="font-size: 12px; color: #666;">Nimrod (1997)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0H9KgnNPiynvBGq0CEwsPH">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a86387d2e509a9eef7e98bd7" width="96" height="96" alt="The Clear Out" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0H9KgnNPiynvBGq0CEwsPH">Dehydrated</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Mike Miller</span>
+    <br><span style="font-size: 12px; color: #666;">The Clear Out (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Coheed and Cambria</span>
     <br><span style="font-size: 12px; color: #666;">In Keeping Secrets Of Silent Earth: 3 (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="96" height="96" alt="Meteora" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU">Faint</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Linkin Park</span>
-    <br><span style="font-size: 12px; color: #666;">Meteora (2003)</span>
   </td>
 </tr>
 <tr>
