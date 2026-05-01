@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d7127fabe91af9522b158e0b" width="180" height="180" alt="Loki: Epic Collection" />
+<a href="https://open.spotify.com/track/1x0AirtLjfVquI0A9iBVep">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739d8c8d4e72cab2f00e0686f5" width="180" height="180" alt="Getting Away With Murder" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1x0AirtLjfVquI0A9iBVep">Getting Away With Murder</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Samuel Kim</span><br><span style="font-size: 12px; color: #666;">Loki: Epic Collection (2021)</span>
+<span style="font-size: 13px; color: #666;">Papa Roach</span><br><span style="font-size: 12px; color: #666;">Getting Away With Murder (2004)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d7127fabe91af9522b158e0b" width="96" height="96" alt="Loki: Epic Collection" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Samuel Kim</span>
+    <br><span style="font-size: 12px; color: #666;">Loki: Epic Collection (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
