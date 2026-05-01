@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c63cd31653491e102712ee1a" width="180" height="180" alt="From Chaos" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl">Amber</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">311</span><br><span style="font-size: 12px; color: #666;">From Chaos (2001)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c63cd31653491e102712ee1a" width="96" height="96" alt="From Chaos" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl">Amber</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">311</span>
+    <br><span style="font-size: 12px; color: #666;">From Chaos (2001)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Portugal. The Man</span>
     <br><span style="font-size: 12px; color: #666;">Feel It Still (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="96" height="96" alt="Americana" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj">Why Don&#39;t You Get A Job</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Offspring</span>
-    <br><span style="font-size: 12px; color: #666;">Americana (1998)</span>
   </td>
 </tr>
 <tr>
