@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4">
-      <img src="https://i.scdn.co/image/ab67616d0000b27344583d23b665c7de0968ef3b" width="96" height="96" alt="311" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4">All Mixed Up</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">311</span>
-    <br><span style="font-size: 12px; color: #666;">1995</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
