@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x">
-  <img src="https://i.scdn.co/image/ab67616d0000b273053f006079bce979e5fef1e1" width="180" height="180" alt="Evil Empire" />
+<a href="https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a159f2b5ccc1faefea4aceac" width="180" height="180" alt="Tonight: Franz Ferdinand" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x">Bulls On Parade</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG">No You Girls</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Rage Against The Machine</span><br><span style="font-size: 12px; color: #666;">Evil Empire (1996)</span>
+<span style="font-size: 13px; color: #666;">Franz Ferdinand</span><br><span style="font-size: 12px; color: #666;">Tonight: Franz Ferdinand (2009)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x">
+      <img src="https://i.scdn.co/image/ab67616d0000b273053f006079bce979e5fef1e1" width="96" height="96" alt="Evil Empire" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x">Bulls On Parade</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Rage Against The Machine</span>
+    <br><span style="font-size: 12px; color: #666;">Evil Empire (1996)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">blednost.</span>
     <br><span style="font-size: 12px; color: #666;">The noise is a fog, look beyond it and you will find beauty. (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4NgITHhA2qpdvMDQtz007F">
-      <img src="https://i.scdn.co/image/ab67616d0000b273823d82a001ea6a32d4304e1e" width="96" height="96" alt="echo of a star" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4NgITHhA2qpdvMDQtz007F">echo of a star</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">lace</span>
-    <br><span style="font-size: 12px; color: #666;">echo of a star (2025)</span>
   </td>
 </tr>
 <tr>
