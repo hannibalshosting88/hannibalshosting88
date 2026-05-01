@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="180" height="180" alt="Meteora" />
+<a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737d579219fc2611dc45ef36fb" width="180" height="180" alt="In Keeping Secrets Of Silent Earth: 3" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU">Faint</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq">A Favor House Atlantic</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Meteora (2003)</span>
+<span style="font-size: 13px; color: #666;">Coheed and Cambria</span><br><span style="font-size: 12px; color: #666;">In Keeping Secrets Of Silent Earth: 3 (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="96" height="96" alt="Meteora" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU">Faint</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Linkin Park</span>
+    <br><span style="font-size: 12px; color: #666;">Meteora (2003)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
