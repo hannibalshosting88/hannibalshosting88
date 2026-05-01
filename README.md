@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0">
-      <img src="https://i.scdn.co/image/8ed3d8a59c27333ba89b891483cbe69871d7e341" width="96" height="96" alt="Con Su Loquera" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0">La Vaca</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Mala Fe</span>
-    <br><span style="font-size: 12px; color: #666;">Con Su Loquera (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
