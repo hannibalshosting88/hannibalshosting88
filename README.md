@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU">
-  <img src="https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91" width="180" height="180" alt="Pendulum (Expanded Edition)" />
+<a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT">
+  <img src="https://i.scdn.co/image/ab67616d0000b273786131a75c1f97fa83b6605c" width="180" height="180" alt="Natural" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU">Have You Ever Seen The Rain</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT">Natural</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Creedence Clearwater Revival</span><br><span style="font-size: 12px; color: #666;">Pendulum (Expanded Edition) (1970)</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Natural (2018)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU">
+      <img src="https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91" width="96" height="96" alt="Pendulum (Expanded Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU">Have You Ever Seen The Rain</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Creedence Clearwater Revival</span>
+    <br><span style="font-size: 12px; color: #666;">Pendulum (Expanded Edition) (1970)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">The Pretty Reckless</span>
     <br><span style="font-size: 12px; color: #666;">Light Me Up (2010)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">SCP 4656 - Significant Figures</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
   </td>
 </tr>
 <tr>
