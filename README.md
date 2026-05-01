@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU">
-      <img src="https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91" width="96" height="96" alt="Pendulum (Expanded Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU">Have You Ever Seen The Rain</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Creedence Clearwater Revival</span>
-    <br><span style="font-size: 12px; color: #666;">Pendulum (Expanded Edition) (1970)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
