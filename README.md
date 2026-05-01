@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c091c40987e92a9256d2f210" width="96" height="96" alt="Mi Sangre" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL">La Camisa Negra</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Juanes</span>
-    <br><span style="font-size: 12px; color: #666;">Mi Sangre (2004)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
