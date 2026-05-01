@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739a482180e6a306229bff49dc" width="180" height="180" alt="All Killer, No Filler" />
+<a href="https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4">
+  <img src="https://i.scdn.co/image/ab67616d0000b27344583d23b665c7de0968ef3b" width="180" height="180" alt="311" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN">Fat Lip</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4">All Mixed Up</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Sum 41</span><br><span style="font-size: 12px; color: #666;">All Killer, No Filler (2001)</span>
+<span style="font-size: 13px; color: #666;">311</span><br><span style="font-size: 12px; color: #666;">1995</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739a482180e6a306229bff49dc" width="96" height="96" alt="All Killer, No Filler" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN">Fat Lip</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Sum 41</span>
+    <br><span style="font-size: 12px; color: #666;">All Killer, No Filler (2001)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2TMFYjFvMYEH9vlD43MHga">SCP 4075 - Birds of a Feather</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3SmlDvjzrq7CA9aXeJ5gdR">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3SmlDvjzrq7CA9aXeJ5gdR">SCP 5053 - Anything but a stick in the mud</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
