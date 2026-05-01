@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4nhNJBCqmDtvFGnjZuWf4R">
-  <img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="180" height="180" alt="Thundersmack" />
+<a href="https://open.spotify.com/track/7MRi0RjfVnUEY2g9DPcXre">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="180" height="180" alt="Brasshopper" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4nhNJBCqmDtvFGnjZuWf4R">Bad Molly</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7MRi0RjfVnUEY2g9DPcXre">Bouncing Off the Walls</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">2021</span>
+<span style="font-size: 13px; color: #666;">Broken Brass</span><br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4nhNJBCqmDtvFGnjZuWf4R">
+      <img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="96" height="96" alt="Thundersmack" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4nhNJBCqmDtvFGnjZuWf4R">Bad Molly</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">2021</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
