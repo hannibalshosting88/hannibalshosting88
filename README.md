@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7MRi0RjfVnUEY2g9DPcXre">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="180" height="180" alt="Brasshopper" />
+<a href="https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU">
+  <img src="https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91" width="180" height="180" alt="Pendulum (Expanded Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7MRi0RjfVnUEY2g9DPcXre">Bouncing Off the Walls</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU">Have You Ever Seen The Rain</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Broken Brass</span><br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
+<span style="font-size: 13px; color: #666;">Creedence Clearwater Revival</span><br><span style="font-size: 12px; color: #666;">Pendulum (Expanded Edition) (1970)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7MRi0RjfVnUEY2g9DPcXre">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="96" height="96" alt="Brasshopper" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7MRi0RjfVnUEY2g9DPcXre">Bouncing Off the Walls</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Broken Brass</span>
+    <br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
