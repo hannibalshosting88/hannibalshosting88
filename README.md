@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739dea43e1ba135094aae5a600" width="180" height="180" alt="Folie à Deux" />
+<a href="https://open.spotify.com/track/5p8WbMGPsP2TmcsInVn44u">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734beb66f56871bbde37f6892d" width="180" height="180" alt="Sad Clown Bad Year (#9-#12 Collection)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9">I Don&#39;t Care - Single Version</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5p8WbMGPsP2TmcsInVn44u">Sunshine</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Fall Out Boy</span><br><span style="font-size: 12px; color: #666;">Folie à Deux (2008)</span>
+<span style="font-size: 13px; color: #666;">Atmosphere, Slug, Ant</span><br><span style="font-size: 12px; color: #666;">Sad Clown Bad Year (#9-#12 Collection) (2018)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739dea43e1ba135094aae5a600" width="96" height="96" alt="Folie à Deux" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9">I Don&#39;t Care - Single Version</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Fall Out Boy</span>
+    <br><span style="font-size: 12px; color: #666;">Folie à Deux (2008)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Sum 41</span>
     <br><span style="font-size: 12px; color: #666;">All Killer, No Filler (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe">
-      <img src="https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4" width="96" height="96" alt="By the Way (Deluxe Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe">By the Way</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Red Hot Chili Peppers</span>
-    <br><span style="font-size: 12px; color: #666;">By the Way (Deluxe Edition) (2002)</span>
   </td>
 </tr>
 <tr>
