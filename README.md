@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737d579219fc2611dc45ef36fb" width="180" height="180" alt="In Keeping Secrets Of Silent Earth: 3" />
+<a href="https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739dea43e1ba135094aae5a600" width="180" height="180" alt="Folie à Deux" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq">A Favor House Atlantic</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9">I Don&#39;t Care - Single Version</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Coheed and Cambria</span><br><span style="font-size: 12px; color: #666;">In Keeping Secrets Of Silent Earth: 3 (2003)</span>
+<span style="font-size: 13px; color: #666;">Fall Out Boy</span><br><span style="font-size: 12px; color: #666;">Folie à Deux (2008)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737d579219fc2611dc45ef36fb" width="96" height="96" alt="In Keeping Secrets Of Silent Earth: 3" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq">A Favor House Atlantic</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Coheed and Cambria</span>
+    <br><span style="font-size: 12px; color: #666;">In Keeping Secrets Of Silent Earth: 3 (2003)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
