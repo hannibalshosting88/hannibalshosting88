@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1x0AirtLjfVquI0A9iBVep">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739d8c8d4e72cab2f00e0686f5" width="96" height="96" alt="Getting Away With Murder" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1x0AirtLjfVquI0A9iBVep">Getting Away With Murder</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Papa Roach</span>
-    <br><span style="font-size: 12px; color: #666;">Getting Away With Murder (2004)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
