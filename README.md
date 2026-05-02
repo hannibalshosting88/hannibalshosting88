@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d7127fabe91af9522b158e0b" width="96" height="96" alt="Loki: Epic Collection" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/589nAgxn4ufrqd2KjHxay8">Loki Theme Variant 1 (Loki Green Theme)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Samuel Kim</span>
-    <br><span style="font-size: 12px; color: #666;">Loki: Epic Collection (2021)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
