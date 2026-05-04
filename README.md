@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/75yE3kEbL9HcMu6US7iEaL">
-  <img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="180" height="180" alt="GET UP" />
+<a href="https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" width="180" height="180" alt="American Beauty/American Psycho" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/75yE3kEbL9HcMu6US7iEaL">GET UP</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr">Uma Thurman</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">GET UP (2022)</span>
+<span style="font-size: 13px; color: #666;">Fall Out Boy</span><br><span style="font-size: 12px; color: #666;">American Beauty/American Psycho (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/75yE3kEbL9HcMu6US7iEaL">
+      <img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="96" height="96" alt="GET UP" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/75yE3kEbL9HcMu6US7iEaL">GET UP</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">GET UP (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3SmlDvjzrq7CA9aXeJ5gdR">SCP 5053 - Anything but a stick in the mud</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">SCP 4656 - Significant Figures</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
