@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739b62c36a1f8ac00d60f460cc" width="180" height="180" alt="Songs For The Deaf" />
+<a href="https://open.spotify.com/track/1eRgyfyizDWISeS99kwLNC">
+  <img src="https://i.scdn.co/image/ab67616d0000b273df35bf65ebd6738a760e2cd1" width="180" height="180" alt="lovehatetragedy" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE">Go With The Flow</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1eRgyfyizDWISeS99kwLNC">She Loves Me Not</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Queens of the Stone Age</span><br><span style="font-size: 12px; color: #666;">Songs For The Deaf (2002)</span>
+<span style="font-size: 13px; color: #666;">Papa Roach</span><br><span style="font-size: 12px; color: #666;">lovehatetragedy (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739b62c36a1f8ac00d60f460cc" width="96" height="96" alt="Songs For The Deaf" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE">Go With The Flow</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Queens of the Stone Age</span>
+    <br><span style="font-size: 12px; color: #666;">Songs For The Deaf (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5KuW4tb4rpbhUicMrs3BLj">SCP 2844 - Gary of the Paperclips</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/0P0xOTWLLb7WsinEFdx2OT">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0P0xOTWLLb7WsinEFdx2OT">SCP 4850 - Madness Leaks Through a Broken Seal</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
