@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1zm8Bs1jRnveMzryxIkH4s">
-      <img src="https://i.scdn.co/image/ab67616d0000b273181baef01d864fe48baa65ad" width="96" height="96" alt="The Essential Blue Öyster Cult" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1zm8Bs1jRnveMzryxIkH4s">Burnin&#39; for You</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Blue Öyster Cult</span>
-    <br><span style="font-size: 12px; color: #666;">The Essential Blue Öyster Cult (1972)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
