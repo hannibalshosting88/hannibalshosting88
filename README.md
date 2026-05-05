@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3QOmgrh6ElgcPKwOAnbwgu">
-  <img src="https://i.scdn.co/image/ab67616d0000b273df233105da0c8da5dcd17c03" width="180" height="180" alt="To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep&#39;s" />
+<a href="https://open.spotify.com/track/3nC3n8HniPG7OiBI5gurGo">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="180" height="180" alt="Times Square" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3QOmgrh6ElgcPKwOAnbwgu">The Best Day</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3nC3n8HniPG7OiBI5gurGo">Heave Ho</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Atmosphere</span><br><span style="font-size: 12px; color: #666;">To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep&#39;s (2010)</span>
+<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3QOmgrh6ElgcPKwOAnbwgu">
+      <img src="https://i.scdn.co/image/ab67616d0000b273df233105da0c8da5dcd17c03" width="96" height="96" alt="To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep&#39;s" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3QOmgrh6ElgcPKwOAnbwgu">The Best Day</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Atmosphere</span>
+    <br><span style="font-size: 12px; color: #666;">To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep&#39;s (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/39pd0xbTA5Jmc6XpgYbMgA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/39pd0xbTA5Jmc6XpgYbMgA">Civilization Carrier Case - SCP 3156</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
   </td>
 </tr>
 <tr>
