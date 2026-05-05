@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739d8c8d4e72cab2f00e0686f5" width="180" height="180" alt="Getting Away With Murder" />
+<a href="https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a2b4f98f60e3cacf3866b2e3" width="180" height="180" alt="Eliminator" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD">Scars</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom">Sharp Dressed Man (2008 Remaster)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Papa Roach</span><br><span style="font-size: 12px; color: #666;">Getting Away With Murder (2004)</span>
+<span style="font-size: 13px; color: #666;">ZZ Top</span><br><span style="font-size: 12px; color: #666;">Eliminator (1983)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739d8c8d4e72cab2f00e0686f5" width="96" height="96" alt="Getting Away With Murder" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD">Scars</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Papa Roach</span>
+    <br><span style="font-size: 12px; color: #666;">Getting Away With Murder (2004)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
