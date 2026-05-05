@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3nC3n8HniPG7OiBI5gurGo">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="180" height="180" alt="Times Square" />
+<a href="https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739b62c36a1f8ac00d60f460cc" width="180" height="180" alt="Songs For The Deaf" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3nC3n8HniPG7OiBI5gurGo">Heave Ho</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE">Go With The Flow</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
+<span style="font-size: 13px; color: #666;">Queens of the Stone Age</span><br><span style="font-size: 12px; color: #666;">Songs For The Deaf (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3nC3n8HniPG7OiBI5gurGo">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="96" height="96" alt="Times Square" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3nC3n8HniPG7OiBI5gurGo">Heave Ho</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
