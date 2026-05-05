@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734f3bbf9631faeb8de9912a23" width="180" height="180" alt="Astro Lounge" />
+<a href="https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ">
+  <img src="https://i.scdn.co/image/ab67616d0000b27390fef039e01409cb5a8d560c" width="180" height="180" alt="The Sufferer &amp; The Witness" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK">All Star</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ">Prayer Of The Refugee</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Smash Mouth</span><br><span style="font-size: 12px; color: #666;">Astro Lounge (1999)</span>
+<span style="font-size: 13px; color: #666;">Rise Against</span><br><span style="font-size: 12px; color: #666;">The Sufferer &amp; The Witness (2006)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734f3bbf9631faeb8de9912a23" width="96" height="96" alt="Astro Lounge" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK">All Star</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Smash Mouth</span>
+    <br><span style="font-size: 12px; color: #666;">Astro Lounge (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
