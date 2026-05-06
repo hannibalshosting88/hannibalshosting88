@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1eRgyfyizDWISeS99kwLNC">
-      <img src="https://i.scdn.co/image/ab67616d0000b273df35bf65ebd6738a760e2cd1" width="96" height="96" alt="lovehatetragedy" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1eRgyfyizDWISeS99kwLNC">She Loves Me Not</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Papa Roach</span>
-    <br><span style="font-size: 12px; color: #666;">lovehatetragedy (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
