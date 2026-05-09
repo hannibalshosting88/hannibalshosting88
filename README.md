@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7">
-  <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="180" height="180" alt="From Under The Cork Tree" />
+<a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">
+  <img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="180" height="180" alt="Tres Hombres (Expanded 2006 Remaster)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7">Dance, Dance</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Fall Out Boy</span><br><span style="font-size: 12px; color: #666;">From Under The Cork Tree (2005)</span>
+<span style="font-size: 13px; color: #666;">ZZ Top</span><br><span style="font-size: 12px; color: #666;">Tres Hombres (Expanded 2006 Remaster) (1973)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7">
+      <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="96" height="96" alt="From Under The Cork Tree" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7">Dance, Dance</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Fall Out Boy</span>
+    <br><span style="font-size: 12px; color: #666;">From Under The Cork Tree (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
