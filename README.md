@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ">
-  <img src="https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0" width="180" height="180" alt="Ride The Lightning (Deluxe Remaster)" />
+<a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736b928533e17b59fc9139f0e7" width="180" height="180" alt="Liar" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ">For Whom The Bell Tolls (Remastered)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A">Liar</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">Ride The Lightning (Deluxe Remaster) (1984)</span>
+<span style="font-size: 13px; color: #666;">Jelly Roll</span><br><span style="font-size: 12px; color: #666;">Liar (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ">
+      <img src="https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0" width="96" height="96" alt="Ride The Lightning (Deluxe Remaster)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ">For Whom The Bell Tolls (Remastered)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Metallica</span>
+    <br><span style="font-size: 12px; color: #666;">Ride The Lightning (Deluxe Remaster) (1984)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
