@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0rYvxOJ6hbTLJg2DLe3xYC">
-  <img src="https://i.scdn.co/image/ab67616d0000b27360afaee0d3371b967c11af47" width="180" height="180" alt="Brothers Grimm" />
+<a href="https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733aa5698b9f13447a6ccc0dcc" width="180" height="180" alt="Anthology" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0rYvxOJ6hbTLJg2DLe3xYC">Jimmy Recard</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy">Smooth Criminal</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Drapht</span><br><span style="font-size: 12px; color: #666;">Brothers Grimm (2008)</span>
+<span style="font-size: 13px; color: #666;">Alien Ant Farm</span><br><span style="font-size: 12px; color: #666;">Anthology (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0rYvxOJ6hbTLJg2DLe3xYC">
+      <img src="https://i.scdn.co/image/ab67616d0000b27360afaee0d3371b967c11af47" width="96" height="96" alt="Brothers Grimm" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0rYvxOJ6hbTLJg2DLe3xYC">Jimmy Recard</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Drapht</span>
+    <br><span style="font-size: 12px; color: #666;">Brothers Grimm (2008)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
