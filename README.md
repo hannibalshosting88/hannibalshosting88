@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a320d7e9efd7602648fb78e3" width="96" height="96" alt="Neotheater" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">100 Bad Days</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">AJR</span>
-    <br><span style="font-size: 12px; color: #666;">Neotheater (2019)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
