@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">
-      <img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="96" height="96" alt="Tres Hombres (Expanded 2006 Remaster)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">ZZ Top</span>
-    <br><span style="font-size: 12px; color: #666;">Tres Hombres (Expanded 2006 Remaster) (1973)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
