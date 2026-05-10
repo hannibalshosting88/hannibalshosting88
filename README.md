@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0xcGLYbvIiQAcvjRZizdIv">
-  <img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="180" height="180" alt="GET UP" />
+<a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="180" height="180" alt="Start Static" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0xcGLYbvIiQAcvjRZizdIv">BATTLE AXE</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX">Bouncing Off The Walls</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">GET UP (2022)</span>
+<span style="font-size: 13px; color: #666;">Sugarcult</span><br><span style="font-size: 12px; color: #666;">Start Static (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0xcGLYbvIiQAcvjRZizdIv">
+      <img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="96" height="96" alt="GET UP" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0xcGLYbvIiQAcvjRZizdIv">BATTLE AXE</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">GET UP (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7HQLZl0YQb1XaxVb58ODHB">Genetic Bottlenecks – How Few People Can Start a World? Or Restart One?</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/2aOh7co9clUO62RAs1evNJ">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a5e36a2ba0377094d2356ebec" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2aOh7co9clUO62RAs1evNJ">Nomadic Aliens – Cultures That Wander the Galaxy</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
