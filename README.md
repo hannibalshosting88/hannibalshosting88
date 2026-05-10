@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus">
-  <img src="https://i.scdn.co/image/ab67616d0000b273215bd929ab6088f0b3e8ea8f" width="180" height="180" alt="The Click" />
+<a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">
+  <img src="https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2" width="180" height="180" alt="A Bar Song (Tipsy)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus">Sober Up - feat. Rivers Cuomo</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">A Bar Song (Tipsy)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">AJR, Rivers Cuomo</span><br><span style="font-size: 12px; color: #666;">The Click (2017)</span>
+<span style="font-size: 13px; color: #666;">Shaboozey</span><br><span style="font-size: 12px; color: #666;">A Bar Song (Tipsy) (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus">
+      <img src="https://i.scdn.co/image/ab67616d0000b273215bd929ab6088f0b3e8ea8f" width="96" height="96" alt="The Click" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus">Sober Up - feat. Rivers Cuomo</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">AJR, Rivers Cuomo</span>
+    <br><span style="font-size: 12px; color: #666;">The Click (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
