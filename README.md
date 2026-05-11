@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="96" height="96" alt="Death Magnetic" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Metallica</span>
-    <br><span style="font-size: 12px; color: #666;">Death Magnetic (2008)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
