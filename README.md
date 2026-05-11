@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732868c4713a3912fd476b42f1" width="96" height="96" alt="The Better Life" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6">Kryptonite</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">3 Doors Down</span>
-    <br><span style="font-size: 12px; color: #666;">The Better Life (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
