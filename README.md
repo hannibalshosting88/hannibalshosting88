@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6jpjQNMkLp0k94isRvzpp6">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a5adf3e24e5a9c6dce534230c" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6jpjQNMkLp0k94isRvzpp6">Micro Planets: Building Artificial Worlds with Black Hole Cores</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
