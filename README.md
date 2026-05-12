@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1HtofLC8FzhmVM2I5scOs4">
-      <img src="https://i.scdn.co/image/ab6765630000ba8ae8a476ddc4554e3170c3664d" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1HtofLC8FzhmVM2I5scOs4">Biohacks &amp; Brain Mods - The Coming Age of Implant Culture</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
