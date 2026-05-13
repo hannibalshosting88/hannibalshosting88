@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f485a27298fbd17d868f7565" width="180" height="180" alt="A Crow Left Of The Murder..." />
+<a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt">
+  <img src="https://i.scdn.co/image/ab67616d0000b27358aafbee8d662b660081bc90" width="180" height="180" alt="Big Baby DRAM (Deluxe Version)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">Sick Sad Little World</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt">Broccoli (feat. Lil Yachty)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">A Crow Left Of The Murder... (2004)</span>
+<span style="font-size: 13px; color: #666;">DRAM, Lil Yachty</span><br><span style="font-size: 12px; color: #666;">Big Baby DRAM (Deluxe Version) (2016)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f485a27298fbd17d868f7565" width="96" height="96" alt="A Crow Left Of The Murder..." />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf">Sick Sad Little World</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Incubus</span>
+    <br><span style="font-size: 12px; color: #666;">A Crow Left Of The Murder... (2004)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
