@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle">
-  <img src="https://i.scdn.co/image/ab67616d0000b27304481c826dd292e5e4983b3f" width="180" height="180" alt="UTOPIA" />
+<a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">
+  <img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="180" height="180" alt="Dookie" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle">LOOOVE (feat. Kid Cudi)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">Basket Case</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Travis Scott, Kid Cudi</span><br><span style="font-size: 12px; color: #666;">UTOPIA (2023)</span>
+<span style="font-size: 13px; color: #666;">Green Day</span><br><span style="font-size: 12px; color: #666;">Dookie (1994)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle">
+      <img src="https://i.scdn.co/image/ab67616d0000b27304481c826dd292e5e4983b3f" width="96" height="96" alt="UTOPIA" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle">LOOOVE (feat. Kid Cudi)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Travis Scott, Kid Cudi</span>
+    <br><span style="font-size: 12px; color: #666;">UTOPIA (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6jpjQNMkLp0k94isRvzpp6">Micro Planets: Building Artificial Worlds with Black Hole Cores</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/7rIypSskk4wDeCJtQUXYDD">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a896e60499888edf246650e74" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7rIypSskk4wDeCJtQUXYDD">The End of Science</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
