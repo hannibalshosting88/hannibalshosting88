@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">
-  <img src="https://i.scdn.co/image/ab67616d0000b273801cf8805673d07eb26da351" width="180" height="180" alt="Rebirth" />
+<a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ">
+  <img src="https://i.scdn.co/image/ab67616d0000b27378c1c3872bf86543934e745c" width="180" height="180" alt="EndEx" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">Drop The World</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ">Merchant of the Void</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lil Wayne, Eminem</span><br><span style="font-size: 12px; color: #666;">Rebirth (2009)</span>
+<span style="font-size: 13px; color: #666;">3TEETH, Mick Gordon</span><br><span style="font-size: 12px; color: #666;">EndEx (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">
+      <img src="https://i.scdn.co/image/ab67616d0000b273801cf8805673d07eb26da351" width="96" height="96" alt="Rebirth" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">Drop The World</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lil Wayne, Eminem</span>
+    <br><span style="font-size: 12px; color: #666;">Rebirth (2009)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
