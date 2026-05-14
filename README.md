@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3S1vtNGSNvoQmz2sPVRT2V">
-  <img src="https://i.scdn.co/image/ab67616d0000b273469882878c9475ae1d450489" width="180" height="180" alt="The Definition Of X: Pick Of The Litter" />
+<a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX">
+  <img src="https://i.scdn.co/image/ab67616d0000b273743060d488780164928a20b2" width="180" height="180" alt="Sultans of Swing - the Very Best of Dire Straits" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3S1vtNGSNvoQmz2sPVRT2V">X Gon&#39; Give It To Ya</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX">Money for Nothing</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">DMX</span><br><span style="font-size: 12px; color: #666;">The Definition Of X: Pick Of The Litter (2007)</span>
+<span style="font-size: 13px; color: #666;">Dire Straits</span><br><span style="font-size: 12px; color: #666;">Sultans of Swing - the Very Best of Dire Straits (1998)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3S1vtNGSNvoQmz2sPVRT2V">
+      <img src="https://i.scdn.co/image/ab67616d0000b273469882878c9475ae1d450489" width="96" height="96" alt="The Definition Of X: Pick Of The Litter" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3S1vtNGSNvoQmz2sPVRT2V">X Gon&#39; Give It To Ya</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">DMX</span>
+    <br><span style="font-size: 12px; color: #666;">The Definition Of X: Pick Of The Litter (2007)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Green Day</span>
     <br><span style="font-size: 12px; color: #666;">Dookie (1994)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle">
-      <img src="https://i.scdn.co/image/ab67616d0000b27304481c826dd292e5e4983b3f" width="96" height="96" alt="UTOPIA" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle">LOOOVE (feat. Kid Cudi)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Travis Scott, Kid Cudi</span>
-    <br><span style="font-size: 12px; color: #666;">UTOPIA (2023)</span>
   </td>
 </tr>
 <tr>
