@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="180" height="180" alt="Mercury - Acts 1 &amp; 2" />
+<a href="https://open.spotify.com/track/1g4YDwzKEWOESJCqD6Ra3u">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b8e252cace4010e3016547c6" width="180" height="180" alt="Still Bleeding" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1g4YDwzKEWOESJCqD6Ra3u">Pray All The Way Home</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends</span><br><span style="font-size: 12px; color: #666;">Mercury - Acts 1 &amp; 2 (2022)</span>
+<span style="font-size: 13px; color: #666;">Austin Snell</span><br><span style="font-size: 12px; color: #666;">Still Bleeding (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="96" height="96" alt="Mercury - Acts 1 &amp; 2" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends</span>
+    <br><span style="font-size: 12px; color: #666;">Mercury - Acts 1 &amp; 2 (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
