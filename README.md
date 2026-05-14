@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fa53c2e5e710a267b2bbc3b7" width="180" height="180" alt="Faster Than the Speed of Death" />
+<a href="https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf">
+  <img src="https://i.scdn.co/image/ab67616d0000b27360d9e6851312e529730690d5" width="180" height="180" alt="Miles On It" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h">The Sooner We Die the Sooner We Can All Go Home</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf">Miles On It</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Dead Players, Jam Baxter, Dabbla, Ghosttown</span><br><span style="font-size: 12px; color: #666;">Faster Than the Speed of Death (2024)</span>
+<span style="font-size: 13px; color: #666;">Marshmello, Kane Brown</span><br><span style="font-size: 12px; color: #666;">Miles On It (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fa53c2e5e710a267b2bbc3b7" width="96" height="96" alt="Faster Than the Speed of Death" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h">The Sooner We Die the Sooner We Can All Go Home</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Dead Players, Jam Baxter, Dabbla, Ghosttown</span>
+    <br><span style="font-size: 12px; color: #666;">Faster Than the Speed of Death (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
