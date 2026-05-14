@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737a015de3b0b7d1e3bf02a926" width="180" height="180" alt="Down3r" />
+<a href="https://open.spotify.com/track/4zfACDG50SflIzKurjd8B0">
+  <img src="https://i.scdn.co/image/ab67616d0000b273de8e763df1c3c6475a4b500f" width="180" height="180" alt="Apt. 505" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0">Suga Boom Boom</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4zfACDG50SflIzKurjd8B0">APT</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Down3r</span><br><span style="font-size: 12px; color: #666;">2016</span>
+<span style="font-size: 13px; color: #666;">Coast Contra</span><br><span style="font-size: 12px; color: #666;">Apt. 505 (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737a015de3b0b7d1e3bf02a926" width="96" height="96" alt="Down3r" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0">Suga Boom Boom</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Down3r</span>
+    <br><span style="font-size: 12px; color: #666;">2016</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Oliver Anthony Music</span>
     <br><span style="font-size: 12px; color: #666;">Scornful Woman (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="96" height="96" alt="Hypnotize" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX">Lonely Day</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">System Of A Down</span>
-    <br><span style="font-size: 12px; color: #666;">Hypnotize (2005)</span>
   </td>
 </tr>
 <tr>
