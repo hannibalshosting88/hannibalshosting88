@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c34064a3c5e4a25892a091f3" width="180" height="180" alt="Nightmare" />
+<a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">
+  <img src="https://i.scdn.co/image/ab67616d0000b273801cf8805673d07eb26da351" width="180" height="180" alt="Rebirth" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8">Nightmare</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">Drop The World</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Avenged Sevenfold</span><br><span style="font-size: 12px; color: #666;">Nightmare (2010)</span>
+<span style="font-size: 13px; color: #666;">Lil Wayne, Eminem</span><br><span style="font-size: 12px; color: #666;">Rebirth (2009)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c34064a3c5e4a25892a091f3" width="96" height="96" alt="Nightmare" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8">Nightmare</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Avenged Sevenfold</span>
+    <br><span style="font-size: 12px; color: #666;">Nightmare (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Kid Cudi</span>
     <br><span style="font-size: 12px; color: #666;">Man On The Moon: The End Of Day (Deluxe) (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="96" height="96" alt="Metallica (Remastered)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ">Enter Sandman (Remastered)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Metallica</span>
-    <br><span style="font-size: 12px; color: #666;">Metallica (Remastered) (1991)</span>
   </td>
 </tr>
 <tr>
