@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX">
-  <img src="https://i.scdn.co/image/ab67616d0000b273743060d488780164928a20b2" width="180" height="180" alt="Sultans of Swing - the Very Best of Dire Straits" />
+<a href="https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y">
+  <img src="https://i.scdn.co/image/ab67616d0000b27326d45b50f2016fed43d54320" width="180" height="180" alt="Sinner" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX">Money for Nothing</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y">Bodies</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Dire Straits</span><br><span style="font-size: 12px; color: #666;">Sultans of Swing - the Very Best of Dire Straits (1998)</span>
+<span style="font-size: 13px; color: #666;">Drowning Pool</span><br><span style="font-size: 12px; color: #666;">Sinner (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX">
+      <img src="https://i.scdn.co/image/ab67616d0000b273743060d488780164928a20b2" width="96" height="96" alt="Sultans of Swing - the Very Best of Dire Straits" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1E8qiEnaCzyiOicYsabbtX">Money for Nothing</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Dire Straits</span>
+    <br><span style="font-size: 12px; color: #666;">Sultans of Swing - the Very Best of Dire Straits (1998)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Incubus</span>
     <br><span style="font-size: 12px; color: #666;">A Crow Left Of The Murder... (2004)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">
-      <img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="96" height="96" alt="Dookie" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">Basket Case</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Green Day</span>
-    <br><span style="font-size: 12px; color: #666;">Dookie (1994)</span>
   </td>
 </tr>
 <tr>
