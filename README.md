@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">
-      <img src="https://i.scdn.co/image/ab67616d0000b273801cf8805673d07eb26da351" width="96" height="96" alt="Rebirth" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ">Drop The World</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lil Wayne, Eminem</span>
-    <br><span style="font-size: 12px; color: #666;">Rebirth (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
