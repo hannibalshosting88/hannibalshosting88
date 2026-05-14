@@ -22,14 +22,16 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
+<a href="https://open.spotify.com/episode/6n4qeFqIks7QwPHLb3arzL">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a2b20b7435d88dae08c515812" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
+</a>
 
 <br>
 
-<b>💤 Offline • Nothing currently playing</b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6n4qeFqIks7QwPHLb3arzL">SETI Explained - How We Search for Alien Civilizations</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
+<span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
