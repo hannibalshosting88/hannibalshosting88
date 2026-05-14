@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7hdw5gAGMyyn9z0XgfTv1j">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cbf39ee02c78c920e2a456eb" width="180" height="180" alt="NO NAME" />
+<a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fa53c2e5e710a267b2bbc3b7" width="180" height="180" alt="Faster Than the Speed of Death" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7hdw5gAGMyyn9z0XgfTv1j">NO NAME</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h">The Sooner We Die the Sooner We Can All Go Home</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">NF</span><br><span style="font-size: 12px; color: #666;">NO NAME (2018)</span>
+<span style="font-size: 13px; color: #666;">Dead Players, Jam Baxter, Dabbla, Ghosttown</span><br><span style="font-size: 12px; color: #666;">Faster Than the Speed of Death (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7hdw5gAGMyyn9z0XgfTv1j">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cbf39ee02c78c920e2a456eb" width="96" height="96" alt="NO NAME" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7hdw5gAGMyyn9z0XgfTv1j">NO NAME</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">NF</span>
+    <br><span style="font-size: 12px; color: #666;">NO NAME (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends</span>
     <br><span style="font-size: 12px; color: #666;">Mercury - Acts 1 &amp; 2 (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y">
-      <img src="https://i.scdn.co/image/ab67616d0000b27326d45b50f2016fed43d54320" width="96" height="96" alt="Sinner" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y">Bodies</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Drowning Pool</span>
-    <br><span style="font-size: 12px; color: #666;">Sinner (2001)</span>
   </td>
 </tr>
 <tr>
