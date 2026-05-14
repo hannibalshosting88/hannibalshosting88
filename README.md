@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5wfllwdjglyQislkskYLBv">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74" width="180" height="180" alt="Man On The Moon: The End Of Day (Deluxe)" />
+<a href="https://open.spotify.com/track/3S1vtNGSNvoQmz2sPVRT2V">
+  <img src="https://i.scdn.co/image/ab67616d0000b273469882878c9475ae1d450489" width="180" height="180" alt="The Definition Of X: Pick Of The Litter" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5wfllwdjglyQislkskYLBv">Day &#39;N&#39; Nite (nightmare)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3S1vtNGSNvoQmz2sPVRT2V">X Gon&#39; Give It To Ya</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kid Cudi</span><br><span style="font-size: 12px; color: #666;">Man On The Moon: The End Of Day (Deluxe) (2009)</span>
+<span style="font-size: 13px; color: #666;">DMX</span><br><span style="font-size: 12px; color: #666;">The Definition Of X: Pick Of The Litter (2007)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5wfllwdjglyQislkskYLBv">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74" width="96" height="96" alt="Man On The Moon: The End Of Day (Deluxe)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5wfllwdjglyQislkskYLBv">Day &#39;N&#39; Nite (nightmare)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kid Cudi</span>
+    <br><span style="font-size: 12px; color: #666;">Man On The Moon: The End Of Day (Deluxe) (2009)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
