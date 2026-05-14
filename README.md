@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96">
-  <img src="https://i.scdn.co/image/ab67616d0000b27350ca1d43c778ca1de9e99979" width="180" height="180" alt="Scornful Woman" />
+<a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="180" height="180" alt="Rich Men North of Richmond" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96">Scornful Woman</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Oliver Anthony Music</span><br><span style="font-size: 12px; color: #666;">Scornful Woman (2025)</span>
+<span style="font-size: 13px; color: #666;">Oliver Anthony Music</span><br><span style="font-size: 12px; color: #666;">Rich Men North of Richmond (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96">
+      <img src="https://i.scdn.co/image/ab67616d0000b27350ca1d43c778ca1de9e99979" width="96" height="96" alt="Scornful Woman" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96">Scornful Woman</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Oliver Anthony Music</span>
+    <br><span style="font-size: 12px; color: #666;">Scornful Woman (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
