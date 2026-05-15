@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs">
-  <img src="https://i.scdn.co/image/ab67616d0000b273becbea9f81d7c98c07b7e283" width="180" height="180" alt="We Control" />
+<a href="https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0">
+  <img src="https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70" width="180" height="180" alt="Blood Sugar Sex Magik (Deluxe Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs">We Control</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0">Give It Away</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Hyper</span><br><span style="font-size: 12px; color: #666;">We Control (2006)</span>
+<span style="font-size: 13px; color: #666;">Red Hot Chili Peppers</span><br><span style="font-size: 12px; color: #666;">Blood Sugar Sex Magik (Deluxe Edition) (1991)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs">
+      <img src="https://i.scdn.co/image/ab67616d0000b273becbea9f81d7c98c07b7e283" width="96" height="96" alt="We Control" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs">We Control</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Hyper</span>
+    <br><span style="font-size: 12px; color: #666;">We Control (2006)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Bo Burnham</span>
     <br><span style="font-size: 12px; color: #666;">Words Words Words (2010)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2Q6RiCAKOrxRYtvl9pcpjY">
-      <img src="https://i.scdn.co/image/ab67616d0000b27388fed14b936c38007a302413" width="96" height="96" alt="INSIDE" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2Q6RiCAKOrxRYtvl9pcpjY">All Eyes On Me</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Bo Burnham</span>
-    <br><span style="font-size: 12px; color: #666;">INSIDE (2021)</span>
   </td>
 </tr>
 <tr>
