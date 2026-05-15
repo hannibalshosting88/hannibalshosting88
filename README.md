@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7ssFG94tZHpX9vbIFM0GVH">
-  <img src="https://i.scdn.co/image/ab67616d0000b273942a0c9ac8f1def7c8805044" width="180" height="180" alt="The Search" />
+<a href="https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d07e207ce654bec0813d028d" width="180" height="180" alt="Paranoid (Remastered)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7ssFG94tZHpX9vbIFM0GVH">No Excuses</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc">Paranoid - 2012 - Remaster</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">NF</span><br><span style="font-size: 12px; color: #666;">The Search (2019)</span>
+<span style="font-size: 13px; color: #666;">Black Sabbath</span><br><span style="font-size: 12px; color: #666;">Paranoid (Remastered) (1970)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7ssFG94tZHpX9vbIFM0GVH">
+      <img src="https://i.scdn.co/image/ab67616d0000b273942a0c9ac8f1def7c8805044" width="96" height="96" alt="The Search" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7ssFG94tZHpX9vbIFM0GVH">No Excuses</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">NF</span>
+    <br><span style="font-size: 12px; color: #666;">The Search (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Metallica</span>
     <br><span style="font-size: 12px; color: #666;">Master of Puppets (Remastered Deluxe Box Set) (1986)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53" width="96" height="96" alt="The Anthology" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">Electric Relaxation</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">A Tribe Called Quest</span>
-    <br><span style="font-size: 12px; color: #666;">The Anthology (1999)</span>
   </td>
 </tr>
 <tr>
