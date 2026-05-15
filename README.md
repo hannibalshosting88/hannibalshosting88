@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" width="180" height="180" alt="FutureSex/LoveSounds" />
+<a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733f1e89b0450823d6f0f54cf4" width="180" height="180" alt="Video Game Guitar Covers, Vol. 6" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR">SexyBack (feat. Timbaland)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF">The Only Thing They Fear is You (From &quot;Doom: Eternal&quot;)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Justin Timberlake, Timbaland</span><br><span style="font-size: 12px; color: #666;">FutureSex/LoveSounds (2006)</span>
+<span style="font-size: 13px; color: #666;">FamilyJules</span><br><span style="font-size: 12px; color: #666;">Video Game Guitar Covers, Vol. 6 (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" width="96" height="96" alt="FutureSex/LoveSounds" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR">SexyBack (feat. Timbaland)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Justin Timberlake, Timbaland</span>
+    <br><span style="font-size: 12px; color: #666;">FutureSex/LoveSounds (2006)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Incubus</span>
     <br><span style="font-size: 12px; color: #666;">Light Grenades (2006)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739d5a0cd0febc79b9f85da6fc" width="96" height="96" alt="Never Freestyle" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3">Never Freestyle</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Coast Contra</span>
-    <br><span style="font-size: 12px; color: #666;">Never Freestyle (2022)</span>
   </td>
 </tr>
 <tr>
