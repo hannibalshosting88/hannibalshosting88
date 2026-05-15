@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="180" height="180" alt="Hang-Ups" />
+<a href="https://open.spotify.com/track/1JTZqN0snbMSNtp59zveTs">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736a0b17b302637c4094433f09" width="180" height="180" alt="All 6&#39;s And 7&#39;s" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1JTZqN0snbMSNtp59zveTs">Am I A Psycho</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Goldfinger</span><br><span style="font-size: 12px; color: #666;">Hang-Ups (1998)</span>
+<span style="font-size: 13px; color: #666;">Tech N9ne</span><br><span style="font-size: 12px; color: #666;">All 6&#39;s And 7&#39;s (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d" width="96" height="96" alt="Hang-Ups" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95">Superman</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Goldfinger</span>
+    <br><span style="font-size: 12px; color: #666;">Hang-Ups (1998)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">James Gang</span>
     <br><span style="font-size: 12px; color: #666;">Joe Walsh&#39;s Greatest Hits: Little Did He Know... (1997)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8">
-      <img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="96" height="96" alt="Make Yourself" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8">Pardon Me</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Incubus</span>
-    <br><span style="font-size: 12px; color: #666;">Make Yourself (1999)</span>
   </td>
 </tr>
 <tr>
