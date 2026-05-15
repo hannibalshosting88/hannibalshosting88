@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" width="180" height="180" alt="The Eminem Show" />
+<a href="https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT">
+  <img src="https://i.scdn.co/image/ab67616d0000b273121d5f92cf90576907dfb1e5" width="180" height="180" alt="Torches" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk">Without Me</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT">Pumped Up Kicks</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Eminem</span><br><span style="font-size: 12px; color: #666;">The Eminem Show (2002)</span>
+<span style="font-size: 13px; color: #666;">Foster The People</span><br><span style="font-size: 12px; color: #666;">Torches (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" width="96" height="96" alt="The Eminem Show" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk">Without Me</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Eminem</span>
+    <br><span style="font-size: 12px; color: #666;">The Eminem Show (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Warren Zeiders</span>
     <br><span style="font-size: 12px; color: #666;">Pretty Little Poison (Sampler) (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2SiIbs1RChaaW03cOxCgm0">
-      <img src="https://i.scdn.co/image/ab67616d0000b27371990560019a4f306edf0a53" width="96" height="96" alt="The Only Thing They Fear Is You Squared" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2SiIbs1RChaaW03cOxCgm0">The Only Thing They Fear Is You Squared</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Aaron F. Bianchi Jupiter, Proctomancer</span>
-    <br><span style="font-size: 12px; color: #666;">The Only Thing They Fear Is You Squared (2021)</span>
   </td>
 </tr>
 <tr>
