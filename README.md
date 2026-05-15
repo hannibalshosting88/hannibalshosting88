@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739860171ddfee17f77a570cf6" width="180" height="180" alt="Uptown Special" />
+<a href="https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738eba18f886ca46ae6f948c54" width="180" height="180" alt="Raising Hell" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS">Uptown Funk (feat. Bruno Mars)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW">It&#39;s Tricky</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Mark Ronson, Bruno Mars</span><br><span style="font-size: 12px; color: #666;">Uptown Special (2015)</span>
+<span style="font-size: 13px; color: #666;">Run–D.M.C.</span><br><span style="font-size: 12px; color: #666;">Raising Hell (1986)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739860171ddfee17f77a570cf6" width="96" height="96" alt="Uptown Special" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS">Uptown Funk (feat. Bruno Mars)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Mark Ronson, Bruno Mars</span>
+    <br><span style="font-size: 12px; color: #666;">Uptown Special (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Staind</span>
     <br><span style="font-size: 12px; color: #666;">Break the Cycle (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6NaBDHz9C7Uz9Z9CwLXQin">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="96" height="96" alt="Night Visions" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6NaBDHz9C7Uz9Z9CwLXQin">Bleeding Out</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
-    <br><span style="font-size: 12px; color: #666;">Night Visions (2012)</span>
   </td>
 </tr>
 <tr>
