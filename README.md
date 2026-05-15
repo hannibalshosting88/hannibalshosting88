@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1sIqHdpVBGtAbNnfNes1XN">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737dcf414614d88a3ca825041b" width="180" height="180" alt="Pretty Little Poison (Sampler)" />
+<a href="https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739860171ddfee17f77a570cf6" width="180" height="180" alt="Uptown Special" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1sIqHdpVBGtAbNnfNes1XN">Pretty Little Poison</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS">Uptown Funk (feat. Bruno Mars)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Warren Zeiders</span><br><span style="font-size: 12px; color: #666;">Pretty Little Poison (Sampler) (2023)</span>
+<span style="font-size: 13px; color: #666;">Mark Ronson, Bruno Mars</span><br><span style="font-size: 12px; color: #666;">Uptown Special (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1sIqHdpVBGtAbNnfNes1XN">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737dcf414614d88a3ca825041b" width="96" height="96" alt="Pretty Little Poison (Sampler)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1sIqHdpVBGtAbNnfNes1XN">Pretty Little Poison</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Warren Zeiders</span>
+    <br><span style="font-size: 12px; color: #666;">Pretty Little Poison (Sampler) (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
