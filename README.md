@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM">
-      <img src="https://i.scdn.co/image/ab67616d0000b273026adcf853fad0af470a9fbb" width="96" height="96" alt="Whitsitt Chapel" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM">Save Me - with Lainey Wilson</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Jelly Roll, Lainey Wilson</span>
-    <br><span style="font-size: 12px; color: #666;">Whitsitt Chapel (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
