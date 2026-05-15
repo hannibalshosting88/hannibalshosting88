@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy">
-  <img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="180" height="180" alt="Morning View" />
+<a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="180" height="180" alt="JoJo&#39;s Theme (Doom Version)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy">Nice to Know You</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo&#39;s Theme (Doom Version)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">Morning View (2001)</span>
+<span style="font-size: 13px; color: #666;">Aahiden, Aaron F. Bianchi Jupiter</span><br><span style="font-size: 12px; color: #666;">JoJo&#39;s Theme (Doom Version) (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy">
+      <img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="96" height="96" alt="Morning View" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy">Nice to Know You</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Incubus</span>
+    <br><span style="font-size: 12px; color: #666;">Morning View (2001)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
