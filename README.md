@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739d52169c3b609d4630e04433" width="180" height="180" alt="Commodores" />
+<a href="https://open.spotify.com/track/5vPj5bSMY9HWhsqiDY5jF3">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738c83afc0e9e64bd054be03cb" width="180" height="180" alt="Covers (Vol. 1)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P">Brick House</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5vPj5bSMY9HWhsqiDY5jF3">Eye Of The Tiger</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Commodores</span><br><span style="font-size: 12px; color: #666;">1977</span>
+<span style="font-size: 13px; color: #666;">Tommee Profitt, FJØRA</span><br><span style="font-size: 12px; color: #666;">Covers (Vol. 1) (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739d52169c3b609d4630e04433" width="96" height="96" alt="Commodores" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P">Brick House</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Commodores</span>
+    <br><span style="font-size: 12px; color: #666;">1977</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
