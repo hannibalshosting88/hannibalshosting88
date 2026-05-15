@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="180" height="180" alt="Pieces Of Eight" />
+<a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c0fc3e2ea7df505a73658846" width="180" height="180" alt="Concrete and Gold" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5">The Sky Is A Neighborhood</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Styx</span><br><span style="font-size: 12px; color: #666;">Pieces Of Eight (1978)</span>
+<span style="font-size: 13px; color: #666;">Foo Fighters</span><br><span style="font-size: 12px; color: #666;">Concrete and Gold (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" width="96" height="96" alt="Pieces Of Eight" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/60F6ntlU0uSzgChmyQyVJP">Blue Collar Man (Long Nights)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Styx</span>
+    <br><span style="font-size: 12px; color: #666;">Pieces Of Eight (1978)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
