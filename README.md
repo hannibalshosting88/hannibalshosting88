@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="180" height="180" alt="Audioslave" />
+<a href="https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d9c7516258eb58d793d49e2e" width="180" height="180" alt="I Wanna Get Better" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei">Like a Stone</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG">I Wanna Get Better</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Audioslave</span><br><span style="font-size: 12px; color: #666;">2002</span>
+<span style="font-size: 13px; color: #666;">Bleachers</span><br><span style="font-size: 12px; color: #666;">I Wanna Get Better (2014)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="96" height="96" alt="Audioslave" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei">Like a Stone</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Audioslave</span>
+    <br><span style="font-size: 12px; color: #666;">2002</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
