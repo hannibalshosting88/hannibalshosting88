@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5VEl0gJ8azv3o7d5BZGy9g">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736a198dc2aec6b77d96667644" width="180" height="180" alt="Bootleg" />
+<a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="180" height="180" alt="Rich Men North of Richmond" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5VEl0gJ8azv3o7d5BZGy9g">Bootleg</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Tom O&#39;Connor</span><br><span style="font-size: 12px; color: #666;">Bootleg (2020)</span>
+<span style="font-size: 13px; color: #666;">Oliver Anthony Music</span><br><span style="font-size: 12px; color: #666;">Rich Men North of Richmond (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5VEl0gJ8azv3o7d5BZGy9g">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736a198dc2aec6b77d96667644" width="96" height="96" alt="Bootleg" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5VEl0gJ8azv3o7d5BZGy9g">Bootleg</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Tom O&#39;Connor</span>
+    <br><span style="font-size: 12px; color: #666;">Bootleg (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
