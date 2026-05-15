@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT">
-  <img src="https://i.scdn.co/image/ab67616d0000b273121d5f92cf90576907dfb1e5" width="180" height="180" alt="Torches" />
+<a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">
+  <img src="https://i.scdn.co/image/ab67616d0000b27335558e3e3cdc7bb925f08329" width="180" height="180" alt="Floored" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT">Pumped Up Kicks</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Foster The People</span><br><span style="font-size: 12px; color: #666;">Torches (2011)</span>
+<span style="font-size: 13px; color: #666;">Sugar Ray</span><br><span style="font-size: 12px; color: #666;">Floored (1997)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT">
+      <img src="https://i.scdn.co/image/ab67616d0000b273121d5f92cf90576907dfb1e5" width="96" height="96" alt="Torches" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT">Pumped Up Kicks</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Foster The People</span>
+    <br><span style="font-size: 12px; color: #666;">Torches (2011)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Mark Ronson, Bruno Mars</span>
     <br><span style="font-size: 12px; color: #666;">Uptown Special (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1sIqHdpVBGtAbNnfNes1XN">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737dcf414614d88a3ca825041b" width="96" height="96" alt="Pretty Little Poison (Sampler)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1sIqHdpVBGtAbNnfNes1XN">Pretty Little Poison</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Warren Zeiders</span>
-    <br><span style="font-size: 12px; color: #666;">Pretty Little Poison (Sampler) (2023)</span>
   </td>
 </tr>
 <tr>
