@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6dnoMHa4NUNr7L4r1vRKSr">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731ba664a424bfd94836feb72f" width="96" height="96" alt="Crooked Teeth (Deluxe)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6dnoMHa4NUNr7L4r1vRKSr">Born For Greatness</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Papa Roach</span>
-    <br><span style="font-size: 12px; color: #666;">Crooked Teeth (Deluxe) (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
