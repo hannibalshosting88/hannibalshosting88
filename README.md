@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7Al0uhXHdwRT8pirHJUCbb">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f9bc86bf12d31f62d691c0cc" width="96" height="96" alt="THE INSIDE OUTTAKES" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7Al0uhXHdwRT8pirHJUCbb">WTFIGO</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Bo Burnham</span>
-    <br><span style="font-size: 12px; color: #666;">THE INSIDE OUTTAKES (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
