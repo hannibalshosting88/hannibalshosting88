@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0">
-  <img src="https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70" width="180" height="180" alt="Blood Sugar Sex Magik (Deluxe Edition)" />
+<a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM">
+  <img src="https://i.scdn.co/image/ab67616d0000b273026adcf853fad0af470a9fbb" width="180" height="180" alt="Whitsitt Chapel" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0">Give It Away</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM">Save Me - with Lainey Wilson</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Red Hot Chili Peppers</span><br><span style="font-size: 12px; color: #666;">Blood Sugar Sex Magik (Deluxe Edition) (1991)</span>
+<span style="font-size: 13px; color: #666;">Jelly Roll, Lainey Wilson</span><br><span style="font-size: 12px; color: #666;">Whitsitt Chapel (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0">
+      <img src="https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70" width="96" height="96" alt="Blood Sugar Sex Magik (Deluxe Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0">Give It Away</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Red Hot Chili Peppers</span>
+    <br><span style="font-size: 12px; color: #666;">Blood Sugar Sex Magik (Deluxe Edition) (1991)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
