@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5vPj5bSMY9HWhsqiDY5jF3">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738c83afc0e9e64bd054be03cb" width="180" height="180" alt="Covers (Vol. 1)" />
+<a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy">
+  <img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="180" height="180" alt="Morning View" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5vPj5bSMY9HWhsqiDY5jF3">Eye Of The Tiger</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy">Nice to Know You</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Tommee Profitt, FJØRA</span><br><span style="font-size: 12px; color: #666;">Covers (Vol. 1) (2020)</span>
+<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">Morning View (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5vPj5bSMY9HWhsqiDY5jF3">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738c83afc0e9e64bd054be03cb" width="96" height="96" alt="Covers (Vol. 1)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5vPj5bSMY9HWhsqiDY5jF3">Eye Of The Tiger</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Tommee Profitt, FJØRA</span>
+    <br><span style="font-size: 12px; color: #666;">Covers (Vol. 1) (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Styx</span>
     <br><span style="font-size: 12px; color: #666;">Pieces Of Eight (1978)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/77WoTKHdCMnT2hA9iMnoft">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="96" height="96" alt="The Essential Incubus" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/77WoTKHdCMnT2hA9iMnoft">Megalomaniac</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Incubus</span>
-    <br><span style="font-size: 12px; color: #666;">The Essential Incubus (2012)</span>
   </td>
 </tr>
 <tr>
