@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a" width="180" height="180" alt="Vol. 3: The Subliminal Verses (Special Edition)" />
+<a href="https://open.spotify.com/track/6NaBDHz9C7Uz9Z9CwLXQin">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="180" height="180" alt="Night Visions" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">Duality</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6NaBDHz9C7Uz9Z9CwLXQin">Bleeding Out</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Slipknot</span><br><span style="font-size: 12px; color: #666;">Vol. 3: The Subliminal Verses (Special Edition) (2004)</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Night Visions (2012)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a" width="96" height="96" alt="Vol. 3: The Subliminal Verses (Special Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">Duality</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Slipknot</span>
+    <br><span style="font-size: 12px; color: #666;">Vol. 3: The Subliminal Verses (Special Edition) (2004)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">NF</span>
     <br><span style="font-size: 12px; color: #666;">Therapy Session (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739a482180e6a306229bff49dc" width="96" height="96" alt="All Killer, No Filler" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL">In Too Deep</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Sum 41</span>
-    <br><span style="font-size: 12px; color: #666;">All Killer, No Filler (2001)</span>
   </td>
 </tr>
 <tr>
