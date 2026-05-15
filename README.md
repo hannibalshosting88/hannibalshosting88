@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="180" height="180" alt="JoJo&#39;s Theme (Doom Version)" />
+<a href="https://open.spotify.com/track/5U1lQBg8zLFZCv9UzU6Noh">
+  <img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="180" height="180" alt="U.S.A. (United State of Atlanta)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo&#39;s Theme (Doom Version)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5U1lQBg8zLFZCv9UzU6Noh">Shake</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Aahiden, Aaron F. Bianchi Jupiter</span><br><span style="font-size: 12px; color: #666;">JoJo&#39;s Theme (Doom Version) (2022)</span>
+<span style="font-size: 13px; color: #666;">Ying Yang Twins, Pitbull</span><br><span style="font-size: 12px; color: #666;">U.S.A. (United State of Atlanta) (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="96" height="96" alt="JoJo&#39;s Theme (Doom Version)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo&#39;s Theme (Doom Version)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Aahiden, Aaron F. Bianchi Jupiter</span>
+    <br><span style="font-size: 12px; color: #666;">JoJo&#39;s Theme (Doom Version) (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
