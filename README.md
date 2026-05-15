@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b" width="96" height="96" alt="Break the Cycle" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j">It&#39;s Been Awhile</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Staind</span>
-    <br><span style="font-size: 12px; color: #666;">Break the Cycle (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
