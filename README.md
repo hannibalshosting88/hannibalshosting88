@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5VEl0gJ8azv3o7d5BZGy9g">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736a198dc2aec6b77d96667644" width="96" height="96" alt="Bootleg" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5VEl0gJ8azv3o7d5BZGy9g">Bootleg</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Tom O&#39;Connor</span>
-    <br><span style="font-size: 12px; color: #666;">Bootleg (2020)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
