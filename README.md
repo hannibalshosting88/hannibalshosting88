@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d07e207ce654bec0813d028d" width="180" height="180" alt="Paranoid (Remastered)" />
+<a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY">
+  <img src="https://i.scdn.co/image/ab67616d0000b27349440f89d229d070b504be74" width="180" height="180" alt="Sickology 101" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc">Paranoid - 2012 - Remaster</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1AJx5jJQy9pKKxcnHm85RY">Dysfunctional</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Black Sabbath</span><br><span style="font-size: 12px; color: #666;">Paranoid (Remastered) (1970)</span>
+<span style="font-size: 13px; color: #666;">Tech N9ne Collabos</span><br><span style="font-size: 12px; color: #666;">Sickology 101 (2009)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d07e207ce654bec0813d028d" width="96" height="96" alt="Paranoid (Remastered)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc">Paranoid - 2012 - Remaster</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Black Sabbath</span>
+    <br><span style="font-size: 12px; color: #666;">Paranoid (Remastered) (1970)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
