@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6NaBDHz9C7Uz9Z9CwLXQin">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="180" height="180" alt="Night Visions" />
+<a href="https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b" width="180" height="180" alt="Break the Cycle" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6NaBDHz9C7Uz9Z9CwLXQin">Bleeding Out</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j">It&#39;s Been Awhile</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Night Visions (2012)</span>
+<span style="font-size: 13px; color: #666;">Staind</span><br><span style="font-size: 12px; color: #666;">Break the Cycle (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6NaBDHz9C7Uz9Z9CwLXQin">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" width="96" height="96" alt="Night Visions" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6NaBDHz9C7Uz9Z9CwLXQin">Bleeding Out</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
+    <br><span style="font-size: 12px; color: #666;">Night Visions (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
