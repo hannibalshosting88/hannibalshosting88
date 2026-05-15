@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx">
-  <img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="180" height="180" alt="Therapy Session" />
+<a href="https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1">
+  <img src="https://i.scdn.co/image/ab67616d0000b27389401ba9a9c231e2add35ae8" width="180" height="180" alt="Villains" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx">Therapy Session</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1">The Way You Used To Do</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">NF</span><br><span style="font-size: 12px; color: #666;">Therapy Session (2016)</span>
+<span style="font-size: 13px; color: #666;">Queens of the Stone Age</span><br><span style="font-size: 12px; color: #666;">Villains (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx">
+      <img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="96" height="96" alt="Therapy Session" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx">Therapy Session</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">NF</span>
+    <br><span style="font-size: 12px; color: #666;">Therapy Session (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
