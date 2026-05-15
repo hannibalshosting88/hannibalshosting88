@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" width="180" height="180" alt="Blurryface" />
+<a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs">
+  <img src="https://i.scdn.co/image/ab67616d0000b273becbea9f81d7c98c07b7e283" width="180" height="180" alt="We Control" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn">Stressed Out</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs">We Control</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Twenty One Pilots</span><br><span style="font-size: 12px; color: #666;">Blurryface (2015)</span>
+<span style="font-size: 13px; color: #666;">Hyper</span><br><span style="font-size: 12px; color: #666;">We Control (2006)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" width="96" height="96" alt="Blurryface" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn">Stressed Out</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Twenty One Pilots</span>
+    <br><span style="font-size: 12px; color: #666;">Blurryface (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
