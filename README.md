@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ">
-  <img src="https://i.scdn.co/image/ab67616d0000b27310b4bd659193bc34476e066f" width="180" height="180" alt="Meteora (Bonus Edition)" />
+<a href="https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739d5a0cd0febc79b9f85da6fc" width="180" height="180" alt="Never Freestyle" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ">Nobody&#39;s Listening</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3">Never Freestyle</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Meteora (Bonus Edition) (2003)</span>
+<span style="font-size: 13px; color: #666;">Coast Contra</span><br><span style="font-size: 12px; color: #666;">Never Freestyle (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ">
+      <img src="https://i.scdn.co/image/ab67616d0000b27310b4bd659193bc34476e066f" width="96" height="96" alt="Meteora (Bonus Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ">Nobody&#39;s Listening</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Linkin Park</span>
+    <br><span style="font-size: 12px; color: #666;">Meteora (Bonus Edition) (2003)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Red Hot Chili Peppers</span>
     <br><span style="font-size: 12px; color: #666;">Blood Sugar Sex Magik (Deluxe Edition) (1991)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs">
-      <img src="https://i.scdn.co/image/ab67616d0000b273becbea9f81d7c98c07b7e283" width="96" height="96" alt="We Control" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2qUvjeZtzbhEFV4Yzev0fs">We Control</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Hyper</span>
-    <br><span style="font-size: 12px; color: #666;">We Control (2006)</span>
   </td>
 </tr>
 <tr>
