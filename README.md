@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2SiIbs1RChaaW03cOxCgm0">
-  <img src="https://i.scdn.co/image/ab67616d0000b27371990560019a4f306edf0a53" width="180" height="180" alt="The Only Thing They Fear Is You Squared" />
+<a href="https://open.spotify.com/track/1sIqHdpVBGtAbNnfNes1XN">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737dcf414614d88a3ca825041b" width="180" height="180" alt="Pretty Little Poison (Sampler)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2SiIbs1RChaaW03cOxCgm0">The Only Thing They Fear Is You Squared</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1sIqHdpVBGtAbNnfNes1XN">Pretty Little Poison</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Aaron F. Bianchi Jupiter, Proctomancer</span><br><span style="font-size: 12px; color: #666;">The Only Thing They Fear Is You Squared (2021)</span>
+<span style="font-size: 13px; color: #666;">Warren Zeiders</span><br><span style="font-size: 12px; color: #666;">Pretty Little Poison (Sampler) (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2SiIbs1RChaaW03cOxCgm0">
+      <img src="https://i.scdn.co/image/ab67616d0000b27371990560019a4f306edf0a53" width="96" height="96" alt="The Only Thing They Fear Is You Squared" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2SiIbs1RChaaW03cOxCgm0">The Only Thing They Fear Is You Squared</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Aaron F. Bianchi Jupiter, Proctomancer</span>
+    <br><span style="font-size: 12px; color: #666;">The Only Thing They Fear Is You Squared (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Slipknot</span>
     <br><span style="font-size: 12px; color: #666;">Vol. 3: The Subliminal Verses (Special Edition) (2004)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e7a3a891ae555b0a46a131ed" width="96" height="96" alt="OK ORCHESTRA" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World&#39;s Smallest Violin</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">AJR</span>
-    <br><span style="font-size: 12px; color: #666;">OK ORCHESTRA (2021)</span>
   </td>
 </tr>
 <tr>
