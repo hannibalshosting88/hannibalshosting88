@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5U1lQBg8zLFZCv9UzU6Noh">
-  <img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="180" height="180" alt="U.S.A. (United State of Atlanta)" />
+<a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" width="180" height="180" alt="FutureSex/LoveSounds" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5U1lQBg8zLFZCv9UzU6Noh">Shake</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR">SexyBack (feat. Timbaland)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Ying Yang Twins, Pitbull</span><br><span style="font-size: 12px; color: #666;">U.S.A. (United State of Atlanta) (2005)</span>
+<span style="font-size: 13px; color: #666;">Justin Timberlake, Timbaland</span><br><span style="font-size: 12px; color: #666;">FutureSex/LoveSounds (2006)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5U1lQBg8zLFZCv9UzU6Noh">
+      <img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="96" height="96" alt="U.S.A. (United State of Atlanta)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5U1lQBg8zLFZCv9UzU6Noh">Shake</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Ying Yang Twins, Pitbull</span>
+    <br><span style="font-size: 12px; color: #666;">U.S.A. (United State of Atlanta) (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
