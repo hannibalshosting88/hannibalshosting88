@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/65aeHyw8GdHFwmEvdSns21">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e1b4099415020b6c7a0ff00f" width="96" height="96" alt="Joe Walsh&#39;s Greatest Hits: Little Did He Know..." />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/65aeHyw8GdHFwmEvdSns21">Walk Away</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">James Gang</span>
-    <br><span style="font-size: 12px; color: #666;">Joe Walsh&#39;s Greatest Hits: Little Did He Know... (1997)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
