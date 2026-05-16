@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733f1e89b0450823d6f0f54cf4" width="96" height="96" alt="Video Game Guitar Covers, Vol. 6" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5sxyNRAlsVwxOOQrXgs5kF">The Only Thing They Fear is You (From &quot;Doom: Eternal&quot;)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">FamilyJules</span>
-    <br><span style="font-size: 12px; color: #666;">Video Game Guitar Covers, Vol. 6 (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
