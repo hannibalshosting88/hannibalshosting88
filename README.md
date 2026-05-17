@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">
-  <img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="180" height="180" alt="Tres Hombres (Expanded 2006 Remaster)" />
+<a href="https://open.spotify.com/track/3Qn0mv9MQjPk6Y3mI0jFVl">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737f0b3f0456b85dea228ad486" width="180" height="180" alt="Coming In Hot" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3Qn0mv9MQjPk6Y3mI0jFVl">Coming in Hot</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">ZZ Top</span><br><span style="font-size: 12px; color: #666;">Tres Hombres (Expanded 2006 Remaster) (1973)</span>
+<span style="font-size: 13px; color: #666;">Andy Mineo, Lecrae</span><br><span style="font-size: 12px; color: #666;">Coming In Hot (2018)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">
+      <img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="96" height="96" alt="Tres Hombres (Expanded 2006 Remaster)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">ZZ Top</span>
+    <br><span style="font-size: 12px; color: #666;">Tres Hombres (Expanded 2006 Remaster) (1973)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
