@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">
-  <img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="180" height="180" alt="Enemy (from the series Arcane League of Legends)" />
+<a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh">
+  <img src="https://i.scdn.co/image/ab67616d0000b27397ea8cd106d06260c2c76cd6" width="180" height="180" alt="Sehnsucht" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh">Du hast</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Imagine Dragons, Arcane, League of Legends</span><br><span style="font-size: 12px; color: #666;">Enemy (from the series Arcane League of Legends) (2021)</span>
+<span style="font-size: 13px; color: #666;">Rammstein</span><br><span style="font-size: 12px; color: #666;">Sehnsucht (1997)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">
+      <img src="https://i.scdn.co/image/ab67616d0000b27337706d3b594fa52d5a1ef026" width="96" height="96" alt="Enemy (from the series Arcane League of Legends)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG">Enemy - From the series Arcane League of Legends</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Imagine Dragons, Arcane, League of Legends</span>
+    <br><span style="font-size: 12px; color: #666;">Enemy (from the series Arcane League of Legends) (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
