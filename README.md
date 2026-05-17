@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="180" height="180" alt="Blurred Lines (Deluxe)" />
+<a href="https://open.spotify.com/track/5gl7XpoOLWm6miwwqWJaTH">
+  <img src="https://i.scdn.co/image/ab67616d0000b273afc2e896ac20a578c7bf5aac" width="180" height="180" alt="Can&#39;t Nobody Get Down EP" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5gl7XpoOLWm6miwwqWJaTH">Can&#39;t Nobody Get Down</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Robin Thicke, T.I., Pharrell Williams</span><br><span style="font-size: 12px; color: #666;">Blurred Lines (Deluxe) (2013)</span>
+<span style="font-size: 13px; color: #666;">Hot 8 Brass Band</span><br><span style="font-size: 12px; color: #666;">Can&#39;t Nobody Get Down EP (2016)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="96" height="96" alt="Blurred Lines (Deluxe)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Robin Thicke, T.I., Pharrell Williams</span>
+    <br><span style="font-size: 12px; color: #666;">Blurred Lines (Deluxe) (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
