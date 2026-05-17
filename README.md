@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e6efeff81a318670a292090f" width="180" height="180" alt="Globalization" />
+<a href="https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d6165c0d6eba7e5bf3fca16d" width="180" height="180" alt="31 Minutes to Takeoff" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW">Fireball (feat. John Ryan)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj">Cooler Than Me - Single Mix</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Pitbull, John Ryan</span><br><span style="font-size: 12px; color: #666;">Globalization (2014)</span>
+<span style="font-size: 13px; color: #666;">Mike Posner, Gigamesh</span><br><span style="font-size: 12px; color: #666;">31 Minutes to Takeoff (2010)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e6efeff81a318670a292090f" width="96" height="96" alt="Globalization" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW">Fireball (feat. John Ryan)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Pitbull, John Ryan</span>
+    <br><span style="font-size: 12px; color: #666;">Globalization (2014)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
