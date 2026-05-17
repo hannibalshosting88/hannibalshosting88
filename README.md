@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2uEuo87JC9tc1dzmPUtOxj">
-  <img src="https://i.scdn.co/image/ab67616d0000b273942a0c9ac8f1def7c8805044" width="180" height="180" alt="The Search" />
+<a href="https://open.spotify.com/track/47Wv7knmg7C9ISkSuTcxo3">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fdc4601297d7435cec8993c5" width="180" height="180" alt="Stop The Rock" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2uEuo87JC9tc1dzmPUtOxj">Returns</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/47Wv7knmg7C9ISkSuTcxo3">Stop the Rock</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">NF</span><br><span style="font-size: 12px; color: #666;">The Search (2019)</span>
+<span style="font-size: 13px; color: #666;">Apollo 440</span><br><span style="font-size: 12px; color: #666;">Stop The Rock (1997)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2uEuo87JC9tc1dzmPUtOxj">
+      <img src="https://i.scdn.co/image/ab67616d0000b273942a0c9ac8f1def7c8805044" width="96" height="96" alt="The Search" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2uEuo87JC9tc1dzmPUtOxj">Returns</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">NF</span>
+    <br><span style="font-size: 12px; color: #666;">The Search (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
