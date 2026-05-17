@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa">
-  <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" width="180" height="180" alt="Paramore" />
+<a href="https://open.spotify.com/track/3ko0QVFzy4DdhuqTbMIeJZ">
+  <img src="https://i.scdn.co/image/ab67616d0000b27359a1132f3cab22f80b2d2777" width="180" height="180" alt="Hell: The Sequel (Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa">Ain&#39;t It Fun</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3ko0QVFzy4DdhuqTbMIeJZ">Echo</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Paramore</span><br><span style="font-size: 12px; color: #666;">2013</span>
+<span style="font-size: 13px; color: #666;">Bad Meets Evil</span><br><span style="font-size: 12px; color: #666;">Hell: The Sequel (Deluxe) (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa">
+      <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" width="96" height="96" alt="Paramore" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa">Ain&#39;t It Fun</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Paramore</span>
+    <br><span style="font-size: 12px; color: #666;">2013</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
