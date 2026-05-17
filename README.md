@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bfff163b0602156a983fa079" width="180" height="180" alt="One By One (Expanded Edition)" />
+<a href="https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380" width="180" height="180" alt="Reload" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC">Fuel</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Foo Fighters</span><br><span style="font-size: 12px; color: #666;">One By One (Expanded Edition) (2002)</span>
+<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">Reload (1997)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bfff163b0602156a983fa079" width="96" height="96" alt="One By One (Expanded Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Foo Fighters</span>
+    <br><span style="font-size: 12px; color: #666;">One By One (Expanded Edition) (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
