@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7">
-  <img src="https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f" width="180" height="180" alt="Discovery" />
+<a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">
+  <img src="https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a" width="180" height="180" alt="Tres Hombres (Expanded 2006 Remaster)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7">Don&#39;t Bring Me Down</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE">La Grange (2005 Remaster)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Electric Light Orchestra</span><br><span style="font-size: 12px; color: #666;">Discovery (1979)</span>
+<span style="font-size: 13px; color: #666;">ZZ Top</span><br><span style="font-size: 12px; color: #666;">Tres Hombres (Expanded 2006 Remaster) (1973)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7">
+      <img src="https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f" width="96" height="96" alt="Discovery" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7">Don&#39;t Bring Me Down</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Electric Light Orchestra</span>
+    <br><span style="font-size: 12px; color: #666;">Discovery (1979)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
     <br><span style="font-size: 12px; color: #666;">Evolve (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/5bT0lmvbewaG3YnSSrwLGK">
-      <img src="https://i.scdn.co/image/ab6765630000ba8acbce957c51b5f4b4e6eecc4a" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5bT0lmvbewaG3YnSSrwLGK">Interstellar Banking - The Galactic Financial System</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
   </td>
 </tr>
 <tr>
