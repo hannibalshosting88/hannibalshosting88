@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">
-  <img src="https://i.scdn.co/image/ab67616d0000b273030915ffa58125ae36f13a6f" width="180" height="180" alt="The Warrior&#39;s Code" />
+<a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="180" height="180" alt="Blurred Lines (Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">I&#39;m Shipping Up To Boston</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Dropkick Murphys</span><br><span style="font-size: 12px; color: #666;">The Warrior&#39;s Code (2005)</span>
+<span style="font-size: 13px; color: #666;">Robin Thicke, T.I., Pharrell Williams</span><br><span style="font-size: 12px; color: #666;">Blurred Lines (Deluxe) (2013)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">
+      <img src="https://i.scdn.co/image/ab67616d0000b273030915ffa58125ae36f13a6f" width="96" height="96" alt="The Warrior&#39;s Code" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">I&#39;m Shipping Up To Boston</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Dropkick Murphys</span>
+    <br><span style="font-size: 12px; color: #666;">The Warrior&#39;s Code (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7rIypSskk4wDeCJtQUXYDD">The End of Science</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/4Q9pJaa3UjnL1133I3NJ8V">
-      <img src="https://i.scdn.co/image/ab6765630000ba8ac9ecb01ccbbe9700a1ad55dd" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4Q9pJaa3UjnL1133I3NJ8V">Magnetic Monopoles &amp; Magmatter - The Strongest Material That Might Exist (Narration Only)</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
