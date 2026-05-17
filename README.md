@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436" width="180" height="180" alt="Outlandos D&#39;Amour (Remastered 2003)" />
+<a href="https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ">
+  <img src="https://i.scdn.co/image/ab67616d0000b27303ca37157b9ceefbe8fe225b" width="180" height="180" alt="Another Level" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo">Roxanne</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ">No Diggity</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Police</span><br><span style="font-size: 12px; color: #666;">Outlandos D&#39;Amour (Remastered 2003) (1978)</span>
+<span style="font-size: 13px; color: #666;">Blackstreet, Dr. Dre, Queen Pen</span><br><span style="font-size: 12px; color: #666;">Another Level (1996)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436" width="96" height="96" alt="Outlandos D&#39;Amour (Remastered 2003)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo">Roxanne</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Police</span>
+    <br><span style="font-size: 12px; color: #666;">Outlandos D&#39;Amour (Remastered 2003) (1978)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7rIypSskk4wDeCJtQUXYDD">The End of Science</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/4Q9pJaa3UjnL1133I3NJ8V">
-      <img src="https://i.scdn.co/image/ab6765630000ba8ac9ecb01ccbbe9700a1ad55dd" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4Q9pJaa3UjnL1133I3NJ8V">Magnetic Monopoles &amp; Magmatter - The Strongest Material That Might Exist (Narration Only)</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
