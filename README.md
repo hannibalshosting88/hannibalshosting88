@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3Qn0mv9MQjPk6Y3mI0jFVl">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737f0b3f0456b85dea228ad486" width="180" height="180" alt="Coming In Hot" />
+<a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b7ded75d35cf4364ba3f5267" width="180" height="180" alt="Good Apollo I&#39;m Burning Star IV Volume One: From Fear Through The Eyes Of Madness" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3Qn0mv9MQjPk6Y3mI0jFVl">Coming in Hot</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2l7GqUj1mBAEYB8aokoWJf">Ten Speed (Of God&#39;s Blood &amp; Burial)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Andy Mineo, Lecrae</span><br><span style="font-size: 12px; color: #666;">Coming In Hot (2018)</span>
+<span style="font-size: 13px; color: #666;">Coheed and Cambria</span><br><span style="font-size: 12px; color: #666;">Good Apollo I&#39;m Burning Star IV Volume One: From Fear Through The Eyes Of Madness (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3Qn0mv9MQjPk6Y3mI0jFVl">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737f0b3f0456b85dea228ad486" width="96" height="96" alt="Coming In Hot" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3Qn0mv9MQjPk6Y3mI0jFVl">Coming in Hot</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Andy Mineo, Lecrae</span>
+    <br><span style="font-size: 12px; color: #666;">Coming In Hot (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
