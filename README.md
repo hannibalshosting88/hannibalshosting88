@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/5bT0lmvbewaG3YnSSrwLGK">
-  <img src="https://i.scdn.co/image/ab6765630000ba8acbce957c51b5f4b4e6eecc4a" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
+<a href="https://open.spotify.com/episode/6SXjT2A1ZLCno8Y6dzkKw8">
+  <img src="https://i.scdn.co/image/ab6765630000ba8af71d080c965380b2f09414d8" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5bT0lmvbewaG3YnSSrwLGK">Interstellar Banking - The Galactic Financial System</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6SXjT2A1ZLCno8Y6dzkKw8">Civilizations at the End of Time - How Intelligence Survives the Death of the Universe</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/5bT0lmvbewaG3YnSSrwLGK">
+      <img src="https://i.scdn.co/image/ab6765630000ba8acbce957c51b5f4b4e6eecc4a" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5bT0lmvbewaG3YnSSrwLGK">Interstellar Banking - The Galactic Financial System</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
+    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
