@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cb91b5b8f9640caf6602e4f3" width="180" height="180" alt="The Cyberpunk" />
+<a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa">
+  <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" width="180" height="180" alt="Paramore" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">The Cyberpunk Runner</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa">Ain&#39;t It Fun</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Yuri Petrovski</span><br><span style="font-size: 12px; color: #666;">The Cyberpunk (2020)</span>
+<span style="font-size: 13px; color: #666;">Paramore</span><br><span style="font-size: 12px; color: #666;">2013</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cb91b5b8f9640caf6602e4f3" width="96" height="96" alt="The Cyberpunk" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3PCZ88CCy8DWVIS0QIsAan">The Cyberpunk Runner</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Yuri Petrovski</span>
+    <br><span style="font-size: 12px; color: #666;">The Cyberpunk (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
