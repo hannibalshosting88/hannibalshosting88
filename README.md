@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7">
-      <img src="https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f" width="96" height="96" alt="Discovery" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7">Don&#39;t Bring Me Down</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Electric Light Orchestra</span>
-    <br><span style="font-size: 12px; color: #666;">Discovery (1979)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
