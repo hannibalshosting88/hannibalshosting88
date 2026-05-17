@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ">
-      <img src="https://i.scdn.co/image/ab67616d0000b27303ca37157b9ceefbe8fe225b" width="96" height="96" alt="Another Level" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ">No Diggity</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Blackstreet, Dr. Dre, Queen Pen</span>
-    <br><span style="font-size: 12px; color: #666;">Another Level (1996)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
