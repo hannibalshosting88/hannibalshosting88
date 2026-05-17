@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d6165c0d6eba7e5bf3fca16d" width="180" height="180" alt="31 Minutes to Takeoff" />
+<a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436" width="180" height="180" alt="Outlandos D&#39;Amour (Remastered 2003)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj">Cooler Than Me - Single Mix</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo">Roxanne</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Mike Posner, Gigamesh</span><br><span style="font-size: 12px; color: #666;">31 Minutes to Takeoff (2010)</span>
+<span style="font-size: 13px; color: #666;">The Police</span><br><span style="font-size: 12px; color: #666;">Outlandos D&#39;Amour (Remastered 2003) (1978)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d6165c0d6eba7e5bf3fca16d" width="96" height="96" alt="31 Minutes to Takeoff" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj">Cooler Than Me - Single Mix</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Mike Posner, Gigamesh</span>
+    <br><span style="font-size: 12px; color: #666;">31 Minutes to Takeoff (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
