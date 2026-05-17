@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bf34660a2cc3f4d83966b1e7" width="180" height="180" alt="When It&#39;s Dark Out" />
+<a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bfff163b0602156a983fa079" width="180" height="180" alt="One By One (Expanded Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC">Me, Myself &amp; I</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6">All My Life</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">G-Eazy, Bebe Rexha</span><br><span style="font-size: 12px; color: #666;">When It&#39;s Dark Out (2015)</span>
+<span style="font-size: 13px; color: #666;">Foo Fighters</span><br><span style="font-size: 12px; color: #666;">One By One (Expanded Edition) (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bf34660a2cc3f4d83966b1e7" width="96" height="96" alt="When It&#39;s Dark Out" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC">Me, Myself &amp; I</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">G-Eazy, Bebe Rexha</span>
+    <br><span style="font-size: 12px; color: #666;">When It&#39;s Dark Out (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
