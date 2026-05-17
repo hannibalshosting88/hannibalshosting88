@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7nuBN1pCPvpOFBn6CZ4bun">
-  <img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="180" height="180" alt="Therapy Session" />
+<a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b9d81ca2b0884641e321be4f" width="180" height="180" alt="Kill &#39;Em All" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7nuBN1pCPvpOFBn6CZ4bun">All I Do</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp">Seek &amp; Destroy (Remastered)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">NF</span><br><span style="font-size: 12px; color: #666;">Therapy Session (2016)</span>
+<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">Kill &#39;Em All (1983)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7nuBN1pCPvpOFBn6CZ4bun">
+      <img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="96" height="96" alt="Therapy Session" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7nuBN1pCPvpOFBn6CZ4bun">All I Do</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">NF</span>
+    <br><span style="font-size: 12px; color: #666;">Therapy Session (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
