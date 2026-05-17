@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c2500c4201de5914e99dfffa" width="180" height="180" alt="The Fat of the Land - Expanded Edition" />
+<a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7">
+  <img src="https://i.scdn.co/image/ab67616d0000b27391b3adb195fd4017fd3d6400" width="180" height="180" alt="City of Evil" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R">Smack My Bitch Up</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7">Bat Country</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Prodigy</span><br><span style="font-size: 12px; color: #666;">The Fat of the Land - Expanded Edition (1997)</span>
+<span style="font-size: 13px; color: #666;">Avenged Sevenfold</span><br><span style="font-size: 12px; color: #666;">City of Evil (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c2500c4201de5914e99dfffa" width="96" height="96" alt="The Fat of the Land - Expanded Edition" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R">Smack My Bitch Up</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Prodigy</span>
+    <br><span style="font-size: 12px; color: #666;">The Fat of the Land - Expanded Edition (1997)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
