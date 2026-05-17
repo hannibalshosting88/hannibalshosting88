@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp">
-  <img src="https://i.scdn.co/image/ab67616d0000b27350d3fff0dc3d9b55f164d8d6" width="180" height="180" alt="In Your Honor" />
+<a href="https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e6efeff81a318670a292090f" width="180" height="180" alt="Globalization" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp">Best of You</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW">Fireball (feat. John Ryan)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Foo Fighters</span><br><span style="font-size: 12px; color: #666;">In Your Honor (2005)</span>
+<span style="font-size: 13px; color: #666;">Pitbull, John Ryan</span><br><span style="font-size: 12px; color: #666;">Globalization (2014)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp">
+      <img src="https://i.scdn.co/image/ab67616d0000b27350d3fff0dc3d9b55f164d8d6" width="96" height="96" alt="In Your Honor" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp">Best of You</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Foo Fighters</span>
+    <br><span style="font-size: 12px; color: #666;">In Your Honor (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
