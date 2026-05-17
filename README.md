@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d6165c0d6eba7e5bf3fca16d" width="96" height="96" alt="31 Minutes to Takeoff" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj">Cooler Than Me - Single Mix</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Mike Posner, Gigamesh</span>
-    <br><span style="font-size: 12px; color: #666;">31 Minutes to Takeoff (2010)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
