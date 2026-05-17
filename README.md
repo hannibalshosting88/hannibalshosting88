@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4IEWbTBODpUMWkUj5JQfZG">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="180" height="180" alt="Times Square" />
+<a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t">
+  <img src="https://i.scdn.co/image/ab67616d0000b273be54746b374358970b5e617a" width="180" height="180" alt="...And Justice for All (Remastered Deluxe Box Set)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4IEWbTBODpUMWkUj5JQfZG">Times Square</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t">One (Remastered)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
+<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">...And Justice for All (Remastered Deluxe Box Set) (1988)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4IEWbTBODpUMWkUj5JQfZG">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="96" height="96" alt="Times Square" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4IEWbTBODpUMWkUj5JQfZG">Times Square</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
