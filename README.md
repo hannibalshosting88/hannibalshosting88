@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2uEuo87JC9tc1dzmPUtOxj">
-      <img src="https://i.scdn.co/image/ab67616d0000b273942a0c9ac8f1def7c8805044" width="96" height="96" alt="The Search" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2uEuo87JC9tc1dzmPUtOxj">Returns</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">NF</span>
-    <br><span style="font-size: 12px; color: #666;">The Search (2019)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
