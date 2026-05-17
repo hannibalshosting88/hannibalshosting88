@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh">
-  <img src="https://i.scdn.co/image/ab67616d0000b27397ea8cd106d06260c2c76cd6" width="180" height="180" alt="Sehnsucht" />
+<a href="https://open.spotify.com/track/2uEuo87JC9tc1dzmPUtOxj">
+  <img src="https://i.scdn.co/image/ab67616d0000b273942a0c9ac8f1def7c8805044" width="180" height="180" alt="The Search" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh">Du hast</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2uEuo87JC9tc1dzmPUtOxj">Returns</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Rammstein</span><br><span style="font-size: 12px; color: #666;">Sehnsucht (1997)</span>
+<span style="font-size: 13px; color: #666;">NF</span><br><span style="font-size: 12px; color: #666;">The Search (2019)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh">
+      <img src="https://i.scdn.co/image/ab67616d0000b27397ea8cd106d06260c2c76cd6" width="96" height="96" alt="Sehnsucht" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh">Du hast</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Rammstein</span>
+    <br><span style="font-size: 12px; color: #666;">Sehnsucht (1997)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">The Prodigy</span>
     <br><span style="font-size: 12px; color: #666;">The Fat of the Land - Expanded Edition (1997)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6vOrFSgl9uYHexljLl26E1">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731ebb7c9acce344c6b0f70600" width="96" height="96" alt="Sonshine" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6vOrFSgl9uYHexljLl26E1">Hall of Fame</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Swoope</span>
-    <br><span style="font-size: 12px; color: #666;">Sonshine (2018)</span>
   </td>
 </tr>
 <tr>
