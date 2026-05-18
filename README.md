@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">
-  <img src="https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144" width="180" height="180" alt="See You On the Other Side" />
+<a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0">
+  <img src="https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1" width="180" height="180" alt="The Black Parade" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0">Teenagers</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Korn</span><br><span style="font-size: 12px; color: #666;">See You On the Other Side (2005)</span>
+<span style="font-size: 13px; color: #666;">My Chemical Romance</span><br><span style="font-size: 12px; color: #666;">The Black Parade (2006)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">
+      <img src="https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144" width="96" height="96" alt="See You On the Other Side" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Korn</span>
+    <br><span style="font-size: 12px; color: #666;">See You On the Other Side (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Kyle Exum, Is0kenny</span>
     <br><span style="font-size: 12px; color: #666;">Diss Tracks in the 1800s Be Like (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fa78c40c54908ff02f878779" width="96" height="96" alt="Pimpin&#39; Benjamin" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">Pimpin&#39; Benjamin</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Coast Contra</span>
-    <br><span style="font-size: 12px; color: #666;">Pimpin&#39; Benjamin (2021)</span>
   </td>
 </tr>
 <tr>
