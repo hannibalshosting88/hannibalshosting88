@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh">
-  <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" width="180" height="180" alt="Unorthodox Jukebox" />
+<a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">
+  <img src="https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144" width="180" height="180" alt="See You On the Other Side" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh">Locked out of Heaven</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR">Coming Undone</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Bruno Mars</span><br><span style="font-size: 12px; color: #666;">Unorthodox Jukebox (2012)</span>
+<span style="font-size: 13px; color: #666;">Korn</span><br><span style="font-size: 12px; color: #666;">See You On the Other Side (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh">
+      <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" width="96" height="96" alt="Unorthodox Jukebox" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh">Locked out of Heaven</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Bruno Mars</span>
+    <br><span style="font-size: 12px; color: #666;">Unorthodox Jukebox (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Coast Contra</span>
     <br><span style="font-size: 12px; color: #666;">Pimpin&#39; Benjamin (2021)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/5bT0lmvbewaG3YnSSrwLGK">
-      <img src="https://i.scdn.co/image/ab6765630000ba8acbce957c51b5f4b4e6eecc4a" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5bT0lmvbewaG3YnSSrwLGK">Interstellar Banking - The Galactic Financial System</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
   </td>
 </tr>
 <tr>
