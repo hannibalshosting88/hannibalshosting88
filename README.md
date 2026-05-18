@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">
-      <img src="https://i.scdn.co/image/ab67616d0000b273030915ffa58125ae36f13a6f" width="96" height="96" alt="The Warrior&#39;s Code" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc">I&#39;m Shipping Up To Boston</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Dropkick Murphys</span>
-    <br><span style="font-size: 12px; color: #666;">The Warrior&#39;s Code (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
