@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7a1wQJEImvXSkA9oNn5rG7">
-  <img src="https://i.scdn.co/image/ab67616d0000b273226eda8b244b79feab4b183e" width="180" height="180" alt="Diss Tracks in the 1800s Be Like" />
+<a href="https://open.spotify.com/track/4eamJr2k9YDH8j58RSTmSc">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="180" height="180" alt="Sublime" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7a1wQJEImvXSkA9oNn5rG7">Diss Tracks in the 1800s Be Like</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4eamJr2k9YDH8j58RSTmSc">Doin&#39; Time</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kyle Exum, Is0kenny</span><br><span style="font-size: 12px; color: #666;">Diss Tracks in the 1800s Be Like (2022)</span>
+<span style="font-size: 13px; color: #666;">Sublime</span><br><span style="font-size: 12px; color: #666;">1996</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7a1wQJEImvXSkA9oNn5rG7">
+      <img src="https://i.scdn.co/image/ab67616d0000b273226eda8b244b79feab4b183e" width="96" height="96" alt="Diss Tracks in the 1800s Be Like" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7a1wQJEImvXSkA9oNn5rG7">Diss Tracks in the 1800s Be Like</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kyle Exum, Is0kenny</span>
+    <br><span style="font-size: 12px; color: #666;">Diss Tracks in the 1800s Be Like (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4Kg0EfLhzpW4pMNwWEXQNr">Fleet of the Void - Designing Warships for Deep Space</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/7HQLZl0YQb1XaxVb58ODHB">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a9083163166f2ba10696ce093" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7HQLZl0YQb1XaxVb58ODHB">Genetic Bottlenecks – How Few People Can Start a World? Or Restart One?</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
