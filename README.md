@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/583dMdiUquLMenarTp7PQm">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fc1df8423733f6f3c9e8dea2" width="96" height="96" alt="3 Songs At A Time Sampler" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/583dMdiUquLMenarTp7PQm">Last Night</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Morgan Wallen</span>
-    <br><span style="font-size: 12px; color: #666;">3 Songs At A Time Sampler (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
