@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" width="180" height="180" alt="Bleed American" />
+<a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736b275d72474c508ce2b405a4" width="180" height="180" alt="S&amp;M" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY">Sweetness</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00">No Leaf Clover - Live with the SFSO</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Jimmy Eat World</span><br><span style="font-size: 12px; color: #666;">Bleed American (2001)</span>
+<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">S&amp;M (1999)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY">
+      <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" width="96" height="96" alt="Bleed American" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY">Sweetness</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Jimmy Eat World</span>
+    <br><span style="font-size: 12px; color: #666;">Bleed American (2001)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Bruno Mars</span>
     <br><span style="font-size: 12px; color: #666;">Unorthodox Jukebox (2012)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cdf16453ba15c8f97644e630" width="96" height="96" alt="Come on!" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4">Come on!</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kyle Exum</span>
-    <br><span style="font-size: 12px; color: #666;">Come on! (2024)</span>
   </td>
 </tr>
 <tr>
