@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3S9b5ink1kHrrKql3FdDI2">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737b3d6a24e2db9b280a8c16e3" width="180" height="180" alt="Nemesis" />
+<a href="https://open.spotify.com/track/78GAQZUGa11v6f8ozhGqbM">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731bde4a7bb21c87f3418c2c3d" width="180" height="180" alt="new way out" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3S9b5ink1kHrrKql3FdDI2">Nemesis</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/78GAQZUGa11v6f8ozhGqbM">new way out</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Ryllz</span><br><span style="font-size: 12px; color: #666;">Nemesis (2018)</span>
+<span style="font-size: 13px; color: #666;">Poppy</span><br><span style="font-size: 12px; color: #666;">new way out (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3S9b5ink1kHrrKql3FdDI2">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737b3d6a24e2db9b280a8c16e3" width="96" height="96" alt="Nemesis" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3S9b5ink1kHrrKql3FdDI2">Nemesis</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Ryllz</span>
+    <br><span style="font-size: 12px; color: #666;">Nemesis (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Coheed and Cambria</span>
     <br><span style="font-size: 12px; color: #666;">In Keeping Secrets Of Silent Earth: 3 (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736f555ba312f3317dcbaa2cb9" width="96" height="96" alt="Ain&#39;t No Love In Oklahoma (From Twisters: The Album)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">Ain&#39;t No Love In Oklahoma (From Twisters: The Album)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Luke Combs</span>
-    <br><span style="font-size: 12px; color: #666;">Ain&#39;t No Love In Oklahoma (From Twisters: The Album) (2024)</span>
   </td>
 </tr>
 <tr>
