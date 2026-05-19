@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">
-  <img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="180" height="180" alt="GET UP" />
+<a href="https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fc30908354ee3be55dc6feb2" width="180" height="180" alt="Dr. Feelgood" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">THE FILLER</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew">Kickstart My Heart</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">GET UP (2022)</span>
+<span style="font-size: 13px; color: #666;">Mötley Crüe</span><br><span style="font-size: 12px; color: #666;">Dr. Feelgood (1989)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">
+      <img src="https://i.scdn.co/image/ab67616d0000b273007e94f0b92a3deee9bba93d" width="96" height="96" alt="GET UP" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5w2CJIpyAqUbAXCdR9lgmT">THE FILLER</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">GET UP (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Appalachian Anarchy</span>
     <br><span style="font-size: 12px; color: #666;">BANJO BLOODBATH (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="96" height="96" alt="Freddie&#39;s Inferno" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp">Limbo</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Freddie Dredd</span>
-    <br><span style="font-size: 12px; color: #666;">Freddie&#39;s Inferno (2022)</span>
   </td>
 </tr>
 <tr>
