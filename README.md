@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">
-  <img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="180" height="180" alt="X-Men Theme" />
+<a href="https://open.spotify.com/track/583dMdiUquLMenarTp7PQm">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fc1df8423733f6f3c9e8dea2" width="180" height="180" alt="3 Songs At A Time Sampler" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/583dMdiUquLMenarTp7PQm">Last Night</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Galactic Empire</span><br><span style="font-size: 12px; color: #666;">X-Men Theme (2024)</span>
+<span style="font-size: 13px; color: #666;">Morgan Wallen</span><br><span style="font-size: 12px; color: #666;">3 Songs At A Time Sampler (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">
+      <img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="96" height="96" alt="X-Men Theme" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Galactic Empire</span>
+    <br><span style="font-size: 12px; color: #666;">X-Men Theme (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN">
-      <img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="96" height="96" alt="Good Company" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN">In Hell I&#39;ll Be in Good Company</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Dead South</span>
-    <br><span style="font-size: 12px; color: #666;">Good Company (2014)</span>
   </td>
 </tr>
 <tr>
