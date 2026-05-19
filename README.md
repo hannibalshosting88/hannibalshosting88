@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="180" height="180" alt="Hypnotize" />
+<a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R">
+  <img src="https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014" width="180" height="180" alt="CHROMAKOPIA" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R">Sticky (feat. GloRilla, Sexyy Red &amp; Lil Wayne)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Hypnotize (2005)</span>
+<span style="font-size: 13px; color: #666;">Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne</span><br><span style="font-size: 12px; color: #666;">CHROMAKOPIA (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="96" height="96" alt="Hypnotize" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">System Of A Down</span>
+    <br><span style="font-size: 12px; color: #666;">Hypnotize (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Watsky, Kate Nash</span>
     <br><span style="font-size: 12px; color: #666;">Cardboard Castles (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d19b2b5d0bd2ac50f24e09db" width="96" height="96" alt="Sci-Fi Crimes" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr">Jars</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Chevelle</span>
-    <br><span style="font-size: 12px; color: #666;">Sci-Fi Crimes (2009)</span>
   </td>
 </tr>
 <tr>
