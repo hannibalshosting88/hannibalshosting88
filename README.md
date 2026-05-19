@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bec79a32d42931ceac42f748" width="96" height="96" alt="Never Land" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r">You Can&#39;t Stop Me</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Andy Mineo</span>
-    <br><span style="font-size: 12px; color: #666;">Never Land (2014)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
