@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736dbed2ffdc86e11a63889710" width="180" height="180" alt="Green River (40th Anniversary Edition)" />
+<a href="https://open.spotify.com/track/0EgLxY52mpGsXETyEsgVlP">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ff8a4276b3be31c839557439" width="180" height="180" alt="HOPE" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj">Bad Moon Rising</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0EgLxY52mpGsXETyEsgVlP">HOPE</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Creedence Clearwater Revival</span><br><span style="font-size: 12px; color: #666;">Green River (40th Anniversary Edition) (1969)</span>
+<span style="font-size: 13px; color: #666;">NF</span><br><span style="font-size: 12px; color: #666;">HOPE (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736dbed2ffdc86e11a63889710" width="96" height="96" alt="Green River (40th Anniversary Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj">Bad Moon Rising</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Creedence Clearwater Revival</span>
+    <br><span style="font-size: 12px; color: #666;">Green River (40th Anniversary Edition) (1969)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Jimmy Eat World</span>
     <br><span style="font-size: 12px; color: #666;">Bleed American (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT">
-      <img src="https://i.scdn.co/image/ab67616d0000b27369422d5c9469cbad22e5886f" width="96" height="96" alt="Get By" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT">Get By</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Jelly Roll</span>
-    <br><span style="font-size: 12px; color: #666;">Get By (2024)</span>
   </td>
 </tr>
 <tr>
