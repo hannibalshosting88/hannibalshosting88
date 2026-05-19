@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="180" height="180" alt="Nevermind (Remastered)" />
+<a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">
+  <img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="180" height="180" alt="X-Men Theme" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T">Smells Like Teen Spirit</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Nirvana</span><br><span style="font-size: 12px; color: #666;">Nevermind (Remastered) (1991)</span>
+<span style="font-size: 13px; color: #666;">Galactic Empire</span><br><span style="font-size: 12px; color: #666;">X-Men Theme (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="96" height="96" alt="Nevermind (Remastered)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T">Smells Like Teen Spirit</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Nirvana</span>
+    <br><span style="font-size: 12px; color: #666;">Nevermind (Remastered) (1991)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
