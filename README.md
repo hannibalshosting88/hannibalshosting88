@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh">
-      <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" width="96" height="96" alt="Unorthodox Jukebox" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh">Locked out of Heaven</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Bruno Mars</span>
-    <br><span style="font-size: 12px; color: #666;">Unorthodox Jukebox (2012)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
