@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R">
-  <img src="https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014" width="180" height="180" alt="CHROMAKOPIA" />
+<a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA">
+  <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" width="180" height="180" alt="Toto" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R">Sticky (feat. GloRilla, Sexyy Red &amp; Lil Wayne)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA">Hold the Line</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne</span><br><span style="font-size: 12px; color: #666;">CHROMAKOPIA (2024)</span>
+<span style="font-size: 13px; color: #666;">TOTO</span><br><span style="font-size: 12px; color: #666;">1978</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R">
+      <img src="https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014" width="96" height="96" alt="CHROMAKOPIA" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R">Sticky (feat. GloRilla, Sexyy Red &amp; Lil Wayne)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne</span>
+    <br><span style="font-size: 12px; color: #666;">CHROMAKOPIA (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
