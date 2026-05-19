@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="180" height="180" alt="Times Square" />
+<a href="https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="180" height="180" alt="Audioslave" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don&#39;t Wait</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim">Cochise</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
+<span style="font-size: 13px; color: #666;">Audioslave</span><br><span style="font-size: 12px; color: #666;">2002</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="96" height="96" alt="Times Square" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don&#39;t Wait</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
