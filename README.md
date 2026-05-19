@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="96" height="96" alt="Nevermind (Remastered)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T">Smells Like Teen Spirit</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Nirvana</span>
-    <br><span style="font-size: 12px; color: #666;">Nevermind (Remastered) (1991)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
