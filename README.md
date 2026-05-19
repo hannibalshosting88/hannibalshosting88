@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fc30908354ee3be55dc6feb2" width="180" height="180" alt="Dr. Feelgood" />
+<a href="https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738c23906cd30a0564bcebb5e5" width="180" height="180" alt="Royal Blood" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew">Kickstart My Heart</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd">Figure It Out</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Mötley Crüe</span><br><span style="font-size: 12px; color: #666;">Dr. Feelgood (1989)</span>
+<span style="font-size: 13px; color: #666;">Royal Blood</span><br><span style="font-size: 12px; color: #666;">2014</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fc30908354ee3be55dc6feb2" width="96" height="96" alt="Dr. Feelgood" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew">Kickstart My Heart</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Mötley Crüe</span>
+    <br><span style="font-size: 12px; color: #666;">Dr. Feelgood (1989)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
