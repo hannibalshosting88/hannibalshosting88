@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6N0AnkdDFZUetw8KAGHV7e">
-      <img src="https://i.scdn.co/image/ab67616d0000b27375eb37e86d743506dcffc18b" width="96" height="96" alt="Spectres" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6N0AnkdDFZUetw8KAGHV7e">Godzilla</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Blue Öyster Cult</span>
-    <br><span style="font-size: 12px; color: #666;">Spectres (1977)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
