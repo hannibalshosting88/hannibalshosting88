@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0EgLxY52mpGsXETyEsgVlP">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ff8a4276b3be31c839557439" width="180" height="180" alt="HOPE" />
+<a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M">
+  <img src="https://i.scdn.co/image/ab67616d0000b27305f425b3ea2d3609d2d8b962" width="180" height="180" alt="This Is Why" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0EgLxY52mpGsXETyEsgVlP">HOPE</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M">This Is Why</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">NF</span><br><span style="font-size: 12px; color: #666;">HOPE (2023)</span>
+<span style="font-size: 13px; color: #666;">Paramore</span><br><span style="font-size: 12px; color: #666;">This Is Why (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0EgLxY52mpGsXETyEsgVlP">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ff8a4276b3be31c839557439" width="96" height="96" alt="HOPE" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0EgLxY52mpGsXETyEsgVlP">HOPE</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">NF</span>
+    <br><span style="font-size: 12px; color: #666;">HOPE (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
