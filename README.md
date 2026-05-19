@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738dad7cd9e76fa42013c50d44" width="180" height="180" alt="23" />
+<a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx">
+  <img src="https://i.scdn.co/image/ab67616d0000b27389b26d4201d9aa5d65000dab" width="180" height="180" alt="Growin&#39; Up" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE">23</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx">The Kind of Love We Make</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Chayce Beckham</span><br><span style="font-size: 12px; color: #666;">23 (2021)</span>
+<span style="font-size: 13px; color: #666;">Luke Combs</span><br><span style="font-size: 12px; color: #666;">Growin&#39; Up (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738dad7cd9e76fa42013c50d44" width="96" height="96" alt="23" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE">23</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Chayce Beckham</span>
+    <br><span style="font-size: 12px; color: #666;">23 (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
