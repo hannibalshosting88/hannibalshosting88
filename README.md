@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="180" height="180" alt="Audioslave" />
+<a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="180" height="180" alt="Hypnotize" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim">Cochise</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr">Soldier Side</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Audioslave</span><br><span style="font-size: 12px; color: #666;">2002</span>
+<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Hypnotize (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="96" height="96" alt="Audioslave" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim">Cochise</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Audioslave</span>
+    <br><span style="font-size: 12px; color: #666;">2002</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Chevelle</span>
     <br><span style="font-size: 12px; color: #666;">Sci-Fi Crimes (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738c23906cd30a0564bcebb5e5" width="96" height="96" alt="Royal Blood" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd">Figure It Out</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Royal Blood</span>
-    <br><span style="font-size: 12px; color: #666;">2014</span>
   </td>
 </tr>
 <tr>
