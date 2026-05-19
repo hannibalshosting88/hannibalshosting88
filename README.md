@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736b275d72474c508ce2b405a4" width="180" height="180" alt="S&amp;M" />
+<a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="180" height="180" alt="Hybrid Theory (Bonus Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00">No Leaf Clover - Live with the SFSO</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll">With You</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">S&amp;M (1999)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736b275d72474c508ce2b405a4" width="96" height="96" alt="S&amp;M" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0n4AllHzf3ma4ki20Y9h00">No Leaf Clover - Live with the SFSO</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Metallica</span>
+    <br><span style="font-size: 12px; color: #666;">S&amp;M (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
