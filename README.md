@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d19b2b5d0bd2ac50f24e09db" width="180" height="180" alt="Sci-Fi Crimes" />
+<a href="https://open.spotify.com/track/6FXaa0q38CCNbna82CQuGW">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730e6803fbadaf99b84de7885e" width="180" height="180" alt="Cardboard Castles" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr">Jars</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6FXaa0q38CCNbna82CQuGW">Hey, Asshole</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Chevelle</span><br><span style="font-size: 12px; color: #666;">Sci-Fi Crimes (2009)</span>
+<span style="font-size: 13px; color: #666;">Watsky, Kate Nash</span><br><span style="font-size: 12px; color: #666;">Cardboard Castles (2013)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d19b2b5d0bd2ac50f24e09db" width="96" height="96" alt="Sci-Fi Crimes" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr">Jars</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Chevelle</span>
+    <br><span style="font-size: 12px; color: #666;">Sci-Fi Crimes (2009)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Luke Combs</span>
     <br><span style="font-size: 12px; color: #666;">Growin&#39; Up (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738dad7cd9e76fa42013c50d44" width="96" height="96" alt="23" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE">23</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Chayce Beckham</span>
-    <br><span style="font-size: 12px; color: #666;">23 (2021)</span>
   </td>
 </tr>
 <tr>
