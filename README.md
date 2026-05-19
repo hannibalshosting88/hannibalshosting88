@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c418220159462cdd7cfeb9a1" width="180" height="180" alt="Finding Beauty In Negative Spaces (Bonus Track Version)" />
+<a href="https://open.spotify.com/track/4txpC7uzAR3JeNfs4Yd0DZ">
+  <img src="https://i.scdn.co/image/ab67616d0000b27380ed8fe3bc537839f250ee8a" width="180" height="180" alt="When Life Gives You Lemons, You Paint That Shit Gold" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0">Fake It</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4txpC7uzAR3JeNfs4Yd0DZ">Yesterday</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Seether</span><br><span style="font-size: 12px; color: #666;">Finding Beauty In Negative Spaces (Bonus Track Version) (2007)</span>
+<span style="font-size: 13px; color: #666;">Atmosphere, Slug, Ant</span><br><span style="font-size: 12px; color: #666;">When Life Gives You Lemons, You Paint That Shit Gold (2008)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c418220159462cdd7cfeb9a1" width="96" height="96" alt="Finding Beauty In Negative Spaces (Bonus Track Version)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0">Fake It</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Seether</span>
+    <br><span style="font-size: 12px; color: #666;">Finding Beauty In Negative Spaces (Bonus Track Version) (2007)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
