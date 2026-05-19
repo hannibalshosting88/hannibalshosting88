@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0U06KMaiGKXj2dUmNhMDir">
-  <img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="180" height="180" alt="Crypt of the Necrodancer (Original Game Soundtrack)" />
+<a href="https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735f4c9262d32be3019e1dda3e" width="180" height="180" alt="Popular Monster" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0U06KMaiGKXj2dUmNhMDir">Konga Conga Kappa</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij">Popular Monster</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Danny Baranowsky</span><br><span style="font-size: 12px; color: #666;">Crypt of the Necrodancer (Original Game Soundtrack) (2015)</span>
+<span style="font-size: 13px; color: #666;">Falling In Reverse</span><br><span style="font-size: 12px; color: #666;">Popular Monster (2019)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0U06KMaiGKXj2dUmNhMDir">
+      <img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="96" height="96" alt="Crypt of the Necrodancer (Original Game Soundtrack)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0U06KMaiGKXj2dUmNhMDir">Konga Conga Kappa</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Danny Baranowsky</span>
+    <br><span style="font-size: 12px; color: #666;">Crypt of the Necrodancer (Original Game Soundtrack) (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Seether</span>
     <br><span style="font-size: 12px; color: #666;">Finding Beauty In Negative Spaces (Bonus Track Version) (2007)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730ea1ecb2d5271c2db402b0c2" width="96" height="96" alt="Hail to the King" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo">Hail to the King</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Avenged Sevenfold</span>
-    <br><span style="font-size: 12px; color: #666;">Hail to the King (2013)</span>
   </td>
 </tr>
 <tr>
