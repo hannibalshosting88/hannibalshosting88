@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl">
-  <img src="https://i.scdn.co/image/ab67616d0000b273483a98632e23f6d2623ab75c" width="180" height="180" alt="Save Rock And Roll" />
+<a href="https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb" width="180" height="180" alt="The Colour And The Shape" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl">My Songs Know What You Did In The Dark (Light Em Up)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk">Everlong</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Fall Out Boy</span><br><span style="font-size: 12px; color: #666;">Save Rock And Roll (2013)</span>
+<span style="font-size: 13px; color: #666;">Foo Fighters</span><br><span style="font-size: 12px; color: #666;">The Colour And The Shape (1997)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl">
+      <img src="https://i.scdn.co/image/ab67616d0000b273483a98632e23f6d2623ab75c" width="96" height="96" alt="Save Rock And Roll" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl">My Songs Know What You Did In The Dark (Light Em Up)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Fall Out Boy</span>
+    <br><span style="font-size: 12px; color: #666;">Save Rock And Roll (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Metallica</span>
     <br><span style="font-size: 12px; color: #666;">Garage, Inc. (1998)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="96" height="96" alt="The Click" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">Weak</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">AJR</span>
-    <br><span style="font-size: 12px; color: #666;">The Click (2017)</span>
   </td>
 </tr>
 <tr>
