@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="96" height="96" alt="Times Square" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don&#39;t Wait</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Thundersmack</span>
-    <br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
