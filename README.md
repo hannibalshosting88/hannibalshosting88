@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e0114a86a2a0a7d8762951d9" width="96" height="96" alt="Hooked On A Feeling - 40th Anniversary Collection" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L">Hooked On A Feeling</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Blue Swede, Björn Skifs</span>
-    <br><span style="font-size: 12px; color: #666;">Hooked On A Feeling - 40th Anniversary Collection (2014)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
