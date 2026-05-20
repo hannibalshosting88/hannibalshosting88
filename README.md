@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L">
-  <img src="https://i.scdn.co/image/ab67616d0000b27308b19a033829c0bec97be61a" width="180" height="180" alt="Monkey Business" />
+<a href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736f3e9696889a2425338e0836" width="180" height="180" alt="Chill Bill (feat. J. Davi$ &amp; Spooks)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L">Pump It</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp">Chill Bill (feat. J. Davi$ &amp; Spooks)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Black Eyed Peas</span><br><span style="font-size: 12px; color: #666;">Monkey Business (2005)</span>
+<span style="font-size: 13px; color: #666;">Rob $tone, J. Davi$, J Spooks</span><br><span style="font-size: 12px; color: #666;">Chill Bill (feat. J. Davi$ &amp; Spooks) (2016)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L">
+      <img src="https://i.scdn.co/image/ab67616d0000b27308b19a033829c0bec97be61a" width="96" height="96" alt="Monkey Business" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L">Pump It</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Black Eyed Peas</span>
+    <br><span style="font-size: 12px; color: #666;">Monkey Business (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
