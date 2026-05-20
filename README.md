@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e0114a86a2a0a7d8762951d9" width="180" height="180" alt="Hooked On A Feeling - 40th Anniversary Collection" />
+<a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732ffc2c580b6595a3e675a730" width="180" height="180" alt="Global Warming: Meltdown (Deluxe Version)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L">Hooked On A Feeling</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn">Don&#39;t Stop the Party (feat. TJR)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Blue Swede, Björn Skifs</span><br><span style="font-size: 12px; color: #666;">Hooked On A Feeling - 40th Anniversary Collection (2014)</span>
+<span style="font-size: 13px; color: #666;">Pitbull, TJR</span><br><span style="font-size: 12px; color: #666;">Global Warming: Meltdown (Deluxe Version) (2012)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e0114a86a2a0a7d8762951d9" width="96" height="96" alt="Hooked On A Feeling - 40th Anniversary Collection" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L">Hooked On A Feeling</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Blue Swede, Björn Skifs</span>
+    <br><span style="font-size: 12px; color: #666;">Hooked On A Feeling - 40th Anniversary Collection (2014)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">The Dead South</span>
     <br><span style="font-size: 12px; color: #666;">Good Company (2014)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6uYVwPP9BGgqDKBorb2k8L">
-      <img src="https://i.scdn.co/image/ab67616d0000b27328612876d023a2af0bdb3bbc" width="96" height="96" alt="Shave &#39;Em Dry: The Best Of Lucille Bogan" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6uYVwPP9BGgqDKBorb2k8L">Shave &#39;Em Dry II</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lucille Bogan</span>
-    <br><span style="font-size: 12px; color: #666;">Shave &#39;Em Dry: The Best Of Lucille Bogan (2004)</span>
   </td>
 </tr>
 <tr>
