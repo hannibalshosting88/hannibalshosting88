@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i">
-  <img src="https://i.scdn.co/image/ab67616d0000b273de8e763df1c3c6475a4b500f" width="180" height="180" alt="Apt. 505" />
+<a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e424ea8a9f950ac35b75b437" width="180" height="180" alt="HIVE" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i">505</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Coast Contra</span><br><span style="font-size: 12px; color: #666;">Apt. 505 (2022)</span>
+<span style="font-size: 13px; color: #666;">Sub Urban, BENEE</span><br><span style="font-size: 12px; color: #666;">HIVE (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i">
+      <img src="https://i.scdn.co/image/ab67616d0000b273de8e763df1c3c6475a4b500f" width="96" height="96" alt="Apt. 505" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i">505</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Coast Contra</span>
+    <br><span style="font-size: 12px; color: #666;">Apt. 505 (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Fleetwood Mac</span>
     <br><span style="font-size: 12px; color: #666;">Rumours (Super Deluxe) (1977)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb" width="96" height="96" alt="The Colour And The Shape" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk">Everlong</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Foo Fighters</span>
-    <br><span style="font-size: 12px; color: #666;">The Colour And The Shape (1997)</span>
   </td>
 </tr>
 <tr>
