@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737e1f85f69323acac962516c4" width="96" height="96" alt="Garage, Inc." />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP">Whiskey In The Jar</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Metallica</span>
-    <br><span style="font-size: 12px; color: #666;">Garage, Inc. (1998)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
