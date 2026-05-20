@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/78GAQZUGa11v6f8ozhGqbM">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731bde4a7bb21c87f3418c2c3d" width="96" height="96" alt="new way out" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/78GAQZUGa11v6f8ozhGqbM">new way out</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Poppy</span>
-    <br><span style="font-size: 12px; color: #666;">new way out (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
