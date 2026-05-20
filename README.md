@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736f3e9696889a2425338e0836" width="180" height="180" alt="Chill Bill (feat. J. Davi$ &amp; Spooks)" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp">Chill Bill (feat. J. Davi$ &amp; Spooks)</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Rob $tone, J. Davi$, J Spooks</span><br><span style="font-size: 12px; color: #666;">Chill Bill (feat. J. Davi$ &amp; Spooks) (2016)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736f3e9696889a2425338e0836" width="96" height="96" alt="Chill Bill (feat. J. Davi$ &amp; Spooks)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp">Chill Bill (feat. J. Davi$ &amp; Spooks)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Rob $tone, J. Davi$, J Spooks</span>
+    <br><span style="font-size: 12px; color: #666;">Chill Bill (feat. J. Davi$ &amp; Spooks) (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Dirty Heads, ROME</span>
     <br><span style="font-size: 12px; color: #666;">Any Port In A Storm (Special Edition) (2008)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732868c4713a3912fd476b42f1" width="96" height="96" alt="The Better Life" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ">Be Like That</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">3 Doors Down</span>
-    <br><span style="font-size: 12px; color: #666;">The Better Life (2000)</span>
   </td>
 </tr>
 <tr>
