@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95">
-  <img src="https://i.scdn.co/image/ab67616d0000b27363bd80f6f88dd62da7ef193c" width="180" height="180" alt="OK Go" />
+<a href="https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb" width="180" height="180" alt="The Colour And The Shape" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95">Get Over It</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk">Everlong</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">OK Go</span><br><span style="font-size: 12px; color: #666;">2002</span>
+<span style="font-size: 13px; color: #666;">Foo Fighters</span><br><span style="font-size: 12px; color: #666;">The Colour And The Shape (1997)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95">
+      <img src="https://i.scdn.co/image/ab67616d0000b27363bd80f6f88dd62da7ef193c" width="96" height="96" alt="OK Go" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95">Get Over It</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">OK Go</span>
+    <br><span style="font-size: 12px; color: #666;">2002</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
