@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403" width="96" height="96" alt="Three Days Grace" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">I Hate Everything About You</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Three Days Grace</span>
-    <br><span style="font-size: 12px; color: #666;">2003</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
