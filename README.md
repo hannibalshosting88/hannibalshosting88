@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731a3f4a20a4c0eecb57add315" width="180" height="180" alt="The Exum Household" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO">Trap 3 Little Pigs</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kyle Exum</span><br><span style="font-size: 12px; color: #666;">The Exum Household (2019)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731a3f4a20a4c0eecb57add315" width="96" height="96" alt="The Exum Household" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0cMHHTYnljsZ4CcHsSnEyO">Trap 3 Little Pigs</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kyle Exum</span>
+    <br><span style="font-size: 12px; color: #666;">The Exum Household (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Foo Fighters</span>
     <br><span style="font-size: 12px; color: #666;">The Colour And The Shape (1997)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95">
-      <img src="https://i.scdn.co/image/ab67616d0000b27363bd80f6f88dd62da7ef193c" width="96" height="96" alt="OK Go" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0SLOiJClXkAZluClYpke95">Get Over It</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">OK Go</span>
-    <br><span style="font-size: 12px; color: #666;">2002</span>
   </td>
 </tr>
 <tr>
