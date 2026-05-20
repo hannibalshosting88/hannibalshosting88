@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735a41b6c530b167ffba6a92f5" width="180" height="180" alt="Megalithic Symphony Deluxe" />
+<a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="180" height="180" alt="Mezmerize" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">Sail</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">Question!</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">AWOLNATION</span><br><span style="font-size: 12px; color: #666;">Megalithic Symphony Deluxe (2011)</span>
+<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Mezmerize (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735a41b6c530b167ffba6a92f5" width="96" height="96" alt="Megalithic Symphony Deluxe" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">Sail</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">AWOLNATION</span>
+    <br><span style="font-size: 12px; color: #666;">Megalithic Symphony Deluxe (2011)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Skrillex, Kendrick Lamar</span>
     <br><span style="font-size: 12px; color: #666;">HUMBLE. (SKRILLEX REMIX) (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1BzHBomaxtK2VPAyfqXlVJ">
-      <img src="https://i.scdn.co/image/ab67616d0000b273958f5c05f9e33360b1558bca" width="96" height="96" alt="Cuntry Boner" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1BzHBomaxtK2VPAyfqXlVJ">Cuntry Boner (Evil Joe Barresi Mix)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Puscifer</span>
-    <br><span style="font-size: 12px; color: #666;">Cuntry Boner (2007)</span>
   </td>
 </tr>
 <tr>
