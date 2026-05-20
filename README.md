@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737e1f85f69323acac962516c4" width="180" height="180" alt="Garage, Inc." />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP">Whiskey In The Jar</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">Garage, Inc. (1998)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737e1f85f69323acac962516c4" width="96" height="96" alt="Garage, Inc." />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP">Whiskey In The Jar</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Metallica</span>
+    <br><span style="font-size: 12px; color: #666;">Garage, Inc. (1998)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Eminem, Kobe Honeycutt</span>
     <br><span style="font-size: 12px; color: #666;">Recovery (2010)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e77ae7296a791597f64e4ea1" width="96" height="96" alt="Awkward Encounters While Walking My Dog" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">I&#39;ve No More ... To Give</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Thomas Benjamin Wild Esq, Damian Clark</span>
-    <br><span style="font-size: 12px; color: #666;">Awkward Encounters While Walking My Dog (2018)</span>
   </td>
 </tr>
 <tr>
