@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1BzHBomaxtK2VPAyfqXlVJ">
-  <img src="https://i.scdn.co/image/ab67616d0000b273958f5c05f9e33360b1558bca" width="180" height="180" alt="Cuntry Boner" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1BzHBomaxtK2VPAyfqXlVJ">Cuntry Boner (Evil Joe Barresi Mix)</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Puscifer</span><br><span style="font-size: 12px; color: #666;">Cuntry Boner (2007)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1BzHBomaxtK2VPAyfqXlVJ">
+      <img src="https://i.scdn.co/image/ab67616d0000b273958f5c05f9e33360b1558bca" width="96" height="96" alt="Cuntry Boner" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1BzHBomaxtK2VPAyfqXlVJ">Cuntry Boner (Evil Joe Barresi Mix)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Puscifer</span>
+    <br><span style="font-size: 12px; color: #666;">Cuntry Boner (2007)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Fall Out Boy</span>
     <br><span style="font-size: 12px; color: #666;">Save Rock And Roll (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e424ea8a9f950ac35b75b437" width="96" height="96" alt="HIVE" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Sub Urban, BENEE</span>
-    <br><span style="font-size: 12px; color: #666;">HIVE (2022)</span>
   </td>
 </tr>
 <tr>
