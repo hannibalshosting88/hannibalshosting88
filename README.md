@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX">
-  <img src="https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0" width="180" height="180" alt="F-1 Trillion" />
+<a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738049549d4bc25e366788a6b3" width="180" height="180" alt="One More Love" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX">Losers (Feat. Jelly Roll)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n">Memories (feat. Kid Cudi)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Post Malone, Jelly Roll</span><br><span style="font-size: 12px; color: #666;">F-1 Trillion (2024)</span>
+<span style="font-size: 13px; color: #666;">David Guetta, Kid Cudi</span><br><span style="font-size: 12px; color: #666;">One More Love (2010)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX">
+      <img src="https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0" width="96" height="96" alt="F-1 Trillion" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX">Losers (Feat. Jelly Roll)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Post Malone, Jelly Roll</span>
+    <br><span style="font-size: 12px; color: #666;">F-1 Trillion (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Drake</span>
     <br><span style="font-size: 12px; color: #666;">Thank Me Later (2010)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e77ae7296a791597f64e4ea1" width="96" height="96" alt="Awkward Encounters While Walking My Dog" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">I&#39;ve No More ... To Give</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Thomas Benjamin Wild Esq, Damian Clark</span>
-    <br><span style="font-size: 12px; color: #666;">Awkward Encounters While Walking My Dog (2018)</span>
   </td>
 </tr>
 <tr>
