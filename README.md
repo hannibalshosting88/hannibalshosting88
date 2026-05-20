@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6uYVwPP9BGgqDKBorb2k8L">
-  <img src="https://i.scdn.co/image/ab67616d0000b27328612876d023a2af0bdb3bbc" width="180" height="180" alt="Shave &#39;Em Dry: The Best Of Lucille Bogan" />
+<a href="https://open.spotify.com/track/6a6SHtQrsfzEhp7siarZkD">
+  <img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="180" height="180" alt="Good Company" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6uYVwPP9BGgqDKBorb2k8L">Shave &#39;Em Dry II</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6a6SHtQrsfzEhp7siarZkD">Honey You</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lucille Bogan</span><br><span style="font-size: 12px; color: #666;">Shave &#39;Em Dry: The Best Of Lucille Bogan (2004)</span>
+<span style="font-size: 13px; color: #666;">The Dead South</span><br><span style="font-size: 12px; color: #666;">Good Company (2014)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6uYVwPP9BGgqDKBorb2k8L">
+      <img src="https://i.scdn.co/image/ab67616d0000b27328612876d023a2af0bdb3bbc" width="96" height="96" alt="Shave &#39;Em Dry: The Best Of Lucille Bogan" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6uYVwPP9BGgqDKBorb2k8L">Shave &#39;Em Dry II</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lucille Bogan</span>
+    <br><span style="font-size: 12px; color: #666;">Shave &#39;Em Dry: The Best Of Lucille Bogan (2004)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Nine and Dex</span>
     <br><span style="font-size: 12px; color: #666;">Pecan Pie (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/66h8hB4In6t725WtAPL23J">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" width="96" height="96" alt="Recovery" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/66h8hB4In6t725WtAPL23J">Talkin’ 2 Myself</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Eminem, Kobe Honeycutt</span>
-    <br><span style="font-size: 12px; color: #666;">Recovery (2010)</span>
   </td>
 </tr>
 <tr>
