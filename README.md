@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e77ae7296a791597f64e4ea1" width="180" height="180" alt="Awkward Encounters While Walking My Dog" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">I&#39;ve No More ... To Give</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thomas Benjamin Wild Esq, Damian Clark</span><br><span style="font-size: 12px; color: #666;">Awkward Encounters While Walking My Dog (2018)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e77ae7296a791597f64e4ea1" width="96" height="96" alt="Awkward Encounters While Walking My Dog" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">I&#39;ve No More ... To Give</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thomas Benjamin Wild Esq, Damian Clark</span>
+    <br><span style="font-size: 12px; color: #666;">Awkward Encounters While Walking My Dog (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Blue Swede, Björn Skifs</span>
     <br><span style="font-size: 12px; color: #666;">Hooked On A Feeling - 40th Anniversary Collection (2014)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f" width="96" height="96" alt="METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB">Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin &amp; Swae Lee, Lil Wayne, Offset)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Metro Boomin, Swae Lee, Lil Wayne, Offset</span>
-    <br><span style="font-size: 12px; color: #666;">METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE) (2023)</span>
   </td>
 </tr>
 <tr>
