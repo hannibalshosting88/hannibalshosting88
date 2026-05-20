@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732ffc2c580b6595a3e675a730" width="180" height="180" alt="Global Warming: Meltdown (Deluxe Version)" />
+<a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L">
+  <img src="https://i.scdn.co/image/ab67616d0000b27308b19a033829c0bec97be61a" width="180" height="180" alt="Monkey Business" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn">Don&#39;t Stop the Party (feat. TJR)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L">Pump It</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Pitbull, TJR</span><br><span style="font-size: 12px; color: #666;">Global Warming: Meltdown (Deluxe Version) (2012)</span>
+<span style="font-size: 13px; color: #666;">Black Eyed Peas</span><br><span style="font-size: 12px; color: #666;">Monkey Business (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732ffc2c580b6595a3e675a730" width="96" height="96" alt="Global Warming: Meltdown (Deluxe Version)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn">Don&#39;t Stop the Party (feat. TJR)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Pitbull, TJR</span>
+    <br><span style="font-size: 12px; color: #666;">Global Warming: Meltdown (Deluxe Version) (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Galactic Empire</span>
     <br><span style="font-size: 12px; color: #666;">2017</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6a6SHtQrsfzEhp7siarZkD">
-      <img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="96" height="96" alt="Good Company" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6a6SHtQrsfzEhp7siarZkD">Honey You</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Dead South</span>
-    <br><span style="font-size: 12px; color: #666;">Good Company (2014)</span>
   </td>
 </tr>
 <tr>
