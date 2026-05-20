@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fd9b4042f5381c3fa3b4d58c" width="180" height="180" alt="Slayer&#39;s Paradise (Gangsta&#39;s Paradise)" />
+<a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735a41b6c530b167ffba6a92f5" width="180" height="180" alt="Megalithic Symphony Deluxe" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">Slayer&#39;s Paradise (Gangsta&#39;s Paradise)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">Sail</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Geoffplaysguitar</span><br><span style="font-size: 12px; color: #666;">Slayer&#39;s Paradise (Gangsta&#39;s Paradise) (2022)</span>
+<span style="font-size: 13px; color: #666;">AWOLNATION</span><br><span style="font-size: 12px; color: #666;">Megalithic Symphony Deluxe (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fd9b4042f5381c3fa3b4d58c" width="96" height="96" alt="Slayer&#39;s Paradise (Gangsta&#39;s Paradise)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">Slayer&#39;s Paradise (Gangsta&#39;s Paradise)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Geoffplaysguitar</span>
+    <br><span style="font-size: 12px; color: #666;">Slayer&#39;s Paradise (Gangsta&#39;s Paradise) (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
