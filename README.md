@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">
-  <img src="https://i.scdn.co/image/ab67616d0000b27356149c2955aadc97567e93d4" width="180" height="180" alt="Why Am I So Happy?" />
+<a href="https://open.spotify.com/track/6e56CkYWD3JO6ovFZBA8po">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f" width="180" height="180" alt="Perception" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">Greatest Shit Ever</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6e56CkYWD3JO6ovFZBA8po">Intro III</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Spose</span><br><span style="font-size: 12px; color: #666;">Why Am I So Happy? (2015)</span>
+<span style="font-size: 13px; color: #666;">NF</span><br><span style="font-size: 12px; color: #666;">Perception (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">
+      <img src="https://i.scdn.co/image/ab67616d0000b27356149c2955aadc97567e93d4" width="96" height="96" alt="Why Am I So Happy?" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">Greatest Shit Ever</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Spose</span>
+    <br><span style="font-size: 12px; color: #666;">Why Am I So Happy? (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Foo Fighters</span>
     <br><span style="font-size: 12px; color: #666;">Sonic Highways (2014)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS">
-      <img src="https://i.scdn.co/image/ab67616d0000b273626d1849afa1bc27a8743dfe" width="96" height="96" alt="The Second" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS">Magic Carpet Ride</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Steppenwolf</span>
-    <br><span style="font-size: 12px; color: #666;">The Second (1968)</span>
   </td>
 </tr>
 <tr>
