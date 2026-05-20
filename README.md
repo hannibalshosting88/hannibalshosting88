@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737e4446d65a6d8a166fef547e" width="180" height="180" alt="Colt 45 (Country Remix)" />
+<a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU">
+  <img src="https://i.scdn.co/image/ab67616d0000b273645606c85724da85f15f6dee" width="180" height="180" alt="Enema Of The State" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re">Colt 45 (Country Remix)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU">All The Small Things</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Cooper Alan, Rvshvd</span><br><span style="font-size: 12px; color: #666;">Colt 45 (Country Remix) (2021)</span>
+<span style="font-size: 13px; color: #666;">blink-182</span><br><span style="font-size: 12px; color: #666;">Enema Of The State (1999)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737e4446d65a6d8a166fef547e" width="96" height="96" alt="Colt 45 (Country Remix)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re">Colt 45 (Country Remix)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Cooper Alan, Rvshvd</span>
+    <br><span style="font-size: 12px; color: #666;">Colt 45 (Country Remix) (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
