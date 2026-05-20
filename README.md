@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="180" height="180" alt="Mezmerize" />
+<a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">
+  <img src="https://i.scdn.co/image/ab67616d0000b27356149c2955aadc97567e93d4" width="180" height="180" alt="Why Am I So Happy?" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">Question!</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">Greatest Shit Ever</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Mezmerize (2005)</span>
+<span style="font-size: 13px; color: #666;">Spose</span><br><span style="font-size: 12px; color: #666;">Why Am I So Happy? (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="96" height="96" alt="Mezmerize" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">Question!</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">System Of A Down</span>
+    <br><span style="font-size: 12px; color: #666;">Mezmerize (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Steppenwolf</span>
     <br><span style="font-size: 12px; color: #666;">The Second (1968)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bd01ceabd584855b2edd838d" width="96" height="96" alt="HUMBLE. (SKRILLEX REMIX)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ">HUMBLE. - SKRILLEX REMIX</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Skrillex, Kendrick Lamar</span>
-    <br><span style="font-size: 12px; color: #666;">HUMBLE. (SKRILLEX REMIX) (2017)</span>
   </td>
 </tr>
 <tr>
