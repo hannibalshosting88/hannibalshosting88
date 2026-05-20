@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732868c4713a3912fd476b42f1" width="180" height="180" alt="The Better Life" />
+<a href="https://open.spotify.com/track/27cyWPYManSTHiwMreSuGB">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730f2ae7617af2ce35795b330a" width="180" height="180" alt="Any Port In A Storm (Special Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ">Be Like That</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/27cyWPYManSTHiwMreSuGB">Lay Me Down (feat. Rome)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">3 Doors Down</span><br><span style="font-size: 12px; color: #666;">The Better Life (2000)</span>
+<span style="font-size: 13px; color: #666;">Dirty Heads, ROME</span><br><span style="font-size: 12px; color: #666;">Any Port In A Storm (Special Edition) (2008)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732868c4713a3912fd476b42f1" width="96" height="96" alt="The Better Life" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ">Be Like That</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">3 Doors Down</span>
+    <br><span style="font-size: 12px; color: #666;">The Better Life (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
