@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c" width="96" height="96" alt="In Utero (Deluxe Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa">Heart-Shaped Box</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Nirvana</span>
-    <br><span style="font-size: 12px; color: #666;">In Utero (Deluxe Edition) (1993)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
