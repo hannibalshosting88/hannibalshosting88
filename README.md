@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/27cyWPYManSTHiwMreSuGB">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730f2ae7617af2ce35795b330a" width="96" height="96" alt="Any Port In A Storm (Special Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/27cyWPYManSTHiwMreSuGB">Lay Me Down (feat. Rome)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Dirty Heads, ROME</span>
-    <br><span style="font-size: 12px; color: #666;">Any Port In A Storm (Special Edition) (2008)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
