@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737028981d09d2e5833c9c78ad" width="180" height="180" alt="Elephant" />
+<a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="180" height="180" alt="Minutes to Midnight" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">Seven Nation Army</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">What I&#39;ve Done</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The White Stripes</span><br><span style="font-size: 12px; color: #666;">Elephant (2003)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737028981d09d2e5833c9c78ad" width="96" height="96" alt="Elephant" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">Seven Nation Army</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The White Stripes</span>
+    <br><span style="font-size: 12px; color: #666;">Elephant (2003)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Cooper Alan, Rvshvd</span>
     <br><span style="font-size: 12px; color: #666;">Colt 45 (Country Remix) (2021)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa">
-      <img src="https://i.scdn.co/image/ab67616d0000b273335534788cbc39cfd23ee993" width="96" height="96" alt="Wolfmother" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa">Joker And The Thief</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Wolfmother</span>
-    <br><span style="font-size: 12px; color: #666;">2005</span>
   </td>
 </tr>
 <tr>
