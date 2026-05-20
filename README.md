@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl">
-      <img src="https://i.scdn.co/image/ab67616d0000b273483a98632e23f6d2623ab75c" width="96" height="96" alt="Save Rock And Roll" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl">My Songs Know What You Did In The Dark (Light Em Up)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Fall Out Boy</span>
-    <br><span style="font-size: 12px; color: #666;">Save Rock And Roll (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
