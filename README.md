@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1ogRu1dOUgHvel8To8oQbe">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739bee8e111119979a82b10c5b" width="180" height="180" alt="Wicked Ones" />
+<a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737028981d09d2e5833c9c78ad" width="180" height="180" alt="Elephant" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1ogRu1dOUgHvel8To8oQbe">Wicked Ones</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">Seven Nation Army</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Dorothy</span><br><span style="font-size: 12px; color: #666;">Wicked Ones (2016)</span>
+<span style="font-size: 13px; color: #666;">The White Stripes</span><br><span style="font-size: 12px; color: #666;">Elephant (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1ogRu1dOUgHvel8To8oQbe">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739bee8e111119979a82b10c5b" width="96" height="96" alt="Wicked Ones" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1ogRu1dOUgHvel8To8oQbe">Wicked Ones</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Dorothy</span>
+    <br><span style="font-size: 12px; color: #666;">Wicked Ones (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Wolfmother</span>
     <br><span style="font-size: 12px; color: #666;">2005</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732b222dcd5c4fcac7c0e81da2" width="96" height="96" alt="The Sickness" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v">Down with the Sickness</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Disturbed</span>
-    <br><span style="font-size: 12px; color: #666;">The Sickness (2000)</span>
   </td>
 </tr>
 <tr>
