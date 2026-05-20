@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb" width="180" height="180" alt="The Colour And The Shape" />
+<a href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" width="180" height="180" alt="Rumours (Super Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk">Everlong</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU">The Chain - 2004 Remaster</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Foo Fighters</span><br><span style="font-size: 12px; color: #666;">The Colour And The Shape (1997)</span>
+<span style="font-size: 13px; color: #666;">Fleetwood Mac</span><br><span style="font-size: 12px; color: #666;">Rumours (Super Deluxe) (1977)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb" width="96" height="96" alt="The Colour And The Shape" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk">Everlong</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Foo Fighters</span>
+    <br><span style="font-size: 12px; color: #666;">The Colour And The Shape (1997)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
