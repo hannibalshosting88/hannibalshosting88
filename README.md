@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732ffc2c580b6595a3e675a730" width="96" height="96" alt="Global Warming: Meltdown (Deluxe Version)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn">Don&#39;t Stop the Party (feat. TJR)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Pitbull, TJR</span>
-    <br><span style="font-size: 12px; color: #666;">Global Warming: Meltdown (Deluxe Version) (2012)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
