@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/66h8hB4In6t725WtAPL23J">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" width="180" height="180" alt="Recovery" />
+<a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d2a85ebbfd9f834dafacaa8a" width="180" height="180" alt="Pecan Pie" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/66h8hB4In6t725WtAPL23J">Talkin’ 2 Myself</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">Pecan Pie</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Eminem, Kobe Honeycutt</span><br><span style="font-size: 12px; color: #666;">Recovery (2010)</span>
+<span style="font-size: 13px; color: #666;">Nine and Dex</span><br><span style="font-size: 12px; color: #666;">Pecan Pie (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/66h8hB4In6t725WtAPL23J">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" width="96" height="96" alt="Recovery" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/66h8hB4In6t725WtAPL23J">Talkin’ 2 Myself</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Eminem, Kobe Honeycutt</span>
+    <br><span style="font-size: 12px; color: #666;">Recovery (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Sub Urban, BENEE</span>
     <br><span style="font-size: 12px; color: #666;">HIVE (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ebd4158db192228a77d8c2a4" width="96" height="96" alt="Killshot" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv">Killshot</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Eminem</span>
-    <br><span style="font-size: 12px; color: #666;">Killshot (2018)</span>
   </td>
 </tr>
 <tr>
