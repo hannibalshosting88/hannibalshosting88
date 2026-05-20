@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="180" height="180" alt="The Click" />
+<a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737e1f85f69323acac962516c4" width="180" height="180" alt="Garage, Inc." />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">Weak</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP">Whiskey In The Jar</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">AJR</span><br><span style="font-size: 12px; color: #666;">The Click (2017)</span>
+<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">Garage, Inc. (1998)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="96" height="96" alt="The Click" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">Weak</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">AJR</span>
+    <br><span style="font-size: 12px; color: #666;">The Click (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
