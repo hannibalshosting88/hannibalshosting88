@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787" width="96" height="96" alt="Audioslave" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim">Cochise</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Audioslave</span>
-    <br><span style="font-size: 12px; color: #666;">2002</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
