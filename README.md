@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="180" height="180" alt="Minutes to Midnight" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">What I&#39;ve Done</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="96" height="96" alt="Minutes to Midnight" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU">What I&#39;ve Done</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Linkin Park</span>
+    <br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">blink-182</span>
     <br><span style="font-size: 12px; color: #666;">Enema Of The State (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737e4446d65a6d8a166fef547e" width="96" height="96" alt="Colt 45 (Country Remix)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re">Colt 45 (Country Remix)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Cooper Alan, Rvshvd</span>
-    <br><span style="font-size: 12px; color: #666;">Colt 45 (Country Remix) (2021)</span>
   </td>
 </tr>
 <tr>
