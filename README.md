@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d2a85ebbfd9f834dafacaa8a" width="180" height="180" alt="Pecan Pie" />
+<a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403" width="180" height="180" alt="Three Days Grace" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">Pecan Pie</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi">I Hate Everything About You</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Nine and Dex</span><br><span style="font-size: 12px; color: #666;">Pecan Pie (2024)</span>
+<span style="font-size: 13px; color: #666;">Three Days Grace</span><br><span style="font-size: 12px; color: #666;">2003</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d2a85ebbfd9f834dafacaa8a" width="96" height="96" alt="Pecan Pie" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4Y7f0o9kxEr2fwkCPC7I4k">Pecan Pie</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Nine and Dex</span>
+    <br><span style="font-size: 12px; color: #666;">Pecan Pie (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Fall Out Boy</span>
     <br><span style="font-size: 12px; color: #666;">Save Rock And Roll (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e424ea8a9f950ac35b75b437" width="96" height="96" alt="HIVE" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Sub Urban, BENEE</span>
-    <br><span style="font-size: 12px; color: #666;">HIVE (2022)</span>
   </td>
 </tr>
 <tr>
