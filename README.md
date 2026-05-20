@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ebd4158db192228a77d8c2a4" width="180" height="180" alt="Killshot" />
+<a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e424ea8a9f950ac35b75b437" width="180" height="180" alt="HIVE" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv">Killshot</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC">UH OH! (feat. BENEE)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Eminem</span><br><span style="font-size: 12px; color: #666;">Killshot (2018)</span>
+<span style="font-size: 13px; color: #666;">Sub Urban, BENEE</span><br><span style="font-size: 12px; color: #666;">HIVE (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ebd4158db192228a77d8c2a4" width="96" height="96" alt="Killshot" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv">Killshot</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Eminem</span>
+    <br><span style="font-size: 12px; color: #666;">Killshot (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5M821fPKb2fWAYWipa6w2i">The Tokamak Problem: Can We Ever Make Fusion Practical?</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6n4qeFqIks7QwPHLb3arzL">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a2b20b7435d88dae08c515812" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6n4qeFqIks7QwPHLb3arzL">SETI Explained - How We Search for Alien Civilizations</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
