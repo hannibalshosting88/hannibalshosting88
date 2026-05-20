@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5JTgqOeHWg4bxMZYMRTE4H">
-      <img src="https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d" width="96" height="96" alt="Light Grenades" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5JTgqOeHWg4bxMZYMRTE4H">Love Hurts</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Incubus</span>
-    <br><span style="font-size: 12px; color: #666;">Light Grenades (2006)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
