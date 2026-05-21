@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2zaOwsoCZQNYGxdKogPihf">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731df8c16b0a929edee6dc04d6" width="180" height="180" alt="moMINTs" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2zaOwsoCZQNYGxdKogPihf">DESTRUCTION</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Tobe Nwigwe, Coast Contra</span><br><span style="font-size: 12px; color: #666;">moMINTs (2022)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2zaOwsoCZQNYGxdKogPihf">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731df8c16b0a929edee6dc04d6" width="96" height="96" alt="moMINTs" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2zaOwsoCZQNYGxdKogPihf">DESTRUCTION</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Tobe Nwigwe, Coast Contra</span>
+    <br><span style="font-size: 12px; color: #666;">moMINTs (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">The White Stripes</span>
     <br><span style="font-size: 12px; color: #666;">Elephant (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1ogRu1dOUgHvel8To8oQbe">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739bee8e111119979a82b10c5b" width="96" height="96" alt="Wicked Ones" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1ogRu1dOUgHvel8To8oQbe">Wicked Ones</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Dorothy</span>
-    <br><span style="font-size: 12px; color: #666;">Wicked Ones (2016)</span>
   </td>
 </tr>
 <tr>
