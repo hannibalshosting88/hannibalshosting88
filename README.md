@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c23dd8ed5abc2dff6f62aa14" width="96" height="96" alt="Awake" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX">Awake</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Godsmack</span>
-    <br><span style="font-size: 12px; color: #666;">Awake (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
