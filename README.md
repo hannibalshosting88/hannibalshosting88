@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c23dd8ed5abc2dff6f62aa14" width="180" height="180" alt="Awake" />
+<a href="https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731085abdeea4d93b7c1d39554" width="180" height="180" alt="Disclaimer" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX">Awake</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6">Fine Again</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Godsmack</span><br><span style="font-size: 12px; color: #666;">Awake (2000)</span>
+<span style="font-size: 13px; color: #666;">Seether</span><br><span style="font-size: 12px; color: #666;">Disclaimer (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c23dd8ed5abc2dff6f62aa14" width="96" height="96" alt="Awake" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX">Awake</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Godsmack</span>
+    <br><span style="font-size: 12px; color: #666;">Awake (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
