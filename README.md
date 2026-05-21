@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn">
-  <img src="https://i.scdn.co/image/ab67616d0000b27398a02fef3a8b1d80a0f164ec" width="180" height="180" alt="The Heist" />
+<a href="https://open.spotify.com/track/2Z6H4Ft8cBf54hEendAaBs">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ebe2db76f82a04fb72aff6d5" width="180" height="180" alt="Hungry Ghosts" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn">Can&#39;t Hold Us (feat. Ray Dalton)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2Z6H4Ft8cBf54hEendAaBs">Turn Up The Radio</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Macklemore, Ryan Lewis, Macklemore &amp; Ryan Lewis, Ray Dalton</span><br><span style="font-size: 12px; color: #666;">The Heist (2012)</span>
+<span style="font-size: 13px; color: #666;">OK Go</span><br><span style="font-size: 12px; color: #666;">Hungry Ghosts (2014)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn">
+      <img src="https://i.scdn.co/image/ab67616d0000b27398a02fef3a8b1d80a0f164ec" width="96" height="96" alt="The Heist" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn">Can&#39;t Hold Us (feat. Ray Dalton)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Macklemore, Ryan Lewis, Macklemore &amp; Ryan Lewis, Ray Dalton</span>
+    <br><span style="font-size: 12px; color: #666;">The Heist (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Yelawolf, WLPWR</span>
     <br><span style="font-size: 12px; color: #666;">Trunk Muzik Returns (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738ed6845745db21e6c956ab1d" width="96" height="96" alt="One Thing Right" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">One Thing Right</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Marshmello, Kane Brown</span>
-    <br><span style="font-size: 12px; color: #666;">One Thing Right (2019)</span>
   </td>
 </tr>
 <tr>
