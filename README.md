@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0NsgYTRJIoYH39b8w5O6zY">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736045d67194bcdd287ec23e63" width="180" height="180" alt="BANJO BLOODBATH" />
+<a href="https://open.spotify.com/track/5x8lJjnoJJDGoG7zDXGNFj">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fe407002806c31bbc99db66e" width="180" height="180" alt="Mugshot" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0NsgYTRJIoYH39b8w5O6zY">Screamin&#39; &amp; Hollerin&#39; of Souls - Bluegrass Metal</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5x8lJjnoJJDGoG7zDXGNFj">Stepped into the Building</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Appalachian Anarchy</span><br><span style="font-size: 12px; color: #666;">BANJO BLOODBATH (2024)</span>
+<span style="font-size: 13px; color: #666;">Pete &amp; Bas</span><br><span style="font-size: 12px; color: #666;">Mugshot (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0NsgYTRJIoYH39b8w5O6zY">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736045d67194bcdd287ec23e63" width="96" height="96" alt="BANJO BLOODBATH" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0NsgYTRJIoYH39b8w5O6zY">Screamin&#39; &amp; Hollerin&#39; of Souls - Bluegrass Metal</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Appalachian Anarchy</span>
+    <br><span style="font-size: 12px; color: #666;">BANJO BLOODBATH (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
