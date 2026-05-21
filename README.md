@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738d44b1a977afb85b4e507cef" width="180" height="180" alt="Watsky" />
+<a href="https://open.spotify.com/track/4faFAhOflLzhfJECveRwva">
+  <img src="https://i.scdn.co/image/ab67616d0000b273db3d7550e11f7a132fb81c9f" width="180" height="180" alt="Something to Be" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4">Headphones</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4faFAhOflLzhfJECveRwva">Lonely No More</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Watsky</span><br><span style="font-size: 12px; color: #666;">2009</span>
+<span style="font-size: 13px; color: #666;">Rob Thomas</span><br><span style="font-size: 12px; color: #666;">Something to Be (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738d44b1a977afb85b4e507cef" width="96" height="96" alt="Watsky" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4">Headphones</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Watsky</span>
+    <br><span style="font-size: 12px; color: #666;">2009</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Watsky</span>
     <br><span style="font-size: 12px; color: #666;">COMPLAINT (2019)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="96" height="96" alt="Tha Carter IV (Complete Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj">Mirror</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lil Wayne, Bruno Mars</span>
-    <br><span style="font-size: 12px; color: #666;">Tha Carter IV (Complete Edition) (2011)</span>
   </td>
 </tr>
 <tr>
