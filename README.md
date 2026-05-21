@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" width="180" height="180" alt="A Place In The Sun" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lit</span><br><span style="font-size: 12px; color: #666;">A Place In The Sun (1999)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" width="96" height="96" alt="A Place In The Sun" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lit</span>
+    <br><span style="font-size: 12px; color: #666;">A Place In The Sun (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Rob Thomas</span>
     <br><span style="font-size: 12px; color: #666;">Something to Be (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738d44b1a977afb85b4e507cef" width="96" height="96" alt="Watsky" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4">Headphones</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Watsky</span>
-    <br><span style="font-size: 12px; color: #666;">2009</span>
   </td>
 </tr>
 <tr>
