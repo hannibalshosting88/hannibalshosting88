@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730cc5eb834d42e68068a11e93" width="180" height="180" alt="Ultimate Big Band Collection: Glenn Miller" />
+<a href="https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI">
+  <img src="https://i.scdn.co/image/ab67616d0000b273488f7916bcb14082e1acb101" width="180" height="180" alt="First Steps" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC">In the Mood</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI">Go Fuck Yourself</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Glenn Miller</span><br><span style="font-size: 12px; color: #666;">Ultimate Big Band Collection: Glenn Miller (2010)</span>
+<span style="font-size: 13px; color: #666;">Two Feet</span><br><span style="font-size: 12px; color: #666;">First Steps (2016)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730cc5eb834d42e68068a11e93" width="96" height="96" alt="Ultimate Big Band Collection: Glenn Miller" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC">In the Mood</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Glenn Miller</span>
+    <br><span style="font-size: 12px; color: #666;">Ultimate Big Band Collection: Glenn Miller (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">NF, Marty</span>
     <br><span style="font-size: 12px; color: #666;">Therapy Session (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">
-      <img src="https://i.scdn.co/image/ab67616d0000b273538b7794e342e2ec5db1518a" width="96" height="96" alt="Bassthoven" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">Bassthoven</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kyle Exum, Shawn Wasabi</span>
-    <br><span style="font-size: 12px; color: #666;">Bassthoven (2020)</span>
   </td>
 </tr>
 <tr>
