@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="180" height="180" alt="COMPLAINT" />
+<a href="https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb">
+  <img src="https://i.scdn.co/image/ab67616d0000b273590e89b4c65a02050d8086b9" width="180" height="180" alt="Most of the Animals" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb">House Of The Rising Sun</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Watsky</span><br><span style="font-size: 12px; color: #666;">COMPLAINT (2019)</span>
+<span style="font-size: 13px; color: #666;">The Animals</span><br><span style="font-size: 12px; color: #666;">Most of the Animals (1992)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="96" height="96" alt="COMPLAINT" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Watsky</span>
+    <br><span style="font-size: 12px; color: #666;">COMPLAINT (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Bruno Mars</span>
     <br><span style="font-size: 12px; color: #666;">Doo-Wops &amp; Hooligans (2010)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732bdf20efaf4b308ba0defa70" width="96" height="96" alt="With a Vengeance" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">Quaid</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Broken Brass</span>
-    <br><span style="font-size: 12px; color: #666;">With a Vengeance (2018)</span>
   </td>
 </tr>
 <tr>
