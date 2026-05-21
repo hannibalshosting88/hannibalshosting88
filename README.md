@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737039c1c841fc3dfa2ad8a0d8" width="180" height="180" alt="Doo-Wops &amp; Hooligans" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr">Runaway Baby</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Bruno Mars</span><br><span style="font-size: 12px; color: #666;">Doo-Wops &amp; Hooligans (2010)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737039c1c841fc3dfa2ad8a0d8" width="96" height="96" alt="Doo-Wops &amp; Hooligans" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr">Runaway Baby</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Bruno Mars</span>
+    <br><span style="font-size: 12px; color: #666;">Doo-Wops &amp; Hooligans (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +196,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/34oQPFjMzuAp3ylBQHBPV4">Fleet Unity: The Eridani Expedition - Interstellar Beachhead</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/7FeOHKiZ02rjs2g3DUi0cB">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90187b2a061f42014f29ecb4" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7FeOHKiZ02rjs2g3DUi0cB">The First Interplanetary War: Tactics in the Solar System</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
