@@ -22,14 +22,16 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
+<a href="https://open.spotify.com/episode/7FeOHKiZ02rjs2g3DUi0cB">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a90187b2a061f42014f29ecb4" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
+</a>
 
 <br>
 
-<b>💤 Offline • Nothing currently playing</b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7FeOHKiZ02rjs2g3DUi0cB">The First Interplanetary War: Tactics in the Solar System</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
+<span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
@@ -182,23 +184,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Linkin Park</span>
     <br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737028981d09d2e5833c9c78ad" width="96" height="96" alt="Elephant" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR">Seven Nation Army</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The White Stripes</span>
-    <br><span style="font-size: 12px; color: #666;">Elephant (2003)</span>
   </td>
 </tr>
 <tr>
