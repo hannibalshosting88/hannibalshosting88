@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4faFAhOflLzhfJECveRwva">
-  <img src="https://i.scdn.co/image/ab67616d0000b273db3d7550e11f7a132fb81c9f" width="180" height="180" alt="Something to Be" />
+<a href="https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="180" height="180" alt="Meteora" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4faFAhOflLzhfJECveRwva">Lonely No More</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD">Breaking the Habit</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Rob Thomas</span><br><span style="font-size: 12px; color: #666;">Something to Be (2005)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Meteora (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4faFAhOflLzhfJECveRwva">
+      <img src="https://i.scdn.co/image/ab67616d0000b273db3d7550e11f7a132fb81c9f" width="96" height="96" alt="Something to Be" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4faFAhOflLzhfJECveRwva">Lonely No More</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Rob Thomas</span>
+    <br><span style="font-size: 12px; color: #666;">Something to Be (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">The Animals</span>
     <br><span style="font-size: 12px; color: #666;">Most of the Animals (1992)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="96" height="96" alt="COMPLAINT" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Watsky</span>
-    <br><span style="font-size: 12px; color: #666;">COMPLAINT (2019)</span>
   </td>
 </tr>
 <tr>
