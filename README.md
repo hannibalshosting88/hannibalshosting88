@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738f969abf0a46070cf66ece6d" width="96" height="96" alt="Hero (feat. Josey Scott)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo">Hero (feat. Josey Scott)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Chad Kroeger, Josey Scott</span>
-    <br><span style="font-size: 12px; color: #666;">Hero (feat. Josey Scott) (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
