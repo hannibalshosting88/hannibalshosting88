@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb">
-  <img src="https://i.scdn.co/image/ab67616d0000b273590e89b4c65a02050d8086b9" width="180" height="180" alt="Most of the Animals" />
+<a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fb6c1b40c7346c1cdfdb3943" width="180" height="180" alt="Every Six Seconds" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb">House Of The Rising Sun</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">Click Click Boom</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Animals</span><br><span style="font-size: 12px; color: #666;">Most of the Animals (1992)</span>
+<span style="font-size: 13px; color: #666;">Saliva</span><br><span style="font-size: 12px; color: #666;">Every Six Seconds (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb">
+      <img src="https://i.scdn.co/image/ab67616d0000b273590e89b4c65a02050d8086b9" width="96" height="96" alt="Most of the Animals" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb">House Of The Rising Sun</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Animals</span>
+    <br><span style="font-size: 12px; color: #666;">Most of the Animals (1992)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
