@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732bdf20efaf4b308ba0defa70" width="180" height="180" alt="With a Vengeance" />
+<a href="https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737039c1c841fc3dfa2ad8a0d8" width="180" height="180" alt="Doo-Wops &amp; Hooligans" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">Quaid</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr">Runaway Baby</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Broken Brass</span><br><span style="font-size: 12px; color: #666;">With a Vengeance (2018)</span>
+<span style="font-size: 13px; color: #666;">Bruno Mars</span><br><span style="font-size: 12px; color: #666;">Doo-Wops &amp; Hooligans (2010)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732bdf20efaf4b308ba0defa70" width="96" height="96" alt="With a Vengeance" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">Quaid</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Broken Brass</span>
+    <br><span style="font-size: 12px; color: #666;">With a Vengeance (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2zaOwsoCZQNYGxdKogPihf">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731df8c16b0a929edee6dc04d6" width="96" height="96" alt="moMINTs" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2zaOwsoCZQNYGxdKogPihf">DESTRUCTION</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Tobe Nwigwe, Coast Contra</span>
-    <br><span style="font-size: 12px; color: #666;">moMINTs (2022)</span>
   </td>
 </tr>
 <tr>
