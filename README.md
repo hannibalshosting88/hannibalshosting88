@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0b4M7hd7mzLTm99MrMeZsp">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="96" height="96" alt="Tha Carter IV (Complete Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0b4M7hd7mzLTm99MrMeZsp">She Will</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lil Wayne, Drake</span>
-    <br><span style="font-size: 12px; color: #666;">Tha Carter IV (Complete Edition) (2011)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
