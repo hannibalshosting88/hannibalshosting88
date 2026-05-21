@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="180" height="180" alt="Nevermind (Remastered)" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV">Come As You Are</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Nirvana</span><br><span style="font-size: 12px; color: #666;">Nevermind (Remastered) (1991)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="96" height="96" alt="Nevermind (Remastered)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV">Come As You Are</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Nirvana</span>
+    <br><span style="font-size: 12px; color: #666;">Nevermind (Remastered) (1991)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Rag&#39;n&#39;Bone Man</span>
     <br><span style="font-size: 12px; color: #666;">Human (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="96" height="96" alt="Metallica (Remastered)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi">Sad But True (Remastered)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Metallica</span>
-    <br><span style="font-size: 12px; color: #666;">Metallica (Remastered) (1991)</span>
   </td>
 </tr>
 <tr>
