@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734bf1bda03a3b0259fa6f771d" width="96" height="96" alt="Human" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O">Human</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Rag&#39;n&#39;Bone Man</span>
-    <br><span style="font-size: 12px; color: #666;">Human (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
