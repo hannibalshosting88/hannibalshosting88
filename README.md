@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1xq57PikDPbkU2M1WK4unF">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733ab62d65c47d5911c0d63e3f" width="180" height="180" alt="One Long Dream" />
+<a href="https://open.spotify.com/track/1qnWg8AJDw0thggNcPLcTk">
+  <img src="https://i.scdn.co/image/ab67616d0000b27301cb3b81385184691c2d7b5f" width="180" height="180" alt="Hen Do Classics" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1xq57PikDPbkU2M1WK4unF">Can I Get A Witness</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1qnWg8AJDw0thggNcPLcTk">Everybody (Backstreet&#39;s Back) - Radio Edit</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">SonReal</span><br><span style="font-size: 12px; color: #666;">One Long Dream (2017)</span>
+<span style="font-size: 13px; color: #666;">Backstreet Boys</span><br><span style="font-size: 12px; color: #666;">Hen Do Classics (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1xq57PikDPbkU2M1WK4unF">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733ab62d65c47d5911c0d63e3f" width="96" height="96" alt="One Long Dream" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1xq57PikDPbkU2M1WK4unF">Can I Get A Witness</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">SonReal</span>
+    <br><span style="font-size: 12px; color: #666;">One Long Dream (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Appalachian Anarchy</span>
     <br><span style="font-size: 12px; color: #666;">BANJO BLOODBATH (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/4Kg0EfLhzpW4pMNwWEXQNr">
-      <img src="https://i.scdn.co/image/ab6765630000ba8acef86f6b2e09e908ab3f78d0" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4Kg0EfLhzpW4pMNwWEXQNr">Fleet of the Void - Designing Warships for Deep Space</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
   </td>
 </tr>
 <tr>
