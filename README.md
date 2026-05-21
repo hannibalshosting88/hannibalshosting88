@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731085abdeea4d93b7c1d39554" width="180" height="180" alt="Disclaimer" />
+<a href="https://open.spotify.com/track/2zaOwsoCZQNYGxdKogPihf">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731df8c16b0a929edee6dc04d6" width="180" height="180" alt="moMINTs" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6">Fine Again</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2zaOwsoCZQNYGxdKogPihf">DESTRUCTION</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Seether</span><br><span style="font-size: 12px; color: #666;">Disclaimer (2002)</span>
+<span style="font-size: 13px; color: #666;">Tobe Nwigwe, Coast Contra</span><br><span style="font-size: 12px; color: #666;">moMINTs (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731085abdeea4d93b7c1d39554" width="96" height="96" alt="Disclaimer" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6">Fine Again</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Seether</span>
+    <br><span style="font-size: 12px; color: #666;">Disclaimer (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
