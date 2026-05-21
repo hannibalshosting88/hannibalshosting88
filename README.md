@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6xrdxmGZnnpScIck7YxCnd">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a47d777eacab80613fdde21e" width="180" height="180" alt="The Best That I Could Do 1978 - 1988" />
+<a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738ed6845745db21e6c956ab1d" width="180" height="180" alt="One Thing Right" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6xrdxmGZnnpScIck7YxCnd">Jack &amp; Diane</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">One Thing Right</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">John Mellencamp</span><br><span style="font-size: 12px; color: #666;">The Best That I Could Do 1978 - 1988 (1997)</span>
+<span style="font-size: 13px; color: #666;">Marshmello, Kane Brown</span><br><span style="font-size: 12px; color: #666;">One Thing Right (2019)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6xrdxmGZnnpScIck7YxCnd">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a47d777eacab80613fdde21e" width="96" height="96" alt="The Best That I Could Do 1978 - 1988" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6xrdxmGZnnpScIck7YxCnd">Jack &amp; Diane</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">John Mellencamp</span>
+    <br><span style="font-size: 12px; color: #666;">The Best That I Could Do 1978 - 1988 (1997)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
