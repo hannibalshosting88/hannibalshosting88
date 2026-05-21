@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738ed6845745db21e6c956ab1d" width="180" height="180" alt="One Thing Right" />
+<a href="https://open.spotify.com/track/3kEly8SN5DxRYjnp21s6YJ">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732221daf0f9237ff4b9db4f10" width="180" height="180" alt="Trunk Muzik Returns" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">One Thing Right</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3kEly8SN5DxRYjnp21s6YJ">Catfish Billy</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Marshmello, Kane Brown</span><br><span style="font-size: 12px; color: #666;">One Thing Right (2019)</span>
+<span style="font-size: 13px; color: #666;">Yelawolf, WLPWR</span><br><span style="font-size: 12px; color: #666;">Trunk Muzik Returns (2013)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738ed6845745db21e6c956ab1d" width="96" height="96" alt="One Thing Right" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ">One Thing Right</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Marshmello, Kane Brown</span>
+    <br><span style="font-size: 12px; color: #666;">One Thing Right (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Two Feet</span>
     <br><span style="font-size: 12px; color: #666;">First Steps (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730cc5eb834d42e68068a11e93" width="96" height="96" alt="Ultimate Big Band Collection: Glenn Miller" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC">In the Mood</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Glenn Miller</span>
-    <br><span style="font-size: 12px; color: #666;">Ultimate Big Band Collection: Glenn Miller (2010)</span>
   </td>
 </tr>
 <tr>
