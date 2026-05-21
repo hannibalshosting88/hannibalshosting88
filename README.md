@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/015jLlgBeSkl3CApWJhlv7">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e09935af9434c6e1c191d7e1" width="180" height="180" alt="Everythings For Sale" />
+<a href="https://open.spotify.com/track/1kyTf6EuKSuMyLZSFaQ80s">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="180" height="180" alt="Brasshopper" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/015jLlgBeSkl3CApWJhlv7">Rainy Days (feat. Eminem)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1kyTf6EuKSuMyLZSFaQ80s">I&#39;ll Fly Away</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">WESTSIDE BOOGIE, Eminem</span><br><span style="font-size: 12px; color: #666;">Everythings For Sale (2019)</span>
+<span style="font-size: 13px; color: #666;">Broken Brass, Harmen Ridderbos</span><br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/015jLlgBeSkl3CApWJhlv7">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e09935af9434c6e1c191d7e1" width="96" height="96" alt="Everythings For Sale" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/015jLlgBeSkl3CApWJhlv7">Rainy Days (feat. Eminem)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">WESTSIDE BOOGIE, Eminem</span>
+    <br><span style="font-size: 12px; color: #666;">Everythings For Sale (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">John Mellencamp</span>
     <br><span style="font-size: 12px; color: #666;">The Best That I Could Do 1978 - 1988 (1997)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="96" height="96" alt="Meteora" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD">Breaking the Habit</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Linkin Park</span>
-    <br><span style="font-size: 12px; color: #666;">Meteora (2003)</span>
   </td>
 </tr>
 <tr>
