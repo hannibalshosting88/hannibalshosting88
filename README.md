@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ac6c2cc344c1a1990c251539" width="180" height="180" alt="Love At First Sting" />
+<a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA">
+  <img src="https://i.scdn.co/image/ab67616d0000b27328fc13c41950199c0a49424f" width="180" height="180" alt="Permission to Land" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX">Rock You Like A Hurricane</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA">I Believe in a Thing Called Love</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Scorpions</span><br><span style="font-size: 12px; color: #666;">Love At First Sting (1984)</span>
+<span style="font-size: 13px; color: #666;">The Darkness</span><br><span style="font-size: 12px; color: #666;">Permission to Land (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ac6c2cc344c1a1990c251539" width="96" height="96" alt="Love At First Sting" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX">Rock You Like A Hurricane</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Scorpions</span>
+    <br><span style="font-size: 12px; color: #666;">Love At First Sting (1984)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
