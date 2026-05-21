@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738f969abf0a46070cf66ece6d" width="180" height="180" alt="Hero (feat. Josey Scott)" />
+<a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738d44b1a977afb85b4e507cef" width="180" height="180" alt="Watsky" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo">Hero (feat. Josey Scott)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/40gvC7nRtnxsNQnBmvtXQ4">Headphones</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Chad Kroeger, Josey Scott</span><br><span style="font-size: 12px; color: #666;">Hero (feat. Josey Scott) (2003)</span>
+<span style="font-size: 13px; color: #666;">Watsky</span><br><span style="font-size: 12px; color: #666;">2009</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738f969abf0a46070cf66ece6d" width="96" height="96" alt="Hero (feat. Josey Scott)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo">Hero (feat. Josey Scott)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Chad Kroeger, Josey Scott</span>
+    <br><span style="font-size: 12px; color: #666;">Hero (feat. Josey Scott) (2003)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Lil Wayne, Bruno Mars</span>
     <br><span style="font-size: 12px; color: #666;">Tha Carter IV (Complete Edition) (2011)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1qnWg8AJDw0thggNcPLcTk">
-      <img src="https://i.scdn.co/image/ab67616d0000b27301cb3b81385184691c2d7b5f" width="96" height="96" alt="Hen Do Classics" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1qnWg8AJDw0thggNcPLcTk">Everybody (Backstreet&#39;s Back) - Radio Edit</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Backstreet Boys</span>
-    <br><span style="font-size: 12px; color: #666;">Hen Do Classics (2024)</span>
   </td>
 </tr>
 <tr>
