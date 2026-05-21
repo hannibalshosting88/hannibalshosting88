@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="180" height="180" alt="Tha Carter IV (Complete Edition)" />
+<a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b9e84a8d7e40b424a765196a" width="180" height="180" alt="COMPLAINT" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj">Mirror</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5RLfHNaPMYfdovGoTjqNpe">Welcome To The Family</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lil Wayne, Bruno Mars</span><br><span style="font-size: 12px; color: #666;">Tha Carter IV (Complete Edition) (2011)</span>
+<span style="font-size: 13px; color: #666;">Watsky</span><br><span style="font-size: 12px; color: #666;">COMPLAINT (2019)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953" width="96" height="96" alt="Tha Carter IV (Complete Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj">Mirror</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lil Wayne, Bruno Mars</span>
+    <br><span style="font-size: 12px; color: #666;">Tha Carter IV (Complete Edition) (2011)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Broken Brass</span>
     <br><span style="font-size: 12px; color: #666;">With a Vengeance (2018)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5x8lJjnoJJDGoG7zDXGNFj">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fe407002806c31bbc99db66e" width="96" height="96" alt="Mugshot" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5x8lJjnoJJDGoG7zDXGNFj">Stepped into the Building</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Pete &amp; Bas</span>
-    <br><span style="font-size: 12px; color: #666;">Mugshot (2024)</span>
   </td>
 </tr>
 <tr>
