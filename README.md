@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5x8lJjnoJJDGoG7zDXGNFj">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fe407002806c31bbc99db66e" width="180" height="180" alt="Mugshot" />
+<a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732bdf20efaf4b308ba0defa70" width="180" height="180" alt="With a Vengeance" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5x8lJjnoJJDGoG7zDXGNFj">Stepped into the Building</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5EEr7Uh90uAZehZquvBGGq">Quaid</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Pete &amp; Bas</span><br><span style="font-size: 12px; color: #666;">Mugshot (2024)</span>
+<span style="font-size: 13px; color: #666;">Broken Brass</span><br><span style="font-size: 12px; color: #666;">With a Vengeance (2018)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5x8lJjnoJJDGoG7zDXGNFj">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fe407002806c31bbc99db66e" width="96" height="96" alt="Mugshot" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5x8lJjnoJJDGoG7zDXGNFj">Stepped into the Building</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Pete &amp; Bas</span>
+    <br><span style="font-size: 12px; color: #666;">Mugshot (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Tobe Nwigwe, Coast Contra</span>
     <br><span style="font-size: 12px; color: #666;">moMINTs (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731085abdeea4d93b7c1d39554" width="96" height="96" alt="Disclaimer" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6">Fine Again</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Seether</span>
-    <br><span style="font-size: 12px; color: #666;">Disclaimer (2002)</span>
   </td>
 </tr>
 <tr>
