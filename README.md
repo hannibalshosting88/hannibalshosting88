@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f">
-      <img src="https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292" width="96" height="96" alt="Electric Ladyland" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f">All Along the Watchtower</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Jimi Hendrix</span>
-    <br><span style="font-size: 12px; color: #666;">Electric Ladyland (1968)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
