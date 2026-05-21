@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3m6HMeFX6GIlGPMBcLEN6t">
-  <img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="180" height="180" alt="Therapy Session" />
+<a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" width="180" height="180" alt="Metallica (Remastered)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3m6HMeFX6GIlGPMBcLEN6t">Grindin&#39;</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi">Sad But True (Remastered)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">NF, Marty</span><br><span style="font-size: 12px; color: #666;">Therapy Session (2016)</span>
+<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">Metallica (Remastered) (1991)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3m6HMeFX6GIlGPMBcLEN6t">
+      <img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="96" height="96" alt="Therapy Session" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3m6HMeFX6GIlGPMBcLEN6t">Grindin&#39;</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">NF, Marty</span>
+    <br><span style="font-size: 12px; color: #666;">Therapy Session (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2aOh7co9clUO62RAs1evNJ">Nomadic Aliens – Cultures That Wander the Galaxy</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/5M821fPKb2fWAYWipa6w2i">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a3bf2fa7a7e220779cecad22c" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5M821fPKb2fWAYWipa6w2i">The Tokamak Problem: Can We Ever Make Fusion Practical?</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
