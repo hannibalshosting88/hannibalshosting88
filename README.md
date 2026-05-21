@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="180" height="180" alt="Hybrid Theory (Bonus Edition)" />
+<a href="https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok">
+  <img src="https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864" width="180" height="180" alt="Bleach" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">Papercut</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok">About A Girl</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
+<span style="font-size: 13px; color: #666;">Nirvana</span><br><span style="font-size: 12px; color: #666;">Bleach (1989)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="96" height="96" alt="Hybrid Theory (Bonus Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1">Papercut</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Linkin Park</span>
+    <br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Metallica</span>
     <br><span style="font-size: 12px; color: #666;">1991</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" width="96" height="96" alt="Nevermind (Remastered)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV">Come As You Are</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Nirvana</span>
-    <br><span style="font-size: 12px; color: #666;">Nevermind (Remastered) (1991)</span>
   </td>
 </tr>
 <tr>
