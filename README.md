@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886" width="180" height="180" alt="Tha Carter V" />
+<a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">
+  <img src="https://i.scdn.co/image/ab67616d0000b273538b7794e342e2ec5db1518a" width="180" height="180" alt="Bassthoven" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk">Uproar</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">Bassthoven</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lil Wayne, Swizz Beatz</span><br><span style="font-size: 12px; color: #666;">Tha Carter V (2018)</span>
+<span style="font-size: 13px; color: #666;">Kyle Exum, Shawn Wasabi</span><br><span style="font-size: 12px; color: #666;">Bassthoven (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886" width="96" height="96" alt="Tha Carter V" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk">Uproar</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lil Wayne, Swizz Beatz</span>
+    <br><span style="font-size: 12px; color: #666;">Tha Carter V (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
