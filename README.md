@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok">
-      <img src="https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864" width="96" height="96" alt="Bleach" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok">About A Girl</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Nirvana</span>
-    <br><span style="font-size: 12px; color: #666;">Bleach (1989)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
