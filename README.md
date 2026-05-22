@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" width="96" height="96" alt="A Place In The Sun" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lit</span>
-    <br><span style="font-size: 12px; color: #666;">A Place In The Sun (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
