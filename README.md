@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eece10ee539479b08711a839" width="96" height="96" alt="Ghostrunner (Original Soundtrack)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0Dq9fMtiubl73UQCiKRYi8">The Orb</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Daniel Deluxe</span>
-    <br><span style="font-size: 12px; color: #666;">Ghostrunner (Original Soundtrack) (2020)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
