@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390" width="180" height="180" alt="Good News" />
+<a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" width="180" height="180" alt="Hypnotize" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt">Good News</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX">Lonely Day</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Shaboozey</span><br><span style="font-size: 12px; color: #666;">Good News (2024)</span>
+<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Hypnotize (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390" width="96" height="96" alt="Good News" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt">Good News</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Shaboozey</span>
+    <br><span style="font-size: 12px; color: #666;">Good News (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
