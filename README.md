@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="180" height="180" alt="Chocolate Starfish And The Hot Dog Flavored Water" />
+<a href="https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV">
+  <img src="https://i.scdn.co/image/ab67616d0000b273153b3d6495031cb813a7451c" width="180" height="180" alt="Stankonia" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l">My Generation</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV">Ms. Jackson</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Limp Bizkit</span><br><span style="font-size: 12px; color: #666;">Chocolate Starfish And The Hot Dog Flavored Water (2000)</span>
+<span style="font-size: 13px; color: #666;">Outkast</span><br><span style="font-size: 12px; color: #666;">Stankonia (2000)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734a31b146c7cf07705d912efe" width="96" height="96" alt="Chocolate Starfish And The Hot Dog Flavored Water" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l">My Generation</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Limp Bizkit</span>
+    <br><span style="font-size: 12px; color: #666;">Chocolate Starfish And The Hot Dog Flavored Water (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
