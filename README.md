@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT">
-      <img src="https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee" width="96" height="96" alt="Justified" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT">Rock Your Body</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Justin Timberlake</span>
-    <br><span style="font-size: 12px; color: #666;">Justified (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
