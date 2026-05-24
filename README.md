@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1IaPZBgCaDSES5Wm3UXFcv">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736e9cf8e3aa085136f6d1132a" width="180" height="180" alt="The Rebirth Of Vulgarcadia" />
+<a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">
+  <img src="https://i.scdn.co/image/ab67616d0000b27393c1b92aa259f41ee79f6e4d" width="180" height="180" alt="SANTIAGO" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1IaPZBgCaDSES5Wm3UXFcv">Cute/Crooked</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">SANTIAGO</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Astrid Haven</span><br><span style="font-size: 12px; color: #666;">The Rebirth Of Vulgarcadia (2010)</span>
+<span style="font-size: 13px; color: #666;">SIDEQUEST</span><br><span style="font-size: 12px; color: #666;">SANTIAGO (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1IaPZBgCaDSES5Wm3UXFcv">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736e9cf8e3aa085136f6d1132a" width="96" height="96" alt="The Rebirth Of Vulgarcadia" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1IaPZBgCaDSES5Wm3UXFcv">Cute/Crooked</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Astrid Haven</span>
+    <br><span style="font-size: 12px; color: #666;">The Rebirth Of Vulgarcadia (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
