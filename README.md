@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e3185d5462d4c5403511df15" width="180" height="180" alt="Eyelid Movies" />
+<a href="https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" width="180" height="180" alt="PTX" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">When I&#39;m Small</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1">Radioactive</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Phantogram</span><br><span style="font-size: 12px; color: #666;">Eyelid Movies (2010)</span>
+<span style="font-size: 13px; color: #666;">Pentatonix, Lindsey Stirling</span><br><span style="font-size: 12px; color: #666;">PTX (2014)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e3185d5462d4c5403511df15" width="96" height="96" alt="Eyelid Movies" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">When I&#39;m Small</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Phantogram</span>
+    <br><span style="font-size: 12px; color: #666;">Eyelid Movies (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
