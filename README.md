@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR">
-  <img src="https://i.scdn.co/image/ab67616d0000b273df4dfaff5c996b7998d6c34e" width="180" height="180" alt="Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)" />
+<a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738c28d7443694de36c67be905" width="180" height="180" alt="Prolonging the Magic" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR">That&#39;s Amore</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl">Never There</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Dean Martin</span><br><span style="font-size: 12px; color: #666;">Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954) (1954)</span>
+<span style="font-size: 13px; color: #666;">CAKE</span><br><span style="font-size: 12px; color: #666;">Prolonging the Magic (1998)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR">
+      <img src="https://i.scdn.co/image/ab67616d0000b273df4dfaff5c996b7998d6c34e" width="96" height="96" alt="Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR">That&#39;s Amore</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Dean Martin</span>
+    <br><span style="font-size: 12px; color: #666;">Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954) (1954)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
