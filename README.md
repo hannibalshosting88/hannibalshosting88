@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732127d038204bc32c416d55e2" width="180" height="180" alt="Mercy" />
+<a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e3185d5462d4c5403511df15" width="180" height="180" alt="Eyelid Movies" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2">Mercy</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">When I&#39;m Small</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kanye West, Big Sean, Pusha T, 2 Chainz</span><br><span style="font-size: 12px; color: #666;">Mercy (2012)</span>
+<span style="font-size: 13px; color: #666;">Phantogram</span><br><span style="font-size: 12px; color: #666;">Eyelid Movies (2010)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732127d038204bc32c416d55e2" width="96" height="96" alt="Mercy" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2">Mercy</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kanye West, Big Sean, Pusha T, 2 Chainz</span>
+    <br><span style="font-size: 12px; color: #666;">Mercy (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
