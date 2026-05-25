@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN">
-      <img src="https://i.scdn.co/image/ab67616d0000b273557e6c4f0ab4aacf3270ca34" width="96" height="96" alt="Good Company" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN">In Hell I&#39;ll Be in Good Company</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Dead South</span>
-    <br><span style="font-size: 12px; color: #666;">Good Company (2014)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
