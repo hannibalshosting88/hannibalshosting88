@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" width="180" height="180" alt="PTX" />
+<a href="https://open.spotify.com/track/6jKeXDUCImQkNdwKJviCPw">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730dd170d60a89c5cbb8cb8bb3" width="180" height="180" alt="Paper Trail" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1">Radioactive</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6jKeXDUCImQkNdwKJviCPw">Live Your Life</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Pentatonix, Lindsey Stirling</span><br><span style="font-size: 12px; color: #666;">PTX (2014)</span>
+<span style="font-size: 13px; color: #666;">T.I., Rihanna</span><br><span style="font-size: 12px; color: #666;">Paper Trail (2008)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" width="96" height="96" alt="PTX" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1">Radioactive</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Pentatonix, Lindsey Stirling</span>
+    <br><span style="font-size: 12px; color: #666;">PTX (2014)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2aOh7co9clUO62RAs1evNJ">Nomadic Aliens – Cultures That Wander the Galaxy</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/5M821fPKb2fWAYWipa6w2i">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a3bf2fa7a7e220779cecad22c" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5M821fPKb2fWAYWipa6w2i">The Tokamak Problem: Can We Ever Make Fusion Practical?</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
