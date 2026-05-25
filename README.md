@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a7fcb8675f086b4ef0b84fdc" width="96" height="96" alt="Black Summer" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b">Black Summer</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Red Hot Chili Peppers</span>
-    <br><span style="font-size: 12px; color: #666;">Black Summer (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
