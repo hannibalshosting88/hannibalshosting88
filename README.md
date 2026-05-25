@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e3185d5462d4c5403511df15" width="96" height="96" alt="Eyelid Movies" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO">When I&#39;m Small</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Phantogram</span>
-    <br><span style="font-size: 12px; color: #666;">Eyelid Movies (2010)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
