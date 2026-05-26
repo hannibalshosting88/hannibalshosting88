@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw">
-  <img src="https://i.scdn.co/image/ab67616d0000b27388f81442486128df96896ccf" width="180" height="180" alt="Zombies! Aliens! Vampires! Dinosaurs! And More!" />
+<a href="https://open.spotify.com/track/1Epb6Kfe3GTgKrrWs1Y4Wy">
+  <img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="180" height="180" alt="U.S.A. (United State of Atlanta)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw">Here (In Your Arms)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1Epb6Kfe3GTgKrrWs1Y4Wy">Badd</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Hellogoodbye</span><br><span style="font-size: 12px; color: #666;">Zombies! Aliens! Vampires! Dinosaurs! And More! (2008)</span>
+<span style="font-size: 13px; color: #666;">Ying Yang Twins, Mike Jones, Mr. Collipark</span><br><span style="font-size: 12px; color: #666;">U.S.A. (United State of Atlanta) (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw">
+      <img src="https://i.scdn.co/image/ab67616d0000b27388f81442486128df96896ccf" width="96" height="96" alt="Zombies! Aliens! Vampires! Dinosaurs! And More!" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw">Here (In Your Arms)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Hellogoodbye</span>
+    <br><span style="font-size: 12px; color: #666;">Zombies! Aliens! Vampires! Dinosaurs! And More! (2008)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
