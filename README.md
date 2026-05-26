@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6jKeXDUCImQkNdwKJviCPw">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730dd170d60a89c5cbb8cb8bb3" width="96" height="96" alt="Paper Trail" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6jKeXDUCImQkNdwKJviCPw">Live Your Life</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">T.I., Rihanna</span>
-    <br><span style="font-size: 12px; color: #666;">Paper Trail (2008)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
