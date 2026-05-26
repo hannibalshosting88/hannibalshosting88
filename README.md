@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3m6HMeFX6GIlGPMBcLEN6t">
-      <img src="https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983" width="96" height="96" alt="Therapy Session" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3m6HMeFX6GIlGPMBcLEN6t">Grindin&#39;</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">NF, Marty</span>
-    <br><span style="font-size: 12px; color: #666;">Therapy Session (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
