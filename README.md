@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047">
-  <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" width="180" height="180" alt="Metallica" />
+<a href="https://open.spotify.com/track/5qGizZYD1lbhGFdTR1yoFv">
+  <img src="https://i.scdn.co/image/ab67616d0000b27395d5d85909d5deb5cee9f311" width="180" height="180" alt="Mansion" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047">Nothing Else Matters (Remastered)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5qGizZYD1lbhGFdTR1yoFv">Motivated</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">1991</span>
+<span style="font-size: 13px; color: #666;">NF</span><br><span style="font-size: 12px; color: #666;">Mansion (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047">
+      <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" width="96" height="96" alt="Metallica" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047">Nothing Else Matters (Remastered)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Metallica</span>
+    <br><span style="font-size: 12px; color: #666;">1991</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7FeOHKiZ02rjs2g3DUi0cB">The First Interplanetary War: Tactics in the Solar System</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1PnEpgXTavE5JYGx2dJNOa">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a00f89603c604fcc55c0cc9e7" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1PnEpgXTavE5JYGx2dJNOa">Don’t Panic - A Guide to Artificial Intelligence</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
