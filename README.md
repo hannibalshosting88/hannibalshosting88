@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/7HQLZl0YQb1XaxVb58ODHB">
-  <img src="https://i.scdn.co/image/ab6765630000ba8a9083163166f2ba10696ce093" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
+<a href="https://open.spotify.com/episode/2aOh7co9clUO62RAs1evNJ">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a5e36a2ba0377094d2356ebec" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7HQLZl0YQb1XaxVb58ODHB">Genetic Bottlenecks – How Few People Can Start a World? Or Restart One?</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2aOh7co9clUO62RAs1evNJ">Nomadic Aliens – Cultures That Wander the Galaxy</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
@@ -39,12 +39,12 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <tr>
   <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/2aOh7co9clUO62RAs1evNJ">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a5e36a2ba0377094d2356ebec" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
+    <a href="https://open.spotify.com/episode/7HQLZl0YQb1XaxVb58ODHB">
+      <img src="https://i.scdn.co/image/ab6765630000ba8a9083163166f2ba10696ce093" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
     </a>
   </td>
   <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2aOh7co9clUO62RAs1evNJ">Nomadic Aliens – Cultures That Wander the Galaxy</a></b>
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7HQLZl0YQb1XaxVb58ODHB">Genetic Bottlenecks – How Few People Can Start a World? Or Restart One?</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
@@ -181,23 +181,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1QjD4Yg5qbOQjigtbhQh4f">SCP 3503 - Panic is Pure, Trauma is True, Suffering is Sweet, and Death&#39;s a Delight</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3Tg3ybTaXtV86dQlropdYi">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3Tg3ybTaXtV86dQlropdYi">SCP 3140 - Botanical Warfare</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
