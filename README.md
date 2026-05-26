@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo">
-  <img src="https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95" width="180" height="180" alt="SremmLife 2 (Deluxe)" />
+<a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" width="180" height="180" alt="Mercury - Acts 1 &amp; 2" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo">Black Beatles</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl">Enemy (with JID) - from the series Arcane League of Legends</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Rae Sremmurd, Gucci Mane</span><br><span style="font-size: 12px; color: #666;">SremmLife 2 (Deluxe) (2016)</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons, JID, Arcane, League of Legends</span><br><span style="font-size: 12px; color: #666;">Mercury - Acts 1 &amp; 2 (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo">
+      <img src="https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95" width="96" height="96" alt="SremmLife 2 (Deluxe)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo">Black Beatles</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Rae Sremmurd, Gucci Mane</span>
+    <br><span style="font-size: 12px; color: #666;">SremmLife 2 (Deluxe) (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2aOh7co9clUO62RAs1evNJ">Nomadic Aliens – Cultures That Wander the Galaxy</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/5M821fPKb2fWAYWipa6w2i">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a3bf2fa7a7e220779cecad22c" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5M821fPKb2fWAYWipa6w2i">The Tokamak Problem: Can We Ever Make Fusion Practical?</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
