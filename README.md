@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3">
-  <img src="https://i.scdn.co/image/ab67616d0000b273725e469500de9880a320d8cb" width="180" height="180" alt="10,000 Days" />
+<a href="https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b6d4566db0d12894a1a3b7a2" width="180" height="180" alt="The Resistance" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3">The Pot</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ">Uprising</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">TOOL</span><br><span style="font-size: 12px; color: #666;">10,000 Days (2006)</span>
+<span style="font-size: 13px; color: #666;">Muse</span><br><span style="font-size: 12px; color: #666;">The Resistance (2009)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3">
+      <img src="https://i.scdn.co/image/ab67616d0000b273725e469500de9880a320d8cb" width="96" height="96" alt="10,000 Days" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3">The Pot</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">TOOL</span>
+    <br><span style="font-size: 12px; color: #666;">10,000 Days (2006)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
