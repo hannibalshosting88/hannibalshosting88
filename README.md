@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">
+<a href="https://open.spotify.com/episode/3SmlDvjzrq7CA9aXeJ5gdR">
   <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="180" height="180" alt="BedtimeSCP" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">SCP 4656 - Significant Figures</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3SmlDvjzrq7CA9aXeJ5gdR">SCP 5053 - Anything but a stick in the mud</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">BedtimeSCP</span><br><span style="font-size: 12px; color: #666;">2024</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">
+      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">SCP 4656 - Significant Figures</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
+    <br><span style="font-size: 12px; color: #666;">2024</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Young Money, Gucci Mane</span>
     <br><span style="font-size: 12px; color: #666;">We Are Young Money (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b6d4566db0d12894a1a3b7a2" width="96" height="96" alt="The Resistance" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ">Uprising</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Muse</span>
-    <br><span style="font-size: 12px; color: #666;">The Resistance (2009)</span>
   </td>
 </tr>
 <tr>
