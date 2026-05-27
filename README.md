@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo">
-      <img src="https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95" width="96" height="96" alt="SremmLife 2 (Deluxe)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo">Black Beatles</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Rae Sremmurd, Gucci Mane</span>
-    <br><span style="font-size: 12px; color: #666;">SremmLife 2 (Deluxe) (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
