@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3cSuhzV7wKX5diQ8hos78P">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cad1e37b4b31b5484325acd3" width="96" height="96" alt="We Are Young Money" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3cSuhzV7wKX5diQ8hos78P">Steady Mobbin</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Young Money, Gucci Mane</span>
-    <br><span style="font-size: 12px; color: #666;">We Are Young Money (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
