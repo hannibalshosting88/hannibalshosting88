@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw">
-      <img src="https://i.scdn.co/image/ab67616d0000b27388f81442486128df96896ccf" width="96" height="96" alt="Zombies! Aliens! Vampires! Dinosaurs! And More!" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw">Here (In Your Arms)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Hellogoodbye</span>
-    <br><span style="font-size: 12px; color: #666;">Zombies! Aliens! Vampires! Dinosaurs! And More! (2008)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
