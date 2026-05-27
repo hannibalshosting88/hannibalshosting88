@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1Epb6Kfe3GTgKrrWs1Y4Wy">
-      <img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="96" height="96" alt="U.S.A. (United State of Atlanta)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1Epb6Kfe3GTgKrrWs1Y4Wy">Badd</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Ying Yang Twins, Mike Jones, Mr. Collipark</span>
-    <br><span style="font-size: 12px; color: #666;">U.S.A. (United State of Atlanta) (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
