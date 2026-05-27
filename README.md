@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3">
-      <img src="https://i.scdn.co/image/ab67616d0000b273725e469500de9880a320d8cb" width="96" height="96" alt="10,000 Days" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3">The Pot</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TOOL</span>
-    <br><span style="font-size: 12px; color: #666;">10,000 Days (2006)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
