@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738b344822c35025ba9439f004" width="96" height="96" alt="Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw">Duel of the Fates</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">John Williams, London Symphony Orchestra</span>
-    <br><span style="font-size: 12px; color: #666;">Star Wars: The Phantom Menace (Original Motion Picture Soundtrack) (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
