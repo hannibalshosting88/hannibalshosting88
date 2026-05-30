@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739c42c35d57212a5920c42f6c" width="180" height="180" alt="Fight With Tools" />
+<a href="https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE">
+  <img src="https://i.scdn.co/image/ab67616d0000b27380c64a084164867806ea617a" width="180" height="180" alt="I Am Not A Human Being II (Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">Handlebars</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE">Rich As Fuck</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Flobots</span><br><span style="font-size: 12px; color: #666;">Fight With Tools (2008)</span>
+<span style="font-size: 13px; color: #666;">Lil Wayne, 2 Chainz</span><br><span style="font-size: 12px; color: #666;">I Am Not A Human Being II (Deluxe) (2013)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739c42c35d57212a5920c42f6c" width="96" height="96" alt="Fight With Tools" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">Handlebars</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Flobots</span>
+    <br><span style="font-size: 12px; color: #666;">Fight With Tools (2008)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7mKA1h6dSNogNytitszUjl">SCP 2307 - The Pen Is Mightier</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6JsO85gnoxfEDFkqGEbY5R">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6JsO85gnoxfEDFkqGEbY5R">SCP 3775 - A Wild Party</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
