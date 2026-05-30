@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733ab3ff3559d2664560e1fdb4" width="96" height="96" alt="A Fever You Can&#39;t Sweat Out" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du">I Write Sins Not Tragedies</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Panic! At The Disco</span>
-    <br><span style="font-size: 12px; color: #666;">A Fever You Can&#39;t Sweat Out (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
