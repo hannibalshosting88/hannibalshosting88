@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM">
-  <img src="https://i.scdn.co/image/ab67616d0000b273950eb267e96cd35da58b1d1c" width="180" height="180" alt="I&#39;m Goin In" />
+<a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">
+  <img src="https://i.scdn.co/image/ab67616d0000b273805ef0911226e27fdaf6569d" width="180" height="180" alt="Hoobastank" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM">I&#39;m Goin In</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Drake, Lil Wayne, Jeezy</span><br><span style="font-size: 12px; color: #666;">I&#39;m Goin In (2009)</span>
+<span style="font-size: 13px; color: #666;">Hoobastank</span><br><span style="font-size: 12px; color: #666;">2001</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM">
+      <img src="https://i.scdn.co/image/ab67616d0000b273950eb267e96cd35da58b1d1c" width="96" height="96" alt="I&#39;m Goin In" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM">I&#39;m Goin In</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Drake, Lil Wayne, Jeezy</span>
+    <br><span style="font-size: 12px; color: #666;">I&#39;m Goin In (2009)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7rIypSskk4wDeCJtQUXYDD">The End of Science</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/4Q9pJaa3UjnL1133I3NJ8V">
-      <img src="https://i.scdn.co/image/ab6765630000ba8ac9ecb01ccbbe9700a1ad55dd" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4Q9pJaa3UjnL1133I3NJ8V">Magnetic Monopoles &amp; Magmatter - The Strongest Material That Might Exist (Narration Only)</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
