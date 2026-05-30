@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733d2dc1ad7bc94f4f431a2e14" width="180" height="180" alt="Pacific Rim (Original Motion Picture Soundtrack)" />
+<a href="https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736f190c15b945233a504ccb6a" width="180" height="180" alt="Great Gonzos! The Best Of Ted Nugent" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W">Pacific Rim (feat. Tom Morello)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7">Stranglehold</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Ramin Djawadi, Tom Morello</span><br><span style="font-size: 12px; color: #666;">Pacific Rim (Original Motion Picture Soundtrack) (2013)</span>
+<span style="font-size: 13px; color: #666;">Ted Nugent</span><br><span style="font-size: 12px; color: #666;">Great Gonzos! The Best Of Ted Nugent (1981)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733d2dc1ad7bc94f4f431a2e14" width="96" height="96" alt="Pacific Rim (Original Motion Picture Soundtrack)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W">Pacific Rim (feat. Tom Morello)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Ramin Djawadi, Tom Morello</span>
+    <br><span style="font-size: 12px; color: #666;">Pacific Rim (Original Motion Picture Soundtrack) (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0YKJfZrvMjDwJvie64FeUA">A Place to Drown - SCP 7900</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
   </td>
 </tr>
 <tr>
