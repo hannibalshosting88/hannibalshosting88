@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" width="96" height="96" alt="Straight Outta Compton" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">Fuck Tha Police</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">N.W.A.</span>
-    <br><span style="font-size: 12px; color: #666;">Straight Outta Compton (1988)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
