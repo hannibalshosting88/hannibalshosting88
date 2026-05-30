@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/59vLdGpgNy142mI9258pv8">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b05549005cd6596966a74824" width="96" height="96" alt="Leo Metal, Vol. 31" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/59vLdGpgNy142mI9258pv8">WAP (Metal Version)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Leo</span>
-    <br><span style="font-size: 12px; color: #666;">Leo Metal, Vol. 31 (2020)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
