@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="180" height="180" alt="JoJo&#39;s Theme (Doom Version)" />
+<a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM">
+  <img src="https://i.scdn.co/image/ab67616d0000b273950eb267e96cd35da58b1d1c" width="180" height="180" alt="I&#39;m Goin In" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo&#39;s Theme (Doom Version)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM">I&#39;m Goin In</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Aahiden, Aaron F. Bianchi Jupiter</span><br><span style="font-size: 12px; color: #666;">JoJo&#39;s Theme (Doom Version) (2022)</span>
+<span style="font-size: 13px; color: #666;">Drake, Lil Wayne, Jeezy</span><br><span style="font-size: 12px; color: #666;">I&#39;m Goin In (2009)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b1e8bcb88edca008573d56ab" width="96" height="96" alt="JoJo&#39;s Theme (Doom Version)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5CILaxqY18T6yBVvMx2DmI">JoJo&#39;s Theme (Doom Version)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Aahiden, Aaron F. Bianchi Jupiter</span>
+    <br><span style="font-size: 12px; color: #666;">JoJo&#39;s Theme (Doom Version) (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4Q9pJaa3UjnL1133I3NJ8V">Magnetic Monopoles &amp; Magmatter - The Strongest Material That Might Exist (Narration Only)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1bHuCt4sc08YLULO3Tuv5j">
-      <img src="https://i.scdn.co/image/ab6765630000ba8aa6674b4a62cffea33fcc3938" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1bHuCt4sc08YLULO3Tuv5j">Post-Consciousness Civilizations: Evolving Beyond Human Awareness</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
