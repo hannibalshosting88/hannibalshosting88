@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" width="180" height="180" alt="Straight Outta Compton" />
+<a href="https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo">
+  <img src="https://i.scdn.co/image/ab67616d0000b273af188836621942122e3832f5" width="180" height="180" alt="Spirit Of America" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">Fuck Tha Police</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo">Barbara Ann</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">N.W.A.</span><br><span style="font-size: 12px; color: #666;">Straight Outta Compton (1988)</span>
+<span style="font-size: 13px; color: #666;">The Beach Boys</span><br><span style="font-size: 12px; color: #666;">Spirit Of America (1975)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" width="96" height="96" alt="Straight Outta Compton" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">Fuck Tha Police</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">N.W.A.</span>
+    <br><span style="font-size: 12px; color: #666;">Straight Outta Compton (1988)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5M821fPKb2fWAYWipa6w2i">The Tokamak Problem: Can We Ever Make Fusion Practical?</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6n4qeFqIks7QwPHLb3arzL">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a2b20b7435d88dae08c515812" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6n4qeFqIks7QwPHLb3arzL">SETI Explained - How We Search for Alien Civilizations</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
