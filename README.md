@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE">
-  <img src="https://i.scdn.co/image/ab67616d0000b27380c64a084164867806ea617a" width="180" height="180" alt="I Am Not A Human Being II (Deluxe)" />
+<a href="https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" width="180" height="180" alt="Heathens" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE">Rich As Fuck</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr">Heathens</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lil Wayne, 2 Chainz</span><br><span style="font-size: 12px; color: #666;">I Am Not A Human Being II (Deluxe) (2013)</span>
+<span style="font-size: 13px; color: #666;">Twenty One Pilots</span><br><span style="font-size: 12px; color: #666;">Heathens (2016)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE">
+      <img src="https://i.scdn.co/image/ab67616d0000b27380c64a084164867806ea617a" width="96" height="96" alt="I Am Not A Human Being II (Deluxe)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE">Rich As Fuck</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lil Wayne, 2 Chainz</span>
+    <br><span style="font-size: 12px; color: #666;">I Am Not A Human Being II (Deluxe) (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
