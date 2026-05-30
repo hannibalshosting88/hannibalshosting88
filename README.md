@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t">
-      <img src="https://i.scdn.co/image/ab67616d0000b273283cccda1ee115b8f44f1c8b" width="96" height="96" alt="Abraxas" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t">Oye Como Va</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Santana</span>
-    <br><span style="font-size: 12px; color: #666;">Abraxas (1970)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
