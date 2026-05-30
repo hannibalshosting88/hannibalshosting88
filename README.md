@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">
-  <img src="https://i.scdn.co/image/ab67616d0000b273805ef0911226e27fdaf6569d" width="180" height="180" alt="Hoobastank" />
+<a href="https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733ab3ff3559d2664560e1fdb4" width="180" height="180" alt="A Fever You Can&#39;t Sweat Out" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du">I Write Sins Not Tragedies</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Hoobastank</span><br><span style="font-size: 12px; color: #666;">2001</span>
+<span style="font-size: 13px; color: #666;">Panic! At The Disco</span><br><span style="font-size: 12px; color: #666;">A Fever You Can&#39;t Sweat Out (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">
+      <img src="https://i.scdn.co/image/ab67616d0000b273805ef0911226e27fdaf6569d" width="96" height="96" alt="Hoobastank" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi">Crawling In The Dark</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Hoobastank</span>
+    <br><span style="font-size: 12px; color: #666;">2001</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Kid Cudi</span>
     <br><span style="font-size: 12px; color: #666;">Man On The Moon: The End Of Day (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/7rIypSskk4wDeCJtQUXYDD">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a896e60499888edf246650e74" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7rIypSskk4wDeCJtQUXYDD">The End of Science</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
   </td>
 </tr>
 <tr>
