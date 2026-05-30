@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c">
-  <img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="180" height="180" alt="Man On The Moon: The End Of Day" />
+<a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f3d247f5bc7a34b1ae79a7ef" width="180" height="180" alt="Bass Sax Beats, Vol. 2" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c">Day &#39;N&#39; Nite (nightmare)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">LISA SIMPSON</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kid Cudi</span><br><span style="font-size: 12px; color: #666;">Man On The Moon: The End Of Day (2009)</span>
+<span style="font-size: 13px; color: #666;">Michael Wilbur</span><br><span style="font-size: 12px; color: #666;">Bass Sax Beats, Vol. 2 (2021)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9" width="96" height="96" alt="Man On The Moon: The End Of Day" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c">Day &#39;N&#39; Nite (nightmare)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kid Cudi</span>
+    <br><span style="font-size: 12px; color: #666;">Man On The Moon: The End Of Day (2009)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
