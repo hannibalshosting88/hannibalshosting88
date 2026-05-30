@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f3d247f5bc7a34b1ae79a7ef" width="180" height="180" alt="Bass Sax Beats, Vol. 2" />
+<a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" width="180" height="180" alt="Straight Outta Compton" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">LISA SIMPSON</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7">Fuck Tha Police</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Michael Wilbur</span><br><span style="font-size: 12px; color: #666;">Bass Sax Beats, Vol. 2 (2021)</span>
+<span style="font-size: 13px; color: #666;">N.W.A.</span><br><span style="font-size: 12px; color: #666;">Straight Outta Compton (1988)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f3d247f5bc7a34b1ae79a7ef" width="96" height="96" alt="Bass Sax Beats, Vol. 2" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">LISA SIMPSON</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Michael Wilbur</span>
+    <br><span style="font-size: 12px; color: #666;">Bass Sax Beats, Vol. 2 (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6n4qeFqIks7QwPHLb3arzL">SETI Explained - How We Search for Alien Civilizations</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/34oQPFjMzuAp3ylBQHBPV4">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a976b2bcdd62551bd5498ab3b" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/34oQPFjMzuAp3ylBQHBPV4">Fleet Unity: The Eridani Expedition - Interstellar Beachhead</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
