@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733d2dc1ad7bc94f4f431a2e14" width="96" height="96" alt="Pacific Rim (Original Motion Picture Soundtrack)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W">Pacific Rim (feat. Tom Morello)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Ramin Djawadi, Tom Morello</span>
-    <br><span style="font-size: 12px; color: #666;">Pacific Rim (Original Motion Picture Soundtrack) (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
