@@ -22,14 +22,16 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
+<a href="https://open.spotify.com/track/5p8WbMGPsP2TmcsInVn44u">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734beb66f56871bbde37f6892d" width="180" height="180" alt="Sad Clown Bad Year (#9-#12 Collection)" />
+</a>
 
 <br>
 
-<b>💤 Offline • Nothing currently playing</b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5p8WbMGPsP2TmcsInVn44u">Sunshine</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
+<span style="font-size: 13px; color: #666;">Atmosphere, Slug, Ant</span><br><span style="font-size: 12px; color: #666;">Sad Clown Bad Year (#9-#12 Collection) (2018)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
