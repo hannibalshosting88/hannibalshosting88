@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF">
-  <img src="https://i.scdn.co/image/ab67616d0000b27315785fa4f22f8c50902b3a42" width="180" height="180" alt="Wild Ones" />
+<a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a9f4b8706c2bae056b19ca78" width="180" height="180" alt="Alley: The Return of the Ying Yang Twins" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF">Whistle</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn">Say I Yi Yi</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Flo Rida</span><br><span style="font-size: 12px; color: #666;">Wild Ones (2012)</span>
+<span style="font-size: 13px; color: #666;">Ying Yang Twins</span><br><span style="font-size: 12px; color: #666;">Alley: The Return of the Ying Yang Twins (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF">
+      <img src="https://i.scdn.co/image/ab67616d0000b27315785fa4f22f8c50902b3a42" width="96" height="96" alt="Wild Ones" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF">Whistle</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Flo Rida</span>
+    <br><span style="font-size: 12px; color: #666;">Wild Ones (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
