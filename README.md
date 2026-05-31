@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2T15NZyQUjmH04GqM0ahyy">
-  <img src="https://i.scdn.co/image/ab67616d0000b27380255b6cc3fda7dc4ad84680" width="180" height="180" alt="Wolfenstein II: The New Colossus (Original Game Soundtrack)" />
+<a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp">
+  <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="180" height="180" alt="Fallen" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2T15NZyQUjmH04GqM0ahyy">Reich Between the Eyes</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp">Bring Me To Life</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Mick Gordon</span><br><span style="font-size: 12px; color: #666;">Wolfenstein II: The New Colossus (Original Game Soundtrack) (2018)</span>
+<span style="font-size: 13px; color: #666;">Evanescence</span><br><span style="font-size: 12px; color: #666;">Fallen (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2T15NZyQUjmH04GqM0ahyy">
+      <img src="https://i.scdn.co/image/ab67616d0000b27380255b6cc3fda7dc4ad84680" width="96" height="96" alt="Wolfenstein II: The New Colossus (Original Game Soundtrack)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2T15NZyQUjmH04GqM0ahyy">Reich Between the Eyes</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Mick Gordon</span>
+    <br><span style="font-size: 12px; color: #666;">Wolfenstein II: The New Colossus (Original Game Soundtrack) (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
