@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0De6k2vhzI1AwNqvDAMyZs">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b4a35e290c22d73c16df1f7b" width="96" height="96" alt="Warmer In The Winter (Deluxe Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0De6k2vhzI1AwNqvDAMyZs">Dance Of The Sugar Plum Fairy</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lindsey Stirling</span>
-    <br><span style="font-size: 12px; color: #666;">Warmer In The Winter (Deluxe Edition) (2018)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
