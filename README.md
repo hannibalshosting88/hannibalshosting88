@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b" width="96" height="96" alt="Back In Black" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj">Back In Black</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">AC/DC</span>
-    <br><span style="font-size: 12px; color: #666;">Back In Black (1980)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
