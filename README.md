@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" width="180" height="180" alt="Recovery" />
+<a href="https://open.spotify.com/track/1H0utYmwbHj2qwWMMbOuzm">
+  <img src="https://i.scdn.co/image/ab67616d0000b27356e74e9be5456b4bfb702c83" width="180" height="180" alt="Jarvage, Vol. 1" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi">No Love</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1H0utYmwbHj2qwWMMbOuzm">Escargot</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Eminem, Lil Wayne</span><br><span style="font-size: 12px; color: #666;">Recovery (2010)</span>
+<span style="font-size: 13px; color: #666;">Jarv</span><br><span style="font-size: 12px; color: #666;">Jarvage, Vol. 1 (2016)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" width="96" height="96" alt="Recovery" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi">No Love</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Eminem, Lil Wayne</span>
+    <br><span style="font-size: 12px; color: #666;">Recovery (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
