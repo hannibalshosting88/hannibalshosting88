@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0i7iKf20LYEqAlHkUWn8oD">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737eb2a5fd42c0fc0cfae1fee3" width="96" height="96" alt="Start a War" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0i7iKf20LYEqAlHkUWn8oD">War Machine</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Entropy Zero, Cliff Lin</span>
-    <br><span style="font-size: 12px; color: #666;">Start a War (2018)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
