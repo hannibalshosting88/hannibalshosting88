@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/35hocvz0ofwpLOsNxS22PF">
-  <img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="180" height="180" alt="Doom (Original Game Soundtrack)" />
+<a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I">
+  <img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" width="180" height="180" alt="LIVING THINGS" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/35hocvz0ofwpLOsNxS22PF">Mastermind</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I">BURN IT DOWN</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Mick Gordon</span><br><span style="font-size: 12px; color: #666;">Doom (Original Game Soundtrack) (2016)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">LIVING THINGS (2012)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/35hocvz0ofwpLOsNxS22PF">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="96" height="96" alt="Doom (Original Game Soundtrack)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/35hocvz0ofwpLOsNxS22PF">Mastermind</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Mick Gordon</span>
+    <br><span style="font-size: 12px; color: #666;">Doom (Original Game Soundtrack) (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
