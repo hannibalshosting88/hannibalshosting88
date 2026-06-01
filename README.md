@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" width="96" height="96" alt="Recovery" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi">No Love</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Eminem, Lil Wayne</span>
-    <br><span style="font-size: 12px; color: #666;">Recovery (2010)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
