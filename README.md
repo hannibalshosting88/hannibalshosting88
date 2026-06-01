@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/5M821fPKb2fWAYWipa6w2i">
-  <img src="https://i.scdn.co/image/ab6765630000ba8a3bf2fa7a7e220779cecad22c" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
+<a href="https://open.spotify.com/episode/2aOh7co9clUO62RAs1evNJ">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a5e36a2ba0377094d2356ebec" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5M821fPKb2fWAYWipa6w2i">The Tokamak Problem: Can We Ever Make Fusion Practical?</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2aOh7co9clUO62RAs1evNJ">Nomadic Aliens – Cultures That Wander the Galaxy</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/5M821fPKb2fWAYWipa6w2i">
+      <img src="https://i.scdn.co/image/ab6765630000ba8a3bf2fa7a7e220779cecad22c" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5M821fPKb2fWAYWipa6w2i">The Tokamak Problem: Can We Ever Make Fusion Practical?</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
+    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
