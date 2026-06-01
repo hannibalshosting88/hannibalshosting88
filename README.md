@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a9f4b8706c2bae056b19ca78" width="96" height="96" alt="Alley: The Return of the Ying Yang Twins" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn">Say I Yi Yi</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Ying Yang Twins</span>
-    <br><span style="font-size: 12px; color: #666;">Alley: The Return of the Ying Yang Twins (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
