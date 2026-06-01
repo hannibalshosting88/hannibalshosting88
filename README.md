@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF">
-      <img src="https://i.scdn.co/image/ab67616d0000b27315785fa4f22f8c50902b3a42" width="96" height="96" alt="Wild Ones" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF">Whistle</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Flo Rida</span>
-    <br><span style="font-size: 12px; color: #666;">Wild Ones (2012)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
