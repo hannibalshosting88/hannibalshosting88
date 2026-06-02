@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/2zTRmOpUUMXqI4l503iBKS">
-  <img src="https://i.scdn.co/image/ab6765630000ba8aa86b13152808a21dbfe91d98" width="180" height="180" alt="John Michael Godier&#39;s Event Horizon" />
+<a href="https://open.spotify.com/episode/3Tg3ybTaXtV86dQlropdYi">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="180" height="180" alt="BedtimeSCP" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2zTRmOpUUMXqI4l503iBKS">What Would an Alien Megastructure Look Like? Ringworlds with Larry Niven and Gregory Benford</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3Tg3ybTaXtV86dQlropdYi">SCP 3140 - Botanical Warfare</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">John Michael Godier&#39;s Event Horizon</span><br><span style="font-size: 12px; color: #666;">John Michael Godier (2026)</span>
+<span style="font-size: 13px; color: #666;">BedtimeSCP</span><br><span style="font-size: 12px; color: #666;">2024</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/2zTRmOpUUMXqI4l503iBKS">
+      <img src="https://i.scdn.co/image/ab6765630000ba8aa86b13152808a21dbfe91d98" width="96" height="96" alt="John Michael Godier&#39;s Event Horizon" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2zTRmOpUUMXqI4l503iBKS">What Would an Alien Megastructure Look Like? Ringworlds with Larry Niven and Gregory Benford</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">John Michael Godier&#39;s Event Horizon</span>
+    <br><span style="font-size: 12px; color: #666;">John Michael Godier (2026)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5M821fPKb2fWAYWipa6w2i">The Tokamak Problem: Can We Ever Make Fusion Practical?</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6n4qeFqIks7QwPHLb3arzL">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a2b20b7435d88dae08c515812" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6n4qeFqIks7QwPHLb3arzL">SETI Explained - How We Search for Alien Civilizations</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
