@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a320d7e9efd7602648fb78e3" width="180" height="180" alt="Neotheater" />
+<a href="https://open.spotify.com/track/3zwmW1gM4E8FlHXV5nE16u">
+  <img src="https://i.scdn.co/image/ab67616d0000b27307301dd5fedf5ad64cde4882" width="180" height="180" alt="Out of Exile" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">100 Bad Days</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3zwmW1gM4E8FlHXV5nE16u">Be Yourself</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">AJR</span><br><span style="font-size: 12px; color: #666;">Neotheater (2019)</span>
+<span style="font-size: 13px; color: #666;">Audioslave</span><br><span style="font-size: 12px; color: #666;">Out of Exile (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a320d7e9efd7602648fb78e3" width="96" height="96" alt="Neotheater" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">100 Bad Days</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">AJR</span>
+    <br><span style="font-size: 12px; color: #666;">Neotheater (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
