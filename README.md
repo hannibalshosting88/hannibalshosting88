@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1r5fl5eFGBfkvtiQA22cDx">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ce1229e1ddf40e1342c4c00a" width="180" height="180" alt="Xenoblade Chronicles 3 (You Will Know Our Names ~ Finale) [Metal Version]" />
+<a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a320d7e9efd7602648fb78e3" width="180" height="180" alt="Neotheater" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1r5fl5eFGBfkvtiQA22cDx">Xenoblade Chronicles 3 (You Will Know Our Names ~ Finale) - Metal Version</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4rnyUV17cSZGsz18xJNdjL">100 Bad Days</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lame Genie</span><br><span style="font-size: 12px; color: #666;">Xenoblade Chronicles 3 (You Will Know Our Names ~ Finale) [Metal Version] (2022)</span>
+<span style="font-size: 13px; color: #666;">AJR</span><br><span style="font-size: 12px; color: #666;">Neotheater (2019)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1r5fl5eFGBfkvtiQA22cDx">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ce1229e1ddf40e1342c4c00a" width="96" height="96" alt="Xenoblade Chronicles 3 (You Will Know Our Names ~ Finale) [Metal Version]" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1r5fl5eFGBfkvtiQA22cDx">Xenoblade Chronicles 3 (You Will Know Our Names ~ Finale) - Metal Version</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lame Genie</span>
+    <br><span style="font-size: 12px; color: #666;">Xenoblade Chronicles 3 (You Will Know Our Names ~ Finale) [Metal Version] (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
