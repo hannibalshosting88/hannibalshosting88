@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a0c979568fb46120b6a4eb95" width="180" height="180" alt="Ready For The World" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG">Oh Sheila</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Ready For The World</span><br><span style="font-size: 12px; color: #666;">1985</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a0c979568fb46120b6a4eb95" width="96" height="96" alt="Ready For The World" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG">Oh Sheila</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Ready For The World</span>
+    <br><span style="font-size: 12px; color: #666;">1985</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +196,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7FeOHKiZ02rjs2g3DUi0cB">The First Interplanetary War: Tactics in the Solar System</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1PnEpgXTavE5JYGx2dJNOa">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a00f89603c604fcc55c0cc9e7" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1PnEpgXTavE5JYGx2dJNOa">Don’t Panic - A Guide to Artificial Intelligence</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
