@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734598988646356555fd93a33d" width="96" height="96" alt="Professional Rapper" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX">$ave Dat Money (feat. Fetty Wap &amp; Rich Homie Quan)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lil Dicky, Fetty Wap, Rich Homie Quan</span>
-    <br><span style="font-size: 12px; color: #666;">Professional Rapper (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
