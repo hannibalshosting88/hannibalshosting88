@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="180" height="180" alt="Blurred Lines (Deluxe)" />
+<a href="https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735a8b060d4a4afbca78022fc8" width="180" height="180" alt="Results May Vary" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj">Behind Blue Eyes</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Robin Thicke, T.I., Pharrell Williams</span><br><span style="font-size: 12px; color: #666;">Blurred Lines (Deluxe) (2013)</span>
+<span style="font-size: 13px; color: #666;">Limp Bizkit</span><br><span style="font-size: 12px; color: #666;">Results May Vary (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="96" height="96" alt="Blurred Lines (Deluxe)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Robin Thicke, T.I., Pharrell Williams</span>
+    <br><span style="font-size: 12px; color: #666;">Blurred Lines (Deluxe) (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Backstreet Boys</span>
     <br><span style="font-size: 12px; color: #666;">Millennium (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a761e55b720a0778f2170dc9" width="96" height="96" alt="WAP (feat. Megan Thee Stallion)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih">WAP (feat. Megan Thee Stallion)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Cardi B, Megan Thee Stallion</span>
-    <br><span style="font-size: 12px; color: #666;">WAP (feat. Megan Thee Stallion) (2020)</span>
   </td>
 </tr>
 <tr>
