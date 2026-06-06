@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bf963a1df6bb4cbcf14f21d3" width="180" height="180" alt="Cherry Bop" />
+<a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="180" height="180" alt="Blurred Lines (Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0">Cherry Bop</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack, Chad Lefkowitz-Brown</span><br><span style="font-size: 12px; color: #666;">Cherry Bop (2021)</span>
+<span style="font-size: 13px; color: #666;">Robin Thicke, T.I., Pharrell Williams</span><br><span style="font-size: 12px; color: #666;">Blurred Lines (Deluxe) (2013)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bf963a1df6bb4cbcf14f21d3" width="96" height="96" alt="Cherry Bop" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0">Cherry Bop</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack, Chad Lefkowitz-Brown</span>
+    <br><span style="font-size: 12px; color: #666;">Cherry Bop (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Cardi B, Megan Thee Stallion</span>
     <br><span style="font-size: 12px; color: #666;">WAP (feat. Megan Thee Stallion) (2020)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735b1eac369bd5ee7d04574cdf" width="96" height="96" alt="Pecos &amp; the Rooftops" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Pecos &amp; the Rooftops</span>
-    <br><span style="font-size: 12px; color: #666;">2023</span>
   </td>
 </tr>
 <tr>
