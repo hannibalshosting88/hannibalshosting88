@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="180" height="180" alt="The Essential Incubus" />
+<a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735b1eac369bd5ee7d04574cdf" width="180" height="180" alt="Pecos &amp; the Rooftops" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">Black Heart Inertia</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">The Essential Incubus (2012)</span>
+<span style="font-size: 13px; color: #666;">Pecos &amp; the Rooftops</span><br><span style="font-size: 12px; color: #666;">2023</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="96" height="96" alt="The Essential Incubus" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">Black Heart Inertia</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Incubus</span>
+    <br><span style="font-size: 12px; color: #666;">The Essential Incubus (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
