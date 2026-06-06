@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4SP9crxTnfhTUIabkFM01a">
-      <img src="https://i.scdn.co/image/ab67616d0000b27320afaba7b49a3848c4d15004" width="96" height="96" alt="Franks Wild Years" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4SP9crxTnfhTUIabkFM01a">Way Down In The Hole - 2023 Remaster</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Tom Waits</span>
-    <br><span style="font-size: 12px; color: #666;">Franks Wild Years (1987)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
