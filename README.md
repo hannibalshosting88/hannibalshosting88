@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5W5riPbci6HLF2TkTd2VyA">
-      <img src="https://i.scdn.co/image/ab67616d0000b27311b32ec8f429d5bcfbc8bd21" width="96" height="96" alt="Legendary Years (Re-Recorded)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5W5riPbci6HLF2TkTd2VyA">Dawn of Victory - Re-Recorded</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Rhapsody Of Fire</span>
-    <br><span style="font-size: 12px; color: #666;">Legendary Years (Re-Recorded) (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
