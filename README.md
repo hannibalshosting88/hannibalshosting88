@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fa78c40c54908ff02f878779" width="96" height="96" alt="Pimpin&#39; Benjamin" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">Pimpin&#39; Benjamin</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Coast Contra</span>
-    <br><span style="font-size: 12px; color: #666;">Pimpin&#39; Benjamin (2021)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
