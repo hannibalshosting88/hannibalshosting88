@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/735TrGBdltkavYRHQ82L1P">
-  <img src="https://i.scdn.co/image/ab67616d0000b273600a2005bab87d9685cf1e8d" width="180" height="180" alt="Space 1992: Rise of the Chaos Wizards (Deluxe Version)" />
+<a href="https://open.spotify.com/track/4qgDlkfqsbZ0q5tOSp0nqE">
+  <img src="https://i.scdn.co/image/ab67616d0000b27371c61b61aa036f609eb18554" width="180" height="180" alt="Valkyrja" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/735TrGBdltkavYRHQ82L1P">Rise of the Chaos Wizards</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4qgDlkfqsbZ0q5tOSp0nqE">Blood of Heroes</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Gloryhammer</span><br><span style="font-size: 12px; color: #666;">Space 1992: Rise of the Chaos Wizards (Deluxe Version) (2015)</span>
+<span style="font-size: 13px; color: #666;">Týr</span><br><span style="font-size: 12px; color: #666;">Valkyrja (2013)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/735TrGBdltkavYRHQ82L1P">
+      <img src="https://i.scdn.co/image/ab67616d0000b273600a2005bab87d9685cf1e8d" width="96" height="96" alt="Space 1992: Rise of the Chaos Wizards (Deluxe Version)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/735TrGBdltkavYRHQ82L1P">Rise of the Chaos Wizards</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Gloryhammer</span>
+    <br><span style="font-size: 12px; color: #666;">Space 1992: Rise of the Chaos Wizards (Deluxe Version) (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
