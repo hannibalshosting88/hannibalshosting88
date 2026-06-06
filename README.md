@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cf765b975a3c64713fbf2176" width="180" height="180" alt="Different Man" />
+<a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="180" height="180" alt="Love Is a Bitch" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8">Thank God</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kane Brown, Katelyn Brown</span><br><span style="font-size: 12px; color: #666;">Different Man (2022)</span>
+<span style="font-size: 13px; color: #666;">Two Feet</span><br><span style="font-size: 12px; color: #666;">Love Is a Bitch (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cf765b975a3c64713fbf2176" width="96" height="96" alt="Different Man" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8">Thank God</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kane Brown, Katelyn Brown</span>
+    <br><span style="font-size: 12px; color: #666;">Different Man (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
