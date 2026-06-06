@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv">
-  <img src="https://i.scdn.co/image/ab67616d0000b273299e0c5e98f5c703d7e1b51a" width="180" height="180" alt="Tales from the Kingdom of Fife" />
+<a href="https://open.spotify.com/track/0XZKzRSvXLqLHT8AVfhZmE">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a423059b8672af1e9685fe16" width="180" height="180" alt="The Architect" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv">Angus Mcfife</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0XZKzRSvXLqLHT8AVfhZmE">Stop Saying We Sound Like Dragonforce</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Gloryhammer</span><br><span style="font-size: 12px; color: #666;">Tales from the Kingdom of Fife (2013)</span>
+<span style="font-size: 13px; color: #666;">Fraser Edwards</span><br><span style="font-size: 12px; color: #666;">The Architect (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv">
+      <img src="https://i.scdn.co/image/ab67616d0000b273299e0c5e98f5c703d7e1b51a" width="96" height="96" alt="Tales from the Kingdom of Fife" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv">Angus Mcfife</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Gloryhammer</span>
+    <br><span style="font-size: 12px; color: #666;">Tales from the Kingdom of Fife (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Coast Contra</span>
     <br><span style="font-size: 12px; color: #666;">Pimpin&#39; Benjamin (2021)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aa119fab1d342e3a7e4ddb2c" width="96" height="96" alt="Snap Yo Fingers - Single" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1">Snap Yo Fingers</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lil Jon, E-40, Sean Paul</span>
-    <br><span style="font-size: 12px; color: #666;">Snap Yo Fingers - Single (2006)</span>
   </td>
 </tr>
 <tr>
