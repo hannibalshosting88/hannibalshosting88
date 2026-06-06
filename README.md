@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/76jaUC95i1VXRmgVHY9Lh3">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f06426a52b4ced89b3d25609" width="180" height="180" alt="Chapters from a Vale Forlorn" />
+<a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="180" height="180" alt="Meteora" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/76jaUC95i1VXRmgVHY9Lh3">The Clarion Call</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU">Faint</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Falconer</span><br><span style="font-size: 12px; color: #666;">Chapters from a Vale Forlorn (2002)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Meteora (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/76jaUC95i1VXRmgVHY9Lh3">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f06426a52b4ced89b3d25609" width="96" height="96" alt="Chapters from a Vale Forlorn" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/76jaUC95i1VXRmgVHY9Lh3">The Clarion Call</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Falconer</span>
+    <br><span style="font-size: 12px; color: #666;">Chapters from a Vale Forlorn (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Grailknights</span>
     <br><span style="font-size: 12px; color: #666;">Knightfall (2018)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2FBmddNjVLziN4AxfUmdQe">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d188e7dcd58eb10cf49a9f57" width="96" height="96" alt="Black Sails at Midnight" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2FBmddNjVLziN4AxfUmdQe">Keelhauled</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Alestorm</span>
-    <br><span style="font-size: 12px; color: #666;">Black Sails at Midnight (2009)</span>
   </td>
 </tr>
 <tr>
