@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw">
-  <img src="https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8" width="180" height="180" alt="In The Groove" />
+<a href="https://open.spotify.com/track/1GntyY59f0uKNoOCqe1kcS">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="180" height="180" alt="Wolfenstein: The New Order Original Game Soundtrack" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw">I Heard It Through The Grapevine</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1GntyY59f0uKNoOCqe1kcS">Herr Faust</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Marvin Gaye</span><br><span style="font-size: 12px; color: #666;">In The Groove (1968)</span>
+<span style="font-size: 13px; color: #666;">Mick Gordon, Fredrik Thordendal</span><br><span style="font-size: 12px; color: #666;">Wolfenstein: The New Order Original Game Soundtrack (2014)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8" width="96" height="96" alt="In The Groove" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw">I Heard It Through The Grapevine</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Marvin Gaye</span>
+    <br><span style="font-size: 12px; color: #666;">In The Groove (1968)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Red Hot Chili Peppers</span>
     <br><span style="font-size: 12px; color: #666;">The Getaway (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2d7CZ4aJXrnXNnpox9iVDX">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730e6803fbadaf99b84de7885e" width="96" height="96" alt="Cardboard Castles" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2d7CZ4aJXrnXNnpox9iVDX">Moral of the Story</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Watsky</span>
-    <br><span style="font-size: 12px; color: #666;">Cardboard Castles (2013)</span>
   </td>
 </tr>
 <tr>
