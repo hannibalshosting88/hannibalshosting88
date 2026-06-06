@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/47s93EjPNFI81MpoGN7C2h">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b3819d044ad981ffae5dd2b8" width="96" height="96" alt="Seven Bridges Road" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/47s93EjPNFI81MpoGN7C2h">Seven Bridges Road</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Wilder Blue, Luke Combs</span>
-    <br><span style="font-size: 12px; color: #666;">Seven Bridges Road (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
