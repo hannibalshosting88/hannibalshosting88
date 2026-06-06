@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735a8b060d4a4afbca78022fc8" width="180" height="180" alt="Results May Vary" />
+<a href="https://open.spotify.com/track/0aGQHMr7bc23Y9Ts84ffop">
+  <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" width="180" height="180" alt="Californication (Deluxe Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj">Behind Blue Eyes</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0aGQHMr7bc23Y9Ts84ffop">Around the World</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Limp Bizkit</span><br><span style="font-size: 12px; color: #666;">Results May Vary (2003)</span>
+<span style="font-size: 13px; color: #666;">Red Hot Chili Peppers</span><br><span style="font-size: 12px; color: #666;">Californication (Deluxe Edition) (1999)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735a8b060d4a4afbca78022fc8" width="96" height="96" alt="Results May Vary" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj">Behind Blue Eyes</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Limp Bizkit</span>
+    <br><span style="font-size: 12px; color: #666;">Results May Vary (2003)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">My Chemical Romance</span>
     <br><span style="font-size: 12px; color: #666;">The Black Parade (2006)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" width="96" height="96" alt="Millennium" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T">Show Me the Meaning of Being Lonely</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Backstreet Boys</span>
-    <br><span style="font-size: 12px; color: #666;">Millennium (1999)</span>
   </td>
 </tr>
 <tr>
