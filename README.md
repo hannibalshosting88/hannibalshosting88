@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="180" height="180" alt="Times Square" />
+<a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="180" height="180" alt="Palm Trees and Power Lines" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don&#39;t Wait</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
+<span style="font-size: 13px; color: #666;">Sugarcult</span><br><span style="font-size: 12px; color: #666;">Palm Trees and Power Lines (2004)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="96" height="96" alt="Times Square" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don&#39;t Wait</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thundersmack</span>
+    <br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Foo Fighters</span>
     <br><span style="font-size: 12px; color: #666;">There Is Nothing Left To Lose (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP">
-      <img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" width="96" height="96" alt="Man On The Moon II: The Legend Of Mr. Rager" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP">Erase Me - Main</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kid Cudi, Kanye West</span>
-    <br><span style="font-size: 12px; color: #666;">Man On The Moon II: The Legend Of Mr. Rager (2010)</span>
   </td>
 </tr>
 <tr>
