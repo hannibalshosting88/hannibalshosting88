@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt">
-      <img src="https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef" width="96" height="96" alt="The Getaway" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt">Dark Necessities</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Red Hot Chili Peppers</span>
-    <br><span style="font-size: 12px; color: #666;">The Getaway (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
