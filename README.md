@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ced01b7001a88f0784e7f74f" width="180" height="180" alt="Gangster Sh**" />
+<a href="https://open.spotify.com/track/32RRGRH38k9vgBdAXCTAB7">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="180" height="180" alt="Brasshopper" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">Gangster Sh**</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/32RRGRH38k9vgBdAXCTAB7">Got the Funk</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Pete &amp; Bas</span><br><span style="font-size: 12px; color: #666;">Gangster Sh** (2023)</span>
+<span style="font-size: 13px; color: #666;">Broken Brass</span><br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ced01b7001a88f0784e7f74f" width="96" height="96" alt="Gangster Sh**" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">Gangster Sh**</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Pete &amp; Bas</span>
+    <br><span style="font-size: 12px; color: #666;">Gangster Sh** (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Two Feet</span>
     <br><span style="font-size: 12px; color: #666;">Love Is a Bitch (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cf765b975a3c64713fbf2176" width="96" height="96" alt="Different Man" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8">Thank God</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kane Brown, Katelyn Brown</span>
-    <br><span style="font-size: 12px; color: #666;">Different Man (2022)</span>
   </td>
 </tr>
 <tr>
