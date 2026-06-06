@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3AMFDhgJx5sIYw1ukbiEk4">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a0b15b70a430317b711d0e2e" width="180" height="180" alt="Greatest Hits" />
+<a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="180" height="180" alt="Love Is a Bitch" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3AMFDhgJx5sIYw1ukbiEk4">Do You Feel Like We Do</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Peter Frampton</span><br><span style="font-size: 12px; color: #666;">Greatest Hits (1996)</span>
+<span style="font-size: 13px; color: #666;">Two Feet</span><br><span style="font-size: 12px; color: #666;">Love Is a Bitch (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3AMFDhgJx5sIYw1ukbiEk4">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a0b15b70a430317b711d0e2e" width="96" height="96" alt="Greatest Hits" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3AMFDhgJx5sIYw1ukbiEk4">Do You Feel Like We Do</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Peter Frampton</span>
+    <br><span style="font-size: 12px; color: #666;">Greatest Hits (1996)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Metallica</span>
     <br><span style="font-size: 12px; color: #666;">Death Magnetic (2008)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c" width="96" height="96" alt="Palm Trees and Power Lines" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J">Memory</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Sugarcult</span>
-    <br><span style="font-size: 12px; color: #666;">Palm Trees and Power Lines (2004)</span>
   </td>
 </tr>
 <tr>
