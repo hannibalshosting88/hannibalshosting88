@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4ZuNyr0qk8gckL98Oee0ld">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fe6eb88d83c8d7e6c70d0381" width="180" height="180" alt="Glory for Salvation" />
+<a href="https://open.spotify.com/track/5efydZMkYiKSdRnvjCtTqo">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a301556ae9251d48983709c4" width="180" height="180" alt="Symphony of Enchanted Lands" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4ZuNyr0qk8gckL98Oee0ld">Chains of Destiny</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5efydZMkYiKSdRnvjCtTqo">Emerald Sword</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Rhapsody Of Fire</span><br><span style="font-size: 12px; color: #666;">Glory for Salvation (2021)</span>
+<span style="font-size: 13px; color: #666;">Rhapsody</span><br><span style="font-size: 12px; color: #666;">Symphony of Enchanted Lands (1998)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4ZuNyr0qk8gckL98Oee0ld">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fe6eb88d83c8d7e6c70d0381" width="96" height="96" alt="Glory for Salvation" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4ZuNyr0qk8gckL98Oee0ld">Chains of Destiny</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Rhapsody Of Fire</span>
+    <br><span style="font-size: 12px; color: #666;">Glory for Salvation (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
