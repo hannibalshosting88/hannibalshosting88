@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt">
-  <img src="https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef" width="180" height="180" alt="The Getaway" />
+<a href="https://open.spotify.com/track/5scSQflwXhtc2lbyOlGA3s">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f5ee979efe6166b3b1dfdd5c" width="180" height="180" alt="Scornful Woman" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt">Dark Necessities</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5scSQflwXhtc2lbyOlGA3s">Scornful Woman</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Red Hot Chili Peppers</span><br><span style="font-size: 12px; color: #666;">The Getaway (2016)</span>
+<span style="font-size: 13px; color: #666;">Oliver Anthony Music</span><br><span style="font-size: 12px; color: #666;">Scornful Woman (2025)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt">
+      <img src="https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef" width="96" height="96" alt="The Getaway" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt">Dark Necessities</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Red Hot Chili Peppers</span>
+    <br><span style="font-size: 12px; color: #666;">The Getaway (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
