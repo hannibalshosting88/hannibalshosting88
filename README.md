@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5efydZMkYiKSdRnvjCtTqo">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a301556ae9251d48983709c4" width="96" height="96" alt="Symphony of Enchanted Lands" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5efydZMkYiKSdRnvjCtTqo">Emerald Sword</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Rhapsody</span>
-    <br><span style="font-size: 12px; color: #666;">Symphony of Enchanted Lands (1998)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
