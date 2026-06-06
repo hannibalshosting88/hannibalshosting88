@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5efydZMkYiKSdRnvjCtTqo">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a301556ae9251d48983709c4" width="180" height="180" alt="Symphony of Enchanted Lands" />
+<a href="https://open.spotify.com/track/5E5NiRzaBqpDCxsDiX8cji">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cc3b58e586dade3021b44e92" width="180" height="180" alt="Dawn of the Dragonstar" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5efydZMkYiKSdRnvjCtTqo">Emerald Sword</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5E5NiRzaBqpDCxsDiX8cji">Dawn of the Dragonstar</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Rhapsody</span><br><span style="font-size: 12px; color: #666;">Symphony of Enchanted Lands (1998)</span>
+<span style="font-size: 13px; color: #666;">Twilight Force</span><br><span style="font-size: 12px; color: #666;">Dawn of the Dragonstar (2019)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5efydZMkYiKSdRnvjCtTqo">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a301556ae9251d48983709c4" width="96" height="96" alt="Symphony of Enchanted Lands" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5efydZMkYiKSdRnvjCtTqo">Emerald Sword</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Rhapsody</span>
+    <br><span style="font-size: 12px; color: #666;">Symphony of Enchanted Lands (1998)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
