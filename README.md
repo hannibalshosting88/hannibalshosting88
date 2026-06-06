@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5W5riPbci6HLF2TkTd2VyA">
-  <img src="https://i.scdn.co/image/ab67616d0000b27311b32ec8f429d5bcfbc8bd21" width="180" height="180" alt="Legendary Years (Re-Recorded)" />
+<a href="https://open.spotify.com/track/5yKGD43Lxo76R7hPUEKmvr">
+  <img src="https://i.scdn.co/image/ab67616d0000b273dfd60a91b7c7b2689937ec56" width="180" height="180" alt="Power of the Dragonflame" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5W5riPbci6HLF2TkTd2VyA">Dawn of Victory - Re-Recorded</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5yKGD43Lxo76R7hPUEKmvr">Knightrider of Doom</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Rhapsody Of Fire</span><br><span style="font-size: 12px; color: #666;">Legendary Years (Re-Recorded) (2017)</span>
+<span style="font-size: 13px; color: #666;">Rhapsody</span><br><span style="font-size: 12px; color: #666;">Power of the Dragonflame (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5W5riPbci6HLF2TkTd2VyA">
+      <img src="https://i.scdn.co/image/ab67616d0000b27311b32ec8f429d5bcfbc8bd21" width="96" height="96" alt="Legendary Years (Re-Recorded)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5W5riPbci6HLF2TkTd2VyA">Dawn of Victory - Re-Recorded</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Rhapsody Of Fire</span>
+    <br><span style="font-size: 12px; color: #666;">Legendary Years (Re-Recorded) (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
