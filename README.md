@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713" width="96" height="96" alt="Blurred Lines (Deluxe)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb">Blurred Lines</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Robin Thicke, T.I., Pharrell Williams</span>
-    <br><span style="font-size: 12px; color: #666;">Blurred Lines (Deluxe) (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
