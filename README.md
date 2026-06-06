@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735b1eac369bd5ee7d04574cdf" width="180" height="180" alt="Pecos &amp; the Rooftops" />
+<a href="https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a761e55b720a0778f2170dc9" width="180" height="180" alt="WAP (feat. Megan Thee Stallion)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih">WAP (feat. Megan Thee Stallion)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Pecos &amp; the Rooftops</span><br><span style="font-size: 12px; color: #666;">2023</span>
+<span style="font-size: 13px; color: #666;">Cardi B, Megan Thee Stallion</span><br><span style="font-size: 12px; color: #666;">WAP (feat. Megan Thee Stallion) (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735b1eac369bd5ee7d04574cdf" width="96" height="96" alt="Pecos &amp; the Rooftops" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb">This Damn Song</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Pecos &amp; the Rooftops</span>
+    <br><span style="font-size: 12px; color: #666;">2023</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
