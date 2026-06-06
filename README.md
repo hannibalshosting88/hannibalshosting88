@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735a8b060d4a4afbca78022fc8" width="96" height="96" alt="Results May Vary" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj">Behind Blue Eyes</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Limp Bizkit</span>
-    <br><span style="font-size: 12px; color: #666;">Results May Vary (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
