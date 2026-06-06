@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE">
-  <img src="https://i.scdn.co/image/ab67616d0000b27380c64a084164867806ea617a" width="180" height="180" alt="I Am Not A Human Being II (Deluxe)" />
+<a href="https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" width="180" height="180" alt="PTX" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE">Rich As Fuck</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1">Radioactive</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lil Wayne, 2 Chainz</span><br><span style="font-size: 12px; color: #666;">I Am Not A Human Being II (Deluxe) (2013)</span>
+<span style="font-size: 13px; color: #666;">Pentatonix, Lindsey Stirling</span><br><span style="font-size: 12px; color: #666;">PTX (2014)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE">
+      <img src="https://i.scdn.co/image/ab67616d0000b27380c64a084164867806ea617a" width="96" height="96" alt="I Am Not A Human Being II (Deluxe)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE">Rich As Fuck</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lil Wayne, 2 Chainz</span>
+    <br><span style="font-size: 12px; color: #666;">I Am Not A Human Being II (Deluxe) (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
