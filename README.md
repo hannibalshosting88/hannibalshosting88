@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734598988646356555fd93a33d" width="180" height="180" alt="Professional Rapper" />
+<a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ced01b7001a88f0784e7f74f" width="180" height="180" alt="Gangster Sh**" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX">$ave Dat Money (feat. Fetty Wap &amp; Rich Homie Quan)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6l8SHWQgXeazzwSbwjKECh">Gangster Sh**</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lil Dicky, Fetty Wap, Rich Homie Quan</span><br><span style="font-size: 12px; color: #666;">Professional Rapper (2015)</span>
+<span style="font-size: 13px; color: #666;">Pete &amp; Bas</span><br><span style="font-size: 12px; color: #666;">Gangster Sh** (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734598988646356555fd93a33d" width="96" height="96" alt="Professional Rapper" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX">$ave Dat Money (feat. Fetty Wap &amp; Rich Homie Quan)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lil Dicky, Fetty Wap, Rich Homie Quan</span>
+    <br><span style="font-size: 12px; color: #666;">Professional Rapper (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
