@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5scSQflwXhtc2lbyOlGA3s">
-      <img src="https://i.scdn.co/image/ab67616d0000b27350ca1d43c778ca1de9e99979" width="96" height="96" alt="Scornful Woman" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5scSQflwXhtc2lbyOlGA3s">Scornful Woman</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Oliver Anthony Music</span>
-    <br><span style="font-size: 12px; color: #666;">Scornful Woman (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
