@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c" width="180" height="180" alt="Mouth To Mouth" />
+<a href="https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1">
+  <img src="https://i.scdn.co/image/ab67616d0000b273aa119fab1d342e3a7e4ddb2c" width="180" height="180" alt="Snap Yo Fingers - Single" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP">Funkytown</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1">Snap Yo Fingers</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lipps Inc.</span><br><span style="font-size: 12px; color: #666;">Mouth To Mouth (1979)</span>
+<span style="font-size: 13px; color: #666;">Lil Jon, E-40, Sean Paul</span><br><span style="font-size: 12px; color: #666;">Snap Yo Fingers - Single (2006)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c" width="96" height="96" alt="Mouth To Mouth" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP">Funkytown</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lipps Inc.</span>
+    <br><span style="font-size: 12px; color: #666;">Mouth To Mouth (1979)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Fall Out Boy</span>
     <br><span style="font-size: 12px; color: #666;">American Beauty/American Psycho (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dafd4b9261a1ab9acd53a53d" width="96" height="96" alt="Backstreet Boys" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy">As Long as You Love Me</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Backstreet Boys</span>
-    <br><span style="font-size: 12px; color: #666;">1996</span>
   </td>
 </tr>
 <tr>
