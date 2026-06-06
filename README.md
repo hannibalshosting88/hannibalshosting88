@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5yKGD43Lxo76R7hPUEKmvr">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dfd60a91b7c7b2689937ec56" width="96" height="96" alt="Power of the Dragonflame" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5yKGD43Lxo76R7hPUEKmvr">Knightrider of Doom</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Rhapsody</span>
-    <br><span style="font-size: 12px; color: #666;">Power of the Dragonflame (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
