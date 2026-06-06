@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4HH8e9Jct9W9Eq49s7o5Hb">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cc3b58e586dade3021b44e92" width="180" height="180" alt="Dawn of the Dragonstar" />
+<a href="https://open.spotify.com/track/2AQPuZzaegH8a65SWyq3YA">
+  <img src="https://i.scdn.co/image/ab67616d0000b27310e1b565b64bc65c6db028f4" width="180" height="180" alt="Karma" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4HH8e9Jct9W9Eq49s7o5Hb">Valley of the Vale</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2AQPuZzaegH8a65SWyq3YA">Forever</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Twilight Force</span><br><span style="font-size: 12px; color: #666;">Dawn of the Dragonstar (2019)</span>
+<span style="font-size: 13px; color: #666;">Kamelot</span><br><span style="font-size: 12px; color: #666;">Karma (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4HH8e9Jct9W9Eq49s7o5Hb">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cc3b58e586dade3021b44e92" width="96" height="96" alt="Dawn of the Dragonstar" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4HH8e9Jct9W9Eq49s7o5Hb">Valley of the Vale</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Twilight Force</span>
+    <br><span style="font-size: 12px; color: #666;">Dawn of the Dragonstar (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
