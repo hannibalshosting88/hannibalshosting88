@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="180" height="180" alt="Love Is a Bitch" />
+<a href="https://open.spotify.com/track/6DzJEJWgB01jimMAemKxfn">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e61b7557ae9fde3f23f5efa9" width="180" height="180" alt="Valley of the Damned (2010 Remastered Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6DzJEJWgB01jimMAemKxfn">Valley of the Damned - 2010 Remastered Edition</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Two Feet</span><br><span style="font-size: 12px; color: #666;">Love Is a Bitch (2017)</span>
+<span style="font-size: 13px; color: #666;">DragonForce</span><br><span style="font-size: 12px; color: #666;">Valley of the Damned (2010 Remastered Edition) (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="96" height="96" alt="Love Is a Bitch" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Two Feet</span>
+    <br><span style="font-size: 12px; color: #666;">Love Is a Bitch (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">David Kincaid</span>
     <br><span style="font-size: 12px; color: #666;">The Irish Volunteer (1998)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="96" height="96" alt="Death Magnetic" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Metallica</span>
-    <br><span style="font-size: 12px; color: #666;">Death Magnetic (2008)</span>
   </td>
 </tr>
 <tr>
