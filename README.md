@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734bc377c41ab14f2ffa219ea1" width="180" height="180" alt="The Irish Volunteer" />
+<a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bf963a1df6bb4cbcf14f21d3" width="180" height="180" alt="Cherry Bop" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd">The Irish Volunteer</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6Qa3kBezQbRFGV1Y8uFgW0">Cherry Bop</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">David Kincaid</span><br><span style="font-size: 12px; color: #666;">The Irish Volunteer (1998)</span>
+<span style="font-size: 13px; color: #666;">Thundersmack, Chad Lefkowitz-Brown</span><br><span style="font-size: 12px; color: #666;">Cherry Bop (2021)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734bc377c41ab14f2ffa219ea1" width="96" height="96" alt="The Irish Volunteer" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd">The Irish Volunteer</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">David Kincaid</span>
+    <br><span style="font-size: 12px; color: #666;">The Irish Volunteer (1998)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Pecos &amp; the Rooftops</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="96" height="96" alt="The Essential Incubus" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">Black Heart Inertia</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Incubus</span>
-    <br><span style="font-size: 12px; color: #666;">The Essential Incubus (2012)</span>
   </td>
 </tr>
 <tr>
