@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv">
-      <img src="https://i.scdn.co/image/ab67616d0000b273299e0c5e98f5c703d7e1b51a" width="96" height="96" alt="Tales from the Kingdom of Fife" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv">Angus Mcfife</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Gloryhammer</span>
-    <br><span style="font-size: 12px; color: #666;">Tales from the Kingdom of Fife (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
