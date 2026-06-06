@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4qgDlkfqsbZ0q5tOSp0nqE">
-  <img src="https://i.scdn.co/image/ab67616d0000b27371c61b61aa036f609eb18554" width="180" height="180" alt="Valkyrja" />
+<a href="https://open.spotify.com/track/76jaUC95i1VXRmgVHY9Lh3">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f06426a52b4ced89b3d25609" width="180" height="180" alt="Chapters from a Vale Forlorn" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4qgDlkfqsbZ0q5tOSp0nqE">Blood of Heroes</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/76jaUC95i1VXRmgVHY9Lh3">The Clarion Call</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Týr</span><br><span style="font-size: 12px; color: #666;">Valkyrja (2013)</span>
+<span style="font-size: 13px; color: #666;">Falconer</span><br><span style="font-size: 12px; color: #666;">Chapters from a Vale Forlorn (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4qgDlkfqsbZ0q5tOSp0nqE">
+      <img src="https://i.scdn.co/image/ab67616d0000b27371c61b61aa036f609eb18554" width="96" height="96" alt="Valkyrja" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4qgDlkfqsbZ0q5tOSp0nqE">Blood of Heroes</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Týr</span>
+    <br><span style="font-size: 12px; color: #666;">Valkyrja (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Alestorm</span>
     <br><span style="font-size: 12px; color: #666;">Black Sails at Midnight (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0XZKzRSvXLqLHT8AVfhZmE">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a423059b8672af1e9685fe16" width="96" height="96" alt="The Architect" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0XZKzRSvXLqLHT8AVfhZmE">Stop Saying We Sound Like Dragonforce</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Fraser Edwards</span>
-    <br><span style="font-size: 12px; color: #666;">The Architect (2020)</span>
   </td>
 </tr>
 <tr>
