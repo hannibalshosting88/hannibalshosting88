@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1FhkCgWeAACBzAeuHqpSbL">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cff130b5b3683e97bfc84cee" width="96" height="96" alt="Prophet of the Last Eclipse" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1FhkCgWeAACBzAeuHqpSbL">War of the Universe</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Luca Turilli (Band)</span>
-    <br><span style="font-size: 12px; color: #666;">Prophet of the Last Eclipse (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
