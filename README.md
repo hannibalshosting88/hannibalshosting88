@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4SP9crxTnfhTUIabkFM01a">
-  <img src="https://i.scdn.co/image/ab67616d0000b27320afaba7b49a3848c4d15004" width="180" height="180" alt="Franks Wild Years" />
+<a href="https://open.spotify.com/track/2kh0u2d2YKQ7BCqeLPdHk6">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736c52084ed1f1748f213783b3" width="180" height="180" alt="There Is Nothing Left To Lose" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4SP9crxTnfhTUIabkFM01a">Way Down In The Hole - 2023 Remaster</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2kh0u2d2YKQ7BCqeLPdHk6">Breakout</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Tom Waits</span><br><span style="font-size: 12px; color: #666;">Franks Wild Years (1987)</span>
+<span style="font-size: 13px; color: #666;">Foo Fighters</span><br><span style="font-size: 12px; color: #666;">There Is Nothing Left To Lose (1999)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4SP9crxTnfhTUIabkFM01a">
+      <img src="https://i.scdn.co/image/ab67616d0000b27320afaba7b49a3848c4d15004" width="96" height="96" alt="Franks Wild Years" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4SP9crxTnfhTUIabkFM01a">Way Down In The Hole - 2023 Remaster</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Tom Waits</span>
+    <br><span style="font-size: 12px; color: #666;">Franks Wild Years (1987)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
     <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1GntyY59f0uKNoOCqe1kcS">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="96" height="96" alt="Wolfenstein: The New Order Original Game Soundtrack" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1GntyY59f0uKNoOCqe1kcS">Herr Faust</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Mick Gordon, Fredrik Thordendal</span>
-    <br><span style="font-size: 12px; color: #666;">Wolfenstein: The New Order Original Game Soundtrack (2014)</span>
   </td>
 </tr>
 <tr>
