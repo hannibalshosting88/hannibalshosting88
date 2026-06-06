@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1">
-  <img src="https://i.scdn.co/image/ab67616d0000b273aa119fab1d342e3a7e4ddb2c" width="180" height="180" alt="Snap Yo Fingers - Single" />
+<a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fa78c40c54908ff02f878779" width="180" height="180" alt="Pimpin&#39; Benjamin" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1">Snap Yo Fingers</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">Pimpin&#39; Benjamin</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lil Jon, E-40, Sean Paul</span><br><span style="font-size: 12px; color: #666;">Snap Yo Fingers - Single (2006)</span>
+<span style="font-size: 13px; color: #666;">Coast Contra</span><br><span style="font-size: 12px; color: #666;">Pimpin&#39; Benjamin (2021)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aa119fab1d342e3a7e4ddb2c" width="96" height="96" alt="Snap Yo Fingers - Single" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1">Snap Yo Fingers</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lil Jon, E-40, Sean Paul</span>
+    <br><span style="font-size: 12px; color: #666;">Snap Yo Fingers - Single (2006)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Thundersmack</span>
     <br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" width="96" height="96" alt="American Beauty/American Psycho" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr">Uma Thurman</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Fall Out Boy</span>
-    <br><span style="font-size: 12px; color: #666;">American Beauty/American Psycho (2015)</span>
   </td>
 </tr>
 <tr>
