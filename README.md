@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5S1nuT7jdtNbZ2elc99Dqx">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cff130b5b3683e97bfc84cee" width="180" height="180" alt="Prophet of the Last Eclipse" />
+<a href="https://open.spotify.com/track/735TrGBdltkavYRHQ82L1P">
+  <img src="https://i.scdn.co/image/ab67616d0000b273600a2005bab87d9685cf1e8d" width="180" height="180" alt="Space 1992: Rise of the Chaos Wizards (Deluxe Version)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5S1nuT7jdtNbZ2elc99Dqx">Demonheart</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/735TrGBdltkavYRHQ82L1P">Rise of the Chaos Wizards</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Luca Turilli (Band)</span><br><span style="font-size: 12px; color: #666;">Prophet of the Last Eclipse (2002)</span>
+<span style="font-size: 13px; color: #666;">Gloryhammer</span><br><span style="font-size: 12px; color: #666;">Space 1992: Rise of the Chaos Wizards (Deluxe Version) (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5S1nuT7jdtNbZ2elc99Dqx">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cff130b5b3683e97bfc84cee" width="96" height="96" alt="Prophet of the Last Eclipse" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5S1nuT7jdtNbZ2elc99Dqx">Demonheart</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Luca Turilli (Band)</span>
+    <br><span style="font-size: 12px; color: #666;">Prophet of the Last Eclipse (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
