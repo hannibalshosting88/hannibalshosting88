@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="96" height="96" alt="Rich Men North of Richmond" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Oliver Anthony Music</span>
-    <br><span style="font-size: 12px; color: #666;">Rich Men North of Richmond (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
