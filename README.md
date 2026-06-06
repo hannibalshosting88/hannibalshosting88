@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7wWr0mCS2rp1e0IWgyl9Fh">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f884eba13ce42428430b6663" width="180" height="180" alt="Extreme Power Metal" />
+<a href="https://open.spotify.com/track/5W5riPbci6HLF2TkTd2VyA">
+  <img src="https://i.scdn.co/image/ab67616d0000b27311b32ec8f429d5bcfbc8bd21" width="180" height="180" alt="Legendary Years (Re-Recorded)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7wWr0mCS2rp1e0IWgyl9Fh">Strangers</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5W5riPbci6HLF2TkTd2VyA">Dawn of Victory - Re-Recorded</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">DragonForce</span><br><span style="font-size: 12px; color: #666;">Extreme Power Metal (2019)</span>
+<span style="font-size: 13px; color: #666;">Rhapsody Of Fire</span><br><span style="font-size: 12px; color: #666;">Legendary Years (Re-Recorded) (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7wWr0mCS2rp1e0IWgyl9Fh">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f884eba13ce42428430b6663" width="96" height="96" alt="Extreme Power Metal" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7wWr0mCS2rp1e0IWgyl9Fh">Strangers</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">DragonForce</span>
+    <br><span style="font-size: 12px; color: #666;">Extreme Power Metal (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
