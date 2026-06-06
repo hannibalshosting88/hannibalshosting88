@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0" width="180" height="180" alt="Ten" />
+<a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">
+  <img src="https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d" width="180" height="180" alt="Infinity On High" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Pearl Jam</span><br><span style="font-size: 12px; color: #666;">Ten (1991)</span>
+<span style="font-size: 13px; color: #666;">Fall Out Boy</span><br><span style="font-size: 12px; color: #666;">Infinity On High (2007)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0" width="96" height="96" alt="Ten" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Pearl Jam</span>
+    <br><span style="font-size: 12px; color: #666;">Ten (1991)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -167,40 +184,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Mick Gordon, Fredrik Thordendal</span>
     <br><span style="font-size: 12px; color: #666;">Wolfenstein: The New Order Original Game Soundtrack (2014)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8" width="96" height="96" alt="In The Groove" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw">I Heard It Through The Grapevine</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Marvin Gaye</span>
-    <br><span style="font-size: 12px; color: #666;">In The Groove (1968)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt">
-      <img src="https://i.scdn.co/image/ab67616d0000b27358aafbee8d662b660081bc90" width="96" height="96" alt="Big Baby DRAM (Deluxe Version)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7v8WAn8jCdHiNhQMdnY1bt">Broccoli (feat. Lil Yachty)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">DRAM, Lil Yachty</span>
-    <br><span style="font-size: 12px; color: #666;">Big Baby DRAM (Deluxe Version) (2016)</span>
   </td>
 </tr>
 <tr>
