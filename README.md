@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c" width="96" height="96" alt="Mouth To Mouth" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP">Funkytown</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lipps Inc.</span>
-    <br><span style="font-size: 12px; color: #666;">Mouth To Mouth (1979)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
