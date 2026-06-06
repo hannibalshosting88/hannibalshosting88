@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5E5NiRzaBqpDCxsDiX8cji">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cc3b58e586dade3021b44e92" width="180" height="180" alt="Dawn of the Dragonstar" />
+<a href="https://open.spotify.com/track/1WioQWthSxR9RgaA2dRH4y">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737acd9c5ab79c819f48701710" width="180" height="180" alt="Anima Mundi" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5E5NiRzaBqpDCxsDiX8cji">Dawn of the Dragonstar</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1WioQWthSxR9RgaA2dRH4y">Anima Mundi</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Twilight Force</span><br><span style="font-size: 12px; color: #666;">Dawn of the Dragonstar (2019)</span>
+<span style="font-size: 13px; color: #666;">Dionysus</span><br><span style="font-size: 12px; color: #666;">Anima Mundi (2004)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5E5NiRzaBqpDCxsDiX8cji">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cc3b58e586dade3021b44e92" width="96" height="96" alt="Dawn of the Dragonstar" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5E5NiRzaBqpDCxsDiX8cji">Dawn of the Dragonstar</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Twilight Force</span>
+    <br><span style="font-size: 12px; color: #666;">Dawn of the Dragonstar (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
