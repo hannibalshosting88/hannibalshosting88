@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2FBmddNjVLziN4AxfUmdQe">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d188e7dcd58eb10cf49a9f57" width="180" height="180" alt="Black Sails at Midnight" />
+<a href="https://open.spotify.com/track/5tFXlskOVOGqTZousZsgh0">
+  <img src="https://i.scdn.co/image/ab67616d0000b27385a27fe816871aadc7ae9990" width="180" height="180" alt="Knightfall" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2FBmddNjVLziN4AxfUmdQe">Keelhauled</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5tFXlskOVOGqTZousZsgh0">Pumping Iron Power</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Alestorm</span><br><span style="font-size: 12px; color: #666;">Black Sails at Midnight (2009)</span>
+<span style="font-size: 13px; color: #666;">Grailknights</span><br><span style="font-size: 12px; color: #666;">Knightfall (2018)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2FBmddNjVLziN4AxfUmdQe">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d188e7dcd58eb10cf49a9f57" width="96" height="96" alt="Black Sails at Midnight" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2FBmddNjVLziN4AxfUmdQe">Keelhauled</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Alestorm</span>
+    <br><span style="font-size: 12px; color: #666;">Black Sails at Midnight (2009)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
