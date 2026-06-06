@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fa78c40c54908ff02f878779" width="180" height="180" alt="Pimpin&#39; Benjamin" />
+<a href="https://open.spotify.com/track/3AMFDhgJx5sIYw1ukbiEk4">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a0b15b70a430317b711d0e2e" width="180" height="180" alt="Greatest Hits" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">Pimpin&#39; Benjamin</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3AMFDhgJx5sIYw1ukbiEk4">Do You Feel Like We Do</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Coast Contra</span><br><span style="font-size: 12px; color: #666;">Pimpin&#39; Benjamin (2021)</span>
+<span style="font-size: 13px; color: #666;">Peter Frampton</span><br><span style="font-size: 12px; color: #666;">Greatest Hits (1996)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fa78c40c54908ff02f878779" width="96" height="96" alt="Pimpin&#39; Benjamin" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4z3hS7U4Nb2rsBQajShKgB">Pimpin&#39; Benjamin</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Coast Contra</span>
+    <br><span style="font-size: 12px; color: #666;">Pimpin&#39; Benjamin (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Sugarcult</span>
     <br><span style="font-size: 12px; color: #666;">Palm Trees and Power Lines (2004)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a42b5d83695f35ab34c1d76b" width="96" height="96" alt="Times Square" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/04pkXgSsGEOcj74P0zwbwI">Don&#39;t Wait</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Thundersmack</span>
-    <br><span style="font-size: 12px; color: #666;">Times Square (2023)</span>
   </td>
 </tr>
 <tr>
