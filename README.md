@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="180" height="180" alt="Death Magnetic" />
+<a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734bc377c41ab14f2ffa219ea1" width="180" height="180" alt="The Irish Volunteer" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5N7qskiLKyT8vHnTm3Emrd">The Irish Volunteer</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">Death Magnetic (2008)</span>
+<span style="font-size: 13px; color: #666;">David Kincaid</span><br><span style="font-size: 12px; color: #666;">The Irish Volunteer (1998)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dfe44d577f07e08564ec73ed" width="96" height="96" alt="Death Magnetic" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v">The Unforgiven III</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Metallica</span>
+    <br><span style="font-size: 12px; color: #666;">Death Magnetic (2008)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
