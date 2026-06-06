@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5scSQflwXhtc2lbyOlGA3s">
-  <img src="https://i.scdn.co/image/ab67616d0000b27350ca1d43c778ca1de9e99979" width="180" height="180" alt="Scornful Woman" />
+<a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734598988646356555fd93a33d" width="180" height="180" alt="Professional Rapper" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5scSQflwXhtc2lbyOlGA3s">Scornful Woman</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX">$ave Dat Money (feat. Fetty Wap &amp; Rich Homie Quan)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Oliver Anthony Music</span><br><span style="font-size: 12px; color: #666;">Scornful Woman (2025)</span>
+<span style="font-size: 13px; color: #666;">Lil Dicky, Fetty Wap, Rich Homie Quan</span><br><span style="font-size: 12px; color: #666;">Professional Rapper (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5scSQflwXhtc2lbyOlGA3s">
+      <img src="https://i.scdn.co/image/ab67616d0000b27350ca1d43c778ca1de9e99979" width="96" height="96" alt="Scornful Woman" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5scSQflwXhtc2lbyOlGA3s">Scornful Woman</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Oliver Anthony Music</span>
+    <br><span style="font-size: 12px; color: #666;">Scornful Woman (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
