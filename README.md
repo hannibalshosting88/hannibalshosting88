@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5tFXlskOVOGqTZousZsgh0">
-  <img src="https://i.scdn.co/image/ab67616d0000b27385a27fe816871aadc7ae9990" width="180" height="180" alt="Knightfall" />
+<a href="https://open.spotify.com/track/7wWr0mCS2rp1e0IWgyl9Fh">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f884eba13ce42428430b6663" width="180" height="180" alt="Extreme Power Metal" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5tFXlskOVOGqTZousZsgh0">Pumping Iron Power</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7wWr0mCS2rp1e0IWgyl9Fh">Strangers</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Grailknights</span><br><span style="font-size: 12px; color: #666;">Knightfall (2018)</span>
+<span style="font-size: 13px; color: #666;">DragonForce</span><br><span style="font-size: 12px; color: #666;">Extreme Power Metal (2019)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5tFXlskOVOGqTZousZsgh0">
+      <img src="https://i.scdn.co/image/ab67616d0000b27385a27fe816871aadc7ae9990" width="96" height="96" alt="Knightfall" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5tFXlskOVOGqTZousZsgh0">Pumping Iron Power</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Grailknights</span>
+    <br><span style="font-size: 12px; color: #666;">Knightfall (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">DragonForce</span>
     <br><span style="font-size: 12px; color: #666;">Valley of the Damned (2010 Remastered Edition) (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="96" height="96" alt="Love Is a Bitch" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Two Feet</span>
-    <br><span style="font-size: 12px; color: #666;">Love Is a Bitch (2017)</span>
   </td>
 </tr>
 <tr>
