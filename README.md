@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5E5NiRzaBqpDCxsDiX8cji">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cc3b58e586dade3021b44e92" width="96" height="96" alt="Dawn of the Dragonstar" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5E5NiRzaBqpDCxsDiX8cji">Dawn of the Dragonstar</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Twilight Force</span>
-    <br><span style="font-size: 12px; color: #666;">Dawn of the Dragonstar (2019)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
