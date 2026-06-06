@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="180" height="180" alt="Love Is a Bitch" />
+<a href="https://open.spotify.com/track/6DzJEJWgB01jimMAemKxfn">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e61b7557ae9fde3f23f5efa9" width="180" height="180" alt="Valley of the Damned (2010 Remastered Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6DzJEJWgB01jimMAemKxfn">Valley of the Damned - 2010 Remastered Edition</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Two Feet</span><br><span style="font-size: 12px; color: #666;">Love Is a Bitch (2017)</span>
+<span style="font-size: 13px; color: #666;">DragonForce</span><br><span style="font-size: 12px; color: #666;">Valley of the Damned (2010 Remastered Edition) (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b7ee50d904524efd47009114" width="96" height="96" alt="Love Is a Bitch" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4">Love Is a Bitch</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Two Feet</span>
+    <br><span style="font-size: 12px; color: #666;">Love Is a Bitch (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3N6NECW12VxcimEVSGgB5h">SCP 6173 - The Art - The Origin</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/7A7DlvhGTAFRX9wBjD71Mc">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7A7DlvhGTAFRX9wBjD71Mc">SCP 2609 - Traveling Lamp</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
