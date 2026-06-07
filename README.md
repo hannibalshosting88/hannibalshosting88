@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e7a3a891ae555b0a46a131ed" width="180" height="180" alt="OK ORCHESTRA" />
+<a href="https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw">
+  <img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="180" height="180" alt="Morning View" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d">Bang!</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw">Wish You Were Here</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">AJR</span><br><span style="font-size: 12px; color: #666;">OK ORCHESTRA (2021)</span>
+<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">Morning View (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e7a3a891ae555b0a46a131ed" width="96" height="96" alt="OK ORCHESTRA" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d">Bang!</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">AJR</span>
+    <br><span style="font-size: 12px; color: #666;">OK ORCHESTRA (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Kamelot</span>
     <br><span style="font-size: 12px; color: #666;">Karma (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4HH8e9Jct9W9Eq49s7o5Hb">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cc3b58e586dade3021b44e92" width="96" height="96" alt="Dawn of the Dragonstar" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4HH8e9Jct9W9Eq49s7o5Hb">Valley of the Vale</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Twilight Force</span>
-    <br><span style="font-size: 12px; color: #666;">Dawn of the Dragonstar (2019)</span>
   </td>
 </tr>
 <tr>
