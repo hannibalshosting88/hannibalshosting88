@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4ci0ad5k3oSn9iBVpy24lh">
-      <img src="https://i.scdn.co/image/ab67616d0000b27390b4cf8fa286aa50cebf2a4e" width="96" height="96" alt="x Infinity" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4ci0ad5k3oSn9iBVpy24lh">Pink Lemonade</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Watsky</span>
-    <br><span style="font-size: 12px; color: #666;">x Infinity (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
