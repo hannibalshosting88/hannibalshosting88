@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a14b08b9a6616e121df5e8b0" width="180" height="180" alt="Talking Book" />
+<a href="https://open.spotify.com/track/5dL0kSGq7V5QQVPac5AkTK">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="180" height="180" alt="The Rising Tied (Deluxe Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ">Superstition</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5dL0kSGq7V5QQVPac5AkTK">Right Now (feat. Black Thought &amp; Styles of Beyond)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Stevie Wonder</span><br><span style="font-size: 12px; color: #666;">Talking Book (1972)</span>
+<span style="font-size: 13px; color: #666;">Fort Minor, Black Thought, Styles Of Beyond</span><br><span style="font-size: 12px; color: #666;">The Rising Tied (Deluxe Edition) (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a14b08b9a6616e121df5e8b0" width="96" height="96" alt="Talking Book" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ">Superstition</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Stevie Wonder</span>
+    <br><span style="font-size: 12px; color: #666;">Talking Book (1972)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
