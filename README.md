@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="180" height="180" alt="The Click" />
+<a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737a015de3b0b7d1e3bf02a926" width="180" height="180" alt="Down3r" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">Weak</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/56urjuqz1NIOKhhCjQhVw0">Suga Boom Boom</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">AJR</span><br><span style="font-size: 12px; color: #666;">The Click (2017)</span>
+<span style="font-size: 13px; color: #666;">Down3r</span><br><span style="font-size: 12px; color: #666;">2016</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a81dc97f7119864c7437cb85" width="96" height="96" alt="The Click" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8">Weak</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">AJR</span>
+    <br><span style="font-size: 12px; color: #666;">The Click (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Watsky</span>
     <br><span style="font-size: 12px; color: #666;">x Infinity (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="96" height="96" alt="Meteora" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU">Faint</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Linkin Park</span>
-    <br><span style="font-size: 12px; color: #666;">Meteora (2003)</span>
   </td>
 </tr>
 <tr>
