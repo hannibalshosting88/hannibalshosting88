@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2AQPuZzaegH8a65SWyq3YA">
-      <img src="https://i.scdn.co/image/ab67616d0000b27310e1b565b64bc65c6db028f4" width="96" height="96" alt="Karma" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2AQPuZzaegH8a65SWyq3YA">Forever</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kamelot</span>
-    <br><span style="font-size: 12px; color: #666;">Karma (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
