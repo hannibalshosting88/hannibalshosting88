@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw">
-  <img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="180" height="180" alt="Morning View" />
+<a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f3d247f5bc7a34b1ae79a7ef" width="180" height="180" alt="Bass Sax Beats, Vol. 2" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw">Wish You Were Here</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2wYDTJ5AfC7MNboVvmyp1Y">LISA SIMPSON</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">Morning View (2001)</span>
+<span style="font-size: 13px; color: #666;">Michael Wilbur</span><br><span style="font-size: 12px; color: #666;">Bass Sax Beats, Vol. 2 (2021)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw">
+      <img src="https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926" width="96" height="96" alt="Morning View" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw">Wish You Were Here</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Incubus</span>
+    <br><span style="font-size: 12px; color: #666;">Morning View (2001)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
