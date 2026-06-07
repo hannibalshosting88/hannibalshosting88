@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">
-  <img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="180" height="180" alt="X-Men Theme" />
+<a href="https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737ae6f1296b466d3c34011cb8" width="180" height="180" alt="Comfort Eagle" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7">Short Skirt / Long Jacket</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Galactic Empire</span><br><span style="font-size: 12px; color: #666;">X-Men Theme (2024)</span>
+<span style="font-size: 13px; color: #666;">CAKE</span><br><span style="font-size: 12px; color: #666;">Comfort Eagle (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">
+      <img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="96" height="96" alt="X-Men Theme" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Galactic Empire</span>
+    <br><span style="font-size: 12px; color: #666;">X-Men Theme (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Good Charlotte</span>
     <br><span style="font-size: 12px; color: #666;">The Young and The Hopeless (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6JsO85gnoxfEDFkqGEbY5R">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6JsO85gnoxfEDFkqGEbY5R">SCP 3775 - A Wild Party</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
   </td>
 </tr>
 <tr>
