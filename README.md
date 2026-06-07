@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21" width="96" height="96" alt="Teatro d&#39;ira - Vol. I" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk">I WANNA BE YOUR SLAVE</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Måneskin</span>
-    <br><span style="font-size: 12px; color: #666;">Teatro d&#39;ira - Vol. I (2021)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
