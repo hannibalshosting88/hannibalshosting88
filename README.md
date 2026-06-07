@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/66kQ7wr4d2LwwSjr7HXcyr">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c1a0ccc389f263d63d39175f" width="180" height="180" alt="All The Stars (with SZA)" />
+<a href="https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733ab3ff3559d2664560e1fdb4" width="180" height="180" alt="A Fever You Can&#39;t Sweat Out" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/66kQ7wr4d2LwwSjr7HXcyr">All The Stars (with SZA) - From &quot;Black Panther: The Album&quot;</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du">I Write Sins Not Tragedies</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kendrick Lamar, SZA</span><br><span style="font-size: 12px; color: #666;">All The Stars (with SZA) (2018)</span>
+<span style="font-size: 13px; color: #666;">Panic! At The Disco</span><br><span style="font-size: 12px; color: #666;">A Fever You Can&#39;t Sweat Out (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/66kQ7wr4d2LwwSjr7HXcyr">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c1a0ccc389f263d63d39175f" width="96" height="96" alt="All The Stars (with SZA)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/66kQ7wr4d2LwwSjr7HXcyr">All The Stars (with SZA) - From &quot;Black Panther: The Album&quot;</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kendrick Lamar, SZA</span>
+    <br><span style="font-size: 12px; color: #666;">All The Stars (with SZA) (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
