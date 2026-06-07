@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" width="180" height="180" alt="Wild Cherry" />
+<a href="https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738c5b6f7dcdc5817dc5050b2a" width="180" height="180" alt="Born To Run" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl">Play That Funky Music</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s">Born to Run</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Wild Cherry</span><br><span style="font-size: 12px; color: #666;">1976</span>
+<span style="font-size: 13px; color: #666;">Bruce Springsteen</span><br><span style="font-size: 12px; color: #666;">Born To Run (1975)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" width="96" height="96" alt="Wild Cherry" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl">Play That Funky Music</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Wild Cherry</span>
+    <br><span style="font-size: 12px; color: #666;">1976</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
