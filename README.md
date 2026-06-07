@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5dL0kSGq7V5QQVPac5AkTK">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="180" height="180" alt="The Rising Tied (Deluxe Edition)" />
+<a href="https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" width="180" height="180" alt="Wild Cherry" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5dL0kSGq7V5QQVPac5AkTK">Right Now (feat. Black Thought &amp; Styles of Beyond)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl">Play That Funky Music</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Fort Minor, Black Thought, Styles Of Beyond</span><br><span style="font-size: 12px; color: #666;">The Rising Tied (Deluxe Edition) (2005)</span>
+<span style="font-size: 13px; color: #666;">Wild Cherry</span><br><span style="font-size: 12px; color: #666;">1976</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5dL0kSGq7V5QQVPac5AkTK">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491" width="96" height="96" alt="The Rising Tied (Deluxe Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5dL0kSGq7V5QQVPac5AkTK">Right Now (feat. Black Thought &amp; Styles of Beyond)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Fort Minor, Black Thought, Styles Of Beyond</span>
+    <br><span style="font-size: 12px; color: #666;">The Rising Tied (Deluxe Edition) (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
