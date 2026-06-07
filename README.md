@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/76jaUC95i1VXRmgVHY9Lh3">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f06426a52b4ced89b3d25609" width="96" height="96" alt="Chapters from a Vale Forlorn" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/76jaUC95i1VXRmgVHY9Lh3">The Clarion Call</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Falconer</span>
-    <br><span style="font-size: 12px; color: #666;">Chapters from a Vale Forlorn (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
