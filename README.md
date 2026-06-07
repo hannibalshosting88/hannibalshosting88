@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/66kQ7wr4d2LwwSjr7HXcyr">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c1a0ccc389f263d63d39175f" width="96" height="96" alt="All The Stars (with SZA)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/66kQ7wr4d2LwwSjr7HXcyr">All The Stars (with SZA) - From &quot;Black Panther: The Album&quot;</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kendrick Lamar, SZA</span>
-    <br><span style="font-size: 12px; color: #666;">All The Stars (with SZA) (2018)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
