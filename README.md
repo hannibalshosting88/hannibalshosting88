@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">
-      <img src="https://i.scdn.co/image/ab67616d0000b27333c629b1e16a4a0f54eda664" width="96" height="96" alt="X-Men Theme" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2JoXXDtjT29UmGH5xeG8Pe">X-Men Theme</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Galactic Empire</span>
-    <br><span style="font-size: 12px; color: #666;">X-Men Theme (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
