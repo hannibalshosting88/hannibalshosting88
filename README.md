@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737ae6f1296b466d3c34011cb8" width="96" height="96" alt="Comfort Eagle" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7">Short Skirt / Long Jacket</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">CAKE</span>
-    <br><span style="font-size: 12px; color: #666;">Comfort Eagle (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
