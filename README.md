@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5uVPusxasdyv3Mwf3m6zAF">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="96" height="96" alt="Cyberpunk 2077 - Original Score" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5uVPusxasdyv3Mwf3m6zAF">Patri(di)ots</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Marcin Przybyłowicz</span>
-    <br><span style="font-size: 12px; color: #666;">Cyberpunk 2077 - Original Score (2020)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
