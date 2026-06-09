@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732c47358ef6dcdce4acc82159" width="180" height="180" alt="Monstercat 012 - Aftermath" />
+<a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">
+  <img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="180" height="180" alt="Freddie&#39;s Inferno" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi">Flight</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">Wrath</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Tristam, Braken</span><br><span style="font-size: 12px; color: #666;">Monstercat 012 - Aftermath (2013)</span>
+<span style="font-size: 13px; color: #666;">Freddie Dredd</span><br><span style="font-size: 12px; color: #666;">Freddie&#39;s Inferno (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732c47358ef6dcdce4acc82159" width="96" height="96" alt="Monstercat 012 - Aftermath" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi">Flight</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Tristam, Braken</span>
+    <br><span style="font-size: 12px; color: #666;">Monstercat 012 - Aftermath (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2KregxaBHHCTfnvhxhzTug">SCP-7819 │ no vacancy │ Keter/Uncontained │ Liminal / Spatial SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/122kraSXeTA4CAiQQOKVay">
-      <img src="https://i.scdn.co/image/ab6765630000ba8aefe03027a14832f8ff2bebb0" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/122kraSXeTA4CAiQQOKVay">SCP-3004 │ Imago │ Keter │ K-Class Scenario SCP</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
     <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
