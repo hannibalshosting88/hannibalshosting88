@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739d5a0cd0febc79b9f85da6fc" width="96" height="96" alt="Never Freestyle" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3">Never Freestyle</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Coast Contra</span>
-    <br><span style="font-size: 12px; color: #666;">Never Freestyle (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
