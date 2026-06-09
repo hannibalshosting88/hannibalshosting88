@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="180" height="180" alt="Sublime" />
+<a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO">
+  <img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="180" height="180" alt="The Audacity! (Deluxe Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF">What I Got</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO">Gee Willikers</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Sublime</span><br><span style="font-size: 12px; color: #666;">1996</span>
+<span style="font-size: 13px; color: #666;">Spose</span><br><span style="font-size: 12px; color: #666;">The Audacity! (Deluxe Edition) (2012)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="96" height="96" alt="Sublime" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF">What I Got</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Sublime</span>
+    <br><span style="font-size: 12px; color: #666;">1996</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
