@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3ZQsO0kHzczapEdCrEYG4f">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cdb80c1369f29d06b1101612" width="180" height="180" alt="This Is Not A Test" />
+<a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">
+  <img src="https://i.scdn.co/image/ab67616d0000b27304b1454aabded3ebe9cf3c01" width="180" height="180" alt="B-Sides and Rarities" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3ZQsO0kHzczapEdCrEYG4f">Backseat Driver</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">War Pigs</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">TobyMac, Hollyn, Tru</span><br><span style="font-size: 12px; color: #666;">This Is Not A Test (2015)</span>
+<span style="font-size: 13px; color: #666;">CAKE</span><br><span style="font-size: 12px; color: #666;">B-Sides and Rarities (2007)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3ZQsO0kHzczapEdCrEYG4f">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cdb80c1369f29d06b1101612" width="96" height="96" alt="This Is Not A Test" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3ZQsO0kHzczapEdCrEYG4f">Backseat Driver</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">TobyMac, Hollyn, Tru</span>
+    <br><span style="font-size: 12px; color: #666;">This Is Not A Test (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3SmlDvjzrq7CA9aXeJ5gdR">SCP 5053 - Anything but a stick in the mud</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">SCP 4656 - Significant Figures</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
