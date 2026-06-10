@@ -22,16 +22,16 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0t61jS2m26FLL3lD9dk5Ql">
-  <img src="https://i.scdn.co/image/ab67616d0000b27386d8fe4e8428cc35f92f56fe" width="180" height="180" alt="HOKA" />
+<a href="https://open.spotify.com/track/0nCZDQrlWA149QdGTdlsFU">
+  <img src="https://i.scdn.co/image/ab67616d0000b273016cbbeb820e8c4e8f052abd" width="180" height="180" alt="Light" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0t61jS2m26FLL3lD9dk5Ql">Love Letters to God</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0nCZDQrlWA149QdGTdlsFU">One Day</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Nahko And Medicine For The People</span><br><span style="font-size: 12px; color: #666;">HOKA (2016)</span>
+<span style="font-size: 13px; color: #666;">Matisyahu</span><br><span style="font-size: 12px; color: #666;">Light (2010)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
@@ -39,15 +39,15 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <tr>
   <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0nCZDQrlWA149QdGTdlsFU">
-      <img src="https://i.scdn.co/image/ab67616d0000b273016cbbeb820e8c4e8f052abd" width="96" height="96" alt="Light" />
+    <a href="https://open.spotify.com/track/0t61jS2m26FLL3lD9dk5Ql">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386d8fe4e8428cc35f92f56fe" width="96" height="96" alt="HOKA" />
     </a>
   </td>
   <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0nCZDQrlWA149QdGTdlsFU">One Day</a></b>
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0t61jS2m26FLL3lD9dk5Ql">Love Letters to God</a></b>
     <br>
-    <span style="font-size: 12px; color: #666;">Matisyahu</span>
-    <br><span style="font-size: 12px; color: #666;">Light (2010)</span>
+    <span style="font-size: 12px; color: #666;">Nahko And Medicine For The People</span>
+    <br><span style="font-size: 12px; color: #666;">HOKA (2016)</span>
   </td>
 </tr>
 <tr>
@@ -181,23 +181,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">SCP 4656 - Significant Figures</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1QjD4Yg5qbOQjigtbhQh4f">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1QjD4Yg5qbOQjigtbhQh4f">SCP 3503 - Panic is Pure, Trauma is True, Suffering is Sweet, and Death&#39;s a Delight</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
