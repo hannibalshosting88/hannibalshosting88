@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d2122a84070662f9e27fe51a" width="180" height="180" alt="Myths &amp; Legends" />
+<a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738329e28c30e82c8b2df3b98b" width="180" height="180" alt="Keep On Talking To Yourself" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD">Legend</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1PU0X1vIm6Blu2yKkRs18D">Keep On Talking To Yourself</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Score</span><br><span style="font-size: 12px; color: #666;">Myths &amp; Legends (2017)</span>
+<span style="font-size: 13px; color: #666;">Brothers Moving</span><br><span style="font-size: 12px; color: #666;">Keep On Talking To Yourself (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d2122a84070662f9e27fe51a" width="96" height="96" alt="Myths &amp; Legends" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD">Legend</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Score</span>
+    <br><span style="font-size: 12px; color: #666;">Myths &amp; Legends (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6JsO85gnoxfEDFkqGEbY5R">SCP 3775 - A Wild Party</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/2TMFYjFvMYEH9vlD43MHga">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2TMFYjFvMYEH9vlD43MHga">SCP 4075 - Birds of a Feather</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
