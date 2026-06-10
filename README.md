@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1GqlvSEtMx5xbGptxOTTyk">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694" width="96" height="96" alt="Boston" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1GqlvSEtMx5xbGptxOTTyk">Peace of Mind</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Boston</span>
-    <br><span style="font-size: 12px; color: #666;">1976</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
