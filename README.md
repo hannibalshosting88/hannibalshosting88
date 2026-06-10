@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6ViBzeY0baMelpJnr5xNmI">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b97a2f60ea0bca9ea8245e52" width="96" height="96" alt="1990" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6ViBzeY0baMelpJnr5xNmI">Spirit World Rising</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Daniel Johnston, Lee Ranaldo, Steve Shelley</span>
-    <br><span style="font-size: 12px; color: #666;">1990 (1990)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
