@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0nCZDQrlWA149QdGTdlsFU">
-  <img src="https://i.scdn.co/image/ab67616d0000b273016cbbeb820e8c4e8f052abd" width="180" height="180" alt="Light" />
+<a href="https://open.spotify.com/track/3ZQsO0kHzczapEdCrEYG4f">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cdb80c1369f29d06b1101612" width="180" height="180" alt="This Is Not A Test" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0nCZDQrlWA149QdGTdlsFU">One Day</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3ZQsO0kHzczapEdCrEYG4f">Backseat Driver</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Matisyahu</span><br><span style="font-size: 12px; color: #666;">Light (2010)</span>
+<span style="font-size: 13px; color: #666;">TobyMac, Hollyn, Tru</span><br><span style="font-size: 12px; color: #666;">This Is Not A Test (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0nCZDQrlWA149QdGTdlsFU">
+      <img src="https://i.scdn.co/image/ab67616d0000b273016cbbeb820e8c4e8f052abd" width="96" height="96" alt="Light" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0nCZDQrlWA149QdGTdlsFU">One Day</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Matisyahu</span>
+    <br><span style="font-size: 12px; color: #666;">Light (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
