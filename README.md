@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">
-  <img src="https://i.scdn.co/image/ab67616d0000b27304b1454aabded3ebe9cf3c01" width="180" height="180" alt="B-Sides and Rarities" />
+<a href="https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d2122a84070662f9e27fe51a" width="180" height="180" alt="Myths &amp; Legends" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">War Pigs</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD">Legend</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">CAKE</span><br><span style="font-size: 12px; color: #666;">B-Sides and Rarities (2007)</span>
+<span style="font-size: 13px; color: #666;">The Score</span><br><span style="font-size: 12px; color: #666;">Myths &amp; Legends (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">
+      <img src="https://i.scdn.co/image/ab67616d0000b27304b1454aabded3ebe9cf3c01" width="96" height="96" alt="B-Sides and Rarities" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">War Pigs</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">CAKE</span>
+    <br><span style="font-size: 12px; color: #666;">B-Sides and Rarities (2007)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
