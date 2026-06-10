@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1QYnPmUTrtk3Ahk1H1vFR1">
-  <img src="https://i.scdn.co/image/ab67616d0000b273de9f4c31ba48fc017de8b0a7" width="180" height="180" alt="check" />
+<a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="180" height="180" alt="Minutes to Midnight" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1QYnPmUTrtk3Ahk1H1vFR1">check</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5">Given Up</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">bbno$</span><br><span style="font-size: 12px; color: #666;">check (2025)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1QYnPmUTrtk3Ahk1H1vFR1">
+      <img src="https://i.scdn.co/image/ab67616d0000b273de9f4c31ba48fc017de8b0a7" width="96" height="96" alt="check" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1QYnPmUTrtk3Ahk1H1vFR1">check</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">bbno$</span>
+    <br><span style="font-size: 12px; color: #666;">check (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -167,40 +184,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2023</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/04aNVQizonvWoVzDZKjHm8">
-      <img src="https://i.scdn.co/image/ab6765630000ba8ab464639ea506439f8f2d91a7" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/04aNVQizonvWoVzDZKjHm8">SCP-1086 │ Second-Brain Syndrome │ Euclid │ Neurological SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/0Ea7bseUT6jeCRVK8FA4oR">
-      <img src="https://i.scdn.co/image/ab6765630000ba8ab020dc95101a3b1fe4a1ea50" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/0Ea7bseUT6jeCRVK8FA4oR">SCP-7115 │ American Meat │ Neutralized? │ Transfiguration SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
   </td>
 </tr>
 <tr>
