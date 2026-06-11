@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K">
-  <img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="180" height="180" alt="The Rising Tied" />
+<a href="https://open.spotify.com/track/1Q2fYlSdwuutWj3QplhY9q">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e773763694ac5eb7f2aa0a37" width="180" height="180" alt="One-X" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K">Remember the Name (feat. Styles of Beyond)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1Q2fYlSdwuutWj3QplhY9q">Riot</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Fort Minor, Styles Of Beyond</span><br><span style="font-size: 12px; color: #666;">The Rising Tied (2005)</span>
+<span style="font-size: 13px; color: #666;">Three Days Grace</span><br><span style="font-size: 12px; color: #666;">One-X (2006)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K">
+      <img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="96" height="96" alt="The Rising Tied" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K">Remember the Name (feat. Styles of Beyond)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Fort Minor, Styles Of Beyond</span>
+    <br><span style="font-size: 12px; color: #666;">The Rising Tied (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
