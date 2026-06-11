@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">
-      <img src="https://i.scdn.co/image/ab67616d0000b27304b1454aabded3ebe9cf3c01" width="96" height="96" alt="B-Sides and Rarities" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0VCxnMdEmqM4SVc5TXcmIV">War Pigs</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">CAKE</span>
-    <br><span style="font-size: 12px; color: #666;">B-Sides and Rarities (2007)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
