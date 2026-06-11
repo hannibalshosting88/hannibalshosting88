@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0t61jS2m26FLL3lD9dk5Ql">
-      <img src="https://i.scdn.co/image/ab67616d0000b27386d8fe4e8428cc35f92f56fe" width="96" height="96" alt="HOKA" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0t61jS2m26FLL3lD9dk5Ql">Love Letters to God</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Nahko And Medicine For The People</span>
-    <br><span style="font-size: 12px; color: #666;">HOKA (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
