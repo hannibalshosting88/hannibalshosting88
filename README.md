@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="180" height="180" alt="Hybrid Theory (Bonus Edition)" />
+<a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K">
+  <img src="https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08" width="180" height="180" alt="The Rising Tied" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5">Runaway</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K">Remember the Name (feat. Styles of Beyond)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
+<span style="font-size: 13px; color: #666;">Fort Minor, Styles Of Beyond</span><br><span style="font-size: 12px; color: #666;">The Rising Tied (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="96" height="96" alt="Hybrid Theory (Bonus Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5">Runaway</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Linkin Park</span>
+    <br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
     <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3gm3rJQLDCWkt9cwMxf16L">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a0d83759adfb02a45eb3d0400" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3gm3rJQLDCWkt9cwMxf16L">The Moon Base: Shackleton Crater vs Other Sites</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
   </td>
 </tr>
 <tr>
