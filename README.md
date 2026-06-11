@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1QYnPmUTrtk3Ahk1H1vFR1">
-      <img src="https://i.scdn.co/image/ab67616d0000b273de9f4c31ba48fc017de8b0a7" width="96" height="96" alt="check" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1QYnPmUTrtk3Ahk1H1vFR1">check</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">bbno$</span>
-    <br><span style="font-size: 12px; color: #666;">check (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
