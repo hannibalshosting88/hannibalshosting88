@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/122kraSXeTA4CAiQQOKVay">
-  <img src="https://i.scdn.co/image/ab6765630000ba8aefe03027a14832f8ff2bebb0" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
+<a href="https://open.spotify.com/episode/2KregxaBHHCTfnvhxhzTug">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a81c6e2ceda5a6eb9c684cc80" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/122kraSXeTA4CAiQQOKVay">SCP-3004 │ Imago │ Keter │ K-Class Scenario SCP</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2KregxaBHHCTfnvhxhzTug">SCP-7819 │ no vacancy │ Keter/Uncontained │ Liminal / Spatial SCP</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">TheVolgun - SCP Podcast (Official)</span><br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/122kraSXeTA4CAiQQOKVay">
+      <img src="https://i.scdn.co/image/ab6765630000ba8aefe03027a14832f8ff2bebb0" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/122kraSXeTA4CAiQQOKVay">SCP-3004 │ Imago │ Keter │ K-Class Scenario SCP</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
+    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
