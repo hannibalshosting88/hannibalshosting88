@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1Q2fYlSdwuutWj3QplhY9q">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e773763694ac5eb7f2aa0a37" width="96" height="96" alt="One-X" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1Q2fYlSdwuutWj3QplhY9q">Riot</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Three Days Grace</span>
-    <br><span style="font-size: 12px; color: #666;">One-X (2006)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
