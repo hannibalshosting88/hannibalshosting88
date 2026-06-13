@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2Q2Z9lvodmkvH29K6Z6ld3">
-  <img src="https://i.scdn.co/image/ab67616d0000b27357648bba1e292724b3499703" width="180" height="180" alt="Pennywise (Back In Derry)" />
+<a href="https://open.spotify.com/track/51aWSNjP75tR6S3q5xWhDH">
+  <img src="https://i.scdn.co/image/ab67616d0000b273738a6638f0f1edab284c3939" width="180" height="180" alt="Michael Myers (Get Up 6)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2Q2Z9lvodmkvH29K6Z6ld3">Pennywise (Back In Derry)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/51aWSNjP75tR6S3q5xWhDH">Michael Myers (Get Up 6)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Dallas xy</span><br><span style="font-size: 12px; color: #666;">Pennywise (Back In Derry) (2026)</span>
+<span style="font-size: 13px; color: #666;">Dallas xy</span><br><span style="font-size: 12px; color: #666;">Michael Myers (Get Up 6) (2025)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2Q2Z9lvodmkvH29K6Z6ld3">
+      <img src="https://i.scdn.co/image/ab67616d0000b27357648bba1e292724b3499703" width="96" height="96" alt="Pennywise (Back In Derry)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2Q2Z9lvodmkvH29K6Z6ld3">Pennywise (Back In Derry)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Dallas xy</span>
+    <br><span style="font-size: 12px; color: #666;">Pennywise (Back In Derry) (2026)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4tiiXAwbARMqDGk6obPAcM">Antimatter Propulsion</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/2mJUIfmx6CG2YRyzHHGLY6">
-      <img src="https://i.scdn.co/image/ab6765630000ba8aea39612abe082e5bbe3cc338" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2mJUIfmx6CG2YRyzHHGLY6">Merging with Alien Civilizations - Our Future in a Galactic Community</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
