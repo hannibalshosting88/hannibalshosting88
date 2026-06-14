@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp">
-      <img src="https://i.scdn.co/image/ab67616d0000b27314574fcb569eeea21f829bb4" width="96" height="96" alt="A Goofy Movie" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp">I2I</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Tevin Campbell, Rosie Gaines</span>
-    <br><span style="font-size: 12px; color: #666;">A Goofy Movie (1995)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
