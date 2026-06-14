@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734a00dec9ce1677ff4fbfeb91" width="96" height="96" alt="Welcome Reality +" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ">Promises - Skrillex &amp; Nero Remix</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">NERO</span>
-    <br><span style="font-size: 12px; color: #666;">Welcome Reality + (2011)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
