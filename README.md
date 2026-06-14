@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732bf4f85f7ad8ec8a7013740d" width="180" height="180" alt="One Last Breath (ATLiens Remix)" />
+<a href="https://open.spotify.com/track/6jNM6fKx3WnyHbWBI9hs2r">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736cfb4fae18c381d2706b14d1" width="180" height="180" alt="Electroman" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l">One Last Breath - Remix</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6jNM6fKx3WnyHbWBI9hs2r">Cinema (feat. Gary Go) - Skrillex Remix</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">ATLiens</span><br><span style="font-size: 12px; color: #666;">One Last Breath (ATLiens Remix) (2025)</span>
+<span style="font-size: 13px; color: #666;">Benny Benassi, Gary Go, Skrillex</span><br><span style="font-size: 12px; color: #666;">Electroman (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732bf4f85f7ad8ec8a7013740d" width="96" height="96" alt="One Last Breath (ATLiens Remix)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l">One Last Breath - Remix</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">ATLiens</span>
+    <br><span style="font-size: 12px; color: #666;">One Last Breath (ATLiens Remix) (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Journey</span>
     <br><span style="font-size: 12px; color: #666;">The Essential Journey (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" width="96" height="96" alt="ODDINARY" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR">MANIAC</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Stray Kids</span>
-    <br><span style="font-size: 12px; color: #666;">ODDINARY (2022)</span>
   </td>
 </tr>
 <tr>
