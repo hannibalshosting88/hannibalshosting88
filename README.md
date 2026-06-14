@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4sK96UnGx3NjBaqvfTG2dm">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e4a4c4e62815010f6cddd2ca" width="180" height="180" alt="The Lateness Of The Hour" />
+<a href="https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734a00dec9ce1677ff4fbfeb91" width="180" height="180" alt="Welcome Reality +" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4sK96UnGx3NjBaqvfTG2dm">Too Close</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ">Promises - Skrillex &amp; Nero Remix</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Alex Clare</span><br><span style="font-size: 12px; color: #666;">The Lateness Of The Hour (2011)</span>
+<span style="font-size: 13px; color: #666;">NERO</span><br><span style="font-size: 12px; color: #666;">Welcome Reality + (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4sK96UnGx3NjBaqvfTG2dm">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e4a4c4e62815010f6cddd2ca" width="96" height="96" alt="The Lateness Of The Hour" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4sK96UnGx3NjBaqvfTG2dm">Too Close</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Alex Clare</span>
+    <br><span style="font-size: 12px; color: #666;">The Lateness Of The Hour (2011)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
