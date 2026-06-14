@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/59vLdGpgNy142mI9258pv8">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b05549005cd6596966a74824" width="180" height="180" alt="Leo Metal, Vol. 31" />
+<a href="https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp">
+  <img src="https://i.scdn.co/image/ab67616d0000b27314574fcb569eeea21f829bb4" width="180" height="180" alt="A Goofy Movie" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/59vLdGpgNy142mI9258pv8">WAP (Metal Version)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp">I2I</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Leo</span><br><span style="font-size: 12px; color: #666;">Leo Metal, Vol. 31 (2020)</span>
+<span style="font-size: 13px; color: #666;">Tevin Campbell, Rosie Gaines</span><br><span style="font-size: 12px; color: #666;">A Goofy Movie (1995)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/59vLdGpgNy142mI9258pv8">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b05549005cd6596966a74824" width="96" height="96" alt="Leo Metal, Vol. 31" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/59vLdGpgNy142mI9258pv8">WAP (Metal Version)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Leo</span>
+    <br><span style="font-size: 12px; color: #666;">Leo Metal, Vol. 31 (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1PnEpgXTavE5JYGx2dJNOa">Don’t Panic - A Guide to Artificial Intelligence</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/2XBOG4uVmneZ6L3f05VEXK">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a88cd7e06ed8d157abcef5583" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2XBOG4uVmneZ6L3f05VEXK">The Von Braun Wheel - Building Humanity’s First Rotating Space Station</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
