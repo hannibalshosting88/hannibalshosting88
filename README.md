@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp">
-  <img src="https://i.scdn.co/image/ab67616d0000b27314574fcb569eeea21f829bb4" width="180" height="180" alt="A Goofy Movie" />
+<a href="https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" width="180" height="180" alt="ODDINARY" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp">I2I</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR">MANIAC</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Tevin Campbell, Rosie Gaines</span><br><span style="font-size: 12px; color: #666;">A Goofy Movie (1995)</span>
+<span style="font-size: 13px; color: #666;">Stray Kids</span><br><span style="font-size: 12px; color: #666;">ODDINARY (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp">
+      <img src="https://i.scdn.co/image/ab67616d0000b27314574fcb569eeea21f829bb4" width="96" height="96" alt="A Goofy Movie" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp">I2I</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Tevin Campbell, Rosie Gaines</span>
+    <br><span style="font-size: 12px; color: #666;">A Goofy Movie (1995)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
