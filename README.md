@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739c42c35d57212a5920c42f6c" width="180" height="180" alt="Fight With Tools" />
+<a href="https://open.spotify.com/track/4sK96UnGx3NjBaqvfTG2dm">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e4a4c4e62815010f6cddd2ca" width="180" height="180" alt="The Lateness Of The Hour" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">Handlebars</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4sK96UnGx3NjBaqvfTG2dm">Too Close</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Flobots</span><br><span style="font-size: 12px; color: #666;">Fight With Tools (2008)</span>
+<span style="font-size: 13px; color: #666;">Alex Clare</span><br><span style="font-size: 12px; color: #666;">The Lateness Of The Hour (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739c42c35d57212a5920c42f6c" width="96" height="96" alt="Fight With Tools" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6JH9yWhgbm0y9iAJhCslNc">Handlebars</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Flobots</span>
+    <br><span style="font-size: 12px; color: #666;">Fight With Tools (2008)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
