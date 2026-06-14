@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734a00dec9ce1677ff4fbfeb91" width="180" height="180" alt="Welcome Reality +" />
+<a href="https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732bf4f85f7ad8ec8a7013740d" width="180" height="180" alt="One Last Breath (ATLiens Remix)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ">Promises - Skrillex &amp; Nero Remix</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l">One Last Breath - Remix</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">NERO</span><br><span style="font-size: 12px; color: #666;">Welcome Reality + (2011)</span>
+<span style="font-size: 13px; color: #666;">ATLiens</span><br><span style="font-size: 12px; color: #666;">One Last Breath (ATLiens Remix) (2025)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734a00dec9ce1677ff4fbfeb91" width="96" height="96" alt="Welcome Reality +" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ">Promises - Skrillex &amp; Nero Remix</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">NERO</span>
+    <br><span style="font-size: 12px; color: #666;">Welcome Reality + (2011)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
