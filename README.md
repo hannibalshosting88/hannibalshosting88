@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f7b69bb1db06fec7f326d6f7" width="180" height="180" alt="Run" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">Run</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">AWOLNATION</span><br><span style="font-size: 12px; color: #666;">Run (2015)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f7b69bb1db06fec7f326d6f7" width="96" height="96" alt="Run" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu">Run</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">AWOLNATION</span>
+    <br><span style="font-size: 12px; color: #666;">Run (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Macklemore &amp; Ryan Lewis, Macklemore, Ryan Lewis, Wanz</span>
     <br><span style="font-size: 12px; color: #666;">The Heist (2012)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732a6e2251e040cc53947d9dd1" width="96" height="96" alt="Firehouse (2024 Remaster)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE">Love of a Lifetime (2024 Remaster)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Firehouse</span>
-    <br><span style="font-size: 12px; color: #666;">Firehouse (2024 Remaster) (1990)</span>
   </td>
 </tr>
 <tr>
