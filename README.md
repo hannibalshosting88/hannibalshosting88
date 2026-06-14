@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d" width="96" height="96" alt="The Heist" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9">Thrift Shop (feat. Wanz)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Macklemore &amp; Ryan Lewis, Macklemore, Ryan Lewis, Wanz</span>
-    <br><span style="font-size: 12px; color: #666;">The Heist (2012)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
