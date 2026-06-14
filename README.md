@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732bf4f85f7ad8ec8a7013740d" width="96" height="96" alt="One Last Breath (ATLiens Remix)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l">One Last Breath - Remix</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">ATLiens</span>
-    <br><span style="font-size: 12px; color: #666;">One Last Breath (ATLiens Remix) (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
