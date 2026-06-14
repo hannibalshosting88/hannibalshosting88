@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6jNM6fKx3WnyHbWBI9hs2r">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736cfb4fae18c381d2706b14d1" width="96" height="96" alt="Electroman" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6jNM6fKx3WnyHbWBI9hs2r">Cinema (feat. Gary Go) - Skrillex Remix</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Benny Benassi, Gary Go, Skrillex</span>
-    <br><span style="font-size: 12px; color: #666;">Electroman (2011)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
