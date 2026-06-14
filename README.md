@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d" width="180" height="180" alt="The Heist" />
+<a href="https://open.spotify.com/track/5dSxrnBd95kPtOOlidTdhK">
+  <img src="https://i.scdn.co/image/ab6742d3000053b71122972fc35235e718b12e8a" width="180" height="180" alt="Sail" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9">Thrift Shop (feat. Wanz)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5dSxrnBd95kPtOOlidTdhK">Sail</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Macklemore &amp; Ryan Lewis, Macklemore, Ryan Lewis, Wanz</span><br><span style="font-size: 12px; color: #666;">The Heist (2012)</span>
+<span style="font-size: 13px; color: #666;">AWOLNATION</span><br><span style="font-size: 12px; color: #666;">Sail (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d" width="96" height="96" alt="The Heist" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9">Thrift Shop (feat. Wanz)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Macklemore &amp; Ryan Lewis, Macklemore, Ryan Lewis, Wanz</span>
+    <br><span style="font-size: 12px; color: #666;">The Heist (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3XUgt3fA1QdnuK8srEVoAB">The Zoo Hypothesis and the Fermi Paradox: Are We Being Watched?</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3zUTLJGcsiLYD7jm600vEm">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a589fd703f7e7626b8aedfaac" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3zUTLJGcsiLYD7jm600vEm">What If Humanity Never Masters Fusion?</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
