@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739d5a0cd0febc79b9f85da6fc" width="180" height="180" alt="Never Freestyle" />
+<a href="https://open.spotify.com/track/0KVb6t5h9CjM6lJo96mdSS">
+  <img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="180" height="180" alt="Doom (Original Game Soundtrack)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3">Never Freestyle</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0KVb6t5h9CjM6lJo96mdSS">Harbinger</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Coast Contra</span><br><span style="font-size: 12px; color: #666;">Never Freestyle (2022)</span>
+<span style="font-size: 13px; color: #666;">Mick Gordon</span><br><span style="font-size: 12px; color: #666;">Doom (Original Game Soundtrack) (2016)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739d5a0cd0febc79b9f85da6fc" width="96" height="96" alt="Never Freestyle" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3">Never Freestyle</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Coast Contra</span>
+    <br><span style="font-size: 12px; color: #666;">Never Freestyle (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
