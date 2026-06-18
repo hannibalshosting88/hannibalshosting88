@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/6RyeH5R9IHFZXptJYYpFUG">
-  <img src="https://i.scdn.co/image/ab6765630000ba8ac8d5bf75e437281ca758e55b" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
+<a href="https://open.spotify.com/episode/5el89U3PQhy60RmzlA9HtC">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a532edc9f442f5e4d31091684" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6RyeH5R9IHFZXptJYYpFUG">SCP-511 │ Basement Cat │ Euclid │ Hostile/Reanimation SCP</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5el89U3PQhy60RmzlA9HtC">SCP-1299 : Dr█wning Tub : Euclid : Mind Affecting SCP ( Starring Lumienkeli )</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">TheVolgun - SCP Podcast (Official)</span><br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/6RyeH5R9IHFZXptJYYpFUG">
+      <img src="https://i.scdn.co/image/ab6765630000ba8ac8d5bf75e437281ca758e55b" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6RyeH5R9IHFZXptJYYpFUG">SCP-511 │ Basement Cat │ Euclid │ Hostile/Reanimation SCP</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
+    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -147,23 +164,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/122kraSXeTA4CAiQQOKVay">SCP-3004 │ Imago │ Keter │ K-Class Scenario SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/5el89U3PQhy60RmzlA9HtC">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a532edc9f442f5e4d31091684" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5el89U3PQhy60RmzlA9HtC">SCP-1299 : Dr█wning Tub : Euclid : Mind Affecting SCP ( Starring Lumienkeli )</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
     <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
