@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732b08b69dddd1cb3976a9fa40" width="180" height="180" alt="Disclaimer II" />
+<a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a">
+  <img src="https://i.scdn.co/image/ab67616d0000b27351853c867bd51abc84432ee5" width="180" height="180" alt="The Best Of Kansas" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd">Broken</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a">Carry on Wayward Son</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Seether, Amy Lee</span><br><span style="font-size: 12px; color: #666;">Disclaimer II (2004)</span>
+<span style="font-size: 13px; color: #666;">Kansas</span><br><span style="font-size: 12px; color: #666;">The Best Of Kansas (1984)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732b08b69dddd1cb3976a9fa40" width="96" height="96" alt="Disclaimer II" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd">Broken</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Seether, Amy Lee</span>
+    <br><span style="font-size: 12px; color: #666;">Disclaimer II (2004)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
