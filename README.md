@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H">
-  <img src="https://i.scdn.co/image/ab67616d0000b273eba2acd1d78fc80ed234af0b" width="180" height="180" alt="The All-American Rejects" />
+<a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735a41b6c530b167ffba6a92f5" width="180" height="180" alt="Megalithic Symphony Deluxe" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H">Swing, Swing</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0">Sail</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The All-American Rejects</span><br><span style="font-size: 12px; color: #666;">2002</span>
+<span style="font-size: 13px; color: #666;">AWOLNATION</span><br><span style="font-size: 12px; color: #666;">Megalithic Symphony Deluxe (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H">
+      <img src="https://i.scdn.co/image/ab67616d0000b273eba2acd1d78fc80ed234af0b" width="96" height="96" alt="The All-American Rejects" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H">Swing, Swing</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The All-American Rejects</span>
+    <br><span style="font-size: 12px; color: #666;">2002</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
