@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/3zUTLJGcsiLYD7jm600vEm">
-  <img src="https://i.scdn.co/image/ab6765630000ba8a589fd703f7e7626b8aedfaac" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
+<a href="https://open.spotify.com/episode/3XUgt3fA1QdnuK8srEVoAB">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a6e1701d222a2cf30037c6bba" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3zUTLJGcsiLYD7jm600vEm">What If Humanity Never Masters Fusion?</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3XUgt3fA1QdnuK8srEVoAB">The Zoo Hypothesis and the Fermi Paradox: Are We Being Watched?</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
@@ -39,12 +39,12 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <tr>
   <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1aLVqTsMnCqtwDQjFNWUvA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8ad98599c7452f18c3ef97a56f" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
+    <a href="https://open.spotify.com/episode/3zUTLJGcsiLYD7jm600vEm">
+      <img src="https://i.scdn.co/image/ab6765630000ba8a589fd703f7e7626b8aedfaac" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
     </a>
   </td>
   <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1aLVqTsMnCqtwDQjFNWUvA">The Physics of FTL Travel</a></b>
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3zUTLJGcsiLYD7jm600vEm">What If Humanity Never Masters Fusion?</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
@@ -56,12 +56,12 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <tr>
   <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3XUgt3fA1QdnuK8srEVoAB">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a6e1701d222a2cf30037c6bba" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
+    <a href="https://open.spotify.com/episode/1aLVqTsMnCqtwDQjFNWUvA">
+      <img src="https://i.scdn.co/image/ab6765630000ba8ad98599c7452f18c3ef97a56f" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
     </a>
   </td>
   <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3XUgt3fA1QdnuK8srEVoAB">The Zoo Hypothesis and the Fermi Paradox: Are We Being Watched?</a></b>
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1aLVqTsMnCqtwDQjFNWUvA">The Physics of FTL Travel</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
