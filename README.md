@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4SP9crxTnfhTUIabkFM01a">
-  <img src="https://i.scdn.co/image/ab67616d0000b27320afaba7b49a3848c4d15004" width="180" height="180" alt="Franks Wild Years" />
+<a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H">
+  <img src="https://i.scdn.co/image/ab67616d0000b273eba2acd1d78fc80ed234af0b" width="180" height="180" alt="The All-American Rejects" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4SP9crxTnfhTUIabkFM01a">Way Down In The Hole - 2023 Remaster</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H">Swing, Swing</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Tom Waits</span><br><span style="font-size: 12px; color: #666;">Franks Wild Years (1987)</span>
+<span style="font-size: 13px; color: #666;">The All-American Rejects</span><br><span style="font-size: 12px; color: #666;">2002</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4SP9crxTnfhTUIabkFM01a">
+      <img src="https://i.scdn.co/image/ab67616d0000b27320afaba7b49a3848c4d15004" width="96" height="96" alt="Franks Wild Years" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4SP9crxTnfhTUIabkFM01a">Way Down In The Hole - 2023 Remaster</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Tom Waits</span>
+    <br><span style="font-size: 12px; color: #666;">Franks Wild Years (1987)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
