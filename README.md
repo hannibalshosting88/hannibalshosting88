@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a">
-      <img src="https://i.scdn.co/image/ab67616d0000b27351853c867bd51abc84432ee5" width="96" height="96" alt="The Best Of Kansas" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1lhmgubpHo0AGAX7BCiO2a">Carry on Wayward Son</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kansas</span>
-    <br><span style="font-size: 12px; color: #666;">The Best Of Kansas (1984)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
