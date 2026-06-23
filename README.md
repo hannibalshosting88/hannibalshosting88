@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732734934f36a17722c5faa058" width="180" height="180" alt="Wolfgang Amadeus Phoenix" />
+<a href="https://open.spotify.com/track/2LFwEGnf1YLJYiNdd0lhze">
+  <img src="https://i.scdn.co/image/ab67616d0000b27390b4cf8fa286aa50cebf2a4e" width="180" height="180" alt="x Infinity" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7">1901</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2LFwEGnf1YLJYiNdd0lhze">Talking to Myself</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Phoenix</span><br><span style="font-size: 12px; color: #666;">Wolfgang Amadeus Phoenix (2009)</span>
+<span style="font-size: 13px; color: #666;">Watsky</span><br><span style="font-size: 12px; color: #666;">x Infinity (2016)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732734934f36a17722c5faa058" width="96" height="96" alt="Wolfgang Amadeus Phoenix" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7">1901</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Phoenix</span>
+    <br><span style="font-size: 12px; color: #666;">Wolfgang Amadeus Phoenix (2009)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3XUgt3fA1QdnuK8srEVoAB">The Zoo Hypothesis and the Fermi Paradox: Are We Being Watched?</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/3zUTLJGcsiLYD7jm600vEm">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a589fd703f7e7626b8aedfaac" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3zUTLJGcsiLYD7jm600vEm">What If Humanity Never Masters Fusion?</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
