@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2LFwEGnf1YLJYiNdd0lhze">
-  <img src="https://i.scdn.co/image/ab67616d0000b27390b4cf8fa286aa50cebf2a4e" width="180" height="180" alt="x Infinity" />
+<a href="https://open.spotify.com/track/4TCeFZNjGNQIpCuZmJkkE2">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735a6561bb5ea85921a6bcc56d" width="180" height="180" alt="Fully Loaded: God&#39;s Country" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2LFwEGnf1YLJYiNdd0lhze">Talking to Myself</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4TCeFZNjGNQIpCuZmJkkE2">God&#39;s Country</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Watsky</span><br><span style="font-size: 12px; color: #666;">x Infinity (2016)</span>
+<span style="font-size: 13px; color: #666;">Blake Shelton</span><br><span style="font-size: 12px; color: #666;">Fully Loaded: God&#39;s Country (2019)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2LFwEGnf1YLJYiNdd0lhze">
+      <img src="https://i.scdn.co/image/ab67616d0000b27390b4cf8fa286aa50cebf2a4e" width="96" height="96" alt="x Infinity" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2LFwEGnf1YLJYiNdd0lhze">Talking to Myself</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Watsky</span>
+    <br><span style="font-size: 12px; color: #666;">x Infinity (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
