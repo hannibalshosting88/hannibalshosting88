@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0" width="180" height="180" alt="Ten" />
+<a href="https://open.spotify.com/track/2FpEXjGqe2dJJ9oB8c8Io2">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734e14d839fbece313822fca82" width="180" height="180" alt="Unity" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2FpEXjGqe2dJJ9oB8c8Io2">Unity</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Pearl Jam</span><br><span style="font-size: 12px; color: #666;">Ten (1991)</span>
+<span style="font-size: 13px; color: #666;">TheFatRat</span><br><span style="font-size: 12px; color: #666;">Unity (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0" width="96" height="96" alt="Ten" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei">Even Flow</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Pearl Jam</span>
+    <br><span style="font-size: 12px; color: #666;">Ten (1991)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
