@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2FpEXjGqe2dJJ9oB8c8Io2">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734e14d839fbece313822fca82" width="96" height="96" alt="Unity" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2FpEXjGqe2dJJ9oB8c8Io2">Unity</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheFatRat</span>
-    <br><span style="font-size: 12px; color: #666;">Unity (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
