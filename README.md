@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732734934f36a17722c5faa058" width="96" height="96" alt="Wolfgang Amadeus Phoenix" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7">1901</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Phoenix</span>
-    <br><span style="font-size: 12px; color: #666;">Wolfgang Amadeus Phoenix (2009)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
