@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739d9468ab048a4110a71eeab7" width="96" height="96" alt="Somewhere in the Between" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk">We Will Fall Together</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Streetlight Manifesto</span>
-    <br><span style="font-size: 12px; color: #666;">Somewhere in the Between (2007)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
