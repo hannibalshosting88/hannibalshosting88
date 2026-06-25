@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cf765b975a3c64713fbf2176" width="96" height="96" alt="Different Man" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8">Thank God</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kane Brown, Katelyn Brown</span>
-    <br><span style="font-size: 12px; color: #666;">Different Man (2022)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
