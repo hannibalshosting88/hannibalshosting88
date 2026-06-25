@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5BCauVWQQ9IDbtVn2C7o3k">
-  <img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="180" height="180" alt="Galactic Empire" />
+<a href="https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH">
+  <img src="https://i.scdn.co/image/ab67616d0000b27354096a7f898de0233d76f626" width="180" height="180" alt="Violent Femmes" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5BCauVWQQ9IDbtVn2C7o3k">The Imperial March</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH">Blister In The Sun</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Galactic Empire</span><br><span style="font-size: 12px; color: #666;">2017</span>
+<span style="font-size: 13px; color: #666;">Violent Femmes</span><br><span style="font-size: 12px; color: #666;">1983</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5BCauVWQQ9IDbtVn2C7o3k">
+      <img src="https://i.scdn.co/image/ab67616d0000b273763eb7add2bfa7483ef9cb28" width="96" height="96" alt="Galactic Empire" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5BCauVWQQ9IDbtVn2C7o3k">The Imperial March</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Galactic Empire</span>
+    <br><span style="font-size: 12px; color: #666;">2017</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6vQR8XDKnVl0OxRWv6iXXA">SCP 4656 - Significant Figures</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
-    <br><span style="font-size: 12px; color: #666;">2024</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1QjD4Yg5qbOQjigtbhQh4f">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a90e6d0627d5b22abd6dd3f6b" width="96" height="96" alt="BedtimeSCP" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1QjD4Yg5qbOQjigtbhQh4f">SCP 3503 - Panic is Pure, Trauma is True, Suffering is Sweet, and Death&#39;s a Delight</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">BedtimeSCP</span>
     <br><span style="font-size: 12px; color: #666;">2024</span>
