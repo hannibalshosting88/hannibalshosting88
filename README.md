@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736dbed2ffdc86e11a63889710" width="96" height="96" alt="Green River (40th Anniversary Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj">Bad Moon Rising</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Creedence Clearwater Revival</span>
-    <br><span style="font-size: 12px; color: #666;">Green River (40th Anniversary Edition) (1969)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
