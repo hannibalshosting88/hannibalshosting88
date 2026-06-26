@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737d579219fc2611dc45ef36fb" width="96" height="96" alt="In Keeping Secrets Of Silent Earth: 3" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq">A Favor House Atlantic</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Coheed and Cambria</span>
-    <br><span style="font-size: 12px; color: #666;">In Keeping Secrets Of Silent Earth: 3 (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
