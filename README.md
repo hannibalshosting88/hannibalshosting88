@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3yrvQHw6pQemsrCQEpMnKv">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fa94e7d8d2480cc906ba4441" width="96" height="96" alt="Paramore (Deluxe Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3yrvQHw6pQemsrCQEpMnKv">Ain&#39;t It Fun</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Paramore</span>
-    <br><span style="font-size: 12px; color: #666;">Paramore (Deluxe Edition) (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
