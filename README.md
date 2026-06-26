@@ -22,16 +22,16 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/6lM7ROlwL6EcXeEtixcVDS">
-  <img src="https://i.scdn.co/image/ab6765630000ba8addd476e4aa90de5df311b115" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
+<a href="https://open.spotify.com/episode/1whdQn41THENojl4ls1qHz">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a880c628802c6545a102b522b" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6lM7ROlwL6EcXeEtixcVDS">SCP-2764 │ The Eldritch Antarctic │ Keter │ Temporal/Spacetime SCP</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1whdQn41THENojl4ls1qHz">SCP-3675 │ The Void Called │ Keter │ Mind Affecting/K-Class Scenario SCP</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">TheVolgun - SCP Podcast (Official)</span><br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
+<span style="font-size: 13px; color: #666;">TheVolgun - SCP Podcast (Official)</span><br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
@@ -39,15 +39,15 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <tr>
   <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1whdQn41THENojl4ls1qHz">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a880c628802c6545a102b522b" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
+    <a href="https://open.spotify.com/episode/6lM7ROlwL6EcXeEtixcVDS">
+      <img src="https://i.scdn.co/image/ab6765630000ba8addd476e4aa90de5df311b115" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
     </a>
   </td>
   <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1whdQn41THENojl4ls1qHz">SCP-3675 │ The Void Called │ Keter │ Mind Affecting/K-Class Scenario SCP</a></b>
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6lM7ROlwL6EcXeEtixcVDS">SCP-2764 │ The Eldritch Antarctic │ Keter │ Temporal/Spacetime SCP</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
+    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
   </td>
 </tr>
 <tr>
