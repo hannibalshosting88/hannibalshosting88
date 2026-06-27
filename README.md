@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2jW4665FcwdylYUDDJACdJ">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="180" height="180" alt="Start Static" />
+<a href="https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4">
+  <img src="https://i.scdn.co/image/ab67616d0000b273186b235052f031900c5cb282" width="180" height="180" alt="&#39;N Sync UK Version" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2jW4665FcwdylYUDDJACdJ">Saying Goodbye</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4">Tearin&#39; up My Heart - Radio Edit</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Sugarcult</span><br><span style="font-size: 12px; color: #666;">Start Static (2001)</span>
+<span style="font-size: 13px; color: #666;">*NSYNC</span><br><span style="font-size: 12px; color: #666;">&#39;N Sync UK Version (1997)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2jW4665FcwdylYUDDJACdJ">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="96" height="96" alt="Start Static" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2jW4665FcwdylYUDDJACdJ">Saying Goodbye</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Sugarcult</span>
+    <br><span style="font-size: 12px; color: #666;">Start Static (2001)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3zUTLJGcsiLYD7jm600vEm">What If Humanity Never Masters Fusion?</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1aLVqTsMnCqtwDQjFNWUvA">
-      <img src="https://i.scdn.co/image/ab6765630000ba8ad98599c7452f18c3ef97a56f" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1aLVqTsMnCqtwDQjFNWUvA">The Physics of FTL Travel</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
