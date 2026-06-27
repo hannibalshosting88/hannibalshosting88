@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7qIbKygZWmVZ2ZJpgYHO19">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="180" height="180" alt="INSANO (NITRO MEGA)" />
+<a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d0f459fe1d5e7c5f51d64a7e" width="180" height="180" alt="GOVERNMENT PACK" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7qIbKygZWmVZ2ZJpgYHO19">ELECTROWAVEBABY 2.0</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">I&#39;M NOT A BIG FAN OF THE GOVERNMENT</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kid Cudi, Steve Aoki</span><br><span style="font-size: 12px; color: #666;">INSANO (NITRO MEGA) (2024)</span>
+<span style="font-size: 13px; color: #666;">CHRIS ADAM</span><br><span style="font-size: 12px; color: #666;">GOVERNMENT PACK (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7qIbKygZWmVZ2ZJpgYHO19">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="96" height="96" alt="INSANO (NITRO MEGA)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7qIbKygZWmVZ2ZJpgYHO19">ELECTROWAVEBABY 2.0</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kid Cudi, Steve Aoki</span>
+    <br><span style="font-size: 12px; color: #666;">INSANO (NITRO MEGA) (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
