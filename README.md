@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2BBGgN1jBuK0vhRjUZP1Ju">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739d87cd573ff7f57f1baa54e5" width="180" height="180" alt="Shock My Dog I Can&#39;t Stop" />
+<a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD">
+  <img src="https://i.scdn.co/image/ab67616d0000b27371e01645abce04dda00e1c0c" width="180" height="180" alt="Oh No" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2BBGgN1jBuK0vhRjUZP1Ju">Shock My Dog I Can&#39;t Stop</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD">Here It Goes Again</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">guccimarx</span><br><span style="font-size: 12px; color: #666;">Shock My Dog I Can&#39;t Stop (2025)</span>
+<span style="font-size: 13px; color: #666;">OK Go</span><br><span style="font-size: 12px; color: #666;">Oh No (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2BBGgN1jBuK0vhRjUZP1Ju">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739d87cd573ff7f57f1baa54e5" width="96" height="96" alt="Shock My Dog I Can&#39;t Stop" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2BBGgN1jBuK0vhRjUZP1Ju">Shock My Dog I Can&#39;t Stop</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">guccimarx</span>
+    <br><span style="font-size: 12px; color: #666;">Shock My Dog I Can&#39;t Stop (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
     <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6lM7ROlwL6EcXeEtixcVDS">
-      <img src="https://i.scdn.co/image/ab6765630000ba8addd476e4aa90de5df311b115" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6lM7ROlwL6EcXeEtixcVDS">SCP-2764 │ The Eldritch Antarctic │ Keter │ Temporal/Spacetime SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
   </td>
 </tr>
 <tr>
