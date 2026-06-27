@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4">
-  <img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="180" height="180" alt="U.S.A. (United State of Atlanta)" />
+<a href="https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732c47358ef6dcdce4acc82159" width="180" height="180" alt="Monstercat 012 - Aftermath" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4">Wait (The Whisper Song)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi">Flight</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Ying Yang Twins</span><br><span style="font-size: 12px; color: #666;">U.S.A. (United State of Atlanta) (2005)</span>
+<span style="font-size: 13px; color: #666;">Tristam, Braken</span><br><span style="font-size: 12px; color: #666;">Monstercat 012 - Aftermath (2013)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4">
+      <img src="https://i.scdn.co/image/ab67616d0000b273123e64de8c798635904e0c60" width="96" height="96" alt="U.S.A. (United State of Atlanta)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4">Wait (The Whisper Song)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Ying Yang Twins</span>
+    <br><span style="font-size: 12px; color: #666;">U.S.A. (United State of Atlanta) (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">*NSYNC</span>
     <br><span style="font-size: 12px; color: #666;">&#39;N Sync UK Version (1997)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2jW4665FcwdylYUDDJACdJ">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="96" height="96" alt="Start Static" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2jW4665FcwdylYUDDJACdJ">Saying Goodbye</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Sugarcult</span>
-    <br><span style="font-size: 12px; color: #666;">Start Static (2001)</span>
   </td>
 </tr>
 <tr>
