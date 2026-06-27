@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD">
-      <img src="https://i.scdn.co/image/ab67616d0000b27371e01645abce04dda00e1c0c" width="96" height="96" alt="Oh No" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD">Here It Goes Again</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">OK Go</span>
-    <br><span style="font-size: 12px; color: #666;">Oh No (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
