@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d0f459fe1d5e7c5f51d64a7e" width="180" height="180" alt="GOVERNMENT PACK" />
+<a href="https://open.spotify.com/track/2jW4665FcwdylYUDDJACdJ">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962" width="180" height="180" alt="Start Static" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">I&#39;M NOT A BIG FAN OF THE GOVERNMENT</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2jW4665FcwdylYUDDJACdJ">Saying Goodbye</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">CHRIS ADAM</span><br><span style="font-size: 12px; color: #666;">GOVERNMENT PACK (2024)</span>
+<span style="font-size: 13px; color: #666;">Sugarcult</span><br><span style="font-size: 12px; color: #666;">Start Static (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d0f459fe1d5e7c5f51d64a7e" width="96" height="96" alt="GOVERNMENT PACK" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4WOpMR1g1rDz8zQ3awMxDL">I&#39;M NOT A BIG FAN OF THE GOVERNMENT</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">CHRIS ADAM</span>
+    <br><span style="font-size: 12px; color: #666;">GOVERNMENT PACK (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1aLVqTsMnCqtwDQjFNWUvA">The Physics of FTL Travel</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1O49IElKmX6JqV4t2sKTIe">
-      <img src="https://i.scdn.co/image/ab6765630000ba8abe501d12e0dd98c213a7e60b" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1O49IElKmX6JqV4t2sKTIe">Why Haven’t We Found Dyson Spheres Yet?</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
