@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">
-  <img src="https://i.scdn.co/image/ab67616d0000b273538b7794e342e2ec5db1518a" width="180" height="180" alt="Bassthoven" />
+<a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">
+  <img src="https://i.scdn.co/image/ab67616d0000b27356149c2955aadc97567e93d4" width="180" height="180" alt="Why Am I So Happy?" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">Bassthoven</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">Greatest Shit Ever</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kyle Exum, Shawn Wasabi</span><br><span style="font-size: 12px; color: #666;">Bassthoven (2020)</span>
+<span style="font-size: 13px; color: #666;">Spose</span><br><span style="font-size: 12px; color: #666;">Why Am I So Happy? (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">
+      <img src="https://i.scdn.co/image/ab67616d0000b273538b7794e342e2ec5db1518a" width="96" height="96" alt="Bassthoven" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">Bassthoven</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kyle Exum, Shawn Wasabi</span>
+    <br><span style="font-size: 12px; color: #666;">Bassthoven (2020)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Kid Cudi, Steve Aoki</span>
     <br><span style="font-size: 12px; color: #666;">INSANO (NITRO MEGA) (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn">
-      <img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="96" height="96" alt="Toxicity" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn">Toxicity</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">System Of A Down</span>
-    <br><span style="font-size: 12px; color: #666;">Toxicity (2001)</span>
   </td>
 </tr>
 <tr>
