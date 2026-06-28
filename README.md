@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx">
-  <img src="https://i.scdn.co/image/ab67616d0000b27389b26d4201d9aa5d65000dab" width="180" height="180" alt="Growin&#39; Up" />
+<a href="https://open.spotify.com/track/21nIvBom9DY0oPtZ66GbXI">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734ec1e22d543a10afa818fbdc" width="180" height="180" alt="Forged in Gunfire" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx">The Kind of Love We Make</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/21nIvBom9DY0oPtZ66GbXI">Forged in Gunfire</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Luke Combs</span><br><span style="font-size: 12px; color: #666;">Growin&#39; Up (2022)</span>
+<span style="font-size: 13px; color: #666;">Psygnals</span><br><span style="font-size: 12px; color: #666;">Forged in Gunfire (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx">
+      <img src="https://i.scdn.co/image/ab67616d0000b27389b26d4201d9aa5d65000dab" width="96" height="96" alt="Growin&#39; Up" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx">The Kind of Love We Make</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Luke Combs</span>
+    <br><span style="font-size: 12px; color: #666;">Growin&#39; Up (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
