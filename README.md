@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d183a2d842ee145f55c4e9df" width="180" height="180" alt="Face the Music" />
+<a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734ed9d73e67487029a9edb633" width="180" height="180" alt="Kane Brown" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc">Evil Woman</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W">What Ifs (feat. Lauren Alaina)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Electric Light Orchestra</span><br><span style="font-size: 12px; color: #666;">Face the Music (1975)</span>
+<span style="font-size: 13px; color: #666;">Kane Brown, Lauren Alaina</span><br><span style="font-size: 12px; color: #666;">Kane Brown (2016)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d183a2d842ee145f55c4e9df" width="96" height="96" alt="Face the Music" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc">Evil Woman</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Electric Light Orchestra</span>
+    <br><span style="font-size: 12px; color: #666;">Face the Music (1975)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
