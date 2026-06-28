@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bfe4b1f5943476f199f5b666" width="180" height="180" alt="A B Y S S" />
+<a href="https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890" width="180" height="180" alt="Wonder What&#39;s Next (Expanded Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv">A B Y S S</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU">The Red</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">1788-L, TYNAN</span><br><span style="font-size: 12px; color: #666;">A B Y S S (2018)</span>
+<span style="font-size: 13px; color: #666;">Chevelle</span><br><span style="font-size: 12px; color: #666;">Wonder What&#39;s Next (Expanded Edition) (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bfe4b1f5943476f199f5b666" width="96" height="96" alt="A B Y S S" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1s7oKuT7720tOM0JSshbMv">A B Y S S</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">1788-L, TYNAN</span>
+    <br><span style="font-size: 12px; color: #666;">A B Y S S (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
