@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/21nIvBom9DY0oPtZ66GbXI">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734ec1e22d543a10afa818fbdc" width="180" height="180" alt="Forged in Gunfire" />
+<a href="https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d183a2d842ee145f55c4e9df" width="180" height="180" alt="Face the Music" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/21nIvBom9DY0oPtZ66GbXI">Forged in Gunfire</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc">Evil Woman</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Psygnals</span><br><span style="font-size: 12px; color: #666;">Forged in Gunfire (2023)</span>
+<span style="font-size: 13px; color: #666;">Electric Light Orchestra</span><br><span style="font-size: 12px; color: #666;">Face the Music (1975)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/21nIvBom9DY0oPtZ66GbXI">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734ec1e22d543a10afa818fbdc" width="96" height="96" alt="Forged in Gunfire" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/21nIvBom9DY0oPtZ66GbXI">Forged in Gunfire</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Psygnals</span>
+    <br><span style="font-size: 12px; color: #666;">Forged in Gunfire (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Ying Yang Twins</span>
     <br><span style="font-size: 12px; color: #666;">U.S.A. (United State of Atlanta) (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" width="96" height="96" alt="Katrina &amp; The Waves" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0">Walking On Sunshine</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Katrina &amp; The Waves</span>
-    <br><span style="font-size: 12px; color: #666;">1985</span>
   </td>
 </tr>
 <tr>
