@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5" width="180" height="180" alt="2001" />
+<a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx">
+  <img src="https://i.scdn.co/image/ab67616d0000b27389b26d4201d9aa5d65000dab" width="180" height="180" alt="Growin&#39; Up" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC">The Next Episode</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx">The Kind of Love We Make</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Dr. Dre, Snoop Dogg</span><br><span style="font-size: 12px; color: #666;">2001 (1999)</span>
+<span style="font-size: 13px; color: #666;">Luke Combs</span><br><span style="font-size: 12px; color: #666;">Growin&#39; Up (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5" width="96" height="96" alt="2001" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC">The Next Episode</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Dr. Dre, Snoop Dogg</span>
+    <br><span style="font-size: 12px; color: #666;">2001 (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Spose</span>
     <br><span style="font-size: 12px; color: #666;">Why Am I So Happy? (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">
-      <img src="https://i.scdn.co/image/ab67616d0000b273538b7794e342e2ec5db1518a" width="96" height="96" alt="Bassthoven" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX">Bassthoven</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kyle Exum, Shawn Wasabi</span>
-    <br><span style="font-size: 12px; color: #666;">Bassthoven (2020)</span>
   </td>
 </tr>
 <tr>
