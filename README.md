@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5">
-      <img src="https://i.scdn.co/image/ab67616d0000b27376ccf87cba2e754a5138cc23" width="96" height="96" alt="Get Born" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5">Are You Gonna Be My Girl</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Jet</span>
-    <br><span style="font-size: 12px; color: #666;">Get Born (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
