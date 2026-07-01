@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5" width="96" height="96" alt="2001" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC">The Next Episode</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Dr. Dre, Snoop Dogg</span>
-    <br><span style="font-size: 12px; color: #666;">2001 (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
