@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fd9b4042f5381c3fa3b4d58c" width="180" height="180" alt="Slayer&#39;s Paradise (Gangsta&#39;s Paradise)" />
+<a href="https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z">
+  <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" width="180" height="180" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">Slayer&#39;s Paradise (Gangsta&#39;s Paradise)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z">Bullet With Butterfly Wings - Remastered 2012</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Geoffplaysguitar</span><br><span style="font-size: 12px; color: #666;">Slayer&#39;s Paradise (Gangsta&#39;s Paradise) (2022)</span>
+<span style="font-size: 13px; color: #666;">The Smashing Pumpkins</span><br><span style="font-size: 12px; color: #666;">Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fd9b4042f5381c3fa3b4d58c" width="96" height="96" alt="Slayer&#39;s Paradise (Gangsta&#39;s Paradise)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">Slayer&#39;s Paradise (Gangsta&#39;s Paradise)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Geoffplaysguitar</span>
+    <br><span style="font-size: 12px; color: #666;">Slayer&#39;s Paradise (Gangsta&#39;s Paradise) (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
