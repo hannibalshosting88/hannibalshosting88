@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN">
-  <img src="https://i.scdn.co/image/ab67616d0000b27365a9e11c89449998ac3da930" width="180" height="180" alt="So Much For The Afterglow" />
+<a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736045d67194bcdd287ec23e63" width="180" height="180" alt="BANJO BLOODBATH" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN">Father Of Mine</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg">Banjo Bloodbath - Appalachian Bluegrass Death Metal</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Everclear</span><br><span style="font-size: 12px; color: #666;">So Much For The Afterglow (1997)</span>
+<span style="font-size: 13px; color: #666;">Appalachian Anarchy</span><br><span style="font-size: 12px; color: #666;">BANJO BLOODBATH (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN">
+      <img src="https://i.scdn.co/image/ab67616d0000b27365a9e11c89449998ac3da930" width="96" height="96" alt="So Much For The Afterglow" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN">Father Of Mine</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Everclear</span>
+    <br><span style="font-size: 12px; color: #666;">So Much For The Afterglow (1997)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
