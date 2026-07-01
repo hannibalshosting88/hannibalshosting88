@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bbcee29f47340197f56870e5" width="180" height="180" alt="Thug Walkin" />
+<a href="https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU">
+  <img src="https://i.scdn.co/image/ab67616d0000b273731d2eb04541bef9e4434d4e" width="180" height="180" alt="Falco 3" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y">Whistle While You Twurk (ColliPark Mix)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU">Rock Me Amadeus</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Ying Yang Twins</span><br><span style="font-size: 12px; color: #666;">Thug Walkin (2000)</span>
+<span style="font-size: 13px; color: #666;">Falco</span><br><span style="font-size: 12px; color: #666;">Falco 3 (1985)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bbcee29f47340197f56870e5" width="96" height="96" alt="Thug Walkin" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y">Whistle While You Twurk (ColliPark Mix)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Ying Yang Twins</span>
+    <br><span style="font-size: 12px; color: #666;">Thug Walkin (2000)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
