@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h">
-  <img src="https://i.scdn.co/image/ab67616d0000b273db802f4399d04f2f50409d7e" width="180" height="180" alt="Make It Bun Dem After Hours EP" />
+<a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bce034d651da4d21e43c8a19" width="180" height="180" alt="Come Together" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h">Make It Bun Dem</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU">Come Together</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Skrillex, Damian Marley</span><br><span style="font-size: 12px; color: #666;">Make It Bun Dem After Hours EP (2012)</span>
+<span style="font-size: 13px; color: #666;">Gary Clark Jr., Junkie XL</span><br><span style="font-size: 12px; color: #666;">Come Together (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h">
+      <img src="https://i.scdn.co/image/ab67616d0000b273db802f4399d04f2f50409d7e" width="96" height="96" alt="Make It Bun Dem After Hours EP" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h">Make It Bun Dem</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Skrillex, Damian Marley</span>
+    <br><span style="font-size: 12px; color: #666;">Make It Bun Dem After Hours EP (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
