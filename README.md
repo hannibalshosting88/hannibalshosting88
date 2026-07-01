@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d3ad3861045494cf7eaaa107" width="96" height="96" alt="Fearless" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7">Pain</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Josh A</span>
-    <br><span style="font-size: 12px; color: #666;">Fearless (2019)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
