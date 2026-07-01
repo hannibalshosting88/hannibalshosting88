@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="180" height="180" alt="Mezmerize" />
+<a href="https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e53b78c6970bc2b206c78247" width="180" height="180" alt="Ride" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">Question!</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW">Ride</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">System Of A Down</span><br><span style="font-size: 12px; color: #666;">Mezmerize (2005)</span>
+<span style="font-size: 13px; color: #666;">Twenty One Pilots</span><br><span style="font-size: 12px; color: #666;">Ride (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71" width="96" height="96" alt="Mezmerize" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w">Question!</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">System Of A Down</span>
+    <br><span style="font-size: 12px; color: #666;">Mezmerize (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Jet</span>
     <br><span style="font-size: 12px; color: #666;">Get Born (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip">
-      <img src="https://i.scdn.co/image/ab67616d0000b27314d1a203158bed18a4ea7375" width="96" height="96" alt="Lil Boat" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip">One Night</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lil Yachty</span>
-    <br><span style="font-size: 12px; color: #666;">Lil Boat (2016)</span>
   </td>
 </tr>
 <tr>
