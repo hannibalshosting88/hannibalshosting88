@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs">
-  <img src="https://i.scdn.co/image/ab67616d0000b273559769036607549f92579d08" width="180" height="180" alt="Rocky III (Original Motion Picture Score)" />
+<a href="https://open.spotify.com/track/48ebD1GIO56qH8nYBLWQna">
+  <img src="https://i.scdn.co/image/ab67616d0000b273aaecbc943b8593a1233b98c5" width="180" height="180" alt="XXL" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs">Gonna Fly Now - Theme From &quot;Rocky&quot;</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/48ebD1GIO56qH8nYBLWQna">The Jazz Police</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Bill Conti</span><br><span style="font-size: 12px; color: #666;">Rocky III (Original Motion Picture Score) (1982)</span>
+<span style="font-size: 13px; color: #666;">Gordon Goodwin&#39;s Big Phat Band</span><br><span style="font-size: 12px; color: #666;">XXL (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs">
+      <img src="https://i.scdn.co/image/ab67616d0000b273559769036607549f92579d08" width="96" height="96" alt="Rocky III (Original Motion Picture Score)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs">Gonna Fly Now - Theme From &quot;Rocky&quot;</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Bill Conti</span>
+    <br><span style="font-size: 12px; color: #666;">Rocky III (Original Motion Picture Score) (1982)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
