@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt">
-  <img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="180" height="180" alt="Crypt of the Necrodancer (Original Game Soundtrack)" />
+<a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs">
+  <img src="https://i.scdn.co/image/ab67616d0000b273559769036607549f92579d08" width="180" height="180" alt="Rocky III (Original Motion Picture Score)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt">Rhythmortis</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs">Gonna Fly Now - Theme From &quot;Rocky&quot;</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Danny Baranowsky</span><br><span style="font-size: 12px; color: #666;">Crypt of the Necrodancer (Original Game Soundtrack) (2015)</span>
+<span style="font-size: 13px; color: #666;">Bill Conti</span><br><span style="font-size: 12px; color: #666;">Rocky III (Original Motion Picture Score) (1982)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt">
+      <img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="96" height="96" alt="Crypt of the Necrodancer (Original Game Soundtrack)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt">Rhythmortis</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Danny Baranowsky</span>
+    <br><span style="font-size: 12px; color: #666;">Crypt of the Necrodancer (Original Game Soundtrack) (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Skrillex, Damian Marley</span>
     <br><span style="font-size: 12px; color: #666;">Make It Bun Dem After Hours EP (2012)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3TIOuRZP0evRRBodoOG5Dx">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a898982c47179c6ce73e062c" width="96" height="96" alt="No Shame" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3TIOuRZP0evRRBodoOG5Dx">Ill Mind of Hopsin 9</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Hopsin</span>
-    <br><span style="font-size: 12px; color: #666;">No Shame (2017)</span>
   </td>
 </tr>
 <tr>
