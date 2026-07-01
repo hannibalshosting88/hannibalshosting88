@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8" width="180" height="180" alt="Only By The Night" />
+<a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731aaa4af459faac4478583092" width="180" height="180" alt="Beyond the Norm" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45">Sex on Fire</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">Shook Ones Remix</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kings of Leon</span><br><span style="font-size: 12px; color: #666;">Only By The Night (2008)</span>
+<span style="font-size: 13px; color: #666;">J. Koda</span><br><span style="font-size: 12px; color: #666;">Beyond the Norm (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8" width="96" height="96" alt="Only By The Night" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45">Sex on Fire</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kings of Leon</span>
+    <br><span style="font-size: 12px; color: #666;">Only By The Night (2008)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Ying Yang Twins</span>
     <br><span style="font-size: 12px; color: #666;">Thug Walkin (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/73vF5f2kZQgkUiYbKdwk5O">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a866e3bb946215399ce358d84" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/73vF5f2kZQgkUiYbKdwk5O">Water Shielded Starships - Surviving Radiation in Deep Space</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
   </td>
 </tr>
 <tr>
