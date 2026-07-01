@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fd9b4042f5381c3fa3b4d58c" width="180" height="180" alt="Slayer&#39;s Paradise (Gangsta&#39;s Paradise)" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">Slayer&#39;s Paradise (Gangsta&#39;s Paradise)</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Geoffplaysguitar</span><br><span style="font-size: 12px; color: #666;">Slayer&#39;s Paradise (Gangsta&#39;s Paradise) (2022)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fd9b4042f5381c3fa3b4d58c" width="96" height="96" alt="Slayer&#39;s Paradise (Gangsta&#39;s Paradise)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1Oq7ZCqugAkfw5OQhfiT1I">Slayer&#39;s Paradise (Gangsta&#39;s Paradise)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Geoffplaysguitar</span>
+    <br><span style="font-size: 12px; color: #666;">Slayer&#39;s Paradise (Gangsta&#39;s Paradise) (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Danny Baranowsky</span>
     <br><span style="font-size: 12px; color: #666;">Crypt of the Necrodancer (Original Game Soundtrack) (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731aaa4af459faac4478583092" width="96" height="96" alt="Beyond the Norm" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7cVwM94GDHkMd2nYe4jdHD">Shook Ones Remix</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">J. Koda</span>
-    <br><span style="font-size: 12px; color: #666;">Beyond the Norm (2022)</span>
   </td>
 </tr>
 <tr>
