@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736045d67194bcdd287ec23e63" width="180" height="180" alt="BANJO BLOODBATH" />
+<a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt">
+  <img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="180" height="180" alt="Crypt of the Necrodancer (Original Game Soundtrack)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg">Banjo Bloodbath - Appalachian Bluegrass Death Metal</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4SaCDCYdgL6Nw7mdORj6jt">Rhythmortis</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Appalachian Anarchy</span><br><span style="font-size: 12px; color: #666;">BANJO BLOODBATH (2024)</span>
+<span style="font-size: 13px; color: #666;">Danny Baranowsky</span><br><span style="font-size: 12px; color: #666;">Crypt of the Necrodancer (Original Game Soundtrack) (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736045d67194bcdd287ec23e63" width="96" height="96" alt="BANJO BLOODBATH" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg">Banjo Bloodbath - Appalachian Bluegrass Death Metal</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Appalachian Anarchy</span>
+    <br><span style="font-size: 12px; color: #666;">BANJO BLOODBATH (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
