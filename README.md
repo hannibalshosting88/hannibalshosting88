@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bbcee29f47340197f56870e5" width="96" height="96" alt="Thug Walkin" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1LMAQunVS6Dq8wEqQnsL8Y">Whistle While You Twurk (ColliPark Mix)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Ying Yang Twins</span>
-    <br><span style="font-size: 12px; color: #666;">Thug Walkin (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
