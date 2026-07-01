@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/21nIvBom9DY0oPtZ66GbXI">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734ec1e22d543a10afa818fbdc" width="96" height="96" alt="Forged in Gunfire" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/21nIvBom9DY0oPtZ66GbXI">Forged in Gunfire</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Psygnals</span>
-    <br><span style="font-size: 12px; color: #666;">Forged in Gunfire (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
