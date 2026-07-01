@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE">
-      <img src="https://i.scdn.co/image/ab67616d0000b27380c64a084164867806ea617a" width="96" height="96" alt="I Am Not A Human Being II (Deluxe)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE">Rich As Fuck</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lil Wayne, 2 Chainz</span>
-    <br><span style="font-size: 12px; color: #666;">I Am Not A Human Being II (Deluxe) (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
