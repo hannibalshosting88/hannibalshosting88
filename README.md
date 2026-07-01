@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d183a2d842ee145f55c4e9df" width="96" height="96" alt="Face the Music" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc">Evil Woman</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Electric Light Orchestra</span>
-    <br><span style="font-size: 12px; color: #666;">Face the Music (1975)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
