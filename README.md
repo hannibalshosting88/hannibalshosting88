@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c" width="180" height="180" alt="Significant Other" />
+<a href="https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731a2e4290b83a4c810d019fcd" width="180" height="180" alt="The End Is Where We Begin" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz">9 Teen 90 Nine</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB">Courtesy Call</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Limp Bizkit</span><br><span style="font-size: 12px; color: #666;">Significant Other (1999)</span>
+<span style="font-size: 13px; color: #666;">Thousand Foot Krutch</span><br><span style="font-size: 12px; color: #666;">The End Is Where We Begin (2012)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c" width="96" height="96" alt="Significant Other" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz">9 Teen 90 Nine</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Limp Bizkit</span>
+    <br><span style="font-size: 12px; color: #666;">Significant Other (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
