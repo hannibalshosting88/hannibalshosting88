@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">
-  <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" width="180" height="180" alt="Metallica" />
+<a href="https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d126daad8e8479dbad94610e" width="180" height="180" alt="Hall Of Fame (Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps">Beware</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">1991</span>
+<span style="font-size: 13px; color: #666;">Big Sean, Lil Wayne, Jhené Aiko</span><br><span style="font-size: 12px; color: #666;">Hall Of Fame (Deluxe) (2013)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">
+      <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" width="96" height="96" alt="Metallica" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Metallica</span>
+    <br><span style="font-size: 12px; color: #666;">1991</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
