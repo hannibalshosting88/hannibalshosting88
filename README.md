@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5u3LixvEX1twpOW6v3V2H7">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bea1032f5deb40192525a60e" width="180" height="180" alt="Treats" />
+<a href="https://open.spotify.com/track/0HPO4omVPNcTEIUe9FgBwY">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e634817cb1f1c6201f6c05eb" width="180" height="180" alt="Live In Chattanooga" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5u3LixvEX1twpOW6v3V2H7">Infinity Guitars</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0HPO4omVPNcTEIUe9FgBwY">Fuck the Po-Po - Live</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Sleigh Bells</span><br><span style="font-size: 12px; color: #666;">Treats (2010)</span>
+<span style="font-size: 13px; color: #666;">Corey Smith</span><br><span style="font-size: 12px; color: #666;">Live In Chattanooga (2012)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5u3LixvEX1twpOW6v3V2H7">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bea1032f5deb40192525a60e" width="96" height="96" alt="Treats" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5u3LixvEX1twpOW6v3V2H7">Infinity Guitars</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Sleigh Bells</span>
+    <br><span style="font-size: 12px; color: #666;">Treats (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6RyeH5R9IHFZXptJYYpFUG">SCP-511 │ Basement Cat │ Euclid │ Hostile/Reanimation SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/122kraSXeTA4CAiQQOKVay">
-      <img src="https://i.scdn.co/image/ab6765630000ba8aefe03027a14832f8ff2bebb0" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/122kraSXeTA4CAiQQOKVay">SCP-3004 │ Imago │ Keter │ K-Class Scenario SCP</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
     <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
