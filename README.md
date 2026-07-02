@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f5bb4f40d76c66f3c002a750" width="96" height="96" alt="BRELAND &amp; Friends: Vol. 1 (Live)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">Praise the Lord (feat. Thomas Rhett) - Live</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">BRELAND, Thomas Rhett</span>
-    <br><span style="font-size: 12px; color: #666;">BRELAND &amp; Friends: Vol. 1 (Live) (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
