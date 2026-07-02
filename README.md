@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j">
-  <img src="https://i.scdn.co/image/ab67616d0000b273898c21f08d5953c2a1e22f1c" width="180" height="180" alt="A Bigger Bang (2009 Re-Mastered)" />
+<a href="https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT">
+  <img src="https://i.scdn.co/image/ab67616d0000b273622aefd794f6fe4d8e714358" width="180" height="180" alt="Demon Days" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j">Laugh, I Nearly Died - Remastered</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT">Feel Good Inc.</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Rolling Stones</span><br><span style="font-size: 12px; color: #666;">A Bigger Bang (2009 Re-Mastered) (2005)</span>
+<span style="font-size: 13px; color: #666;">Gorillaz, De La Soul</span><br><span style="font-size: 12px; color: #666;">Demon Days (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j">
+      <img src="https://i.scdn.co/image/ab67616d0000b273898c21f08d5953c2a1e22f1c" width="96" height="96" alt="A Bigger Bang (2009 Re-Mastered)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j">Laugh, I Nearly Died - Remastered</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Rolling Stones</span>
+    <br><span style="font-size: 12px; color: #666;">A Bigger Bang (2009 Re-Mastered) (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
