@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94" width="180" height="180" alt="One of These Nights (2013 Remaster)" />
+<a href="https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" width="180" height="180" alt="No Strings Attached" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">Journey of the Sorcerer - 2013 Remaster</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA">It&#39;s Gonna Be Me</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Eagles</span><br><span style="font-size: 12px; color: #666;">One of These Nights (2013 Remaster) (1975)</span>
+<span style="font-size: 13px; color: #666;">*NSYNC</span><br><span style="font-size: 12px; color: #666;">No Strings Attached (2000)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94" width="96" height="96" alt="One of These Nights (2013 Remaster)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">Journey of the Sorcerer - 2013 Remaster</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Eagles</span>
+    <br><span style="font-size: 12px; color: #666;">One of These Nights (2013 Remaster) (1975)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
