@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM">
-      <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="96" height="96" alt="Graduation" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM">Can&#39;t Tell Me Nothing</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kanye West</span>
-    <br><span style="font-size: 12px; color: #666;">Graduation (2007)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
