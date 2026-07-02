@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5gw8HNcrqliEw0X6pPrPvG">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d272c37389bd3d9c20564166" width="180" height="180" alt="RENT (Original Motion Picture Soundtrack)" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5gw8HNcrqliEw0X6pPrPvG">Seasons of Love</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Rosario Dawson, Taye Diggs, Idina Menzel, Jesse L. Martin, Adam Pascal, Tracie Thoms, Anthony Rapp, Wilson Jermaine Heredia</span><br><span style="font-size: 12px; color: #666;">RENT (Original Motion Picture Soundtrack) (2005)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5gw8HNcrqliEw0X6pPrPvG">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d272c37389bd3d9c20564166" width="96" height="96" alt="RENT (Original Motion Picture Soundtrack)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5gw8HNcrqliEw0X6pPrPvG">Seasons of Love</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Rosario Dawson, Taye Diggs, Idina Menzel, Jesse L. Martin, Adam Pascal, Tracie Thoms, Anthony Rapp, Wilson Jermaine Heredia</span>
+    <br><span style="font-size: 12px; color: #666;">RENT (Original Motion Picture Soundtrack) (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
