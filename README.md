@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eba2acd1d78fc80ed234af0b" width="96" height="96" alt="The All-American Rejects" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H">Swing, Swing</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The All-American Rejects</span>
-    <br><span style="font-size: 12px; color: #666;">2002</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
