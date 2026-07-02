@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bd01ceabd584855b2edd838d" width="96" height="96" alt="HUMBLE. (SKRILLEX REMIX)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ">HUMBLE. - SKRILLEX REMIX</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Skrillex, Kendrick Lamar</span>
-    <br><span style="font-size: 12px; color: #666;">HUMBLE. (SKRILLEX REMIX) (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
