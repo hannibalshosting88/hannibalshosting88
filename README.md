@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731a2e4290b83a4c810d019fcd" width="180" height="180" alt="The End Is Where We Begin" />
+<a href="https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI">
+  <img src="https://i.scdn.co/image/ab67616d0000b27308c18e8a38e47817b6e9aed8" width="180" height="180" alt="Greatest Hits" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB">Courtesy Call</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI">Killing Me Softly With His Song</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thousand Foot Krutch</span><br><span style="font-size: 12px; color: #666;">The End Is Where We Begin (2012)</span>
+<span style="font-size: 13px; color: #666;">Fugees, Ms. Lauryn Hill, Wyclef Jean, Pras</span><br><span style="font-size: 12px; color: #666;">Greatest Hits (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731a2e4290b83a4c810d019fcd" width="96" height="96" alt="The End Is Where We Begin" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB">Courtesy Call</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thousand Foot Krutch</span>
+    <br><span style="font-size: 12px; color: #666;">The End Is Where We Begin (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
