@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z">
-      <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" width="96" height="96" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z">Bullet With Butterfly Wings - Remastered 2012</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Smashing Pumpkins</span>
-    <br><span style="font-size: 12px; color: #666;">Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
