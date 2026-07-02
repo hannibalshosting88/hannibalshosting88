@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5p8WbMGPsP2TmcsInVn44u">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734beb66f56871bbde37f6892d" width="96" height="96" alt="Sad Clown Bad Year (#9-#12 Collection)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5p8WbMGPsP2TmcsInVn44u">Sunshine</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Atmosphere, Slug, Ant</span>
-    <br><span style="font-size: 12px; color: #666;">Sad Clown Bad Year (#9-#12 Collection) (2018)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
