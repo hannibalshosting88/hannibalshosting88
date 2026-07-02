@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736045d67194bcdd287ec23e63" width="96" height="96" alt="BANJO BLOODBATH" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2vDqHTZqphxjnAbFc9okXg">Banjo Bloodbath - Appalachian Bluegrass Death Metal</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Appalachian Anarchy</span>
-    <br><span style="font-size: 12px; color: #666;">BANJO BLOODBATH (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
