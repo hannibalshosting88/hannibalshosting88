@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">
-  <img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="180" height="180" alt="Origins (Deluxe)" />
+<a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732bc58e4de7c41e84aeacee40" width="180" height="180" alt="Listen" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB">Bad Habit</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Origins (Deluxe) (2018)</span>
+<span style="font-size: 13px; color: #666;">The Kooks</span><br><span style="font-size: 12px; color: #666;">Listen (2014)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">
+      <img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="96" height="96" alt="Origins (Deluxe)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
+    <br><span style="font-size: 12px; color: #666;">Origins (Deluxe) (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Appalachian Anarchy</span>
     <br><span style="font-size: 12px; color: #666;">BANJO BLOODBATH (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN">
-      <img src="https://i.scdn.co/image/ab67616d0000b27365a9e11c89449998ac3da930" width="96" height="96" alt="So Much For The Afterglow" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN">Father Of Mine</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Everclear</span>
-    <br><span style="font-size: 12px; color: #666;">So Much For The Afterglow (1997)</span>
   </td>
 </tr>
 <tr>
