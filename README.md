@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0aJHZeX4rMCOXpo1LXXfBl">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736b6e2a3e067c42a91fde14da" width="180" height="180" alt="Evangeline vs. The Machine" />
+<a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">
+  <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" width="180" height="180" alt="Metallica" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0aJHZeX4rMCOXpo1LXXfBl">Hands Of Time</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM">The Unforgiven (Remastered)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Eric Church</span><br><span style="font-size: 12px; color: #666;">Evangeline vs. The Machine (2025)</span>
+<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">1991</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0aJHZeX4rMCOXpo1LXXfBl">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736b6e2a3e067c42a91fde14da" width="96" height="96" alt="Evangeline vs. The Machine" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0aJHZeX4rMCOXpo1LXXfBl">Hands Of Time</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Eric Church</span>
+    <br><span style="font-size: 12px; color: #666;">Evangeline vs. The Machine (2025)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
