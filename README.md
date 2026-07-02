@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="180" height="180" alt="Sleep With the Lights On" />
+<a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f5bb4f40d76c66f3c002a750" width="180" height="180" alt="BRELAND &amp; Friends: Vol. 1 (Live)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1">Praise the Lord (feat. Thomas Rhett) - Live</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Wanton Bishops</span><br><span style="font-size: 12px; color: #666;">Sleep With the Lights On (2015)</span>
+<span style="font-size: 13px; color: #666;">BRELAND, Thomas Rhett</span><br><span style="font-size: 12px; color: #666;">BRELAND &amp; Friends: Vol. 1 (Live) (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e38fff2b150ef397d024ff02" width="96" height="96" alt="Sleep With the Lights On" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1PAgr8FeaUCbPEbpZXPsDv">Oh Wee</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Wanton Bishops</span>
+    <br><span style="font-size: 12px; color: #666;">Sleep With the Lights On (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">DragonForce</span>
     <br><span style="font-size: 12px; color: #666;">The Power Within (Special Edition) (2012)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d126daad8e8479dbad94610e" width="96" height="96" alt="Hall Of Fame (Deluxe)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps">Beware</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Big Sean, Lil Wayne, Jhené Aiko</span>
-    <br><span style="font-size: 12px; color: #666;">Hall Of Fame (Deluxe) (2013)</span>
   </td>
 </tr>
 <tr>
