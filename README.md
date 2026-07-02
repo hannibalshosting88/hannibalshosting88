@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z">
-  <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" width="180" height="180" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" />
+<a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">
+  <img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="180" height="180" alt="Origins (Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z">Bullet With Butterfly Wings - Remastered 2012</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Smashing Pumpkins</span><br><span style="font-size: 12px; color: #666;">Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995)</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Origins (Deluxe) (2018)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z">
+      <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" width="96" height="96" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z">Bullet With Butterfly Wings - Remastered 2012</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Smashing Pumpkins</span>
+    <br><span style="font-size: 12px; color: #666;">Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
