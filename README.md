@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="180" height="180" alt="One Long Dream" />
+<a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H">
+  <img src="https://i.scdn.co/image/ab67616d0000b273eba2acd1d78fc80ed234af0b" width="180" height="180" alt="The All-American Rejects" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">No Warm Up</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H">Swing, Swing</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">SonReal</span><br><span style="font-size: 12px; color: #666;">One Long Dream (2016)</span>
+<span style="font-size: 13px; color: #666;">The All-American Rejects</span><br><span style="font-size: 12px; color: #666;">2002</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d83139352244e59dd557371e" width="96" height="96" alt="One Long Dream" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7JZ2sUkV6U8OgjgRw0WIxE">No Warm Up</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">SonReal</span>
+    <br><span style="font-size: 12px; color: #666;">One Long Dream (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">A Tribe Called Quest</span>
     <br><span style="font-size: 12px; color: #666;">The Anthology (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo">
-      <img src="https://i.scdn.co/image/ab67616d0000b273181baef01d864fe48baa65ad" width="96" height="96" alt="The Essential Blue Öyster Cult" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo">(Don&#39;t Fear) The Reaper</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Blue Öyster Cult</span>
-    <br><span style="font-size: 12px; color: #666;">The Essential Blue Öyster Cult (1972)</span>
   </td>
 </tr>
 <tr>
