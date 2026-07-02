@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4R0Bi7Fo7A9XMoiU6lRCLF">
-      <img src="https://i.scdn.co/image/ab67616d0000b27377d80794b8f40cae84e56542" width="96" height="96" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4R0Bi7Fo7A9XMoiU6lRCLF">Song of the Lonely Mountain</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Peter Hollens</span>
-    <br><span style="font-size: 12px; color: #666;">Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
