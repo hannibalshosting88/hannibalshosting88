@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="180" height="180" alt="Brasshopper" />
+<a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j">
+  <img src="https://i.scdn.co/image/ab67616d0000b273898c21f08d5953c2a1e22f1c" width="180" height="180" alt="A Bigger Bang (2009 Re-Mastered)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO">Brass Brothers</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/19c71wg1nEvMUtuaQc992j">Laugh, I Nearly Died - Remastered</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Broken Brass</span><br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
+<span style="font-size: 13px; color: #666;">The Rolling Stones</span><br><span style="font-size: 12px; color: #666;">A Bigger Bang (2009 Re-Mastered) (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="96" height="96" alt="Brasshopper" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3H66O3xJZhx6WkO84pKwZO">Brass Brothers</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Broken Brass</span>
+    <br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
