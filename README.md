@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">
-      <img src="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" width="96" height="96" alt="Dreamland" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H">Space Ghost Coast To Coast</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Glass Animals</span>
-    <br><span style="font-size: 12px; color: #666;">Dreamland (2020)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
