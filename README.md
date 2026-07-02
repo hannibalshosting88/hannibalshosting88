@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/030D3duTUTfJORIycOhZNr">
-  <img src="https://i.scdn.co/image/ab67616d0000b27347683362c806ed350bcc090e" width="180" height="180" alt="Machines" />
+<a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96" width="180" height="180" alt="÷ (Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/030D3duTUTfJORIycOhZNr">For the Glory</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3">Shape of You</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">All Good Things</span><br><span style="font-size: 12px; color: #666;">Machines (2017)</span>
+<span style="font-size: 13px; color: #666;">Ed Sheeran</span><br><span style="font-size: 12px; color: #666;">÷ (Deluxe) (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/030D3duTUTfJORIycOhZNr">
+      <img src="https://i.scdn.co/image/ab67616d0000b27347683362c806ed350bcc090e" width="96" height="96" alt="Machines" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/030D3duTUTfJORIycOhZNr">For the Glory</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">All Good Things</span>
+    <br><span style="font-size: 12px; color: #666;">Machines (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
