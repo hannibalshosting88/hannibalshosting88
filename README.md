@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53" width="180" height="180" alt="The Anthology" />
+<a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus">
+  <img src="https://i.scdn.co/image/ab67616d0000b273215bd929ab6088f0b3e8ea8f" width="180" height="180" alt="The Click" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">Electric Relaxation</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus">Sober Up - feat. Rivers Cuomo</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">A Tribe Called Quest</span><br><span style="font-size: 12px; color: #666;">The Anthology (1999)</span>
+<span style="font-size: 13px; color: #666;">AJR, Rivers Cuomo</span><br><span style="font-size: 12px; color: #666;">The Click (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53" width="96" height="96" alt="The Anthology" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68">Electric Relaxation</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">A Tribe Called Quest</span>
+    <br><span style="font-size: 12px; color: #666;">The Anthology (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
