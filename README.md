@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d126daad8e8479dbad94610e" width="180" height="180" alt="Hall Of Fame (Deluxe)" />
+<a href="https://open.spotify.com/track/5Xevyftg9SENov82JYXlYQ">
+  <img src="https://i.scdn.co/image/ab67616d0000b273229f132702470af1740b7bf4" width="180" height="180" alt="The Power Within (Special Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps">Beware</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5Xevyftg9SENov82JYXlYQ">Cry Thunder</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Big Sean, Lil Wayne, Jhené Aiko</span><br><span style="font-size: 12px; color: #666;">Hall Of Fame (Deluxe) (2013)</span>
+<span style="font-size: 13px; color: #666;">DragonForce</span><br><span style="font-size: 12px; color: #666;">The Power Within (Special Edition) (2012)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d126daad8e8479dbad94610e" width="96" height="96" alt="Hall Of Fame (Deluxe)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps">Beware</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Big Sean, Lil Wayne, Jhené Aiko</span>
+    <br><span style="font-size: 12px; color: #666;">Hall Of Fame (Deluxe) (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
