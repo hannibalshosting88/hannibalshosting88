@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7yOJdvFCcdc3WySZm4XYMO">
-  <img src="https://i.scdn.co/image/ab67616d0000b27378e7d5b0537b966717af3197" width="180" height="180" alt="We Ride" />
+<a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi">
+  <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" width="180" height="180" alt="Metallica" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7yOJdvFCcdc3WySZm4XYMO">We Ride</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi">Sad But True (Remastered)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Bryan Martin</span><br><span style="font-size: 12px; color: #666;">We Ride (2022)</span>
+<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">1991</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7yOJdvFCcdc3WySZm4XYMO">
+      <img src="https://i.scdn.co/image/ab67616d0000b27378e7d5b0537b966717af3197" width="96" height="96" alt="We Ride" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7yOJdvFCcdc3WySZm4XYMO">We Ride</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Bryan Martin</span>
+    <br><span style="font-size: 12px; color: #666;">We Ride (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
