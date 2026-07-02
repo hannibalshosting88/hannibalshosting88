@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c63cd31653491e102712ee1a" width="96" height="96" alt="From Chaos" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl">Amber</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">311</span>
-    <br><span style="font-size: 12px; color: #666;">From Chaos (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
