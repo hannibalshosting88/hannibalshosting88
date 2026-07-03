@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734e7be339cee55cf14e6bc50f" width="180" height="180" alt="The Maze To Nowhere" />
+<a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732dc5b802303ff19c62a346ab" width="180" height="180" alt="Buffalo Springfield" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m">Acid Rain</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA">For What It&#39;s Worth</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lorn</span><br><span style="font-size: 12px; color: #666;">The Maze To Nowhere (2015)</span>
+<span style="font-size: 13px; color: #666;">Buffalo Springfield</span><br><span style="font-size: 12px; color: #666;">1966</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734e7be339cee55cf14e6bc50f" width="96" height="96" alt="The Maze To Nowhere" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m">Acid Rain</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lorn</span>
+    <br><span style="font-size: 12px; color: #666;">The Maze To Nowhere (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
