@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733c7c6d4363a9c4535ad39201" width="96" height="96" alt="Floored" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4">Fly</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Sugar Ray</span>
-    <br><span style="font-size: 12px; color: #666;">Floored (1997)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
