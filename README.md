@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6u5flhVFxKZrl9AApvf2SL">
-  <img src="https://i.scdn.co/image/ab67616d0000b273270bccf2f538d6f170bd0e2d" width="180" height="180" alt="Celebrity" />
+<a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL">
+  <img src="https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556" width="180" height="180" alt="Rio (Collector&#39;s Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6u5flhVFxKZrl9AApvf2SL">Girlfriend</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL">Hungry Like the Wolf - 2009 Remaster</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">*NSYNC</span><br><span style="font-size: 12px; color: #666;">Celebrity (2001)</span>
+<span style="font-size: 13px; color: #666;">Duran Duran</span><br><span style="font-size: 12px; color: #666;">Rio (Collector&#39;s Edition) (1982)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6u5flhVFxKZrl9AApvf2SL">
+      <img src="https://i.scdn.co/image/ab67616d0000b273270bccf2f538d6f170bd0e2d" width="96" height="96" alt="Celebrity" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6u5flhVFxKZrl9AApvf2SL">Girlfriend</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">*NSYNC</span>
+    <br><span style="font-size: 12px; color: #666;">Celebrity (2001)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
