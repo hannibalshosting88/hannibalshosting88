@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">
-  <img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" width="180" height="180" alt="The Muppets (Original Motion Picture Soundtrack)" />
+<a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c16d23f23fbb8145368515f9" width="180" height="180" alt="Beautiful Soul" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">Mah Na Mah Na</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS">Beautiful Soul</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Mahna Mahna and The Two Snowths</span><br><span style="font-size: 12px; color: #666;">The Muppets (Original Motion Picture Soundtrack) (2011)</span>
+<span style="font-size: 13px; color: #666;">Jesse McCartney</span><br><span style="font-size: 12px; color: #666;">Beautiful Soul (2004)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">
+      <img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" width="96" height="96" alt="The Muppets (Original Motion Picture Soundtrack)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">Mah Na Mah Na</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Mahna Mahna and The Two Snowths</span>
+    <br><span style="font-size: 12px; color: #666;">The Muppets (Original Motion Picture Soundtrack) (2011)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7skPMXM3otxQCE9ZoTKF6g">SCP-2273 │ Major Alexei Belitrov │ Euclid │ Extradimensional SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/5el89U3PQhy60RmzlA9HtC">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a532edc9f442f5e4d31091684" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5el89U3PQhy60RmzlA9HtC">SCP-1299 : Dr█wning Tub : Euclid : Mind Affecting SCP ( Starring Lumienkeli )</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
     <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
