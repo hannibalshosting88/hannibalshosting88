@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5iP1wbr72LIsChhXDDFZoO">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733e541ce9ee34a1429ad835fe" width="180" height="180" alt="Argent Hate" />
+<a href="https://open.spotify.com/track/3FLPAAlQNb570TtFQ50RwR">
+  <img src="https://i.scdn.co/image/ab67616d0000b273145454b151d01ca3305bbd60" width="180" height="180" alt="Curtain Call 2" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5iP1wbr72LIsChhXDDFZoO">Argent Hate</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3FLPAAlQNb570TtFQ50RwR">Kings Never Die (feat. Gwen Stefani)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Psygnals, Dark Ovus</span><br><span style="font-size: 12px; color: #666;">Argent Hate (2023)</span>
+<span style="font-size: 13px; color: #666;">Eminem, Gwen Stefani</span><br><span style="font-size: 12px; color: #666;">Curtain Call 2 (2022)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5iP1wbr72LIsChhXDDFZoO">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733e541ce9ee34a1429ad835fe" width="96" height="96" alt="Argent Hate" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5iP1wbr72LIsChhXDDFZoO">Argent Hate</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Psygnals, Dark Ovus</span>
+    <br><span style="font-size: 12px; color: #666;">Argent Hate (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
