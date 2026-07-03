@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="180" height="180" alt="A Little Bit of Mambo" />
+<a href="https://open.spotify.com/track/5iP1wbr72LIsChhXDDFZoO">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733e541ce9ee34a1429ad835fe" width="180" height="180" alt="Argent Hate" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5iP1wbr72LIsChhXDDFZoO">Argent Hate</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lou Bega</span><br><span style="font-size: 12px; color: #666;">A Little Bit of Mambo (1999)</span>
+<span style="font-size: 13px; color: #666;">Psygnals, Dark Ovus</span><br><span style="font-size: 12px; color: #666;">Argent Hate (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="96" height="96" alt="A Little Bit of Mambo" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lou Bega</span>
+    <br><span style="font-size: 12px; color: #666;">A Little Bit of Mambo (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Thousand Foot Krutch</span>
     <br><span style="font-size: 12px; color: #666;">The End Is Where We Begin (2012)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c" width="96" height="96" alt="Significant Other" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz">9 Teen 90 Nine</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Limp Bizkit</span>
-    <br><span style="font-size: 12px; color: #666;">Significant Other (1999)</span>
   </td>
 </tr>
 <tr>
