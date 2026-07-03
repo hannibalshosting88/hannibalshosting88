@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7fWFqVCqWk6tUvN7QPtAgN">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d00e49003543a5bb5aa5b873" width="96" height="96" alt="The Collection (Standard Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7fWFqVCqWk6tUvN7QPtAgN">Head over Feet</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Alanis Morissette</span>
-    <br><span style="font-size: 12px; color: #666;">The Collection (Standard Edition) (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
