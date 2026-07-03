@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" width="96" height="96" alt="The Marshall Mathers LP2 (Deluxe)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k">Rap God</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Eminem</span>
-    <br><span style="font-size: 12px; color: #666;">The Marshall Mathers LP2 (Deluxe) (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
