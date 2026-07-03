@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA">
-      <img src="https://i.scdn.co/image/ab67616d0000b273252c0cdd739400c558a753b2" width="96" height="96" alt="Weezer (Deluxe Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA">Say It Ain&#39;t So - Original Mix</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Weezer</span>
-    <br><span style="font-size: 12px; color: #666;">Weezer (Deluxe Edition) (1994)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
