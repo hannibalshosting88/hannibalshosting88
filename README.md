@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">
-      <img src="https://i.scdn.co/image/ab67616d0000b27356149c2955aadc97567e93d4" width="96" height="96" alt="Why Am I So Happy?" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">Greatest Shit Ever</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Spose</span>
-    <br><span style="font-size: 12px; color: #666;">Why Am I So Happy? (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
