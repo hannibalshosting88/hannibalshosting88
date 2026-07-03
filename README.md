@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="180" height="180" alt="Kings Of Crunk" />
+<a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85" width="180" height="180" alt="Sublime" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">I Don&#39;t Give A...</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF">What I Got</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lil Jon &amp; The East Side Boyz, Mystikal, Krayzie Bone</span><br><span style="font-size: 12px; color: #666;">Kings Of Crunk (2002)</span>
+<span style="font-size: 13px; color: #666;">Sublime</span><br><span style="font-size: 12px; color: #666;">1996</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="96" height="96" alt="Kings Of Crunk" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">I Don&#39;t Give A...</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lil Jon &amp; The East Side Boyz, Mystikal, Krayzie Bone</span>
+    <br><span style="font-size: 12px; color: #666;">Kings Of Crunk (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
