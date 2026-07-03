@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c16d23f23fbb8145368515f9" width="180" height="180" alt="Beautiful Soul" />
+<a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" width="180" height="180" alt="A Little Bit of Mambo" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS">Beautiful Soul</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs">Mambo No. 5 (a Little Bit of...)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Jesse McCartney</span><br><span style="font-size: 12px; color: #666;">Beautiful Soul (2004)</span>
+<span style="font-size: 13px; color: #666;">Lou Bega</span><br><span style="font-size: 12px; color: #666;">A Little Bit of Mambo (1999)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c16d23f23fbb8145368515f9" width="96" height="96" alt="Beautiful Soul" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS">Beautiful Soul</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Jesse McCartney</span>
+    <br><span style="font-size: 12px; color: #666;">Beautiful Soul (2004)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
