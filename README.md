@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE">
-  <img src="https://i.scdn.co/image/ab67616d0000b273afffc8aea37762b4daa91e8b" width="180" height="180" alt="Don&#39;t You Worry, Honey" />
+<a href="https://open.spotify.com/track/6k7p4qpvxMajUR6tRPdDFO">
+  <img src="https://i.scdn.co/image/ab67616d0000b273699599750974684ca0a6cc8a" width="180" height="180" alt="Outlaw Nation, Vol. 1" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE">High</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6k7p4qpvxMajUR6tRPdDFO">Welcome to My House</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Sir Sly</span><br><span style="font-size: 12px; color: #666;">Don&#39;t You Worry, Honey (2017)</span>
+<span style="font-size: 13px; color: #666;">Nu Breed, Jesse Howard</span><br><span style="font-size: 12px; color: #666;">Outlaw Nation, Vol. 1 (2021)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE">
+      <img src="https://i.scdn.co/image/ab67616d0000b273afffc8aea37762b4daa91e8b" width="96" height="96" alt="Don&#39;t You Worry, Honey" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE">High</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Sir Sly</span>
+    <br><span style="font-size: 12px; color: #666;">Don&#39;t You Worry, Honey (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
