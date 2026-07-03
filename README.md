@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe">
+<a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d">
   <img src="https://i.scdn.co/image/ab67616d0000b273e7a3a891ae555b0a46a131ed" width="180" height="180" alt="OK ORCHESTRA" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe">Way Less Sad</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d">Bang!</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">AJR</span><br><span style="font-size: 12px; color: #666;">OK ORCHESTRA (2021)</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e7a3a891ae555b0a46a131ed" width="96" height="96" alt="OK ORCHESTRA" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe">Way Less Sad</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">AJR</span>
+    <br><span style="font-size: 12px; color: #666;">OK ORCHESTRA (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Alanis Morissette</span>
     <br><span style="font-size: 12px; color: #666;">The Collection (Standard Edition) (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/346SDYQBCcUqcyt7JcMdCV">
-      <img src="https://i.scdn.co/image/ab67616d0000b273067add23982ece80ca70a93f" width="96" height="96" alt="Thundersmack" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/346SDYQBCcUqcyt7JcMdCV">Coney Island</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Thundersmack</span>
-    <br><span style="font-size: 12px; color: #666;">2021</span>
   </td>
 </tr>
 <tr>
