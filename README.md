@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b5ec73a1aa766b71aaeeed5e" width="180" height="180" alt="Bleed American (Deluxe Edition)" />
+<a href="https://open.spotify.com/track/6u5flhVFxKZrl9AApvf2SL">
+  <img src="https://i.scdn.co/image/ab67616d0000b273270bccf2f538d6f170bd0e2d" width="180" height="180" alt="Celebrity" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">The Middle</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6u5flhVFxKZrl9AApvf2SL">Girlfriend</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Jimmy Eat World</span><br><span style="font-size: 12px; color: #666;">Bleed American (Deluxe Edition) (2001)</span>
+<span style="font-size: 13px; color: #666;">*NSYNC</span><br><span style="font-size: 12px; color: #666;">Celebrity (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b5ec73a1aa766b71aaeeed5e" width="96" height="96" alt="Bleed American (Deluxe Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">The Middle</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Jimmy Eat World</span>
+    <br><span style="font-size: 12px; color: #666;">Bleed American (Deluxe Edition) (2001)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Lil Wayne, Drake, Future</span>
     <br><span style="font-size: 12px; color: #666;">I Am Not A Human Being II (Deluxe) (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3FLPAAlQNb570TtFQ50RwR">
-      <img src="https://i.scdn.co/image/ab67616d0000b273145454b151d01ca3305bbd60" width="96" height="96" alt="Curtain Call 2" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3FLPAAlQNb570TtFQ50RwR">Kings Never Die (feat. Gwen Stefani)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Eminem, Gwen Stefani</span>
-    <br><span style="font-size: 12px; color: #666;">Curtain Call 2 (2022)</span>
   </td>
 </tr>
 <tr>
