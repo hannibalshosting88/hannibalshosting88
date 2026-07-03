@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="180" height="180" alt="Licensed To Ill" />
+<a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cf4c914bea5aba3e3066595a" width="180" height="180" alt="Throwing Copper" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1">Lightning Crashes</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Beastie Boys</span><br><span style="font-size: 12px; color: #666;">Licensed To Ill (1986)</span>
+<span style="font-size: 13px; color: #666;">Live</span><br><span style="font-size: 12px; color: #666;">Throwing Copper (1994)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" width="96" height="96" alt="Licensed To Ill" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ">Brass Monkey</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Beastie Boys</span>
+    <br><span style="font-size: 12px; color: #666;">Licensed To Ill (1986)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Spose</span>
     <br><span style="font-size: 12px; color: #666;">Why Am I So Happy? (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2zwcnaxahJOnYwG0H6tXTz">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d283972b8d22cd5a50089ac8" width="96" height="96" alt="John Wick: Chapter 2 (Original Motion Picture Soundtrack)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2zwcnaxahJOnYwG0H6tXTz">John Wick Mode</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Le Castle Vania</span>
-    <br><span style="font-size: 12px; color: #666;">John Wick: Chapter 2 (Original Motion Picture Soundtrack) (2017)</span>
   </td>
 </tr>
 <tr>
