@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg">
-  <img src="https://i.scdn.co/image/ab67616d0000b27380c64a084164867806ea617a" width="180" height="180" alt="I Am Not A Human Being II (Deluxe)" />
+<a href="https://open.spotify.com/track/2zO4To4N8Facnm7JabUSaE">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ce1e75781485d548bc4f1a1d" width="180" height="180" alt="Video Game Music - Collection 1" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg">Love Me</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2zO4To4N8Facnm7JabUSaE">Tetris - Main Theme - Epic Version</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lil Wayne, Drake, Future</span><br><span style="font-size: 12px; color: #666;">I Am Not A Human Being II (Deluxe) (2013)</span>
+<span style="font-size: 13px; color: #666;">Sofa Sounds</span><br><span style="font-size: 12px; color: #666;">Video Game Music - Collection 1 (2019)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg">
+      <img src="https://i.scdn.co/image/ab67616d0000b27380c64a084164867806ea617a" width="96" height="96" alt="I Am Not A Human Being II (Deluxe)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg">Love Me</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lil Wayne, Drake, Future</span>
+    <br><span style="font-size: 12px; color: #666;">I Am Not A Human Being II (Deluxe) (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
