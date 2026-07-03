@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad" width="96" height="96" alt="Make Believe" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa">Beverly Hills</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Weezer</span>
-    <br><span style="font-size: 12px; color: #666;">Make Believe (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
