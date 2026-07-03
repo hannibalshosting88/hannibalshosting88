@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">
-  <img src="https://i.scdn.co/image/ab67616d0000b27356149c2955aadc97567e93d4" width="180" height="180" alt="Why Am I So Happy?" />
+<a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730a4e7589df4b89be72390585" width="180" height="180" alt="Believer" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">Greatest Shit Ever</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">Believer</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Spose</span><br><span style="font-size: 12px; color: #666;">Why Am I So Happy? (2015)</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Believer (2017)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">
+      <img src="https://i.scdn.co/image/ab67616d0000b27356149c2955aadc97567e93d4" width="96" height="96" alt="Why Am I So Happy?" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7BeO0lA38jRYZA1BGLtHPh">Greatest Shit Ever</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Spose</span>
+    <br><span style="font-size: 12px; color: #666;">Why Am I So Happy? (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
