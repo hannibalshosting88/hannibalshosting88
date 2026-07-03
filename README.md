@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4">
-      <img src="https://i.scdn.co/image/ab67616d0000b273153b3d6495031cb813a7451c" width="96" height="96" alt="Stankonia" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4">So Fresh, So Clean</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Outkast</span>
-    <br><span style="font-size: 12px; color: #666;">Stankonia (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
