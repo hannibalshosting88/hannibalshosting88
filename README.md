@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2fssIzMtXzohm6UYZL8R1R">
-      <img src="https://i.scdn.co/image/ab67616d0000b27328b8e471ff4de594b713d743" width="96" height="96" alt="The Reminder (Deluxe Version)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2fssIzMtXzohm6UYZL8R1R">1234</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Feist</span>
-    <br><span style="font-size: 12px; color: #666;">The Reminder (Deluxe Version) (2008)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
