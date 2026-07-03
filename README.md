@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6r027Faonff84hxFMjMbIH">
-      <img src="https://i.scdn.co/image/ab67616d0000b273643e6ecebab400d52574e4b2" width="96" height="96" alt="Rap God" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6r027Faonff84hxFMjMbIH">Rap God</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Eminem</span>
-    <br><span style="font-size: 12px; color: #666;">Rap God (2013)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
