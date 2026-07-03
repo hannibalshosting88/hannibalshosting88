@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3FLPAAlQNb570TtFQ50RwR">
-  <img src="https://i.scdn.co/image/ab67616d0000b273145454b151d01ca3305bbd60" width="180" height="180" alt="Curtain Call 2" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3FLPAAlQNb570TtFQ50RwR">Kings Never Die (feat. Gwen Stefani)</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Eminem, Gwen Stefani</span><br><span style="font-size: 12px; color: #666;">Curtain Call 2 (2022)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3FLPAAlQNb570TtFQ50RwR">
+      <img src="https://i.scdn.co/image/ab67616d0000b273145454b151d01ca3305bbd60" width="96" height="96" alt="Curtain Call 2" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3FLPAAlQNb570TtFQ50RwR">Kings Never Die (feat. Gwen Stefani)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Eminem, Gwen Stefani</span>
+    <br><span style="font-size: 12px; color: #666;">Curtain Call 2 (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Rosario Dawson, Taye Diggs, Idina Menzel, Jesse L. Martin, Adam Pascal, Tracie Thoms, Anthony Rapp, Wilson Jermaine Heredia</span>
     <br><span style="font-size: 12px; color: #666;">RENT (Original Motion Picture Soundtrack) (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI">
-      <img src="https://i.scdn.co/image/ab67616d0000b27308c18e8a38e47817b6e9aed8" width="96" height="96" alt="Greatest Hits" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI">Killing Me Softly With His Song</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Fugees, Ms. Lauryn Hill, Wyclef Jean, Pras</span>
-    <br><span style="font-size: 12px; color: #666;">Greatest Hits (2003)</span>
   </td>
 </tr>
 <tr>
