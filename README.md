@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1PD6ud82FXpEBvHHLjDI3A">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f46317c0125a1db71275b298" width="96" height="96" alt="No Depression (Legacy Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1PD6ud82FXpEBvHHLjDI3A">Factory Belt</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Uncle Tupelo</span>
-    <br><span style="font-size: 12px; color: #666;">No Depression (Legacy Edition) (2014)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
