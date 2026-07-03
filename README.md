@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL">
-      <img src="https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556" width="96" height="96" alt="Rio (Collector&#39;s Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL">Hungry Like the Wolf - 2009 Remaster</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Duran Duran</span>
-    <br><span style="font-size: 12px; color: #666;">Rio (Collector&#39;s Edition) (1982)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
