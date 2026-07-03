@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738d3609295177e58287f39f85" width="180" height="180" alt="Reanimation" />
+<a href="https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cb4ec52c48a6b071ed2ab6bc" width="180" height="180" alt="Suicide Squad: The Album" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd">Pts.Of.Athrty - Jay Gordon Reanimation</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66">Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic &amp; Ty Dolla $ign feat. X Ambassadors)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Reanimation (2002)</span>
+<span style="font-size: 13px; color: #666;">Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign</span><br><span style="font-size: 12px; color: #666;">Suicide Squad: The Album (2016)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738d3609295177e58287f39f85" width="96" height="96" alt="Reanimation" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd">Pts.Of.Athrty - Jay Gordon Reanimation</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Linkin Park</span>
+    <br><span style="font-size: 12px; color: #666;">Reanimation (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
