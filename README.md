@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e7a3a891ae555b0a46a131ed" width="180" height="180" alt="OK ORCHESTRA" />
+<a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC">
+  <img src="https://i.scdn.co/image/ab67616d0000b27374be78bd14d095c8d76943a0" width="180" height="180" alt="The Click (Deluxe Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World&#39;s Smallest Violin</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC">Burn The House Down</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">AJR</span><br><span style="font-size: 12px; color: #666;">OK ORCHESTRA (2021)</span>
+<span style="font-size: 13px; color: #666;">AJR</span><br><span style="font-size: 12px; color: #666;">The Click (Deluxe Edition) (2018)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e7a3a891ae555b0a46a131ed" width="96" height="96" alt="OK ORCHESTRA" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ">World&#39;s Smallest Violin</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">AJR</span>
+    <br><span style="font-size: 12px; color: #666;">OK ORCHESTRA (2021)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Weezer</span>
     <br><span style="font-size: 12px; color: #666;">Weezer (Deluxe Edition) (1994)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2osYucU0wCd95ppZXDZhF7">
-      <img src="https://i.scdn.co/image/ab67616d0000b273591e4932468b37feeb378830" width="96" height="96" alt="22 Grand" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2osYucU0wCd95ppZXDZhF7">22 Grand</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">DigBar</span>
-    <br><span style="font-size: 12px; color: #666;">22 Grand (2025)</span>
   </td>
 </tr>
 <tr>
