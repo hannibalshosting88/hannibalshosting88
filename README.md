@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">
-      <img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" width="96" height="96" alt="The Muppets (Original Motion Picture Soundtrack)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">Mah Na Mah Na</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Mahna Mahna and The Two Snowths</span>
-    <br><span style="font-size: 12px; color: #666;">The Muppets (Original Motion Picture Soundtrack) (2011)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
