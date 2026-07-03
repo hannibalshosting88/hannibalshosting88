@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE">
-      <img src="https://i.scdn.co/image/ab67616d0000b273afffc8aea37762b4daa91e8b" width="96" height="96" alt="Don&#39;t You Worry, Honey" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE">High</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Sir Sly</span>
-    <br><span style="font-size: 12px; color: #666;">Don&#39;t You Worry, Honey (2017)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
