@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0HPO4omVPNcTEIUe9FgBwY">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e634817cb1f1c6201f6c05eb" width="180" height="180" alt="Live In Chattanooga" />
+<a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">
+  <img src="https://i.scdn.co/image/ab67616d0000b27349975a26b5562064db3a552b" width="180" height="180" alt="The Muppets (Original Motion Picture Soundtrack)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0HPO4omVPNcTEIUe9FgBwY">Fuck the Po-Po - Live</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4rVrHxLGV2iSN4nJtI9hKh">Mah Na Mah Na</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Corey Smith</span><br><span style="font-size: 12px; color: #666;">Live In Chattanooga (2012)</span>
+<span style="font-size: 13px; color: #666;">Mahna Mahna and The Two Snowths</span><br><span style="font-size: 12px; color: #666;">The Muppets (Original Motion Picture Soundtrack) (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0HPO4omVPNcTEIUe9FgBwY">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e634817cb1f1c6201f6c05eb" width="96" height="96" alt="Live In Chattanooga" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0HPO4omVPNcTEIUe9FgBwY">Fuck the Po-Po - Live</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Corey Smith</span>
+    <br><span style="font-size: 12px; color: #666;">Live In Chattanooga (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
