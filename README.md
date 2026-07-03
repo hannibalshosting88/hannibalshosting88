@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2fssIzMtXzohm6UYZL8R1R">
-  <img src="https://i.scdn.co/image/ab67616d0000b27328b8e471ff4de594b713d743" width="180" height="180" alt="The Reminder (Deluxe Version)" />
+<a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" width="180" height="180" alt="Voices" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2fssIzMtXzohm6UYZL8R1R">1234</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk">You Make My Dreams (Come True)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Feist</span><br><span style="font-size: 12px; color: #666;">The Reminder (Deluxe Version) (2008)</span>
+<span style="font-size: 13px; color: #666;">Daryl Hall &amp; John Oates</span><br><span style="font-size: 12px; color: #666;">Voices (1980)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2fssIzMtXzohm6UYZL8R1R">
+      <img src="https://i.scdn.co/image/ab67616d0000b27328b8e471ff4de594b713d743" width="96" height="96" alt="The Reminder (Deluxe Version)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2fssIzMtXzohm6UYZL8R1R">1234</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Feist</span>
+    <br><span style="font-size: 12px; color: #666;">The Reminder (Deluxe Version) (2008)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
