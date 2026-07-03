@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa" width="180" height="180" alt="Master of Puppets (Remastered Deluxe Box Set)" />
+<a href="https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550" width="180" height="180" alt="Take Care (Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ">Master of Puppets (Remastered)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa">The Motto</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">Master of Puppets (Remastered Deluxe Box Set) (1986)</span>
+<span style="font-size: 13px; color: #666;">Drake, Lil Wayne</span><br><span style="font-size: 12px; color: #666;">Take Care (Deluxe) (2011)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa" width="96" height="96" alt="Master of Puppets (Remastered Deluxe Box Set)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ">Master of Puppets (Remastered)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Metallica</span>
+    <br><span style="font-size: 12px; color: #666;">Master of Puppets (Remastered Deluxe Box Set) (1986)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
