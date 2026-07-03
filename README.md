@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cf4c914bea5aba3e3066595a" width="180" height="180" alt="Throwing Copper" />
+<a href="https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d609342d04c349815b5fe099" width="180" height="180" alt="Leave a Whisper (Deluxe Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1">Lightning Crashes</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v">45</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Live</span><br><span style="font-size: 12px; color: #666;">Throwing Copper (1994)</span>
+<span style="font-size: 13px; color: #666;">Shinedown</span><br><span style="font-size: 12px; color: #666;">Leave a Whisper (Deluxe Edition) (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cf4c914bea5aba3e3066595a" width="96" height="96" alt="Throwing Copper" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1">Lightning Crashes</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Live</span>
+    <br><span style="font-size: 12px; color: #666;">Throwing Copper (1994)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
