@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="180" height="180" alt="INSANO (NITRO MEGA)" />
+<a href="https://open.spotify.com/track/1Hg2egRryMkCdXqXmXki3A">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738d3609295177e58287f39f85" width="180" height="180" alt="Reanimation" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH">BABE AND I</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1Hg2egRryMkCdXqXmXki3A">Krwlng (Mike Shinoda Reanimation) [feat. Aaron Lewis]</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kid Cudi</span><br><span style="font-size: 12px; color: #666;">INSANO (NITRO MEGA) (2024)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park, Aaron Lewis</span><br><span style="font-size: 12px; color: #666;">Reanimation (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="96" height="96" alt="INSANO (NITRO MEGA)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH">BABE AND I</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kid Cudi</span>
+    <br><span style="font-size: 12px; color: #666;">INSANO (NITRO MEGA) (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Starbreeze Entertainment, Simon Viklund</span>
     <br><span style="font-size: 12px; color: #666;">Payday 2 Remastered (Official Soundtrack), Vol. 1 (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1qm9MfTAoEixNPSqshHqfV">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ff95d6da36363251247978a4" width="96" height="96" alt="Papi Gordo" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1qm9MfTAoEixNPSqshHqfV">Toca (feat. Timmy Trumpet &amp; KSHMR)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Carnage, Timmy Trumpet, KSHMR</span>
-    <br><span style="font-size: 12px; color: #666;">Papi Gordo (2015)</span>
   </td>
 </tr>
 <tr>
