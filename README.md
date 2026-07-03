@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734e7be339cee55cf14e6bc50f" width="96" height="96" alt="The Maze To Nowhere" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m">Acid Rain</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lorn</span>
-    <br><span style="font-size: 12px; color: #666;">The Maze To Nowhere (2015)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
