@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">
-  <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="180" height="180" alt="Graduation" />
+<a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b5ec73a1aa766b71aaeeed5e" width="180" height="180" alt="Bleed American (Deluxe Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">The Middle</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kanye West</span><br><span style="font-size: 12px; color: #666;">Graduation (2007)</span>
+<span style="font-size: 13px; color: #666;">Jimmy Eat World</span><br><span style="font-size: 12px; color: #666;">Bleed American (Deluxe Edition) (2001)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">
+      <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="96" height="96" alt="Graduation" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kanye West</span>
+    <br><span style="font-size: 12px; color: #666;">Graduation (2007)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
