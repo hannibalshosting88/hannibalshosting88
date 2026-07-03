@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">
-  <img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="180" height="180" alt="Origins (Deluxe)" />
+<a href="https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" width="180" height="180" alt="American Beauty/American Psycho" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr">Uma Thurman</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Origins (Deluxe) (2018)</span>
+<span style="font-size: 13px; color: #666;">Fall Out Boy</span><br><span style="font-size: 12px; color: #666;">American Beauty/American Psycho (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">
+      <img src="https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" width="96" height="96" alt="Origins (Deluxe)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD">Machine</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Imagine Dragons</span>
+    <br><span style="font-size: 12px; color: #666;">Origins (Deluxe) (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Nickelback</span>
     <br><span style="font-size: 12px; color: #666;">All The Right Reasons (15th Anniversary Expanded Edition) (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ">
-      <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" width="96" height="96" alt="Late Registration" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ">Gold Digger</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kanye West, Jamie Foxx</span>
-    <br><span style="font-size: 12px; color: #666;">Late Registration (2005)</span>
   </td>
 </tr>
 <tr>
