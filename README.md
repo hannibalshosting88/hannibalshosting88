@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739a9b1cc067e4460da04adce2" width="180" height="180" alt="The Razors Edge" />
+<a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX">
+  <img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="180" height="180" alt="Make Yourself" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0LkssuXRYPFYapjXH9pJBX">The Warmth</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">AC/DC</span><br><span style="font-size: 12px; color: #666;">The Razors Edge (1990)</span>
+<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">Make Yourself (1999)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739a9b1cc067e4460da04adce2" width="96" height="96" alt="The Razors Edge" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">AC/DC</span>
+    <br><span style="font-size: 12px; color: #666;">The Razors Edge (1990)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Seether</span>
     <br><span style="font-size: 12px; color: #666;">Karma and Effect (2005)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="96" height="96" alt="Hybrid Theory (Bonus Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll">With You</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Linkin Park</span>
-    <br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
   </td>
 </tr>
 <tr>
