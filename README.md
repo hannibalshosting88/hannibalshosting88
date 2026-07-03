@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL">
-  <img src="https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556" width="180" height="180" alt="Rio (Collector&#39;s Edition)" />
+<a href="https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0" width="180" height="180" alt="Ten" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL">Hungry Like the Wolf - 2009 Remaster</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o">Jeremy</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Duran Duran</span><br><span style="font-size: 12px; color: #666;">Rio (Collector&#39;s Edition) (1982)</span>
+<span style="font-size: 13px; color: #666;">Pearl Jam</span><br><span style="font-size: 12px; color: #666;">Ten (1991)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL">
+      <img src="https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556" width="96" height="96" alt="Rio (Collector&#39;s Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL">Hungry Like the Wolf - 2009 Remaster</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Duran Duran</span>
+    <br><span style="font-size: 12px; color: #666;">Rio (Collector&#39;s Edition) (1982)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
