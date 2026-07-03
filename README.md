@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2IkrmPjLxwNQ1QXS1xQe9n">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739aa7a825a468735e9e841780" width="96" height="96" alt="Payday 2 Remastered (Official Soundtrack), Vol. 1" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2IkrmPjLxwNQ1QXS1xQe9n">Calling All Units</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Starbreeze Entertainment, Simon Viklund</span>
-    <br><span style="font-size: 12px; color: #666;">Payday 2 Remastered (Official Soundtrack), Vol. 1 (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
