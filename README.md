@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e77ae7296a791597f64e4ea1" width="180" height="180" alt="Awkward Encounters While Walking My Dog" />
+<a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738d3609295177e58287f39f85" width="180" height="180" alt="Reanimation" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">I&#39;ve No More ... To Give</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0T7fLoDpZcSFYybJ3xXtgd">Pts.Of.Athrty - Jay Gordon Reanimation</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Thomas Benjamin Wild Esq, Damian Clark</span><br><span style="font-size: 12px; color: #666;">Awkward Encounters While Walking My Dog (2018)</span>
+<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Reanimation (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e77ae7296a791597f64e4ea1" width="96" height="96" alt="Awkward Encounters While Walking My Dog" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl">I&#39;ve No More ... To Give</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Thomas Benjamin Wild Esq, Damian Clark</span>
+    <br><span style="font-size: 12px; color: #666;">Awkward Encounters While Walking My Dog (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
