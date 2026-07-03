@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732127d038204bc32c416d55e2" width="96" height="96" alt="Mercy" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2">Mercy</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kanye West, Big Sean, Pusha T, 2 Chainz</span>
-    <br><span style="font-size: 12px; color: #666;">Mercy (2012)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
