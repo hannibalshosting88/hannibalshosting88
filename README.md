@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6k7p4qpvxMajUR6tRPdDFO">
-      <img src="https://i.scdn.co/image/ab67616d0000b273699599750974684ca0a6cc8a" width="96" height="96" alt="Outlaw Nation, Vol. 1" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6k7p4qpvxMajUR6tRPdDFO">Welcome to My House</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Nu Breed, Jesse Howard</span>
-    <br><span style="font-size: 12px; color: #666;">Outlaw Nation, Vol. 1 (2021)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
