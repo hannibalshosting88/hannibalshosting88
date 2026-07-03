@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="180" height="180" alt="Minutes to Midnight" />
+<a href="https://open.spotify.com/track/2fssIzMtXzohm6UYZL8R1R">
+  <img src="https://i.scdn.co/image/ab67616d0000b27328b8e471ff4de594b713d743" width="180" height="180" alt="The Reminder (Deluxe Version)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">Bleed It Out</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2fssIzMtXzohm6UYZL8R1R">1234</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Linkin Park</span><br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
+<span style="font-size: 13px; color: #666;">Feist</span><br><span style="font-size: 12px; color: #666;">The Reminder (Deluxe Version) (2008)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="96" height="96" alt="Minutes to Midnight" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA">Bleed It Out</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Linkin Park</span>
+    <br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Kanye West</span>
     <br><span style="font-size: 12px; color: #666;">Graduation (2007)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/46lIt6GmL0VkkbuUyGDbCs">
-      <img src="https://i.scdn.co/image/ab67616d0000b27333ebdffaa447ff19ce9f24bb" width="96" height="96" alt="Tha Carter III" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/46lIt6GmL0VkkbuUyGDbCs">Got Money</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lil Wayne, T-Pain</span>
-    <br><span style="font-size: 12px; color: #666;">Tha Carter III (2008)</span>
   </td>
 </tr>
 <tr>
