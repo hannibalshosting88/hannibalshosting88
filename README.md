@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M">
-  <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="180" height="180" alt="Fallen" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M">My Immortal</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Evanescence</span><br><span style="font-size: 12px; color: #666;">Fallen (2003)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M">
+      <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="96" height="96" alt="Fallen" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M">My Immortal</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Evanescence</span>
+    <br><span style="font-size: 12px; color: #666;">Fallen (2003)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Sublime</span>
     <br><span style="font-size: 12px; color: #666;">1996</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" width="96" height="96" alt="Kings Of Crunk" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6uWliNGZEZKGMPwSwccdjG">I Don&#39;t Give A...</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Lil Jon &amp; The East Side Boyz, Mystikal, Krayzie Bone</span>
-    <br><span style="font-size: 12px; color: #666;">Kings Of Crunk (2002)</span>
   </td>
 </tr>
 <tr>
