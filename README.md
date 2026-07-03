@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/46lIt6GmL0VkkbuUyGDbCs">
-  <img src="https://i.scdn.co/image/ab67616d0000b27333ebdffaa447ff19ce9f24bb" width="180" height="180" alt="Tha Carter III" />
+<a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">
+  <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" width="180" height="180" alt="Graduation" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/46lIt6GmL0VkkbuUyGDbCs">Got Money</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf">Stronger</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lil Wayne, T-Pain</span><br><span style="font-size: 12px; color: #666;">Tha Carter III (2008)</span>
+<span style="font-size: 13px; color: #666;">Kanye West</span><br><span style="font-size: 12px; color: #666;">Graduation (2007)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/46lIt6GmL0VkkbuUyGDbCs">
+      <img src="https://i.scdn.co/image/ab67616d0000b27333ebdffaa447ff19ce9f24bb" width="96" height="96" alt="Tha Carter III" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/46lIt6GmL0VkkbuUyGDbCs">Got Money</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lil Wayne, T-Pain</span>
+    <br><span style="font-size: 12px; color: #666;">Tha Carter III (2008)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
