@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6r027Faonff84hxFMjMbIH">
-  <img src="https://i.scdn.co/image/ab67616d0000b273643e6ecebab400d52574e4b2" width="180" height="180" alt="Rap God" />
+<a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="180" height="180" alt="INSANO (NITRO MEGA)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6r027Faonff84hxFMjMbIH">Rap God</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2Gyge9sAcLi9EfYKWYQGWH">BABE AND I</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Eminem</span><br><span style="font-size: 12px; color: #666;">Rap God (2013)</span>
+<span style="font-size: 13px; color: #666;">Kid Cudi</span><br><span style="font-size: 12px; color: #666;">INSANO (NITRO MEGA) (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6r027Faonff84hxFMjMbIH">
+      <img src="https://i.scdn.co/image/ab67616d0000b273643e6ecebab400d52574e4b2" width="96" height="96" alt="Rap God" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6r027Faonff84hxFMjMbIH">Rap God</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Eminem</span>
+    <br><span style="font-size: 12px; color: #666;">Rap God (2013)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
