@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7fWFqVCqWk6tUvN7QPtAgN">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d00e49003543a5bb5aa5b873" width="180" height="180" alt="The Collection (Standard Edition)" />
+<a href="https://open.spotify.com/track/2osYucU0wCd95ppZXDZhF7">
+  <img src="https://i.scdn.co/image/ab67616d0000b273591e4932468b37feeb378830" width="180" height="180" alt="22 Grand" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7fWFqVCqWk6tUvN7QPtAgN">Head over Feet</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2osYucU0wCd95ppZXDZhF7">22 Grand</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Alanis Morissette</span><br><span style="font-size: 12px; color: #666;">The Collection (Standard Edition) (2005)</span>
+<span style="font-size: 13px; color: #666;">DigBar</span><br><span style="font-size: 12px; color: #666;">22 Grand (2025)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7fWFqVCqWk6tUvN7QPtAgN">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d00e49003543a5bb5aa5b873" width="96" height="96" alt="The Collection (Standard Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7fWFqVCqWk6tUvN7QPtAgN">Head over Feet</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Alanis Morissette</span>
+    <br><span style="font-size: 12px; color: #666;">The Collection (Standard Edition) (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">*NSYNC</span>
     <br><span style="font-size: 12px; color: #666;">Celebrity (2001)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M">
-      <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" width="96" height="96" alt="Fallen" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M">My Immortal</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Evanescence</span>
-    <br><span style="font-size: 12px; color: #666;">Fallen (2003)</span>
   </td>
 </tr>
 <tr>
