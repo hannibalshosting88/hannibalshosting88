@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550" width="96" height="96" alt="Take Care (Deluxe)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa">The Motto</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Drake, Lil Wayne</span>
-    <br><span style="font-size: 12px; color: #666;">Take Care (Deluxe) (2011)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
