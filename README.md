@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733892a55b29583746e1b4cd48" width="180" height="180" alt="The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)" />
+<a href="https://open.spotify.com/track/6r027Faonff84hxFMjMbIH">
+  <img src="https://i.scdn.co/image/ab67616d0000b273643e6ecebab400d52574e4b2" width="180" height="180" alt="Rap God" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA">Tokyo Drift (Fast &amp; Furious) - From &quot;The Fast And The Furious: Tokyo Drift&quot; Soundtrack</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6r027Faonff84hxFMjMbIH">Rap God</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Teriyaki Boyz</span><br><span style="font-size: 12px; color: #666;">The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack) (2006)</span>
+<span style="font-size: 13px; color: #666;">Eminem</span><br><span style="font-size: 12px; color: #666;">Rap God (2013)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733892a55b29583746e1b4cd48" width="96" height="96" alt="The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA">Tokyo Drift (Fast &amp; Furious) - From &quot;The Fast And The Furious: Tokyo Drift&quot; Soundtrack</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Teriyaki Boyz</span>
+    <br><span style="font-size: 12px; color: #666;">The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack) (2006)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
