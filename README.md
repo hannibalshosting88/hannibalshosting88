@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2zO4To4N8Facnm7JabUSaE">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ce1e75781485d548bc4f1a1d" width="96" height="96" alt="Video Game Music - Collection 1" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2zO4To4N8Facnm7JabUSaE">Tetris - Main Theme - Epic Version</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Sofa Sounds</span>
-    <br><span style="font-size: 12px; color: #666;">Video Game Music - Collection 1 (2019)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
