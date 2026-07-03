@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc">
-  <img src="https://i.scdn.co/image/ab67616d0000b27347eb3ea5a92904c19e102e54" width="180" height="180" alt="Supernatural (Remastered)" />
+<a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cf4c914bea5aba3e3066595a" width="180" height="180" alt="Throwing Copper" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc">Maria Maria (feat. The Product G&amp;B)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1">Lightning Crashes</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Santana, The Product G&amp;B</span><br><span style="font-size: 12px; color: #666;">Supernatural (Remastered) (1999)</span>
+<span style="font-size: 13px; color: #666;">Live</span><br><span style="font-size: 12px; color: #666;">Throwing Copper (1994)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc">
+      <img src="https://i.scdn.co/image/ab67616d0000b27347eb3ea5a92904c19e102e54" width="96" height="96" alt="Supernatural (Remastered)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc">Maria Maria (feat. The Product G&amp;B)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Santana, The Product G&amp;B</span>
+    <br><span style="font-size: 12px; color: #666;">Supernatural (Remastered) (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
