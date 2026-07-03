@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380" width="180" height="180" alt="Reload" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB">The Unforgiven II</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Metallica</span><br><span style="font-size: 12px; color: #666;">Reload (1997)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a49eff6d64cafc2551553380" width="96" height="96" alt="Reload" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB">The Unforgiven II</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Metallica</span>
+    <br><span style="font-size: 12px; color: #666;">Reload (1997)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Linkin Park</span>
     <br><span style="font-size: 12px; color: #666;">Minutes to Midnight (2007)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d609342d04c349815b5fe099" width="96" height="96" alt="Leave a Whisper (Deluxe Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v">45</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Shinedown</span>
-    <br><span style="font-size: 12px; color: #666;">Leave a Whisper (Deluxe Edition) (2003)</span>
   </td>
 </tr>
 <tr>
