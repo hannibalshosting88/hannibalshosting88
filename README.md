@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0DxN6Ywom8nnndyQXdSBPy">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d1fd8f264564d9eef7617a45" width="180" height="180" alt="Ocean Avenue" />
+<a href="https://open.spotify.com/track/175WI4qV4AAPg6PnqrGq12">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734b1b552018a7e22fd85cb365" width="180" height="180" alt="Extermination//Extinction" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0DxN6Ywom8nnndyQXdSBPy">Breathing</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/175WI4qV4AAPg6PnqrGq12">Extermination//Extinction</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Yellowcard</span><br><span style="font-size: 12px; color: #666;">Ocean Avenue (2003)</span>
+<span style="font-size: 13px; color: #666;">Psygnals</span><br><span style="font-size: 12px; color: #666;">Extermination//Extinction (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0DxN6Ywom8nnndyQXdSBPy">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d1fd8f264564d9eef7617a45" width="96" height="96" alt="Ocean Avenue" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0DxN6Ywom8nnndyQXdSBPy">Breathing</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Yellowcard</span>
+    <br><span style="font-size: 12px; color: #666;">Ocean Avenue (2003)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
