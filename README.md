@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a2b4f98f60e3cacf3866b2e3" width="180" height="180" alt="Eliminator" />
+<a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7">
+  <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="180" height="180" alt="From Under The Cork Tree" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom">Sharp Dressed Man (2008 Remaster)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7">Dance, Dance</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">ZZ Top</span><br><span style="font-size: 12px; color: #666;">Eliminator (1983)</span>
+<span style="font-size: 13px; color: #666;">Fall Out Boy</span><br><span style="font-size: 12px; color: #666;">From Under The Cork Tree (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a2b4f98f60e3cacf3866b2e3" width="96" height="96" alt="Eliminator" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom">Sharp Dressed Man (2008 Remaster)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">ZZ Top</span>
+    <br><span style="font-size: 12px; color: #666;">Eliminator (1983)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
