@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7">
-  <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="180" height="180" alt="From Under The Cork Tree" />
+<a href="https://open.spotify.com/track/0U06KMaiGKXj2dUmNhMDir">
+  <img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="180" height="180" alt="Crypt of the Necrodancer (Original Game Soundtrack)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7">Dance, Dance</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0U06KMaiGKXj2dUmNhMDir">Konga Conga Kappa</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Fall Out Boy</span><br><span style="font-size: 12px; color: #666;">From Under The Cork Tree (2005)</span>
+<span style="font-size: 13px; color: #666;">Danny Baranowsky</span><br><span style="font-size: 12px; color: #666;">Crypt of the Necrodancer (Original Game Soundtrack) (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7">
+      <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" width="96" height="96" alt="From Under The Cork Tree" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7">Dance, Dance</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Fall Out Boy</span>
+    <br><span style="font-size: 12px; color: #666;">From Under The Cork Tree (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
