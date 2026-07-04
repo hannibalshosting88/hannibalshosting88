@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0U06KMaiGKXj2dUmNhMDir">
-  <img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="180" height="180" alt="Crypt of the Necrodancer (Original Game Soundtrack)" />
+<a href="https://open.spotify.com/track/0DxN6Ywom8nnndyQXdSBPy">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d1fd8f264564d9eef7617a45" width="180" height="180" alt="Ocean Avenue" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0U06KMaiGKXj2dUmNhMDir">Konga Conga Kappa</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0DxN6Ywom8nnndyQXdSBPy">Breathing</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Danny Baranowsky</span><br><span style="font-size: 12px; color: #666;">Crypt of the Necrodancer (Original Game Soundtrack) (2015)</span>
+<span style="font-size: 13px; color: #666;">Yellowcard</span><br><span style="font-size: 12px; color: #666;">Ocean Avenue (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0U06KMaiGKXj2dUmNhMDir">
+      <img src="https://i.scdn.co/image/ab67616d0000b273735452bc4bcbb34782034840" width="96" height="96" alt="Crypt of the Necrodancer (Original Game Soundtrack)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0U06KMaiGKXj2dUmNhMDir">Konga Conga Kappa</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Danny Baranowsky</span>
+    <br><span style="font-size: 12px; color: #666;">Crypt of the Necrodancer (Original Game Soundtrack) (2015)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Incubus</span>
     <br><span style="font-size: 12px; color: #666;">Make Yourself (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739a9b1cc067e4460da04adce2" width="96" height="96" alt="The Razors Edge" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">AC/DC</span>
-    <br><span style="font-size: 12px; color: #666;">The Razors Edge (1990)</span>
   </td>
 </tr>
 <tr>
