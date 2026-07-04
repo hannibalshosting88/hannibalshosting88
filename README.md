@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/6U7hbOHxn2H2OeIyDAVINH">
-  <img src="https://i.scdn.co/image/ab6765630000ba8ae9517056de2bf187f42c6abe" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6U7hbOHxn2H2OeIyDAVINH">Is AI the Great Filter? | The Fermi Paradox</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/6U7hbOHxn2H2OeIyDAVINH">
+      <img src="https://i.scdn.co/image/ab6765630000ba8ae9517056de2bf187f42c6abe" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6U7hbOHxn2H2OeIyDAVINH">Is AI the Great Filter? | The Fermi Paradox</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
+    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Limp Bizkit</span>
     <br><span style="font-size: 12px; color: #666;">Significant Other (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c66ad69a4c9fec63e6f49a3a" width="96" height="96" alt="Karma and Effect" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc">Remedy</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Seether</span>
-    <br><span style="font-size: 12px; color: #666;">Karma and Effect (2005)</span>
   </td>
 </tr>
 <tr>
