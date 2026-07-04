@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c66ad69a4c9fec63e6f49a3a" width="180" height="180" alt="Karma and Effect" />
+<a href="https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c" width="180" height="180" alt="Significant Other" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc">Remedy</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX">Break Stuff</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Seether</span><br><span style="font-size: 12px; color: #666;">Karma and Effect (2005)</span>
+<span style="font-size: 13px; color: #666;">Limp Bizkit</span><br><span style="font-size: 12px; color: #666;">Significant Other (1999)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c66ad69a4c9fec63e6f49a3a" width="96" height="96" alt="Karma and Effect" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc">Remedy</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Seether</span>
+    <br><span style="font-size: 12px; color: #666;">Karma and Effect (2005)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">ZZ Top</span>
     <br><span style="font-size: 12px; color: #666;">Eliminator (1983)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN">
-      <img src="https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa" width="96" height="96" alt="Toxicity" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN">Chop Suey!</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">System Of A Down</span>
-    <br><span style="font-size: 12px; color: #666;">Toxicity (2001)</span>
   </td>
 </tr>
 <tr>
