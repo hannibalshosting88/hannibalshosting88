@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c" width="96" height="96" alt="Significant Other" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX">Break Stuff</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Limp Bizkit</span>
-    <br><span style="font-size: 12px; color: #666;">Significant Other (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
