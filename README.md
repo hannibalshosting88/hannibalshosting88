@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/175WI4qV4AAPg6PnqrGq12">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734b1b552018a7e22fd85cb365" width="180" height="180" alt="Extermination//Extinction" />
+<a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">
+  <img src="https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2" width="180" height="180" alt="A Bar Song (Tipsy)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/175WI4qV4AAPg6PnqrGq12">Extermination//Extinction</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf">A Bar Song (Tipsy)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Psygnals</span><br><span style="font-size: 12px; color: #666;">Extermination//Extinction (2024)</span>
+<span style="font-size: 13px; color: #666;">Shaboozey</span><br><span style="font-size: 12px; color: #666;">A Bar Song (Tipsy) (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/175WI4qV4AAPg6PnqrGq12">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734b1b552018a7e22fd85cb365" width="96" height="96" alt="Extermination//Extinction" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/175WI4qV4AAPg6PnqrGq12">Extermination//Extinction</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Psygnals</span>
+    <br><span style="font-size: 12px; color: #666;">Extermination//Extinction (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Linkin Park</span>
     <br><span style="font-size: 12px; color: #666;">Hybrid Theory (Bonus Edition) (2000)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cdf16453ba15c8f97644e630" width="96" height="96" alt="Come on!" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/7DIyNeYrxOGkO6SCgZd6q4">Come on!</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kyle Exum</span>
-    <br><span style="font-size: 12px; color: #666;">Come on! (2024)</span>
   </td>
 </tr>
 <tr>
