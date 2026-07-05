@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/34GWfxjJsVNCGrhIHK9wPc">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730a364a6839ed83f8fa981209" width="180" height="180" alt="Carry on Wayward Son" />
+<a href="https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b7ded75d35cf4364ba3f5267" width="180" height="180" alt="Good Apollo I&#39;m Burning Star IV Volume One: From Fear Through The Eyes Of Madness" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/34GWfxjJsVNCGrhIHK9wPc">Carry on Wayward Son</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO">Welcome Home</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Neoni</span><br><span style="font-size: 12px; color: #666;">Carry on Wayward Son (2018)</span>
+<span style="font-size: 13px; color: #666;">Coheed and Cambria</span><br><span style="font-size: 12px; color: #666;">Good Apollo I&#39;m Burning Star IV Volume One: From Fear Through The Eyes Of Madness (2005)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/34GWfxjJsVNCGrhIHK9wPc">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730a364a6839ed83f8fa981209" width="96" height="96" alt="Carry on Wayward Son" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/34GWfxjJsVNCGrhIHK9wPc">Carry on Wayward Son</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Neoni</span>
+    <br><span style="font-size: 12px; color: #666;">Carry on Wayward Son (2018)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1aLVqTsMnCqtwDQjFNWUvA">The Physics of FTL Travel</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/1O49IElKmX6JqV4t2sKTIe">
-      <img src="https://i.scdn.co/image/ab6765630000ba8abe501d12e0dd98c213a7e60b" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/1O49IElKmX6JqV4t2sKTIe">Why Haven’t We Found Dyson Spheres Yet?</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
