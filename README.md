@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/34GWfxjJsVNCGrhIHK9wPc">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730a364a6839ed83f8fa981209" width="96" height="96" alt="Carry on Wayward Son" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/34GWfxjJsVNCGrhIHK9wPc">Carry on Wayward Son</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Neoni</span>
-    <br><span style="font-size: 12px; color: #666;">Carry on Wayward Son (2018)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
