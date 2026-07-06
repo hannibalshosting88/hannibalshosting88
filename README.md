@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" width="96" height="96" alt="When The World Comes Down" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF">Gives You Hell</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The All-American Rejects</span>
-    <br><span style="font-size: 12px; color: #666;">When The World Comes Down (2008)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
