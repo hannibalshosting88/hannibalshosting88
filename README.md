@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731465e21342bc252bfdf74565" width="180" height="180" alt="Light and Heavy/The Best of..." />
+<a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU">
+  <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="180" height="180" alt="24K Magic" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b">In-A-Gadda-Da-Vida - Single Version</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU">That&#39;s What I Like</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Iron Butterfly</span><br><span style="font-size: 12px; color: #666;">Light and Heavy/The Best of... (2007)</span>
+<span style="font-size: 13px; color: #666;">Bruno Mars</span><br><span style="font-size: 12px; color: #666;">24K Magic (2016)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731465e21342bc252bfdf74565" width="96" height="96" alt="Light and Heavy/The Best of..." />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b">In-A-Gadda-Da-Vida - Single Version</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Iron Butterfly</span>
+    <br><span style="font-size: 12px; color: #666;">Light and Heavy/The Best of... (2007)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Bad Wolves</span>
     <br><span style="font-size: 12px; color: #666;">Zombie (2018)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol">
-      <img src="https://i.scdn.co/image/ab67616d0000b27305f94511cc38a2f4652d9f9c" width="96" height="96" alt="Stop All The World Now" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol">Collide</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Howie Day</span>
-    <br><span style="font-size: 12px; color: #666;">Stop All The World Now (2003)</span>
   </td>
 </tr>
 <tr>
