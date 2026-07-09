@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU">
-  <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="180" height="180" alt="24K Magic" />
+<a href="https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b1734866c6b6e994102176a6" width="180" height="180" alt="Brothers" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU">That&#39;s What I Like</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4">Howlin&#39; for You</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Bruno Mars</span><br><span style="font-size: 12px; color: #666;">24K Magic (2016)</span>
+<span style="font-size: 13px; color: #666;">The Black Keys</span><br><span style="font-size: 12px; color: #666;">Brothers (2010)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU">
+      <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" width="96" height="96" alt="24K Magic" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU">That&#39;s What I Like</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Bruno Mars</span>
+    <br><span style="font-size: 12px; color: #666;">24K Magic (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
