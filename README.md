@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a1e05e1048e2cf2737adf742" width="96" height="96" alt="Hot Space (Deluxe Remastered Version)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw">Under Pressure - Remastered 2011</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Queen, David Bowie</span>
-    <br><span style="font-size: 12px; color: #666;">Hot Space (Deluxe Remastered Version) (1982)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
