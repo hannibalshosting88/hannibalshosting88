@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10">
-  <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="180" height="180" alt="The Lion King" />
+<a href="https://open.spotify.com/track/38iBrrbbXyWaSPkmuDNgjZ">
+  <img src="https://i.scdn.co/image/ab67616d0000b27355dfd42001dbc79e5552c82c" width="180" height="180" alt="The Adventures of Moon Man &amp; Slim Shady (with Eminem)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10">Be Prepared</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/38iBrrbbXyWaSPkmuDNgjZ">The Adventures of Moon Man &amp; Slim Shady (with Eminem)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings</span><br><span style="font-size: 12px; color: #666;">The Lion King (1994)</span>
+<span style="font-size: 13px; color: #666;">Kid Cudi, Eminem</span><br><span style="font-size: 12px; color: #666;">The Adventures of Moon Man &amp; Slim Shady (with Eminem) (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10">
+      <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="96" height="96" alt="The Lion King" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10">Be Prepared</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings</span>
+    <br><span style="font-size: 12px; color: #666;">The Lion King (1994)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
