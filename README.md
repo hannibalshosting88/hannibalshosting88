@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/2lY9nKosxOxmNvLEYW3zTN">
-  <img src="https://i.scdn.co/image/ab67616d0000b273aca6b9a54f6374da360deac3" width="180" height="180" alt="Antisleep Vol. 03" />
+<a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea" width="180" height="180" alt="Smoke + Mirrors (Deluxe)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/2lY9nKosxOxmNvLEYW3zTN">Transmission from Hell</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8">Monster</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Blue Stahli</span><br><span style="font-size: 12px; color: #666;">Antisleep Vol. 03 (2012)</span>
+<span style="font-size: 13px; color: #666;">Imagine Dragons</span><br><span style="font-size: 12px; color: #666;">Smoke + Mirrors (Deluxe) (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2lY9nKosxOxmNvLEYW3zTN">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aca6b9a54f6374da360deac3" width="96" height="96" alt="Antisleep Vol. 03" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2lY9nKosxOxmNvLEYW3zTN">Transmission from Hell</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Blue Stahli</span>
+    <br><span style="font-size: 12px; color: #666;">Antisleep Vol. 03 (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7skPMXM3otxQCE9ZoTKF6g">SCP-2273 │ Major Alexei Belitrov │ Euclid │ Extradimensional SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/5el89U3PQhy60RmzlA9HtC">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a532edc9f442f5e4d31091684" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/5el89U3PQhy60RmzlA9HtC">SCP-1299 : Dr█wning Tub : Euclid : Mind Affecting SCP ( Starring Lumienkeli )</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
     <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
