@@ -22,18 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
+<a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a8e03e94e0f1cac6946f8ce9" width="180" height="180" alt="Thrifty x Spooky Raccoon" />
+</a>
 
 <br>
 
-<b>💤 Offline • Nothing currently playing</b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0wtyAQtz3YiZAKhF5pTNKW">Thrifty</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
+<span style="font-size: 13px; color: #666;">Thundersmack</span><br><span style="font-size: 12px; color: #666;">Thrifty x Spooky Raccoon (2021)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dcfd553d37cb4bcedbc0e829" width="96" height="96" alt="Freddie&#39;s Inferno" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO">Wrath</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Freddie Dredd</span>
+    <br><span style="font-size: 12px; color: #666;">Freddie&#39;s Inferno (2022)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -182,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Oliver Anthony Music</span>
     <br><span style="font-size: 12px; color: #666;">Rich Men North of Richmond (2023)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fd47f4e731d91210018d62ea" width="96" height="96" alt="The Rise of Hobo Johnson" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB">Romeo &amp; Juliet</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Hobo Johnson</span>
-    <br><span style="font-size: 12px; color: #666;">The Rise of Hobo Johnson (2017)</span>
   </td>
 </tr>
 <tr>
