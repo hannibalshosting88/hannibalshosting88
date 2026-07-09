@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2lY9nKosxOxmNvLEYW3zTN">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aca6b9a54f6374da360deac3" width="96" height="96" alt="Antisleep Vol. 03" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2lY9nKosxOxmNvLEYW3zTN">Transmission from Hell</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Blue Stahli</span>
-    <br><span style="font-size: 12px; color: #666;">Antisleep Vol. 03 (2012)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
