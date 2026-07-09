@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fd47f4e731d91210018d62ea" width="180" height="180" alt="The Rise of Hobo Johnson" />
+<a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="180" height="180" alt="Rich Men North of Richmond" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB">Romeo &amp; Juliet</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Hobo Johnson</span><br><span style="font-size: 12px; color: #666;">The Rise of Hobo Johnson (2017)</span>
+<span style="font-size: 13px; color: #666;">Oliver Anthony Music</span><br><span style="font-size: 12px; color: #666;">Rich Men North of Richmond (2023)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fd47f4e731d91210018d62ea" width="96" height="96" alt="The Rise of Hobo Johnson" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0J8oh5MAMyUPRIgflnjwmB">Romeo &amp; Juliet</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Hobo Johnson</span>
+    <br><span style="font-size: 12px; color: #666;">The Rise of Hobo Johnson (2017)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
