@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">
-  <img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="180" height="180" alt="Make Yourself" />
+<a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10">
+  <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" width="180" height="180" alt="The Lion King" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">Make Yourself</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10">Be Prepared</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">Make Yourself (1999)</span>
+<span style="font-size: 13px; color: #666;">Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings</span><br><span style="font-size: 12px; color: #666;">The Lion King (1994)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">
+      <img src="https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e" width="96" height="96" alt="Make Yourself" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX">Make Yourself</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Incubus</span>
+    <br><span style="font-size: 12px; color: #666;">Make Yourself (1999)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -181,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6BSOv6VQuC0r8976xeoM29">SCP-1689 - Bag of Holding Potatoes : Object Class - Safe : Self-Replicating SCP</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
-    <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/7o5IDKDnTkKabSu5pCB1L9">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a58d5bd713eb43dfb7a5fb4dc" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7o5IDKDnTkKabSu5pCB1L9">SCP-5005 │ Lamplight │ Euclid │ Mind Affecting/Extraterrestrial SCP</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
     <br><span style="font-size: 12px; color: #666;">TheVolgun (2025)</span>
