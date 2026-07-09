@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="180" height="180" alt="Rich Men North of Richmond" />
+<a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e2536742006d8688aeb222a2" width="180" height="180" alt="bad times friend..." />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5vkDSUiDwvOzJw5jGuWF48">By the Sword</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Oliver Anthony Music</span><br><span style="font-size: 12px; color: #666;">Rich Men North of Richmond (2023)</span>
+<span style="font-size: 13px; color: #666;">iamjakehill</span><br><span style="font-size: 12px; color: #666;">bad times friend... (2020)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f842f028c8716c62bbd7c57a" width="96" height="96" alt="Rich Men North of Richmond" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP">Rich Men North of Richmond</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Oliver Anthony Music</span>
+    <br><span style="font-size: 12px; color: #666;">Rich Men North of Richmond (2023)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">DRAM, Lil Yachty</span>
     <br><span style="font-size: 12px; color: #666;">Broccoli (2016)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">
-      <img src="https://i.scdn.co/image/ab67616d0000b27393c1b92aa259f41ee79f6e4d" width="96" height="96" alt="SANTIAGO" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">SANTIAGO</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">SIDEQUEST</span>
-    <br><span style="font-size: 12px; color: #666;">SANTIAGO (2024)</span>
   </td>
 </tr>
 <tr>
