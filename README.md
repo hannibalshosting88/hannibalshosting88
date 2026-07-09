@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/38iBrrbbXyWaSPkmuDNgjZ">
-      <img src="https://i.scdn.co/image/ab67616d0000b27355dfd42001dbc79e5552c82c" width="96" height="96" alt="The Adventures of Moon Man &amp; Slim Shady (with Eminem)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/38iBrrbbXyWaSPkmuDNgjZ">The Adventures of Moon Man &amp; Slim Shady (with Eminem)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kid Cudi, Eminem</span>
-    <br><span style="font-size: 12px; color: #666;">The Adventures of Moon Man &amp; Slim Shady (with Eminem) (2020)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
