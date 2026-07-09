@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eb034e1b6f184377ea92965a" width="96" height="96" alt="Zombie" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n">Zombie</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Bad Wolves</span>
-    <br><span style="font-size: 12px; color: #666;">Zombie (2018)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
