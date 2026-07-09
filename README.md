@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890" width="180" height="180" alt="Wonder What&#39;s Next (Expanded Edition)" />
+<a href="https://open.spotify.com/track/5Cg6S5BXG6lXqjijSK9zFh">
+  <img src="https://i.scdn.co/image/ab67616d0000b273548833f6039e45228205c4ad" width="180" height="180" alt="b-sides and rarities" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl">Closure</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5Cg6S5BXG6lXqjijSK9zFh">War Pigs</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Chevelle</span><br><span style="font-size: 12px; color: #666;">Wonder What&#39;s Next (Expanded Edition) (2002)</span>
+<span style="font-size: 13px; color: #666;">CAKE</span><br><span style="font-size: 12px; color: #666;">b-sides and rarities (2007)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890" width="96" height="96" alt="Wonder What&#39;s Next (Expanded Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl">Closure</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Chevelle</span>
+    <br><span style="font-size: 12px; color: #666;">Wonder What&#39;s Next (Expanded Edition) (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
