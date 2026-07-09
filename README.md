@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fdeac207b7369d188cb2221c" width="180" height="180" alt="Broccoli" />
+<a href="https://open.spotify.com/track/2oiIjAOaTrGL16gjabClJC">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f7cf7286c6924c4391fb1a66" width="180" height="180" alt="Brasshopper" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71">Broccoli</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/2oiIjAOaTrGL16gjabClJC">Pushin&#39; the Soundsystem</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">DRAM, Lil Yachty</span><br><span style="font-size: 12px; color: #666;">Broccoli (2016)</span>
+<span style="font-size: 13px; color: #666;">Broken Brass</span><br><span style="font-size: 12px; color: #666;">Brasshopper (2015)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fdeac207b7369d188cb2221c" width="96" height="96" alt="Broccoli" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71">Broccoli</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">DRAM, Lil Yachty</span>
+    <br><span style="font-size: 12px; color: #666;">Broccoli (2016)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
