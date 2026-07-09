@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6l5D1WC6kR5cxaUOEyCGvs">
-  <img src="https://i.scdn.co/image/ab67616d0000b273659900ad24c52942a1b900cc" width="180" height="180" alt="Sugar Sugar" />
+<a href="https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a1e05e1048e2cf2737adf742" width="180" height="180" alt="Hot Space (Deluxe Remastered Version)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6l5D1WC6kR5cxaUOEyCGvs">Sugar, Sugar</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw">Under Pressure - Remastered 2011</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">The Archies</span><br><span style="font-size: 12px; color: #666;">Sugar Sugar (1968)</span>
+<span style="font-size: 13px; color: #666;">Queen, David Bowie</span><br><span style="font-size: 12px; color: #666;">Hot Space (Deluxe Remastered Version) (1982)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6l5D1WC6kR5cxaUOEyCGvs">
+      <img src="https://i.scdn.co/image/ab67616d0000b273659900ad24c52942a1b900cc" width="96" height="96" alt="Sugar Sugar" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6l5D1WC6kR5cxaUOEyCGvs">Sugar, Sugar</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">The Archies</span>
+    <br><span style="font-size: 12px; color: #666;">Sugar Sugar (1968)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
