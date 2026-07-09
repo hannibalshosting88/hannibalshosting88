@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">
-  <img src="https://i.scdn.co/image/ab67616d0000b27393c1b92aa259f41ee79f6e4d" width="180" height="180" alt="SANTIAGO" />
+<a href="https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fdeac207b7369d188cb2221c" width="180" height="180" alt="Broccoli" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">SANTIAGO</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71">Broccoli</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">SIDEQUEST</span><br><span style="font-size: 12px; color: #666;">SANTIAGO (2024)</span>
+<span style="font-size: 13px; color: #666;">DRAM, Lil Yachty</span><br><span style="font-size: 12px; color: #666;">Broccoli (2016)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">
+      <img src="https://i.scdn.co/image/ab67616d0000b27393c1b92aa259f41ee79f6e4d" width="96" height="96" alt="SANTIAGO" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/56H6BNt2BwJRg91YsiXJS0">SANTIAGO</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">SIDEQUEST</span>
+    <br><span style="font-size: 12px; color: #666;">SANTIAGO (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Nickelback</span>
     <br><span style="font-size: 12px; color: #666;">Dark Horse (2008)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734e7ff4a30597e57f5bc988f9" width="96" height="96" alt="System Of A Down (Deluxe Version)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw">Spiders</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">System Of A Down</span>
-    <br><span style="font-size: 12px; color: #666;">System Of A Down (Deluxe Version) (1998)</span>
   </td>
 </tr>
 <tr>
