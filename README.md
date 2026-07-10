@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731465e21342bc252bfdf74565" width="96" height="96" alt="Light and Heavy/The Best of..." />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b">In-A-Gadda-Da-Vida - Single Version</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Iron Butterfly</span>
-    <br><span style="font-size: 12px; color: #666;">Light and Heavy/The Best of... (2007)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
