@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">
-      <img src="https://i.scdn.co/image/ab67616d0000b273645606c85724da85f15f6dee" width="96" height="96" alt="Enema Of The State" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52">What&#39;s My Age Again?</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">blink-182</span>
-    <br><span style="font-size: 12px; color: #666;">Enema Of The State (1999)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
