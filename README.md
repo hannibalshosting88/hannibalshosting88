@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b1734866c6b6e994102176a6" width="96" height="96" alt="Brothers" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4">Howlin&#39; for You</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Black Keys</span>
-    <br><span style="font-size: 12px; color: #666;">Brothers (2010)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
