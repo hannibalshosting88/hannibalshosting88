@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/7Fe9AQEYiCNZlHBALSm46h">
-  <img src="https://i.scdn.co/image/ab6765630000ba8ad4e579e31059b4392f56bbb2" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
+<a href="https://open.spotify.com/episode/4K2pPxL0WbAQXKJsb5XiQ1">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a083609396aa2925c50a9a774" width="180" height="180" alt="TheVolgun - SCP Podcast (Official) " />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7Fe9AQEYiCNZlHBALSm46h">SCP-4459 │ The Ringmaster&#39;s Crown │ Euclid │ Herman Fuller SCP</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/4K2pPxL0WbAQXKJsb5XiQ1">SCP-5001 │ Sacrosanct │ Thaumiel │ Yaldabaoth SCP</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">TheVolgun - SCP Podcast (Official)</span><br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/7Fe9AQEYiCNZlHBALSm46h">
+      <img src="https://i.scdn.co/image/ab6765630000ba8ad4e579e31059b4392f56bbb2" width="96" height="96" alt="TheVolgun - SCP Podcast (Official) " />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/7Fe9AQEYiCNZlHBALSm46h">SCP-4459 │ The Ringmaster&#39;s Crown │ Euclid │ Herman Fuller SCP</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">TheVolgun - SCP Podcast (Official)</span>
+    <br><span style="font-size: 12px; color: #666;">TheVolgun (2026)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
