@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c61d3a663bd18fe8cd97c947" width="96" height="96" alt="Antichrist Superstar" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR">The Beautiful People</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Marilyn Manson</span>
-    <br><span style="font-size: 12px; color: #666;">Antichrist Superstar (1996)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
