@@ -22,20 +22,35 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">
-  <img src="https://i.scdn.co/image/ab67616d0000b273036593725eff8ea85db31a2f" width="180" height="180" alt="Bossa No Sé (feat. Jean Carter)" />
-</a>
+<img src="https://github.com/hannibalshosting88/hannibalshosting88/blob/88f92449ffc950834e45872a8ab36f9514164bc7/.github/images/spotify-pauses.png" width="180" height="180" alt="Check back later" />
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">Bossa No Sé (feat. Jean Carter)</a></b>
+<b>💤 Offline • Nothing currently playing</b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Cuco, Jean Carter</span><br><span style="font-size: 12px; color: #666;">Bossa No Sé (feat. Jean Carter) (2019)</span>
+<span style="font-size: 13px; color: #666;">Hannibal is away from Spotify</span><br><span style="font-size: 12px; color: #666;">Check back later</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">
+      <img src="https://i.scdn.co/image/ab67616d0000b273036593725eff8ea85db31a2f" width="96" height="96" alt="Bossa No Sé (feat. Jean Carter)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">Bossa No Sé (feat. Jean Carter)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Cuco, Jean Carter</span>
+    <br><span style="font-size: 12px; color: #666;">Bossa No Sé (feat. Jean Carter) (2019)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +199,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Pink Floyd</span>
     <br><span style="font-size: 12px; color: #666;">The Wall (1979)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/171GowvfxC6r1WCHyb6fn3">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="96" height="96" alt="INSANO (NITRO MEGA)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/171GowvfxC6r1WCHyb6fn3">WILLIS (feat. Chip Tha Ripper)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Kid Cudi, Chip Tha Ripper</span>
-    <br><span style="font-size: 12px; color: #666;">INSANO (NITRO MEGA) (2024)</span>
   </td>
 </tr>
 <tr>
