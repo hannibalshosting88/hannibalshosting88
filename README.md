@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">
-  <img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="180" height="180" alt="GOOD DAY" />
+<a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr">
+  <img src="https://i.scdn.co/image/ab67616d0000b27395741aa186187b05e0653245" width="180" height="180" alt="Satellite (U.S. Version)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr">Alive - Chris Lord-Alge Mix</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Forrest Frank</span><br><span style="font-size: 12px; color: #666;">GOOD DAY (2024)</span>
+<span style="font-size: 13px; color: #666;">P.O.D.</span><br><span style="font-size: 12px; color: #666;">Satellite (U.S. Version) (2002)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="96" height="96" alt="GOOD DAY" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Forrest Frank</span>
+    <br><span style="font-size: 12px; color: #666;">GOOD DAY (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
