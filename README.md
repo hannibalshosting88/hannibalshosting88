@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731f43eaa3c2a3188eb28dba82" width="180" height="180" alt="(Pronounced &#39;Leh-&#39;Nérd &#39;Skin-&#39;Nérd) [Expanded Edition]" />
+<a href="https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a226e31b10f88c83e00e828a" width="180" height="180" alt="Girls, Girls, Girls" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv">Poison Whiskey</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5">Girls, Girls, Girls</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Lynyrd Skynyrd</span><br><span style="font-size: 12px; color: #666;">(Pronounced &#39;Leh-&#39;Nérd &#39;Skin-&#39;Nérd) [Expanded Edition] (1973)</span>
+<span style="font-size: 13px; color: #666;">Mötley Crüe</span><br><span style="font-size: 12px; color: #666;">Girls, Girls, Girls (1987)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731f43eaa3c2a3188eb28dba82" width="96" height="96" alt="(Pronounced &#39;Leh-&#39;Nérd &#39;Skin-&#39;Nérd) [Expanded Edition]" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv">Poison Whiskey</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Lynyrd Skynyrd</span>
+    <br><span style="font-size: 12px; color: #666;">(Pronounced &#39;Leh-&#39;Nérd &#39;Skin-&#39;Nérd) [Expanded Edition] (1973)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
