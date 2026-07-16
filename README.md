@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bf68b5be16edfc6f489a17d7" width="180" height="180" alt="Franz Ferdinand" />
+<a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731dec5cdebb0ea9b3df5fd0ca" width="180" height="180" alt="Only One Flo (Part 1)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">Take Me Out</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y">Club Can&#39;t Handle Me (feat. David Guetta)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Franz Ferdinand</span><br><span style="font-size: 12px; color: #666;">2004</span>
+<span style="font-size: 13px; color: #666;">Flo Rida, David Guetta</span><br><span style="font-size: 12px; color: #666;">Only One Flo (Part 1) (2010)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bf68b5be16edfc6f489a17d7" width="96" height="96" alt="Franz Ferdinand" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">Take Me Out</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Franz Ferdinand</span>
+    <br><span style="font-size: 12px; color: #666;">2004</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
