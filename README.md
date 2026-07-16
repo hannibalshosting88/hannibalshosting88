@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731dec5cdebb0ea9b3df5fd0ca" width="96" height="96" alt="Only One Flo (Part 1)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y">Club Can&#39;t Handle Me (feat. David Guetta)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Flo Rida, David Guetta</span>
-    <br><span style="font-size: 12px; color: #666;">Only One Flo (Part 1) (2010)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
