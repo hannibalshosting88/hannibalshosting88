@@ -22,20 +22,54 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731dec5cdebb0ea9b3df5fd0ca" width="180" height="180" alt="Only One Flo (Part 1)" />
+<a href="https://open.spotify.com/track/171GowvfxC6r1WCHyb6fn3">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="180" height="180" alt="INSANO (NITRO MEGA)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y">Club Can&#39;t Handle Me (feat. David Guetta)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/171GowvfxC6r1WCHyb6fn3">WILLIS (feat. Chip Tha Ripper)</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Flo Rida, David Guetta</span><br><span style="font-size: 12px; color: #666;">Only One Flo (Part 1) (2010)</span>
+<span style="font-size: 13px; color: #666;">Kid Cudi, Chip Tha Ripper</span><br><span style="font-size: 12px; color: #666;">INSANO (NITRO MEGA) (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c61d3a663bd18fe8cd97c947" width="96" height="96" alt="Antichrist Superstar" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR">The Beautiful People</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Marilyn Manson</span>
+    <br><span style="font-size: 12px; color: #666;">Antichrist Superstar (1996)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731dec5cdebb0ea9b3df5fd0ca" width="96" height="96" alt="Only One Flo (Part 1)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y">Club Can&#39;t Handle Me (feat. David Guetta)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Flo Rida, David Guetta</span>
+    <br><span style="font-size: 12px; color: #666;">Only One Flo (Part 1) (2010)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -164,23 +198,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/46z4S361Y5AuKEEWF0xwmN">Digital Immortality - Backing Up the Human Soul</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/2xtRCdBuadC2ebgxdulZUu">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a5a04dcdafaf082ab042d1d04" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2xtRCdBuadC2ebgxdulZUu">The Most Dangerous Stars in the Universe</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
