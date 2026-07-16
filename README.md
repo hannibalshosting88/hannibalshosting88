@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736f555ba312f3317dcbaa2cb9" width="180" height="180" alt="Ain&#39;t No Love In Oklahoma (From Twisters: The Album)" />
+<a href="https://open.spotify.com/track/6DzJEJWgB01jimMAemKxfn">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e61b7557ae9fde3f23f5efa9" width="180" height="180" alt="Valley of the Damned (2010 Remastered Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">Ain&#39;t No Love In Oklahoma (From Twisters: The Album)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/6DzJEJWgB01jimMAemKxfn">Valley of the Damned - 2010 Remastered Edition</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Luke Combs</span><br><span style="font-size: 12px; color: #666;">Ain&#39;t No Love In Oklahoma (From Twisters: The Album) (2024)</span>
+<span style="font-size: 13px; color: #666;">DragonForce</span><br><span style="font-size: 12px; color: #666;">Valley of the Damned (2010 Remastered Edition) (2003)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736f555ba312f3317dcbaa2cb9" width="96" height="96" alt="Ain&#39;t No Love In Oklahoma (From Twisters: The Album)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">Ain&#39;t No Love In Oklahoma (From Twisters: The Album)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Luke Combs</span>
+    <br><span style="font-size: 12px; color: #666;">Ain&#39;t No Love In Oklahoma (From Twisters: The Album) (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
