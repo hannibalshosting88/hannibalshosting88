@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="180" height="180" alt="The Essential Incubus" />
+<a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bf68b5be16edfc6f489a17d7" width="180" height="180" alt="Franz Ferdinand" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">Black Heart Inertia</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN">Take Me Out</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Incubus</span><br><span style="font-size: 12px; color: #666;">The Essential Incubus (2012)</span>
+<span style="font-size: 13px; color: #666;">Franz Ferdinand</span><br><span style="font-size: 12px; color: #666;">2004</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e8319498d4779ebc56e82c6b" width="96" height="96" alt="The Essential Incubus" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/5zdLy2GX1hKBvWytw1ekJ3">Black Heart Inertia</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Incubus</span>
+    <br><span style="font-size: 12px; color: #666;">The Essential Incubus (2012)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
