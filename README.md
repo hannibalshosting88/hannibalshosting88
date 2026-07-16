@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/171GowvfxC6r1WCHyb6fn3">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="180" height="180" alt="INSANO (NITRO MEGA)" />
+<a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" width="180" height="180" alt="The Wall" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/171GowvfxC6r1WCHyb6fn3">WILLIS (feat. Chip Tha Ripper)</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2">Goodbye Blue Sky</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Kid Cudi, Chip Tha Ripper</span><br><span style="font-size: 12px; color: #666;">INSANO (NITRO MEGA) (2024)</span>
+<span style="font-size: 13px; color: #666;">Pink Floyd</span><br><span style="font-size: 12px; color: #666;">The Wall (1979)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/171GowvfxC6r1WCHyb6fn3">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732262b6b2b43a32ffa0705190" width="96" height="96" alt="INSANO (NITRO MEGA)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/171GowvfxC6r1WCHyb6fn3">WILLIS (feat. Chip Tha Ripper)</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Kid Cudi, Chip Tha Ripper</span>
+    <br><span style="font-size: 12px; color: #666;">INSANO (NITRO MEGA) (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
