@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a226e31b10f88c83e00e828a" width="96" height="96" alt="Girls, Girls, Girls" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5">Girls, Girls, Girls</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Mötley Crüe</span>
-    <br><span style="font-size: 12px; color: #666;">Girls, Girls, Girls (1987)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
