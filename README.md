@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" width="96" height="96" alt="Aftermath" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8">Paint It, Black</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">The Rolling Stones</span>
-    <br><span style="font-size: 12px; color: #666;">Aftermath (1966)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
