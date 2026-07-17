@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d736b2c5f252f84ad45d5be6" width="180" height="180" alt="Life Is Killing Me" />
+<a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">
+  <img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="180" height="180" alt="UP!" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p">I Don&#39;t Wanna Be Me</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Type O Negative</span><br><span style="font-size: 12px; color: #666;">Life Is Killing Me (2003)</span>
+<span style="font-size: 13px; color: #666;">Forrest Frank, Connor Price</span><br><span style="font-size: 12px; color: #666;">UP! (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d736b2c5f252f84ad45d5be6" width="96" height="96" alt="Life Is Killing Me" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p">I Don&#39;t Wanna Be Me</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Type O Negative</span>
+    <br><span style="font-size: 12px; color: #666;">Life Is Killing Me (2003)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
