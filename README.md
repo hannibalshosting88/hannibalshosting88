@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a" width="96" height="96" alt="Vol. 3: The Subliminal Verses (Special Edition)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">Duality</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Slipknot</span>
-    <br><span style="font-size: 12px; color: #666;">Vol. 3: The Subliminal Verses (Special Edition) (2004)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
