@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1f9cwoa5wB8m4ynUPHL5rc">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733946f2b82dc9b1d3da830ef3" width="96" height="96" alt="The Pale Emperor" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1f9cwoa5wB8m4ynUPHL5rc">Killing Strangers</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Marilyn Manson</span>
-    <br><span style="font-size: 12px; color: #666;">The Pale Emperor (2014)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
