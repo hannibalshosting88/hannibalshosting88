@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94" width="180" height="180" alt="One of These Nights (2013 Remaster)" />
+<a href="https://open.spotify.com/track/4KFY4EEv9CN6ivrzD6vEvg">
+  <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" width="180" height="180" alt="The College Dropout" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">Journey of the Sorcerer - 2013 Remaster</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/4KFY4EEv9CN6ivrzD6vEvg">Breathe In Breathe Out</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Eagles</span><br><span style="font-size: 12px; color: #666;">One of These Nights (2013 Remaster) (1975)</span>
+<span style="font-size: 13px; color: #666;">Kanye West, Ludacris</span><br><span style="font-size: 12px; color: #666;">The College Dropout (2004)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94" width="96" height="96" alt="One of These Nights (2013 Remaster)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG">Journey of the Sorcerer - 2013 Remaster</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Eagles</span>
+    <br><span style="font-size: 12px; color: #666;">One of These Nights (2013 Remaster) (1975)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
