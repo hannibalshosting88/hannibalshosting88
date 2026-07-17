@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aaf0e1d8a18dbddf10a2be13" width="96" height="96" alt="GOOD DAY" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O">GOOD DAY</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Forrest Frank</span>
-    <br><span style="font-size: 12px; color: #666;">GOOD DAY (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
