@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d736b2c5f252f84ad45d5be6" width="96" height="96" alt="Life Is Killing Me" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p">I Don&#39;t Wanna Be Me</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Type O Negative</span>
-    <br><span style="font-size: 12px; color: #666;">Life Is Killing Me (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
