@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">
-  <img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="180" height="180" alt="UP!" />
+<a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO">
+  <img src="https://i.scdn.co/image/ab67616d0000b27318fc5ca6f06026dcb2719350" width="180" height="180" alt="The Audacity! (Deluxe Edition)" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5uEdbvfhqIEJLzX5hCPVNO">Gee Willikers</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Forrest Frank, Connor Price</span><br><span style="font-size: 12px; color: #666;">UP! (2024)</span>
+<span style="font-size: 13px; color: #666;">Spose</span><br><span style="font-size: 12px; color: #666;">The Audacity! (Deluxe Edition) (2012)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">
+      <img src="https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88" width="96" height="96" alt="UP!" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV">UP!</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Forrest Frank, Connor Price</span>
+    <br><span style="font-size: 12px; color: #666;">UP! (2024)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">Dead Players, Jam Baxter, Dabbla, Ghosttown</span>
     <br><span style="font-size: 12px; color: #666;">Faster Than the Speed of Death (2024)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr">
-      <img src="https://i.scdn.co/image/ab67616d0000b27395741aa186187b05e0653245" width="96" height="96" alt="Satellite (U.S. Version)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr">Alive - Chris Lord-Alge Mix</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">P.O.D.</span>
-    <br><span style="font-size: 12px; color: #666;">Satellite (U.S. Version) (2002)</span>
   </td>
 </tr>
 <tr>
