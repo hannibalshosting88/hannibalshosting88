@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395741aa186187b05e0653245" width="180" height="180" alt="Satellite (U.S. Version)" />
+<a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fa53c2e5e710a267b2bbc3b7" width="180" height="180" alt="Faster Than the Speed of Death" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr">Alive - Chris Lord-Alge Mix</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/0H4TYovisrcJKSLl4sr25h">The Sooner We Die the Sooner We Can All Go Home</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">P.O.D.</span><br><span style="font-size: 12px; color: #666;">Satellite (U.S. Version) (2002)</span>
+<span style="font-size: 13px; color: #666;">Dead Players, Jam Baxter, Dabbla, Ghosttown</span><br><span style="font-size: 12px; color: #666;">Faster Than the Speed of Death (2024)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr">
+      <img src="https://i.scdn.co/image/ab67616d0000b27395741aa186187b05e0653245" width="96" height="96" alt="Satellite (U.S. Version)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr">Alive - Chris Lord-Alge Mix</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">P.O.D.</span>
+    <br><span style="font-size: 12px; color: #666;">Satellite (U.S. Version) (2002)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -184,23 +201,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">DragonForce</span>
     <br><span style="font-size: 12px; color: #666;">Valley of the Damned (2010 Remastered Edition) (2003)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736f555ba312f3317dcbaa2cb9" width="96" height="96" alt="Ain&#39;t No Love In Oklahoma (From Twisters: The Album)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB">Ain&#39;t No Love In Oklahoma (From Twisters: The Album)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Luke Combs</span>
-    <br><span style="font-size: 12px; color: #666;">Ain&#39;t No Love In Oklahoma (From Twisters: The Album) (2024)</span>
   </td>
 </tr>
 <tr>
