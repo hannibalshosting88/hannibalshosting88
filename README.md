@@ -190,23 +190,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   <td colspan="2" height="10"></td>
 </tr>
 
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">
-      <img src="https://i.scdn.co/image/ab67616d0000b273036593725eff8ea85db31a2f" width="96" height="96" alt="Bossa No Sé (feat. Jean Carter)" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎵 Track • <a href="https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb">Bossa No Sé (feat. Jean Carter)</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Cuco, Jean Carter</span>
-    <br><span style="font-size: 12px; color: #666;">Bossa No Sé (feat. Jean Carter) (2019)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
 </table>
 </div>
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
