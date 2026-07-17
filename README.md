@@ -22,20 +22,37 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a" width="180" height="180" alt="Vol. 3: The Subliminal Verses (Special Edition)" />
+<a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736c52084ed1f1748f213783b3" width="180" height="180" alt="There Is Nothing Left To Lose" />
 </a>
 
 <br>
 
-<b>🎵 Track • <a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">Duality</a></b>
+<b>🎵 Track • <a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT">Learn to Fly</a></b>
 
 <br>
-<span style="font-size: 13px; color: #666;">Slipknot</span><br><span style="font-size: 12px; color: #666;">Vol. 3: The Subliminal Verses (Special Edition) (2004)</span>
+<span style="font-size: 13px; color: #666;">Foo Fighters</span><br><span style="font-size: 12px; color: #666;">There Is Nothing Left To Lose (1999)</span>
 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a" width="96" height="96" alt="Vol. 3: The Subliminal Verses (Special Edition)" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎵 Track • <a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3">Duality</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Slipknot</span>
+    <br><span style="font-size: 12px; color: #666;">Vol. 3: The Subliminal Verses (Special Edition) (2004)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
