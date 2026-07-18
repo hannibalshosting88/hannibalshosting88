@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/3oTydEojcxQIFNzXA3Z7SB">
-  <img src="https://i.scdn.co/image/ab6765630000ba8aa777dc5ee64985b20d5a2f53" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
+<a href="https://open.spotify.com/episode/21PR5Lx7orbKRwOU9roMNM">
+  <img src="https://i.scdn.co/image/ab6765630000ba8a3e2bdd99f3ed099fea78d8ee" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3oTydEojcxQIFNzXA3Z7SB">The End of Time: Heat Death, Big Rip, or Big Crunch?</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/21PR5Lx7orbKRwOU9roMNM">The Great Lunar Boom: Building a Civilization on the Moon</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/3oTydEojcxQIFNzXA3Z7SB">
+      <img src="https://i.scdn.co/image/ab6765630000ba8aa777dc5ee64985b20d5a2f53" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/3oTydEojcxQIFNzXA3Z7SB">The End of Time: Heat Death, Big Rip, or Big Crunch?</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
+    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -113,23 +130,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
   </td>
   <td align="left" valign="top">
     <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/2xtRCdBuadC2ebgxdulZUu">The Most Dangerous Stars in the Universe</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/21PR5Lx7orbKRwOU9roMNM">
-      <img src="https://i.scdn.co/image/ab6765630000ba8a3e2bdd99f3ed099fea78d8ee" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/21PR5Lx7orbKRwOU9roMNM">The Great Lunar Boom: Building a Civilization on the Moon</a></b>
     <br>
     <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
     <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
