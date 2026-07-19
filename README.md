@@ -22,13 +22,13 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 
 <h3>🎵 Currently Playing 🎵</h3>
 
-<a href="https://open.spotify.com/episode/46z4S361Y5AuKEEWF0xwmN">
-  <img src="https://i.scdn.co/image/ab6765630000ba8ad80d135aaea7c591cc547b5d" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
+<a href="https://open.spotify.com/episode/6U7hbOHxn2H2OeIyDAVINH">
+  <img src="https://i.scdn.co/image/ab6765630000ba8ae9517056de2bf187f42c6abe" width="180" height="180" alt="Science &amp; Futurism with Isaac Arthur" />
 </a>
 
 <br>
 
-<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/46z4S361Y5AuKEEWF0xwmN">Digital Immortality - Backing Up the Human Soul</a></b>
+<b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6U7hbOHxn2H2OeIyDAVINH">Is AI the Great Filter? | The Fermi Paradox</a></b>
 
 <br>
 <span style="font-size: 13px; color: #666;">Science &amp; Futurism with Isaac Arthur</span><br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
@@ -36,6 +36,23 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 <h3>🕘 Recent Plays 🕘</h3>
 
 <table style="margin: 0 auto; max-width: 700px;">
+
+<tr>
+  <td width="96" valign="top">
+    <a href="https://open.spotify.com/episode/46z4S361Y5AuKEEWF0xwmN">
+      <img src="https://i.scdn.co/image/ab6765630000ba8ad80d135aaea7c591cc547b5d" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
+    </a>
+  </td>
+  <td align="left" valign="top">
+    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/46z4S361Y5AuKEEWF0xwmN">Digital Immortality - Backing Up the Human Soul</a></b>
+    <br>
+    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
+    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" height="10"></td>
+</tr>
 
 <tr>
   <td width="96" valign="top">
@@ -99,23 +116,6 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
     <br>
     <span style="font-size: 12px; color: #666;">The Vines</span>
     <br><span style="font-size: 12px; color: #666;">Highly Evolved (2002)</span>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" height="10"></td>
-</tr>
-
-<tr>
-  <td width="96" valign="top">
-    <a href="https://open.spotify.com/episode/6U7hbOHxn2H2OeIyDAVINH">
-      <img src="https://i.scdn.co/image/ab6765630000ba8ae9517056de2bf187f42c6abe" width="96" height="96" alt="Science &amp; Futurism with Isaac Arthur" />
-    </a>
-  </td>
-  <td align="left" valign="top">
-    <b>🎙️ Podcast • <a href="https://open.spotify.com/episode/6U7hbOHxn2H2OeIyDAVINH">Is AI the Great Filter? | The Fermi Paradox</a></b>
-    <br>
-    <span style="font-size: 12px; color: #666;">Science &amp; Futurism with Isaac Arthur</span>
-    <br><span style="font-size: 12px; color: #666;">Isaac Arthur (2026)</span>
   </td>
 </tr>
 <tr>
