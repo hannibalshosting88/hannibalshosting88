@@ -262,7 +262,7 @@ I'm a versatile technical professional with expertise in vehicle assessment and 
 </div>
 
 ## 🌤️ Current Weather in Charlotte, NC 
-<!-- WEATHER:START --> 🌡️ Temperature: 48°F 💨 Wind: 17 mph ☁️ Conditions: Overcast 🌅 Updated: November 26, 2026 at 8:28 PM <!-- WEATHER:END -->
+<!-- WEATHER:START --> ⚠️ Weather data temporarily unavailable (Error: read ETIMEDOUT) <!-- WEATHER:END -->
 
 ## 🖥️ My Tech Lab & Workspace
 
